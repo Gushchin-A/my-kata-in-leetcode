@@ -1,1 +1,1 @@
-# my-kata-in-leetcode
+### I'm solving exercises on leetcode. Nothing unusual.
