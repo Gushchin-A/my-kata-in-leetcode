@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 7 ✅  
+- Easy: 8 ✅  
 - Medium: 0 ⚡  
 - Hard: 0 🔥  
-- **Total: 7**
+- **Total: 8**
 
 ---
 
@@ -21,15 +21,4 @@
 | 20  | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | [Java](0020-valid-parentheses) | Easy | String, Stack |
 | 28  | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string) | [Java](0028-find-the-index) | Easy | Two Pointers, String, String Matching |
 | 58  | [Length of Last Word](https://leetcode.com/problems/length-of-last-word) | [Java](0058-length-of-last-word) | Easy | String |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0066-plus-one](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0066-plus-one) |
-## Math
-|  |
-| ------- |
-| [0066-plus-one](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0066-plus-one) |
-<!---LeetCode Topics End-->
+| 66  | [Plus One](https://leetcode.com/problems/plus-one) | [Java](0066-plus-one) | Easy | Array | Math |
