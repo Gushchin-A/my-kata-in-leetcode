@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 11 ✅  
+- Easy: 12 ✅  
 - Medium: 0 ⚡  
 - Hard: 0 🔥  
-- **Total: 11**
+- **Total: 12**
 
 ---
 
@@ -25,19 +25,4 @@
 | 66  | [Plus One](https://leetcode.com/problems/plus-one) | [Java](0066-plus-one) | Easy | Array, Math |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | [Java](0125-valid-palindrome) | Easy | Two Pointers, String|
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string) | [Java](0344-reverse-string) | Easy | Two Pointers, String |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Two Pointers
-|  |
-| ------- |
-| [2128-reverse-prefix-of-word](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2128-reverse-prefix-of-word) |
-## String
-|  |
-| ------- |
-| [2128-reverse-prefix-of-word](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2128-reverse-prefix-of-word) |
-## Stack
-|  |
-| ------- |
-| [2128-reverse-prefix-of-word](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2128-reverse-prefix-of-word) |
-<!---LeetCode Topics End-->
+| 2128 | [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word) | [Java](2128-reverse-prefix-of-word) | Easy | Two Pointers, String, Stack |
