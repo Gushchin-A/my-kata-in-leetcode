@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 13 ✅  
+- Easy: 14 ✅  
 - Medium: 0 ⚡  
 - Hard: 0 🔥  
-- **Total: 13**
+- **Total: 14**
 
 ---
 
@@ -24,14 +24,7 @@
 | 28  | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string) | [Java](0028-find-the-index) | Easy | Two Pointers, String, String Matching |
 | 58  | [Length of Last Word](https://leetcode.com/problems/length-of-last-word) | [Java](0058-length-of-last-word) | Easy | String |
 | 66  | [Plus One](https://leetcode.com/problems/plus-one) | [Java](0066-plus-one) | Easy | Array, Math |
+| 83  | [Remove Duplicates From Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Java](0083-remove-duplicates-from-sorted-list) | Easy | Linked List |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | [Java](0125-valid-palindrome) | Easy | Two Pointers, String|
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string) | [Java](0344-reverse-string) | Easy | Two Pointers, String |
 | 2128 | [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word) | [Java](2128-reverse-prefix-of-word) | Easy | Two Pointers, String, Stack |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Linked List
-|  |
-| ------- |
-| [0083-remove-duplicates-from-sorted-list](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
-<!---LeetCode Topics End-->
