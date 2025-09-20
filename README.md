@@ -28,3 +28,15 @@
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | [Java](0125-valid-palindrome) | Easy | Two Pointers, String|
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string) | [Java](0344-reverse-string) | Easy | Two Pointers, String |
 | 2128 | [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word) | [Java](2128-reverse-prefix-of-word) | Easy | Two Pointers, String, Stack |
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0206-reverse-linked-list) |
+<!---LeetCode Topics End-->
