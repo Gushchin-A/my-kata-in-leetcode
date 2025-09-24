@@ -39,8 +39,13 @@
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0203-remove-linked-list-elements) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0203-remove-linked-list-elements) |
+## Math
+|  |
+| ------- |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
