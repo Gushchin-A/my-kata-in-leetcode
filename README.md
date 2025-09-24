@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 18 ✅  
+- Easy: 19 ✅  
 - Medium: 0 ⚡  
 - Hard: 0 🔥  
-- **Total: 18**
+- **Total: 19**
 
 ---
 
@@ -31,21 +31,5 @@
 | 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements) | [Java](0203-remove-linked-list-elements) | Easy | Linked List, Recursion |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string) | [Java](0344-reverse-string) | Easy | Two Pointers, String |
 | 876 | [Middle Of The Linked List](https://leetcode.com/problems/middle-of-the-linked-list) | [Java](0876-middle-of-the-linked-list) | Easy | Linked List, Two Pointers |
+| 1290 | [Convert Binary Number](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer) | [Java](1290-convert-binary-number) | Easy | Linked List, Math |
 | 2128 | [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word) | [Java](2128-reverse-prefix-of-word) | Easy | Two Pointers, String, Stack |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Linked List
-|  |
-| ------- |
-| [0203-remove-linked-list-elements](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0203-remove-linked-list-elements) |
-| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
-## Recursion
-|  |
-| ------- |
-| [0203-remove-linked-list-elements](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0203-remove-linked-list-elements) |
-## Math
-|  |
-| ------- |
-| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
-<!---LeetCode Topics End-->
