@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 19 ✅  
+- Easy: 20 ✅  
 - Medium: 0 ⚡  
 - Hard: 0 🔥  
-- **Total: 19**
+- **Total: 20**
 
 ---
 
@@ -25,6 +25,7 @@
 | 58  | [Length of Last Word](https://leetcode.com/problems/length-of-last-word) | [Java](0058-length-of-last-word) | Easy | String |
 | 66  | [Plus One](https://leetcode.com/problems/plus-one) | [Java](0066-plus-one) | Easy | Array, Math |
 | 83  | [Remove Duplicates From Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Java](0083-remove-duplicates-from-sorted-list) | Easy | Linked List |
+| 88  | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | [Java](0088-merge-sorted-array) | Easy | Two Pointers, Array, Sorting |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | [Java](0125-valid-palindrome) | Easy | Two Pointers, String|
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Java](0206-reverse-linked-list) | Easy | Linked List, Recursion |
 | 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list) | [Java](0234-palindrome-linked-list) | Easy | Linked List, Two Pointers, Stack, Recursion |
@@ -33,19 +34,3 @@
 | 876 | [Middle Of The Linked List](https://leetcode.com/problems/middle-of-the-linked-list) | [Java](0876-middle-of-the-linked-list) | Easy | Linked List, Two Pointers |
 | 1290 | [Convert Binary Number](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer) | [Java](1290-convert-binary-number) | Easy | Linked List, Math |
 | 2128 | [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word) | [Java](2128-reverse-prefix-of-word) | Easy | Two Pointers, String, Stack |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0088-merge-sorted-array](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0088-merge-sorted-array) |
-## Two Pointers
-|  |
-| ------- |
-| [0088-merge-sorted-array](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0088-merge-sorted-array) |
-## Sorting
-|  |
-| ------- |
-| [0088-merge-sorted-array](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0088-merge-sorted-array) |
-<!---LeetCode Topics End-->
