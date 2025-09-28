@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 22 ✅  
+- Easy: 23 ✅  
 - Medium: 0 ⚡  
 - Hard: 0 🔥  
-- **Total: 22**
+- **Total: 23**
 
 ---
 
@@ -33,26 +33,7 @@
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string) | [Java](0344-reverse-string) | Easy | Two Pointers, String |
 | 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence) | [Java](0392-is-subsequence) | Easy | Two Pointers, String |
 | 680 | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii) | [Java](0680-valid-palindrome-ii) | Easy | Two Pointers, String, Greedy |
+| 874 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare) | [Java](0874-backspace-string-compare) | Easy | Two Pointers, String, Stack |
 | 876 | [Middle Of The Linked List](https://leetcode.com/problems/middle-of-the-linked-list) | [Java](0876-middle-of-the-linked-list) | Easy | Linked List, Two Pointers |
 | 1290 | [Convert Binary Number](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer) | [Java](1290-convert-binary-number) | Easy | Linked List, Math |
 | 2128 | [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word) | [Java](2128-reverse-prefix-of-word) | Easy | Two Pointers, String, Stack |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Two Pointers
-|  |
-| ------- |
-| [0874-backspace-string-compare](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0874-backspace-string-compare) |
-## String
-|  |
-| ------- |
-| [0874-backspace-string-compare](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0874-backspace-string-compare) |
-## Stack
-|  |
-| ------- |
-| [0874-backspace-string-compare](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0874-backspace-string-compare) |
-## Simulation
-|  |
-| ------- |
-| [0874-backspace-string-compare](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0874-backspace-string-compare) |
-<!---LeetCode Topics End-->
