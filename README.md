@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 23 ✅  
+- Easy: 24 ✅  
 - Medium: 0 ⚡  
 - Hard: 0 🔥  
-- **Total: 23**
+- **Total: 24**
 
 ---
 
@@ -21,6 +21,7 @@
 | 20  | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | [Java](0020-valid-parentheses) | Easy | String, Stack |
 | 21  | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | [Java](0021-merge-two-sorted-lists) | Easy | Linked List, Recursion |
 | 26  | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | [Java](0026-remove-duplicates-from-sorted-array) | Easy | Array, Two Pointers |
+| 27  | [Remove Element](https://leetcode.com/problems/remove-element) | [Java](0027-remove-element) | Easy | Two Pointers, Array |
 | 28  | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string) | [Java](0028-find-the-index) | Easy | Two Pointers, String, String Matching |
 | 58  | [Length of Last Word](https://leetcode.com/problems/length-of-last-word) | [Java](0058-length-of-last-word) | Easy | String |
 | 66  | [Plus One](https://leetcode.com/problems/plus-one) | [Java](0066-plus-one) | Easy | Array, Math |
@@ -37,15 +38,3 @@
 | 876 | [Middle Of The Linked List](https://leetcode.com/problems/middle-of-the-linked-list) | [Java](0876-middle-of-the-linked-list) | Easy | Linked List, Two Pointers |
 | 1290 | [Convert Binary Number](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer) | [Java](1290-convert-binary-number) | Easy | Linked List, Math |
 | 2128 | [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word) | [Java](2128-reverse-prefix-of-word) | Easy | Two Pointers, String, Stack |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0027-remove-element](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0027-remove-element) |
-## Two Pointers
-|  |
-| ------- |
-| [0027-remove-element](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0027-remove-element) |
-<!---LeetCode Topics End-->
