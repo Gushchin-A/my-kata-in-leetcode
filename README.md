@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 24 ✅  
+- Easy: 25 ✅  
 - Medium: 0 ⚡  
 - Hard: 0 🔥  
-- **Total: 24**
+- **Total: 25**
 
 ---
 
@@ -29,6 +29,7 @@
 | 88  | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | [Java](0088-merge-sorted-array) | Easy | Two Pointers, Array, Sorting |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | [Java](0125-valid-palindrome) | Easy | Two Pointers, String|
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Java](0206-reverse-linked-list) | Easy | Linked List, Recursion |
+| 202 | [Happy Number](https://leetcode.com/problems/happy-number) | [Java](0202-happy-number) | Easy | Hash Table, Math, Two Pointers |
 | 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list) | [Java](0234-palindrome-linked-list) | Easy | Linked List, Two Pointers, Stack, Recursion |
 | 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements) | [Java](0203-remove-linked-list-elements) | Easy | Linked List, Recursion |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string) | [Java](0344-reverse-string) | Easy | Two Pointers, String |
@@ -38,19 +39,3 @@
 | 876 | [Middle Of The Linked List](https://leetcode.com/problems/middle-of-the-linked-list) | [Java](0876-middle-of-the-linked-list) | Easy | Linked List, Two Pointers |
 | 1290 | [Convert Binary Number](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer) | [Java](1290-convert-binary-number) | Easy | Linked List, Math |
 | 2128 | [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word) | [Java](2128-reverse-prefix-of-word) | Easy | Two Pointers, String, Stack |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Hash Table
-|  |
-| ------- |
-| [0202-happy-number](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0202-happy-number) |
-## Math
-|  |
-| ------- |
-| [0202-happy-number](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0202-happy-number) |
-## Two Pointers
-|  |
-| ------- |
-| [0202-happy-number](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0202-happy-number) |
-<!---LeetCode Topics End-->
