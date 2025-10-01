@@ -39,3 +39,19 @@
 | 876 | [Middle Of The Linked List](https://leetcode.com/problems/middle-of-the-linked-list) | [Java](0876-middle-of-the-linked-list) | Easy | Linked List, Two Pointers |
 | 1290 | [Convert Binary Number](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer) | [Java](1290-convert-binary-number) | Easy | Linked List, Math |
 | 2128 | [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word) | [Java](2128-reverse-prefix-of-word) | Easy | Two Pointers, String, Stack |
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Hash Table
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+## Linked List
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+## Two Pointers
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+<!---LeetCode Topics End-->
