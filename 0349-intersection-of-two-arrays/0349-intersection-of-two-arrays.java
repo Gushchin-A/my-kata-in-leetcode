@@ -1,6 +1,6 @@
 class Solution {
     public int[] intersection(int[] nums1, int[] nums2) {
-        int tempLength = nums1.length > nums2.length ? nums1.length : nums2.length;
+        int tempLength = Math.min(nums1.length, nums2.length);
 
         int[] result = new int[tempLength];
         int indexResult = 0;
@@ -19,6 +19,7 @@ class Solution {
                         if (x == indexResult) {
                             result[indexResult] = nums1[i];
                             indexResult++;
+                            break;
                         }
                     } else {
                         result[indexResult] = nums1[i];
