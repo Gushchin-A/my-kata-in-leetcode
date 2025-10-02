@@ -46,6 +46,7 @@
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0349-intersection-of-two-arrays](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Linked List
 |  |
 | ------- |
@@ -54,4 +55,17 @@
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0349-intersection-of-two-arrays](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0349-intersection-of-two-arrays) |
+## Array
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0349-intersection-of-two-arrays) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0349-intersection-of-two-arrays) |
+## Sorting
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
