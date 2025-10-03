@@ -56,6 +56,7 @@
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0349-intersection-of-two-arrays](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0541-reverse-string-ii](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0541-reverse-string-ii) |
 ## Array
 |  |
 | ------- |
@@ -68,4 +69,8 @@
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0349-intersection-of-two-arrays) |
+## String
+|  |
+| ------- |
+| [0541-reverse-string-ii](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0541-reverse-string-ii) |
 <!---LeetCode Topics End-->
