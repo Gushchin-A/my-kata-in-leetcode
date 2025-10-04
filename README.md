@@ -60,11 +60,13 @@
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0136-single-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0035-search-insert-position) |
 | [0349-intersection-of-two-arrays](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
