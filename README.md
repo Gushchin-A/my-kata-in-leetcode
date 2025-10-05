@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 25 ✅  
+- Easy: 30 ✅  
 - Medium: 0 ⚡  
 - Hard: 0 🔥  
-- **Total: 25**
+- **Total: 30**
 
 ---
 
@@ -39,45 +39,3 @@
 | 876 | [Middle Of The Linked List](https://leetcode.com/problems/middle-of-the-linked-list) | [Java](0876-middle-of-the-linked-list) | Easy | Linked List, Two Pointers |
 | 1290 | [Convert Binary Number](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer) | [Java](1290-convert-binary-number) | Easy | Linked List, Math |
 | 2128 | [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word) | [Java](2128-reverse-prefix-of-word) | Easy | Two Pointers, String, Stack |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Hash Table
-|  |
-| ------- |
-| [0160-intersection-of-two-linked-lists](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0160-intersection-of-two-linked-lists) |
-| [0349-intersection-of-two-arrays](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0349-intersection-of-two-arrays) |
-## Linked List
-|  |
-| ------- |
-| [0160-intersection-of-two-linked-lists](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0160-intersection-of-two-linked-lists) |
-## Two Pointers
-|  |
-| ------- |
-| [0160-intersection-of-two-linked-lists](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0160-intersection-of-two-linked-lists) |
-| [0349-intersection-of-two-arrays](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0349-intersection-of-two-arrays) |
-| [0541-reverse-string-ii](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0541-reverse-string-ii) |
-## Array
-|  |
-| ------- |
-| [0035-search-insert-position](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0035-search-insert-position) |
-| [0136-single-number](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0136-single-number) |
-| [0349-intersection-of-two-arrays](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0349-intersection-of-two-arrays) |
-## Binary Search
-|  |
-| ------- |
-| [0035-search-insert-position](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0035-search-insert-position) |
-| [0349-intersection-of-two-arrays](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0349-intersection-of-two-arrays) |
-## Sorting
-|  |
-| ------- |
-| [0349-intersection-of-two-arrays](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0349-intersection-of-two-arrays) |
-## String
-|  |
-| ------- |
-| [0541-reverse-string-ii](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0541-reverse-string-ii) |
-## Bit Manipulation
-|  |
-| ------- |
-| [0136-single-number](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0136-single-number) |
-<!---LeetCode Topics End-->
