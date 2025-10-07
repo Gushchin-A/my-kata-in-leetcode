@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-import json, re, os, pathlib
+import json, re, os
 from pathlib import Path
 
 REPO = Path(__file__).resolve().parents[1]
@@ -16,7 +16,6 @@ def split_number_and_slug(dirname: str):
     return num, slug
 
 def human_title(slug: str) -> str:
-    # simple Title Case; keeps acronyms like "II" if present
     words = slug.split("-")
     return " ".join(w.upper() if w in {"ii","iii","iv"} else w.capitalize() for w in words)
 
@@ -27,34 +26,30 @@ def difficulty_str(s: str) -> str:
     x = (s or "").strip().lower()
     return {"easy":"Easy","medium":"Medium","hard":"Hard"}.get(x, "Easy")
 
-# --- load stats.json (if exists) ---
+# --- load stats.json (optional) ---
 stats = {}
 if STATS.exists():
     with open(STATS, "r", encoding="utf-8") as f:
         raw = json.load(f)
     stats = raw.get("leetcode", {}).get("shas", {})
-else:
-    stats = {}
 
 # collect problems from directories
 problems = []
 for entry in sorted([p.name for p in REPO.iterdir() if p.is_dir() and is_problem_dir(p.name)]):
     num, slug = split_number_and_slug(entry)
-    # difficulty: prefer stats.json, else fallback to Easy
     st = stats.get(entry, {})
-    diff = difficulty_str(st.get("difficulty", "Easy"))
-    title = human_title(slug)
+    diff = difficulty_str(st.get("difficulty", "Easy"))  # fallback для старых задач
     problems.append({
         "num": num,
         "slug": slug,
         "dirname": entry,
-        "title": title,
+        "title": human_title(slug),
         "difficulty": diff,
         "lc_url": lc_url(slug),
         "solution_link": f"[Java]({entry})",
     })
 
-# sort by problem number
+# sort by number
 problems.sort(key=lambda x: x["num"])
 
 # counts
@@ -63,14 +58,14 @@ for p in problems:
     counts[p["difficulty"]] = counts.get(p["difficulty"], 0) + 1
 total = len(problems)
 
-# build markdown table rows
+# build markdown table WITHOUT tags column
 rows = []
-rows.append("| #   | Title | Solution | Difficulty | Tags |")
-rows.append("|-----|-------|----------|------------|------|")
+rows.append("| #   | Title | Solution | Difficulty |")
+rows.append("|-----|-------|----------|------------|")
 for p in problems:
-    rows.append(f"| {p['num']} | [{p['title']}]({p['lc_url']}) | {p['solution_link']} | {p['difficulty']} |  |")
+    rows.append(f"| {p['num']} | [{p['title']}]({p['lc_url']}) | {p['solution_link']} | {p['difficulty']} |")
 
-# assemble README by your template
+# assemble README
 readme = f"""### I'm solving exercises on leetcode. Nothing unusual.
 ---
 
