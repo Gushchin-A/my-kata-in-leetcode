@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 30 ✅  
+- Easy: 31 ✅  
 - Medium: 0 ⚡  
 - Hard: 0 🔥  
-- **Total: 30**
+- **Total: 31**
 
 ---
 
@@ -14,56 +14,34 @@
 
 | #   | Title | Solution | Difficulty | Tags |
 |-----|-------|----------|------------|------|
-| 1   | [Two Sum](https://leetcode.com/problems/two-sum) | [Java](0001-two-sum) | Easy | Array, Hash Table |
-| 9   | [Palindrome Number](https://leetcode.com/problems/palindrome-number) | [Java](0009-palindrome-number) | Easy | Math |
-| 13  | [Roman to Integer](https://leetcode.com/problems/roman-to-integer) | [Java](0013-roman-to-integer) | Easy | Hash Table, Math, String |
-| 14  | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) | [Java](0014-longest-common-prefix) | Easy | Array, String, Trie |
-| 20  | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | [Java](0020-valid-parentheses) | Easy | String, Stack |
-| 21  | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | [Java](0021-merge-two-sorted-lists) | Easy | Linked List, Recursion |
-| 26  | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | [Java](0026-remove-duplicates-from-sorted-array) | Easy | Array, Two Pointers |
-| 27  | [Remove Element](https://leetcode.com/problems/remove-element) | [Java](0027-remove-element) | Easy | Two Pointers, Array |
-| 28  | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string) | [Java](0028-find-the-index) | Easy | Two Pointers, String, String Matching |
-| 58  | [Length of Last Word](https://leetcode.com/problems/length-of-last-word) | [Java](0058-length-of-last-word) | Easy | String |
-| 66  | [Plus One](https://leetcode.com/problems/plus-one) | [Java](0066-plus-one) | Easy | Array, Math |
-| 83  | [Remove Duplicates From Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Java](0083-remove-duplicates-from-sorted-list) | Easy | Linked List |
-| 88  | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | [Java](0088-merge-sorted-array) | Easy | Two Pointers, Array, Sorting |
-| 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | [Java](0125-valid-palindrome) | Easy | Two Pointers, String|
-| 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Java](0206-reverse-linked-list) | Easy | Linked List, Recursion |
-| 202 | [Happy Number](https://leetcode.com/problems/happy-number) | [Java](0202-happy-number) | Easy | Hash Table, Math, Two Pointers |
-| 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list) | [Java](0234-palindrome-linked-list) | Easy | Linked List, Two Pointers, Stack, Recursion |
-| 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements) | [Java](0203-remove-linked-list-elements) | Easy | Linked List, Recursion |
-| 344 | [Reverse String](https://leetcode.com/problems/reverse-string) | [Java](0344-reverse-string) | Easy | Two Pointers, String |
-| 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence) | [Java](0392-is-subsequence) | Easy | Two Pointers, String |
-| 680 | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii) | [Java](0680-valid-palindrome-ii) | Easy | Two Pointers, String, Greedy |
-| 874 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare) | [Java](0874-backspace-string-compare) | Easy | Two Pointers, String, Stack |
-| 876 | [Middle Of The Linked List](https://leetcode.com/problems/middle-of-the-linked-list) | [Java](0876-middle-of-the-linked-list) | Easy | Linked List, Two Pointers |
-| 1290 | [Convert Binary Number](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer) | [Java](1290-convert-binary-number) | Easy | Linked List, Math |
-| 2128 | [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word) | [Java](2128-reverse-prefix-of-word) | Easy | Two Pointers, String, Stack |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0268-missing-number](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0268-missing-number) |
-## Hash Table
-|  |
-| ------- |
-| [0268-missing-number](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0268-missing-number) |
-## Math
-|  |
-| ------- |
-| [0268-missing-number](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0268-missing-number) |
-## Binary Search
-|  |
-| ------- |
-| [0268-missing-number](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0268-missing-number) |
-## Bit Manipulation
-|  |
-| ------- |
-| [0268-missing-number](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0268-missing-number) |
-## Sorting
-|  |
-| ------- |
-| [0268-missing-number](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0268-missing-number) |
-<!---LeetCode Topics End-->
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum) | [Java](0001-two-sum) | Easy |  |
+| 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number) | [Java](0009-palindrome-number) | Easy |  |
+| 13 | [Roman To Integer](https://leetcode.com/problems/roman-to-integer) | [Java](0013-roman-to-integer) | Easy |  |
+| 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) | [Java](0014-longest-common-prefix) | Easy |  |
+| 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | [Java](0020-valid-parentheses) | Easy |  |
+| 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | [Java](0021-merge-two-sorted-lists) | Easy |  |
+| 26 | [Remove Duplicates From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | [Java](0026-remove-duplicates-from-sorted-array) | Easy |  |
+| 27 | [Remove Element](https://leetcode.com/problems/remove-element) | [Java](0027-remove-element) | Easy |  |
+| 28 | [Find The Index Of The First Occurrence In A String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string) | [Java](0028-find-the-index-of-the-first-occurrence-in-a-string) | Easy |  |
+| 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position) | [Java](0035-search-insert-position) | Easy |  |
+| 58 | [Length Of Last Word](https://leetcode.com/problems/length-of-last-word) | [Java](0058-length-of-last-word) | Easy |  |
+| 66 | [Plus One](https://leetcode.com/problems/plus-one) | [Java](0066-plus-one) | Easy |  |
+| 83 | [Remove Duplicates From Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list) | [Java](0083-remove-duplicates-from-sorted-list) | Easy |  |
+| 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | [Java](0088-merge-sorted-array) | Easy |  |
+| 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | [Java](0125-valid-palindrome) | Easy |  |
+| 136 | [Single Number](https://leetcode.com/problems/single-number) | [Java](0136-single-number) | Easy |  |
+| 160 | [Intersection Of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) | [Java](0160-intersection-of-two-linked-lists) | Easy |  |
+| 202 | [Happy Number](https://leetcode.com/problems/happy-number) | [Java](0202-happy-number) | Easy |  |
+| 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements) | [Java](0203-remove-linked-list-elements) | Easy |  |
+| 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | [Java](0206-reverse-linked-list) | Easy |  |
+| 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list) | [Java](0234-palindrome-linked-list) | Easy |  |
+| 268 | [Missing Number](https://leetcode.com/problems/missing-number) | [Java](0268-missing-number) | Easy |  |
+| 344 | [Reverse String](https://leetcode.com/problems/reverse-string) | [Java](0344-reverse-string) | Easy |  |
+| 349 | [Intersection Of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays) | [Java](0349-intersection-of-two-arrays) | Easy |  |
+| 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence) | [Java](0392-is-subsequence) | Easy |  |
+| 541 | [Reverse String II](https://leetcode.com/problems/reverse-string-ii) | [Java](0541-reverse-string-ii) | Easy |  |
+| 680 | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii) | [Java](0680-valid-palindrome-ii) | Easy |  |
+| 874 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare) | [Java](0874-backspace-string-compare) | Easy |  |
+| 908 | [Middle Of The Linked List](https://leetcode.com/problems/middle-of-the-linked-list) | [Java](0908-middle-of-the-linked-list) | Easy |  |
+| 1411 | [Convert Binary Number In A Linked List To Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer) | [Java](1411-convert-binary-number-in-a-linked-list-to-integer) | Easy |  |
+| 2128 | [Reverse Prefix Of Word](https://leetcode.com/problems/reverse-prefix-of-word) | [Java](2128-reverse-prefix-of-word) | Easy |  |
