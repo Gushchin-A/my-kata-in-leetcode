@@ -47,19 +47,3 @@
 | 908 | [Middle Of The Linked List](https://leetcode.com/problems/middle-of-the-linked-list) | [Java](0908-middle-of-the-linked-list) | Easy |
 | 1411 | [Convert Binary Number In A Linked List To Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer) | [Java](1411-convert-binary-number-in-a-linked-list-to-integer) | Easy |
 | 2128 | [Reverse Prefix Of Word](https://leetcode.com/problems/reverse-prefix-of-word) | [Java](2128-reverse-prefix-of-word) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0506-relative-ranks](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0506-relative-ranks) |
-## Sorting
-|  |
-| ------- |
-| [0506-relative-ranks](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0506-relative-ranks) |
-## Heap (Priority Queue)
-|  |
-| ------- |
-| [0506-relative-ranks](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0506-relative-ranks) |
-<!---LeetCode Topics End-->
