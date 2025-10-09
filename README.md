@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 33 ✅  
+- Easy: 34 ✅  
 - Medium: 0 ⚡  
 - Hard: 0 🔥  
-- **Total: 33**
+- **Total: 34**
 
 ---
 
@@ -42,20 +42,9 @@
 | 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence) | [Java](0392-is-subsequence) | Easy |
 | 506 | [Relative Ranks](https://leetcode.com/problems/relative-ranks) | [Java](0506-relative-ranks) | Easy |
 | 541 | [Reverse String II](https://leetcode.com/problems/reverse-string-ii) | [Java](0541-reverse-string-ii) | Easy |
+| 657 | [Robot Return To Origin](https://leetcode.com/problems/robot-return-to-origin) | [Java](0657-robot-return-to-origin) | Easy |
 | 680 | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii) | [Java](0680-valid-palindrome-ii) | Easy |
 | 874 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare) | [Java](0874-backspace-string-compare) | Easy |
 | 908 | [Middle Of The Linked List](https://leetcode.com/problems/middle-of-the-linked-list) | [Java](0908-middle-of-the-linked-list) | Easy |
 | 1411 | [Convert Binary Number In A Linked List To Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer) | [Java](1411-convert-binary-number-in-a-linked-list-to-integer) | Easy |
 | 2128 | [Reverse Prefix Of Word](https://leetcode.com/problems/reverse-prefix-of-word) | [Java](2128-reverse-prefix-of-word) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## String
-|  |
-| ------- |
-| [0657-robot-return-to-origin](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0657-robot-return-to-origin) |
-## Simulation
-|  |
-| ------- |
-| [0657-robot-return-to-origin](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0657-robot-return-to-origin) |
-<!---LeetCode Topics End-->
