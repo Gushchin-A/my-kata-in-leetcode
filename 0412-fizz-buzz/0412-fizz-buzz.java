@@ -5,9 +5,8 @@ class Solution {
         for (int i = 1; i <= n; i++) {
             boolean isFizz = i % 3 == 0;
             boolean isBuzz = i % 5 == 0;
-            boolean isFizzBuzz = isFizz && isBuzz;
 
-            if (isFizzBuzz) {
+            if (isFizz && isBuzz) {
                 result.add("FizzBuzz");
             } else if (isFizz) {
                 result.add("Fizz");
