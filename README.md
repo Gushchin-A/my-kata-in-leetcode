@@ -52,3 +52,23 @@
 | 908 | [Middle Of The Linked List](https://leetcode.com/problems/middle-of-the-linked-list) | [Java](0908-middle-of-the-linked-list) | Easy |
 | 1411 | [Convert Binary Number In A Linked List To Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer) | [Java](1411-convert-binary-number-in-a-linked-list-to-integer) | Easy |
 | 2128 | [Reverse Prefix Of Word](https://leetcode.com/problems/reverse-prefix-of-word) | [Java](2128-reverse-prefix-of-word) | Easy |
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0645-set-mismatch) |
+## Hash Table
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0645-set-mismatch) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0645-set-mismatch) |
+## Sorting
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0645-set-mismatch) |
+<!---LeetCode Topics End-->
