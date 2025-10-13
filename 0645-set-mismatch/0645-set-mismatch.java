@@ -15,6 +15,7 @@ class Solution {
         for (int i = 0; i < nums.length; i++) {
             if (nums[i] > 0) {
                 missing = i + 1;
+                break;
             }
         }
 
