@@ -1,19 +1,21 @@
 class Solution {
     public int[] findErrorNums(int[] nums) {
+        int[] copyNums = Arrays.copyOf(nums, nums.length);
+
         int duplicate = 0;
-        for (int i = 0; i < nums.length; i++) {
-            int digit = Math.abs(nums[i]);
+        for (int i = 0; i < copyNums.length; i++) {
+            int digit = Math.abs(copyNums[i]);
             int currentIndex = digit - 1;
-            if (nums[currentIndex] > 0) {
-                nums[currentIndex] *= -1;
+            if (copyNums[currentIndex] > 0) {
+                copyNums[currentIndex] *= -1;
             } else {
                 duplicate = digit;
             }
         }
 
         int missing = 0;
-        for (int i = 0; i < nums.length; i++) {
-            if (nums[i] > 0) {
+        for (int i = 0; i < copyNums.length; i++) {
+            if (copyNums[i] > 0) {
                 missing = i + 1;
                 break;
             }
