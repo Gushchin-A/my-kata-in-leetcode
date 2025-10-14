@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 38 ✅  
+- Easy: 39 ✅  
 - Medium: 0 ⚡  
 - Hard: 0 🔥  
-- **Total: 38**
+- **Total: 39**
 
 ---
 
@@ -48,23 +48,8 @@
 | 645 | [Set Mismatch](https://leetcode.com/problems/set-mismatch) | [Java](0645-set-mismatch) | Easy |
 | 657 | [Robot Return To Origin](https://leetcode.com/problems/robot-return-to-origin) | [Java](0657-robot-return-to-origin) | Easy |
 | 680 | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii) | [Java](0680-valid-palindrome-ii) | Easy |
+| 682 | [Baseball Game](https://leetcode.com/problems/baseball-game) | [Java](0682-baseball-game) | Easy |
 | 874 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare) | [Java](0874-backspace-string-compare) | Easy |
 | 908 | [Middle Of The Linked List](https://leetcode.com/problems/middle-of-the-linked-list) | [Java](0908-middle-of-the-linked-list) | Easy |
 | 1411 | [Convert Binary Number In A Linked List To Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer) | [Java](1411-convert-binary-number-in-a-linked-list-to-integer) | Easy |
 | 2128 | [Reverse Prefix Of Word](https://leetcode.com/problems/reverse-prefix-of-word) | [Java](2128-reverse-prefix-of-word) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0682-baseball-game](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0682-baseball-game) |
-## Stack
-|  |
-| ------- |
-| [0682-baseball-game](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0682-baseball-game) |
-## Simulation
-|  |
-| ------- |
-| [0682-baseball-game](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0682-baseball-game) |
-<!---LeetCode Topics End-->
