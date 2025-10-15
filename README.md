@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 39 ✅  
+- Easy: 40 ✅  
 - Medium: 0 ⚡  
 - Hard: 0 🔥  
-- **Total: 39**
+- **Total: 40**
 
 ---
 
@@ -39,6 +39,7 @@
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes) | [Java](0283-move-zeroes) | Easy |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string) | [Java](0344-reverse-string) | Easy |
 | 349 | [Intersection Of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays) | [Java](0349-intersection-of-two-arrays) | Easy |
+| 383 | [Ransom Note](https://leetcode.com/problems/ransom-note) | [Java](0383-ransom-note) | Easy |
 | 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence) | [Java](0392-is-subsequence) | Easy |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz) | [Java](0412-fizz-buzz) | Easy |
 | 415 | [Add Strings](https://leetcode.com/problems/add-strings) | [Java](0415-add-strings) | Easy |
@@ -53,19 +54,3 @@
 | 908 | [Middle Of The Linked List](https://leetcode.com/problems/middle-of-the-linked-list) | [Java](0908-middle-of-the-linked-list) | Easy |
 | 1411 | [Convert Binary Number In A Linked List To Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer) | [Java](1411-convert-binary-number-in-a-linked-list-to-integer) | Easy |
 | 2128 | [Reverse Prefix Of Word](https://leetcode.com/problems/reverse-prefix-of-word) | [Java](2128-reverse-prefix-of-word) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Hash Table
-|  |
-| ------- |
-| [0383-ransom-note](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0383-ransom-note) |
-## String
-|  |
-| ------- |
-| [0383-ransom-note](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0383-ransom-note) |
-## Counting
-|  |
-| ------- |
-| [0383-ransom-note](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0383-ransom-note) |
-<!---LeetCode Topics End-->
