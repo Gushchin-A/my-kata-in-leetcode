@@ -1,17 +1,14 @@
 class Solution { 
     public boolean canConstruct(String ransomNote, String magazine) {
-        char[] storage = magazine.toCharArray();
+        int[] storage = new int[26];
 
-        for (int i = 0; i < ransomNote.length(); i++) {
-            boolean notCoincidence = true;
-            for (int j = 0 ; j < storage.length; j++) {
-                if (ransomNote.charAt(i) == storage[j]) {
-                    storage[j] = '\0';
-                    notCoincidence = false;
-                    break;
-                }
-            }
-            if (notCoincidence) {
+        for (char c : magazine.toCharArray()) {
+            storage[c - 'a']++;
+        }
+
+        for (char c : ransomNote.toCharArray()) {
+            storage[c - 'a']--;
+            if (storage[c - 'a'] < 0) {
                 return false;
             }
         }
