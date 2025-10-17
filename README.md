@@ -4,9 +4,9 @@
 #### 📊 Progress
 
 - Easy: 41 ✅  
-- Medium: 0 ⚡  
+- Medium: 1 ⚡  
 - Hard: 0 🔥  
-- **Total: 41**
+- **Total: 42**
 
 ---
 
@@ -15,6 +15,7 @@
 | #   | Title | Solution | Difficulty |
 |-----|-------|----------|------------|
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum) | [Java](0001-two-sum) | Easy |
+| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | [Java](0002-add-two-numbers) | Medium |
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number) | [Java](0009-palindrome-number) | Easy |
 | 13 | [Roman To Integer](https://leetcode.com/problems/roman-to-integer) | [Java](0013-roman-to-integer) | Easy |
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) | [Java](0014-longest-common-prefix) | Easy |
@@ -55,19 +56,3 @@
 | 908 | [Middle Of The Linked List](https://leetcode.com/problems/middle-of-the-linked-list) | [Java](0908-middle-of-the-linked-list) | Easy |
 | 1411 | [Convert Binary Number In A Linked List To Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer) | [Java](1411-convert-binary-number-in-a-linked-list-to-integer) | Easy |
 | 2128 | [Reverse Prefix Of Word](https://leetcode.com/problems/reverse-prefix-of-word) | [Java](2128-reverse-prefix-of-word) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Linked List
-|  |
-| ------- |
-| [0002-add-two-numbers](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0002-add-two-numbers) |
-## Math
-|  |
-| ------- |
-| [0002-add-two-numbers](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0002-add-two-numbers) |
-## Recursion
-|  |
-| ------- |
-| [0002-add-two-numbers](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0002-add-two-numbers) |
-<!---LeetCode Topics End-->
