@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 41 ✅  
+- Easy: 42 ✅  
 - Medium: 1 ⚡  
 - Hard: 0 🔥  
-- **Total: 42**
+- **Total: 43**
 
 ---
 
@@ -54,17 +54,6 @@
 | 682 | [Baseball Game](https://leetcode.com/problems/baseball-game) | [Java](0682-baseball-game) | Easy |
 | 874 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare) | [Java](0874-backspace-string-compare) | Easy |
 | 908 | [Middle Of The Linked List](https://leetcode.com/problems/middle-of-the-linked-list) | [Java](0908-middle-of-the-linked-list) | Easy |
+| 1031 | [Add To Array Form Of Integer](https://leetcode.com/problems/add-to-array-form-of-integer) | [Java](1031-add-to-array-form-of-integer) | Easy |
 | 1411 | [Convert Binary Number In A Linked List To Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer) | [Java](1411-convert-binary-number-in-a-linked-list-to-integer) | Easy |
 | 2128 | [Reverse Prefix Of Word](https://leetcode.com/problems/reverse-prefix-of-word) | [Java](2128-reverse-prefix-of-word) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [1031-add-to-array-form-of-integer](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1031-add-to-array-form-of-integer) |
-## Math
-|  |
-| ------- |
-| [1031-add-to-array-form-of-integer](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1031-add-to-array-form-of-integer) |
-<!---LeetCode Topics End-->
