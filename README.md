@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 42 ✅  
+- Easy: 43 ✅  
 - Medium: 1 ⚡  
 - Hard: 0 🔥  
-- **Total: 43**
+- **Total: 44**
 
 ---
 
@@ -57,15 +57,4 @@
 | 1031 | [Add To Array Form Of Integer](https://leetcode.com/problems/add-to-array-form-of-integer) | [Java](1031-add-to-array-form-of-integer) | Easy |
 | 1411 | [Convert Binary Number In A Linked List To Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer) | [Java](1411-convert-binary-number-in-a-linked-list-to-integer) | Easy |
 | 2128 | [Reverse Prefix Of Word](https://leetcode.com/problems/reverse-prefix-of-word) | [Java](2128-reverse-prefix-of-word) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## String
-|  |
-| ------- |
-| [2260-divide-a-string-into-groups-of-size-k](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
-## Simulation
-|  |
-| ------- |
-| [2260-divide-a-string-into-groups-of-size-k](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
-<!---LeetCode Topics End-->
+| 2260 | [Divide A String Into Groups Of Size K](https://leetcode.com/problems/divide-a-string-into-groups-of-size-k) | [Java](2260-divide-a-string-into-groups-of-size-k) | Easy |
