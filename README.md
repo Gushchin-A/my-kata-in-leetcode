@@ -4,9 +4,9 @@
 #### 📊 Progress
 
 - Easy: 44 ✅  
-- Medium: 1 ⚡  
+- Medium: 2 ⚡  
 - Hard: 0 🔥  
-- **Total: 45**
+- **Total: 46**
 
 ---
 
@@ -25,6 +25,7 @@
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element) | [Java](0027-remove-element) | Easy |
 | 28 | [Find The Index Of The First Occurrence In A String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string) | [Java](0028-find-the-index-of-the-first-occurrence-in-a-string) | Easy |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position) | [Java](0035-search-insert-position) | Easy |
+| 43 | [Multiply Strings](https://leetcode.com/problems/multiply-strings) | [Java](0043-multiply-strings) | Medium |
 | 58 | [Length Of Last Word](https://leetcode.com/problems/length-of-last-word) | [Java](0058-length-of-last-word) | Easy |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one) | [Java](0066-plus-one) | Easy |
 | 67 | [Add Binary](https://leetcode.com/problems/add-binary) | [Java](0067-add-binary) | Easy |
@@ -59,19 +60,3 @@
 | 1411 | [Convert Binary Number In A Linked List To Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer) | [Java](1411-convert-binary-number-in-a-linked-list-to-integer) | Easy |
 | 2128 | [Reverse Prefix Of Word](https://leetcode.com/problems/reverse-prefix-of-word) | [Java](2128-reverse-prefix-of-word) | Easy |
 | 2260 | [Divide A String Into Groups Of Size K](https://leetcode.com/problems/divide-a-string-into-groups-of-size-k) | [Java](2260-divide-a-string-into-groups-of-size-k) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-|  |
-| ------- |
-| [0043-multiply-strings](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0043-multiply-strings) |
-## String
-|  |
-| ------- |
-| [0043-multiply-strings](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0043-multiply-strings) |
-## Simulation
-|  |
-| ------- |
-| [0043-multiply-strings](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0043-multiply-strings) |
-<!---LeetCode Topics End-->
