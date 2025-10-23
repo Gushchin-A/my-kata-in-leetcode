@@ -61,3 +61,19 @@
 | 2128 | [Reverse Prefix Of Word](https://leetcode.com/problems/reverse-prefix-of-word) | [Java](2128-reverse-prefix-of-word) | Easy |
 | 2260 | [Divide A String Into Groups Of Size K](https://leetcode.com/problems/divide-a-string-into-groups-of-size-k) | [Java](2260-divide-a-string-into-groups-of-size-k) | Easy |
 | 2274 | [Keep Multiplying Found Values By Two](https://leetcode.com/problems/keep-multiplying-found-values-by-two) | [Java](2274-keep-multiplying-found-values-by-two) | Easy |
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0822-unique-morse-code-words](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0822-unique-morse-code-words) |
+## Hash Table
+|  |
+| ------- |
+| [0822-unique-morse-code-words](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0822-unique-morse-code-words) |
+## String
+|  |
+| ------- |
+| [0822-unique-morse-code-words](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0822-unique-morse-code-words) |
+<!---LeetCode Topics End-->
