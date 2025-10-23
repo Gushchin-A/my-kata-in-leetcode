@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 45 ✅  
+- Easy: 46 ✅  
 - Medium: 2 ⚡  
 - Hard: 0 🔥  
-- **Total: 47**
+- **Total: 48**
 
 ---
 
@@ -54,6 +54,7 @@
 | 657 | [Robot Return To Origin](https://leetcode.com/problems/robot-return-to-origin) | [Java](0657-robot-return-to-origin) | Easy |
 | 680 | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii) | [Java](0680-valid-palindrome-ii) | Easy |
 | 682 | [Baseball Game](https://leetcode.com/problems/baseball-game) | [Java](0682-baseball-game) | Easy |
+| 822 | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words) | [Java](0822-unique-morse-code-words) | Easy |
 | 874 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare) | [Java](0874-backspace-string-compare) | Easy |
 | 908 | [Middle Of The Linked List](https://leetcode.com/problems/middle-of-the-linked-list) | [Java](0908-middle-of-the-linked-list) | Easy |
 | 1031 | [Add To Array Form Of Integer](https://leetcode.com/problems/add-to-array-form-of-integer) | [Java](1031-add-to-array-form-of-integer) | Easy |
@@ -61,19 +62,3 @@
 | 2128 | [Reverse Prefix Of Word](https://leetcode.com/problems/reverse-prefix-of-word) | [Java](2128-reverse-prefix-of-word) | Easy |
 | 2260 | [Divide A String Into Groups Of Size K](https://leetcode.com/problems/divide-a-string-into-groups-of-size-k) | [Java](2260-divide-a-string-into-groups-of-size-k) | Easy |
 | 2274 | [Keep Multiplying Found Values By Two](https://leetcode.com/problems/keep-multiplying-found-values-by-two) | [Java](2274-keep-multiplying-found-values-by-two) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0822-unique-morse-code-words](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0822-unique-morse-code-words) |
-## Hash Table
-|  |
-| ------- |
-| [0822-unique-morse-code-words](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0822-unique-morse-code-words) |
-## String
-|  |
-| ------- |
-| [0822-unique-morse-code-words](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0822-unique-morse-code-words) |
-<!---LeetCode Topics End-->
