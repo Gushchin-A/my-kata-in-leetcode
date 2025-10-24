@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 46 ✅  
+- Easy: 47 ✅  
 - Medium: 2 ⚡  
 - Hard: 0 🔥  
-- **Total: 48**
+- **Total: 49**
 
 ---
 
@@ -60,21 +60,6 @@
 | 1031 | [Add To Array Form Of Integer](https://leetcode.com/problems/add-to-array-form-of-integer) | [Java](1031-add-to-array-form-of-integer) | Easy |
 | 1411 | [Convert Binary Number In A Linked List To Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer) | [Java](1411-convert-binary-number-in-a-linked-list-to-integer) | Easy |
 | 2128 | [Reverse Prefix Of Word](https://leetcode.com/problems/reverse-prefix-of-word) | [Java](2128-reverse-prefix-of-word) | Easy |
+| 2231 | [Find First Palindromic String In The Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array) | [Java](2231-find-first-palindromic-string-in-the-array) | Easy |
 | 2260 | [Divide A String Into Groups Of Size K](https://leetcode.com/problems/divide-a-string-into-groups-of-size-k) | [Java](2260-divide-a-string-into-groups-of-size-k) | Easy |
 | 2274 | [Keep Multiplying Found Values By Two](https://leetcode.com/problems/keep-multiplying-found-values-by-two) | [Java](2274-keep-multiplying-found-values-by-two) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [2231-find-first-palindromic-string-in-the-array](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
-## Two Pointers
-|  |
-| ------- |
-| [2231-find-first-palindromic-string-in-the-array](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
-## String
-|  |
-| ------- |
-| [2231-find-first-palindromic-string-in-the-array](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
-<!---LeetCode Topics End-->
