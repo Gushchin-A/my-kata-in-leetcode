@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 47 ✅  
+- Easy: 48 ✅  
 - Medium: 2 ⚡  
 - Hard: 0 🔥  
-- **Total: 49**
+- **Total: 50**
 
 ---
 
@@ -49,6 +49,7 @@
 | 415 | [Add Strings](https://leetcode.com/problems/add-strings) | [Java](0415-add-strings) | Easy |
 | 506 | [Relative Ranks](https://leetcode.com/problems/relative-ranks) | [Java](0506-relative-ranks) | Easy |
 | 541 | [Reverse String II](https://leetcode.com/problems/reverse-string-ii) | [Java](0541-reverse-string-ii) | Easy |
+| 557 | [Reverse Words In A String III](https://leetcode.com/problems/reverse-words-in-a-string-iii) | [Java](0557-reverse-words-in-a-string-iii) | Easy |
 | 575 | [Distribute Candies](https://leetcode.com/problems/distribute-candies) | [Java](0575-distribute-candies) | Easy |
 | 645 | [Set Mismatch](https://leetcode.com/problems/set-mismatch) | [Java](0645-set-mismatch) | Easy |
 | 657 | [Robot Return To Origin](https://leetcode.com/problems/robot-return-to-origin) | [Java](0657-robot-return-to-origin) | Easy |
@@ -63,15 +64,3 @@
 | 2231 | [Find First Palindromic String In The Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array) | [Java](2231-find-first-palindromic-string-in-the-array) | Easy |
 | 2260 | [Divide A String Into Groups Of Size K](https://leetcode.com/problems/divide-a-string-into-groups-of-size-k) | [Java](2260-divide-a-string-into-groups-of-size-k) | Easy |
 | 2274 | [Keep Multiplying Found Values By Two](https://leetcode.com/problems/keep-multiplying-found-values-by-two) | [Java](2274-keep-multiplying-found-values-by-two) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Two Pointers
-|  |
-| ------- |
-| [0557-reverse-words-in-a-string-iii](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
-## String
-|  |
-| ------- |
-| [0557-reverse-words-in-a-string-iii](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
-<!---LeetCode Topics End-->
