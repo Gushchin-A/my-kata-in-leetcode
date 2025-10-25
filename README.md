@@ -64,15 +64,3 @@
 | 2231 | [Find First Palindromic String In The Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array) | [Java](2231-find-first-palindromic-string-in-the-array) | Easy |
 | 2260 | [Divide A String Into Groups Of Size K](https://leetcode.com/problems/divide-a-string-into-groups-of-size-k) | [Java](2260-divide-a-string-into-groups-of-size-k) | Easy |
 | 2274 | [Keep Multiplying Found Values By Two](https://leetcode.com/problems/keep-multiplying-found-values-by-two) | [Java](2274-keep-multiplying-found-values-by-two) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Two Pointers
-|  |
-| ------- |
-| [0557-reverse-words-in-a-string-iii](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
-## String
-|  |
-| ------- |
-| [0557-reverse-words-in-a-string-iii](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
-<!---LeetCode Topics End-->
