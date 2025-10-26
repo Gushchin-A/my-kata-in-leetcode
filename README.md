@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 48 ✅  
+- Easy: 49 ✅  
 - Medium: 2 ⚡  
 - Hard: 0 🔥  
-- **Total: 50**
+- **Total: 51**
 
 ---
 
@@ -33,6 +33,7 @@
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | [Java](0088-merge-sorted-array) | Easy |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | [Java](0125-valid-palindrome) | Easy |
 | 136 | [Single Number](https://leetcode.com/problems/single-number) | [Java](0136-single-number) | Easy |
+| 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | [Java](0141-linked-list-cycle) | Easy |
 | 160 | [Intersection Of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) | [Java](0160-intersection-of-two-linked-lists) | Easy |
 | 202 | [Happy Number](https://leetcode.com/problems/happy-number) | [Java](0202-happy-number) | Easy |
 | 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements) | [Java](0203-remove-linked-list-elements) | Easy |
@@ -64,19 +65,3 @@
 | 2231 | [Find First Palindromic String In The Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array) | [Java](2231-find-first-palindromic-string-in-the-array) | Easy |
 | 2260 | [Divide A String Into Groups Of Size K](https://leetcode.com/problems/divide-a-string-into-groups-of-size-k) | [Java](2260-divide-a-string-into-groups-of-size-k) | Easy |
 | 2274 | [Keep Multiplying Found Values By Two](https://leetcode.com/problems/keep-multiplying-found-values-by-two) | [Java](2274-keep-multiplying-found-values-by-two) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Hash Table
-|  |
-| ------- |
-| [0141-linked-list-cycle](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0141-linked-list-cycle) |
-## Linked List
-|  |
-| ------- |
-| [0141-linked-list-cycle](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0141-linked-list-cycle) |
-## Two Pointers
-|  |
-| ------- |
-| [0141-linked-list-cycle](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0141-linked-list-cycle) |
-<!---LeetCode Topics End-->
