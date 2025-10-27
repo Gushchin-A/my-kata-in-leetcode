@@ -1,40 +1,34 @@
 class Solution {
     public int[] shortestToChar(String s, char c) {
         int[] result = new int[s.length()];
+        int INF = Integer.MAX_VALUE;
+
+        for (int i = 0; i < s.length(); i++) {
+            result[i] = INF;
+        }
 
         int i = 0;
         int j = 0;
-        int right = s.length();
-        int left = -1;
-        int INF = Integer.MAX_VALUE;
-        while (i < s.length()) {
-            if (s.charAt(i) != c) {
-                j = i;
-                while (j >= 0) {
-                    if (s.charAt(j) == c) {
-                        left = j;
-                        break;
-                    } else {
-                        j--;
-                    }
+        while (j < s.length()) {
+            if (s.charAt(j) == c) {
+                while (i <= j) {
+                    result[i] = j - i;
+                    i++;
                 }
-                j = i;
-                while (j < s.length()) {
-                    if (s.charAt(j) == c) {
-                        right = j;
-                        break;
-                    } else {
-                        j++;
-                    }
-                }
-                int leftDistance = left == -1 ? INF : i - left;
-                int rightDistance = right == s.length() ? INF : Math.abs(right - i);
-                result[i] = Math.min(leftDistance, rightDistance);
-                i++;
-            } else {
-                result[i] = 0;
-                i++;
             }
+            j++;
+        }
+
+        i = s.length() - 1;
+        j = s.length() - 1;
+        while (j >= 0) {
+            if (s.charAt(j) == c) {
+                while (i >= j) {
+                    result[i] = Math.min(Math.abs(j - i), result[i]);
+                    i--;
+                }
+            }
+            j--;
         }
 
         return result;
