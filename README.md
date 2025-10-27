@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 49 ✅  
+- Easy: 50 ✅  
 - Medium: 2 ⚡  
 - Hard: 0 🔥  
-- **Total: 51**
+- **Total: 52**
 
 ---
 
@@ -57,6 +57,7 @@
 | 680 | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii) | [Java](0680-valid-palindrome-ii) | Easy |
 | 682 | [Baseball Game](https://leetcode.com/problems/baseball-game) | [Java](0682-baseball-game) | Easy |
 | 822 | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words) | [Java](0822-unique-morse-code-words) | Easy |
+| 841 | [Shortest Distance To A Character](https://leetcode.com/problems/shortest-distance-to-a-character) | [Java](0841-shortest-distance-to-a-character) | Easy |
 | 874 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare) | [Java](0874-backspace-string-compare) | Easy |
 | 908 | [Middle Of The Linked List](https://leetcode.com/problems/middle-of-the-linked-list) | [Java](0908-middle-of-the-linked-list) | Easy |
 | 1031 | [Add To Array Form Of Integer](https://leetcode.com/problems/add-to-array-form-of-integer) | [Java](1031-add-to-array-form-of-integer) | Easy |
@@ -65,19 +66,3 @@
 | 2231 | [Find First Palindromic String In The Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array) | [Java](2231-find-first-palindromic-string-in-the-array) | Easy |
 | 2260 | [Divide A String Into Groups Of Size K](https://leetcode.com/problems/divide-a-string-into-groups-of-size-k) | [Java](2260-divide-a-string-into-groups-of-size-k) | Easy |
 | 2274 | [Keep Multiplying Found Values By Two](https://leetcode.com/problems/keep-multiplying-found-values-by-two) | [Java](2274-keep-multiplying-found-values-by-two) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0841-shortest-distance-to-a-character](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0841-shortest-distance-to-a-character) |
-## Two Pointers
-|  |
-| ------- |
-| [0841-shortest-distance-to-a-character](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0841-shortest-distance-to-a-character) |
-## String
-|  |
-| ------- |
-| [0841-shortest-distance-to-a-character](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0841-shortest-distance-to-a-character) |
-<!---LeetCode Topics End-->
