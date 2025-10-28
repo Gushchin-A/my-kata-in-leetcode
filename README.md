@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 50 ✅  
+- Easy: 51 ✅  
 - Medium: 2 ⚡  
 - Hard: 0 🔥  
-- **Total: 52**
+- **Total: 53**
 
 ---
 
@@ -39,6 +39,7 @@
 | 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements) | [Java](0203-remove-linked-list-elements) | Easy |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | [Java](0206-reverse-linked-list) | Easy |
 | 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list) | [Java](0234-palindrome-linked-list) | Easy |
+| 258 | [Add Digits](https://leetcode.com/problems/add-digits) | [Java](0258-add-digits) | Easy |
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number) | [Java](0268-missing-number) | Easy |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes) | [Java](0283-move-zeroes) | Easy |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string) | [Java](0344-reverse-string) | Easy |
@@ -66,19 +67,3 @@
 | 2231 | [Find First Palindromic String In The Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array) | [Java](2231-find-first-palindromic-string-in-the-array) | Easy |
 | 2260 | [Divide A String Into Groups Of Size K](https://leetcode.com/problems/divide-a-string-into-groups-of-size-k) | [Java](2260-divide-a-string-into-groups-of-size-k) | Easy |
 | 2274 | [Keep Multiplying Found Values By Two](https://leetcode.com/problems/keep-multiplying-found-values-by-two) | [Java](2274-keep-multiplying-found-values-by-two) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-|  |
-| ------- |
-| [0258-add-digits](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0258-add-digits) |
-## Simulation
-|  |
-| ------- |
-| [0258-add-digits](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0258-add-digits) |
-## Number Theory
-|  |
-| ------- |
-| [0258-add-digits](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0258-add-digits) |
-<!---LeetCode Topics End-->
