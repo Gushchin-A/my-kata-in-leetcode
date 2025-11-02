@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 55 ✅  
+- Easy: 56 ✅  
 - Medium: 2 ⚡  
 - Hard: 0 🔥  
-- **Total: 57**
+- **Total: 58**
 
 ---
 
@@ -64,6 +64,7 @@
 | 979 | [Di String Match](https://leetcode.com/problems/di-string-match) | [Java](0979-di-string-match) | Easy |
 | 1019 | [Squares Of A Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array) | [Java](1019-squares-of-a-sorted-array) | Easy |
 | 1031 | [Add To Array Form Of Integer](https://leetcode.com/problems/add-to-array-form-of-integer) | [Java](1031-add-to-array-form-of-integer) | Easy |
+| 1041 | [Available Captures For Rook](https://leetcode.com/problems/available-captures-for-rook) | [Java](1041-available-captures-for-rook) | Easy |
 | 1411 | [Convert Binary Number In A Linked List To Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer) | [Java](1411-convert-binary-number-in-a-linked-list-to-integer) | Easy |
 | 1454 | [Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences) | [Java](1454-remove-palindromic-subsequences) | Easy |
 | 1505 | [Create Target Array In The Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order) | [Java](1505-create-target-array-in-the-given-order) | Easy |
@@ -71,19 +72,3 @@
 | 2231 | [Find First Palindromic String In The Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array) | [Java](2231-find-first-palindromic-string-in-the-array) | Easy |
 | 2260 | [Divide A String Into Groups Of Size K](https://leetcode.com/problems/divide-a-string-into-groups-of-size-k) | [Java](2260-divide-a-string-into-groups-of-size-k) | Easy |
 | 2274 | [Keep Multiplying Found Values By Two](https://leetcode.com/problems/keep-multiplying-found-values-by-two) | [Java](2274-keep-multiplying-found-values-by-two) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [1041-available-captures-for-rook](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1041-available-captures-for-rook) |
-## Matrix
-|  |
-| ------- |
-| [1041-available-captures-for-rook](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1041-available-captures-for-rook) |
-## Simulation
-|  |
-| ------- |
-| [1041-available-captures-for-rook](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1041-available-captures-for-rook) |
-<!---LeetCode Topics End-->
