@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 57 ✅  
+- Easy: 58 ✅  
 - Medium: 2 ⚡  
 - Hard: 0 🔥  
-- **Total: 59**
+- **Total: 60**
 
 ---
 
@@ -72,20 +72,5 @@
 | 2231 | [Find First Palindromic String In The Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array) | [Java](2231-find-first-palindromic-string-in-the-array) | Easy |
 | 2260 | [Divide A String Into Groups Of Size K](https://leetcode.com/problems/divide-a-string-into-groups-of-size-k) | [Java](2260-divide-a-string-into-groups-of-size-k) | Easy |
 | 2274 | [Keep Multiplying Found Values By Two](https://leetcode.com/problems/keep-multiplying-found-values-by-two) | [Java](2274-keep-multiplying-found-values-by-two) | Easy |
+| 2698 | [Find The Array Concatenation Value](https://leetcode.com/problems/find-the-array-concatenation-value) | [Java](2698-find-the-array-concatenation-value) | Easy |
 | 2752 | [Sum Multiples](https://leetcode.com/problems/sum-multiples) | [Java](2752-sum-multiples) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [2698-find-the-array-concatenation-value](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2698-find-the-array-concatenation-value) |
-## Two Pointers
-|  |
-| ------- |
-| [2698-find-the-array-concatenation-value](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2698-find-the-array-concatenation-value) |
-## Simulation
-|  |
-| ------- |
-| [2698-find-the-array-concatenation-value](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2698-find-the-array-concatenation-value) |
-<!---LeetCode Topics End-->
