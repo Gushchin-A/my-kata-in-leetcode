@@ -73,3 +73,19 @@
 | 2260 | [Divide A String Into Groups Of Size K](https://leetcode.com/problems/divide-a-string-into-groups-of-size-k) | [Java](2260-divide-a-string-into-groups-of-size-k) | Easy |
 | 2274 | [Keep Multiplying Found Values By Two](https://leetcode.com/problems/keep-multiplying-found-values-by-two) | [Java](2274-keep-multiplying-found-values-by-two) | Easy |
 | 2752 | [Sum Multiples](https://leetcode.com/problems/sum-multiples) | [Java](2752-sum-multiples) | Easy |
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [2698-find-the-array-concatenation-value](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2698-find-the-array-concatenation-value) |
+## Two Pointers
+|  |
+| ------- |
+| [2698-find-the-array-concatenation-value](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2698-find-the-array-concatenation-value) |
+## Simulation
+|  |
+| ------- |
+| [2698-find-the-array-concatenation-value](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2698-find-the-array-concatenation-value) |
+<!---LeetCode Topics End-->
