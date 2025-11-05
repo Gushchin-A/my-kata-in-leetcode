@@ -4,9 +4,9 @@
 #### 📊 Progress
 
 - Easy: 60 ✅  
-- Medium: 2 ⚡  
+- Medium: 3 ⚡  
 - Hard: 0 🔥  
-- **Total: 62**
+- **Total: 63**
 
 ---
 
@@ -41,6 +41,7 @@
 | 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements) | [Java](0203-remove-linked-list-elements) | Easy |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | [Java](0206-reverse-linked-list) | Easy |
 | 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list) | [Java](0234-palindrome-linked-list) | Easy |
+| 238 | [Product Of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) | [Java](0238-product-of-array-except-self) | Medium |
 | 258 | [Add Digits](https://leetcode.com/problems/add-digits) | [Java](0258-add-digits) | Easy |
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number) | [Java](0268-missing-number) | Easy |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes) | [Java](0283-move-zeroes) | Easy |
@@ -76,15 +77,3 @@
 | 2274 | [Keep Multiplying Found Values By Two](https://leetcode.com/problems/keep-multiplying-found-values-by-two) | [Java](2274-keep-multiplying-found-values-by-two) | Easy |
 | 2698 | [Find The Array Concatenation Value](https://leetcode.com/problems/find-the-array-concatenation-value) | [Java](2698-find-the-array-concatenation-value) | Easy |
 | 2752 | [Sum Multiples](https://leetcode.com/problems/sum-multiples) | [Java](2752-sum-multiples) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0238-product-of-array-except-self](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0238-product-of-array-except-self) |
-## Prefix Sum
-|  |
-| ------- |
-| [0238-product-of-array-except-self](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0238-product-of-array-except-self) |
-<!---LeetCode Topics End-->
