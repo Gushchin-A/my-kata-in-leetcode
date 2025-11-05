@@ -2,20 +2,19 @@ class Solution {
     public int maxProfit(int[] prices) {
         int n = prices.length;
 
-        if (n == 1) {
+        if (n < 2) {
             return 0;
         }
 
+        int[] minStorage = new int[n];
+        minStorage[0] = prices[0];
+        for (int i = 1; i < n; i++) {
+            minStorage[i] = Math.min(minStorage[i - 1], prices[i]);
+        }
+
         int profit = 0;
-        int minCost = prices[0];
-        for (int i = 0; i < n; i++) {
-            int maxCost = prices[i];
-            if (prices[i] < minCost) {
-                minCost = prices[i];
-            }
-            if (profit < maxCost - minCost) {
-                profit = maxCost - minCost;
-            }
+        for (int i = 1; i < n; i++) {
+            profit = Math.max(profit, prices[i] - minStorage[i - 1]);
         }
 
         return profit;
