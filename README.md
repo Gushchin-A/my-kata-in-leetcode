@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 59 ✅  
+- Easy: 60 ✅  
 - Medium: 2 ⚡  
 - Hard: 0 🔥  
-- **Total: 61**
+- **Total: 62**
 
 ---
 
@@ -31,6 +31,7 @@
 | 67 | [Add Binary](https://leetcode.com/problems/add-binary) | [Java](0067-add-binary) | Easy |
 | 83 | [Remove Duplicates From Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list) | [Java](0083-remove-duplicates-from-sorted-list) | Easy |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | [Java](0088-merge-sorted-array) | Easy |
+| 121 | [Best Time To Buy And Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | [Java](0121-best-time-to-buy-and-sell-stock) | Easy |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | [Java](0125-valid-palindrome) | Easy |
 | 136 | [Single Number](https://leetcode.com/problems/single-number) | [Java](0136-single-number) | Easy |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | [Java](0141-linked-list-cycle) | Easy |
@@ -75,15 +76,3 @@
 | 2274 | [Keep Multiplying Found Values By Two](https://leetcode.com/problems/keep-multiplying-found-values-by-two) | [Java](2274-keep-multiplying-found-values-by-two) | Easy |
 | 2698 | [Find The Array Concatenation Value](https://leetcode.com/problems/find-the-array-concatenation-value) | [Java](2698-find-the-array-concatenation-value) | Easy |
 | 2752 | [Sum Multiples](https://leetcode.com/problems/sum-multiples) | [Java](2752-sum-multiples) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0121-best-time-to-buy-and-sell-stock](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0121-best-time-to-buy-and-sell-stock](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
-<!---LeetCode Topics End-->
