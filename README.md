@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 60 ✅  
+- Easy: 61 ✅  
 - Medium: 3 ⚡  
 - Hard: 0 🔥  
-- **Total: 63**
+- **Total: 64**
 
 ---
 
@@ -68,6 +68,7 @@
 | 1019 | [Squares Of A Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array) | [Java](1019-squares-of-a-sorted-array) | Easy |
 | 1031 | [Add To Array Form Of Integer](https://leetcode.com/problems/add-to-array-form-of-integer) | [Java](1031-add-to-array-form-of-integer) | Easy |
 | 1041 | [Available Captures For Rook](https://leetcode.com/problems/available-captures-for-rook) | [Java](1041-available-captures-for-rook) | Easy |
+| 1241 | [Decompress Run Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list) | [Java](1241-decompress-run-length-encoded-list) | Easy |
 | 1411 | [Convert Binary Number In A Linked List To Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer) | [Java](1411-convert-binary-number-in-a-linked-list-to-integer) | Easy |
 | 1454 | [Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences) | [Java](1454-remove-palindromic-subsequences) | Easy |
 | 1505 | [Create Target Array In The Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order) | [Java](1505-create-target-array-in-the-given-order) | Easy |
@@ -77,11 +78,3 @@
 | 2274 | [Keep Multiplying Found Values By Two](https://leetcode.com/problems/keep-multiplying-found-values-by-two) | [Java](2274-keep-multiplying-found-values-by-two) | Easy |
 | 2698 | [Find The Array Concatenation Value](https://leetcode.com/problems/find-the-array-concatenation-value) | [Java](2698-find-the-array-concatenation-value) | Easy |
 | 2752 | [Sum Multiples](https://leetcode.com/problems/sum-multiples) | [Java](2752-sum-multiples) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [1241-decompress-run-length-encoded-list](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1241-decompress-run-length-encoded-list) |
-<!---LeetCode Topics End-->
