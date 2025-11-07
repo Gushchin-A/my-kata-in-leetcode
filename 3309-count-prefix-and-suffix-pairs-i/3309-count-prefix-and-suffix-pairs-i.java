@@ -21,16 +21,16 @@ class Solution {
 
         int n = str1.length();
         int left = 0;
-        int RightStr1 = str1.length() - 1;
-        int RightStr2 = str2.length() - 1; 
+        int rightStr1 = str1.length() - 1;
+        int rightStr2 = str2.length() - 1; 
         while (left < n) {
             if (str1.charAt(left) != str2.charAt(left) ||
-            str1.charAt(RightStr1) != str2.charAt(RightStr2)) {
+            str1.charAt(rightStr1) != str2.charAt(rightStr2)) {
                 return false;
             }
             left++;
-            RightStr1--;
-            RightStr2--;
+            rightStr1--;
+            rightStr2--;
         }
 
         return true;
