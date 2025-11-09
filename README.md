@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 63 ✅  
+- Easy: 64 ✅  
 - Medium: 3 ⚡  
 - Hard: 0 🔥  
-- **Total: 66**
+- **Total: 67**
 
 ---
 
@@ -72,6 +72,7 @@
 | 1411 | [Convert Binary Number In A Linked List To Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer) | [Java](1411-convert-binary-number-in-a-linked-list-to-integer) | Easy |
 | 1454 | [Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences) | [Java](1454-remove-palindromic-subsequences) | Easy |
 | 1505 | [Create Target Array In The Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order) | [Java](1505-create-target-array-in-the-given-order) | Easy |
+| 1642 | [Water Bottles](https://leetcode.com/problems/water-bottles) | [Java](1642-water-bottles) | Easy |
 | 2128 | [Reverse Prefix Of Word](https://leetcode.com/problems/reverse-prefix-of-word) | [Java](2128-reverse-prefix-of-word) | Easy |
 | 2231 | [Find First Palindromic String In The Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array) | [Java](2231-find-first-palindromic-string-in-the-array) | Easy |
 | 2260 | [Divide A String Into Groups Of Size K](https://leetcode.com/problems/divide-a-string-into-groups-of-size-k) | [Java](2260-divide-a-string-into-groups-of-size-k) | Easy |
@@ -80,15 +81,3 @@
 | 2714 | [Left And Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences) | [Java](2714-left-and-right-sum-differences) | Easy |
 | 2752 | [Sum Multiples](https://leetcode.com/problems/sum-multiples) | [Java](2752-sum-multiples) | Easy |
 | 3309 | [Count Prefix And Suffix Pairs I](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i) | [Java](3309-count-prefix-and-suffix-pairs-i) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-|  |
-| ------- |
-| [1642-water-bottles](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1642-water-bottles) |
-## Simulation
-|  |
-| ------- |
-| [1642-water-bottles](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1642-water-bottles) |
-<!---LeetCode Topics End-->
