@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 65 ✅  
+- Easy: 66 ✅  
 - Medium: 3 ⚡  
 - Hard: 0 🔥  
-- **Total: 68**
+- **Total: 69**
 
 ---
 
@@ -70,6 +70,7 @@
 | 1041 | [Available Captures For Rook](https://leetcode.com/problems/available-captures-for-rook) | [Java](1041-available-captures-for-rook) | Easy |
 | 1241 | [Decompress Run Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list) | [Java](1241-decompress-run-length-encoded-list) | Easy |
 | 1411 | [Convert Binary Number In A Linked List To Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer) | [Java](1411-convert-binary-number-in-a-linked-list-to-integer) | Easy |
+| 1444 | [Number Of Steps To Reduce A Number To Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero) | [Java](1444-number-of-steps-to-reduce-a-number-to-zero) | Easy |
 | 1454 | [Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences) | [Java](1454-remove-palindromic-subsequences) | Easy |
 | 1505 | [Create Target Array In The Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order) | [Java](1505-create-target-array-in-the-given-order) | Easy |
 | 1642 | [Water Bottles](https://leetcode.com/problems/water-bottles) | [Java](1642-water-bottles) | Easy |
@@ -82,15 +83,3 @@
 | 2714 | [Left And Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences) | [Java](2714-left-and-right-sum-differences) | Easy |
 | 2752 | [Sum Multiples](https://leetcode.com/problems/sum-multiples) | [Java](2752-sum-multiples) | Easy |
 | 3309 | [Count Prefix And Suffix Pairs I](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i) | [Java](3309-count-prefix-and-suffix-pairs-i) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-|  |
-| ------- |
-| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
-## Bit Manipulation
-|  |
-| ------- |
-| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
-<!---LeetCode Topics End-->
