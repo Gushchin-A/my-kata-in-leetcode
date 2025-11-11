@@ -4,9 +4,9 @@
 #### 📊 Progress
 
 - Easy: 66 ✅  
-- Medium: 3 ⚡  
+- Medium: 4 ⚡  
 - Hard: 0 🔥  
-- **Total: 69**
+- **Total: 70**
 
 ---
 
@@ -17,6 +17,7 @@
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum) | [Java](0001-two-sum) | Easy |
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | [Java](0002-add-two-numbers) | Medium |
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number) | [Java](0009-palindrome-number) | Easy |
+| 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water) | [Java](0011-container-with-most-water) | Medium |
 | 13 | [Roman To Integer](https://leetcode.com/problems/roman-to-integer) | [Java](0013-roman-to-integer) | Easy |
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) | [Java](0014-longest-common-prefix) | Easy |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | [Java](0020-valid-parentheses) | Easy |
@@ -83,19 +84,3 @@
 | 2714 | [Left And Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences) | [Java](2714-left-and-right-sum-differences) | Easy |
 | 2752 | [Sum Multiples](https://leetcode.com/problems/sum-multiples) | [Java](2752-sum-multiples) | Easy |
 | 3309 | [Count Prefix And Suffix Pairs I](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i) | [Java](3309-count-prefix-and-suffix-pairs-i) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0011-container-with-most-water](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0011-container-with-most-water) |
-## Two Pointers
-|  |
-| ------- |
-| [0011-container-with-most-water](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0011-container-with-most-water) |
-## Greedy
-|  |
-| ------- |
-| [0011-container-with-most-water](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0011-container-with-most-water) |
-<!---LeetCode Topics End-->
