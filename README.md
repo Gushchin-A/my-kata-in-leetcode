@@ -85,3 +85,19 @@
 | 2714 | [Left And Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences) | [Java](2714-left-and-right-sum-differences) | Easy |
 | 2752 | [Sum Multiples](https://leetcode.com/problems/sum-multiples) | [Java](2752-sum-multiples) | Easy |
 | 3309 | [Count Prefix And Suffix Pairs I](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i) | [Java](3309-count-prefix-and-suffix-pairs-i) | Easy |
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Two Pointers
+|  |
+| ------- |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+## String
+|  |
+| ------- |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+## String Matching
+|  |
+| ------- |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+<!---LeetCode Topics End-->
