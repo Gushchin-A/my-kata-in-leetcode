@@ -13,10 +13,6 @@ class Solution {
             }
         }
 
-        if (wordsStr.length() < s.length()) {
-            return false;
-        }
-
-        return true;
+        return wordsStr.toString().equals(s);
     }
 }
