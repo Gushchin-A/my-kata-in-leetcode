@@ -88,19 +88,3 @@
 | 2714 | [Left And Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences) | [Java](2714-left-and-right-sum-differences) | Easy |
 | 2752 | [Sum Multiples](https://leetcode.com/problems/sum-multiples) | [Java](2752-sum-multiples) | Easy |
 | 3309 | [Count Prefix And Suffix Pairs I](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i) | [Java](3309-count-prefix-and-suffix-pairs-i) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [2093-check-if-string-is-a-prefix-of-array](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
-## Two Pointers
-|  |
-| ------- |
-| [2093-check-if-string-is-a-prefix-of-array](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
-## String
-|  |
-| ------- |
-| [2093-check-if-string-is-a-prefix-of-array](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
-<!---LeetCode Topics End-->
