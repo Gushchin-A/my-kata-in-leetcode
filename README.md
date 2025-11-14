@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 68 ✅  
+- Easy: 69 ✅  
 - Medium: 4 ⚡  
 - Hard: 0 🔥  
-- **Total: 72**
+- **Total: 73**
 
 ---
 
@@ -81,24 +81,9 @@
 | 2260 | [Divide A String Into Groups Of Size K](https://leetcode.com/problems/divide-a-string-into-groups-of-size-k) | [Java](2260-divide-a-string-into-groups-of-size-k) | Easy |
 | 2274 | [Keep Multiplying Found Values By Two](https://leetcode.com/problems/keep-multiplying-found-values-by-two) | [Java](2274-keep-multiplying-found-values-by-two) | Easy |
 | 2288 | [Count Operations To Obtain Zero](https://leetcode.com/problems/count-operations-to-obtain-zero) | [Java](2288-count-operations-to-obtain-zero) | Easy |
+| 2292 | [Counting Words With A Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix) | [Java](2292-counting-words-with-a-given-prefix) | Easy |
 | 2341 | [Count Prefixes Of A Given String](https://leetcode.com/problems/count-prefixes-of-a-given-string) | [Java](2341-count-prefixes-of-a-given-string) | Easy |
 | 2698 | [Find The Array Concatenation Value](https://leetcode.com/problems/find-the-array-concatenation-value) | [Java](2698-find-the-array-concatenation-value) | Easy |
 | 2714 | [Left And Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences) | [Java](2714-left-and-right-sum-differences) | Easy |
 | 2752 | [Sum Multiples](https://leetcode.com/problems/sum-multiples) | [Java](2752-sum-multiples) | Easy |
 | 3309 | [Count Prefix And Suffix Pairs I](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i) | [Java](3309-count-prefix-and-suffix-pairs-i) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [2292-counting-words-with-a-given-prefix](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
-## String
-|  |
-| ------- |
-| [2292-counting-words-with-a-given-prefix](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
-## String Matching
-|  |
-| ------- |
-| [2292-counting-words-with-a-given-prefix](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
-<!---LeetCode Topics End-->
