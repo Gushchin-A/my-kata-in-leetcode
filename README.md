@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 69 ✅  
+- Easy: 70 ✅  
 - Medium: 4 ⚡  
 - Hard: 0 🔥  
-- **Total: 73**
+- **Total: 74**
 
 ---
 
@@ -76,6 +76,7 @@
 | 1505 | [Create Target Array In The Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order) | [Java](1505-create-target-array-in-the-given-order) | Easy |
 | 1566 | [Check If A Word Occurs As A Prefix Of Any Word In A Sentence](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) | [Java](1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) | Easy |
 | 1642 | [Water Bottles](https://leetcode.com/problems/water-bottles) | [Java](1642-water-bottles) | Easy |
+| 2093 | [Check If String Is A Prefix Of Array](https://leetcode.com/problems/check-if-string-is-a-prefix-of-array) | [Java](2093-check-if-string-is-a-prefix-of-array) | Easy |
 | 2128 | [Reverse Prefix Of Word](https://leetcode.com/problems/reverse-prefix-of-word) | [Java](2128-reverse-prefix-of-word) | Easy |
 | 2231 | [Find First Palindromic String In The Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array) | [Java](2231-find-first-palindromic-string-in-the-array) | Easy |
 | 2260 | [Divide A String Into Groups Of Size K](https://leetcode.com/problems/divide-a-string-into-groups-of-size-k) | [Java](2260-divide-a-string-into-groups-of-size-k) | Easy |
@@ -87,19 +88,3 @@
 | 2714 | [Left And Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences) | [Java](2714-left-and-right-sum-differences) | Easy |
 | 2752 | [Sum Multiples](https://leetcode.com/problems/sum-multiples) | [Java](2752-sum-multiples) | Easy |
 | 3309 | [Count Prefix And Suffix Pairs I](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i) | [Java](3309-count-prefix-and-suffix-pairs-i) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [2093-check-if-string-is-a-prefix-of-array](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
-## Two Pointers
-|  |
-| ------- |
-| [2093-check-if-string-is-a-prefix-of-array](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
-## String
-|  |
-| ------- |
-| [2093-check-if-string-is-a-prefix-of-array](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
-<!---LeetCode Topics End-->
