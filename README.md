@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 72 ✅  
+- Easy: 73 ✅  
 - Medium: 4 ⚡  
 - Hard: 0 🔥  
-- **Total: 76**
+- **Total: 77**
 
 ---
 
@@ -61,6 +61,7 @@
 | 657 | [Robot Return To Origin](https://leetcode.com/problems/robot-return-to-origin) | [Java](0657-robot-return-to-origin) | Easy |
 | 680 | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii) | [Java](0680-valid-palindrome-ii) | Easy |
 | 682 | [Baseball Game](https://leetcode.com/problems/baseball-game) | [Java](0682-baseball-game) | Easy |
+| 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index) | [Java](0724-find-pivot-index) | Easy |
 | 822 | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words) | [Java](0822-unique-morse-code-words) | Easy |
 | 841 | [Shortest Distance To A Character](https://leetcode.com/problems/shortest-distance-to-a-character) | [Java](0841-shortest-distance-to-a-character) | Easy |
 | 874 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare) | [Java](0874-backspace-string-compare) | Easy |
@@ -90,15 +91,3 @@
 | 2752 | [Sum Multiples](https://leetcode.com/problems/sum-multiples) | [Java](2752-sum-multiples) | Easy |
 | 2777 | [Find The Distinct Difference Array](https://leetcode.com/problems/find-the-distinct-difference-array) | [Java](2777-find-the-distinct-difference-array) | Easy |
 | 3309 | [Count Prefix And Suffix Pairs I](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i) | [Java](3309-count-prefix-and-suffix-pairs-i) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0724-find-pivot-index](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0724-find-pivot-index) |
-## Prefix Sum
-|  |
-| ------- |
-| [0724-find-pivot-index](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0724-find-pivot-index) |
-<!---LeetCode Topics End-->
