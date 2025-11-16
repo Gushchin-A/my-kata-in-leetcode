@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 71 ✅  
+- Easy: 72 ✅  
 - Medium: 4 ⚡  
 - Hard: 0 🔥  
-- **Total: 75**
+- **Total: 76**
 
 ---
 
@@ -77,6 +77,7 @@
 | 1566 | [Check If A Word Occurs As A Prefix Of Any Word In A Sentence](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) | [Java](1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) | Easy |
 | 1642 | [Water Bottles](https://leetcode.com/problems/water-bottles) | [Java](1642-water-bottles) | Easy |
 | 2093 | [Check If String Is A Prefix Of Array](https://leetcode.com/problems/check-if-string-is-a-prefix-of-array) | [Java](2093-check-if-string-is-a-prefix-of-array) | Easy |
+| 2102 | [Find The Middle Index In Array](https://leetcode.com/problems/find-the-middle-index-in-array) | [Java](2102-find-the-middle-index-in-array) | Easy |
 | 2128 | [Reverse Prefix Of Word](https://leetcode.com/problems/reverse-prefix-of-word) | [Java](2128-reverse-prefix-of-word) | Easy |
 | 2231 | [Find First Palindromic String In The Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array) | [Java](2231-find-first-palindromic-string-in-the-array) | Easy |
 | 2260 | [Divide A String Into Groups Of Size K](https://leetcode.com/problems/divide-a-string-into-groups-of-size-k) | [Java](2260-divide-a-string-into-groups-of-size-k) | Easy |
@@ -89,15 +90,3 @@
 | 2752 | [Sum Multiples](https://leetcode.com/problems/sum-multiples) | [Java](2752-sum-multiples) | Easy |
 | 2777 | [Find The Distinct Difference Array](https://leetcode.com/problems/find-the-distinct-difference-array) | [Java](2777-find-the-distinct-difference-array) | Easy |
 | 3309 | [Count Prefix And Suffix Pairs I](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i) | [Java](3309-count-prefix-and-suffix-pairs-i) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [2102-find-the-middle-index-in-array](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2102-find-the-middle-index-in-array) |
-## Prefix Sum
-|  |
-| ------- |
-| [2102-find-the-middle-index-in-array](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2102-find-the-middle-index-in-array) |
-<!---LeetCode Topics End-->
