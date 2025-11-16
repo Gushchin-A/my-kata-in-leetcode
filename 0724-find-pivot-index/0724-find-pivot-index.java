@@ -3,25 +3,22 @@ class Solution {
         int n = nums.length;
 
         int[] rightSum = new int[n];
-        int last = n - 1;
         int sum = 0;
-        rightSum[last] = sum;
-        for (int i = last - 1; i >= 0; i--) {
-            sum += nums[i + 1];
+        for (int i = n - 1; i >= 0; i--) {
             rightSum[i] = sum;
+            sum += nums[i];
         }
                 
         int[] leftSum = new int[n];
         sum = 0;
-        leftSum[0] = sum;
-        for (int i = 1; i < n; i++) {
-            sum += nums[i - 1];
+        for (int i = 0; i < n; i++) {
             leftSum[i] = sum;
-            if (leftSum[i - 1] == rightSum[i - 1]) {
-                return i - 1;
+            if (leftSum[i] == rightSum[i]) {
+                return i;
             }
+            sum += nums[i];
         }
 
-        return leftSum[last] == rightSum[last] ? last : -1;
+        return -1;
     }
 }
