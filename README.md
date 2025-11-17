@@ -91,3 +91,15 @@
 | 2752 | [Sum Multiples](https://leetcode.com/problems/sum-multiples) | [Java](2752-sum-multiples) | Easy |
 | 2777 | [Find The Distinct Difference Array](https://leetcode.com/problems/find-the-distinct-difference-array) | [Java](2777-find-the-distinct-difference-array) | Easy |
 | 3309 | [Count Prefix And Suffix Pairs I](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i) | [Java](3309-count-prefix-and-suffix-pairs-i) | Easy |
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
+## Greedy
+|  |
+| ------- |
+| [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
+<!---LeetCode Topics End-->
