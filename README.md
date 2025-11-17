@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 73 ✅  
+- Easy: 74 ✅  
 - Medium: 4 ⚡  
 - Hard: 0 🔥  
-- **Total: 77**
+- **Total: 78**
 
 ---
 
@@ -70,6 +70,7 @@
 | 1019 | [Squares Of A Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array) | [Java](1019-squares-of-a-sorted-array) | Easy |
 | 1031 | [Add To Array Form Of Integer](https://leetcode.com/problems/add-to-array-form-of-integer) | [Java](1031-add-to-array-form-of-integer) | Easy |
 | 1041 | [Available Captures For Rook](https://leetcode.com/problems/available-captures-for-rook) | [Java](1041-available-captures-for-rook) | Easy |
+| 1062 | [Partition Array Into Three Parts With Equal Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum) | [Java](1062-partition-array-into-three-parts-with-equal-sum) | Easy |
 | 1241 | [Decompress Run Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list) | [Java](1241-decompress-run-length-encoded-list) | Easy |
 | 1411 | [Convert Binary Number In A Linked List To Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer) | [Java](1411-convert-binary-number-in-a-linked-list-to-integer) | Easy |
 | 1444 | [Number Of Steps To Reduce A Number To Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero) | [Java](1444-number-of-steps-to-reduce-a-number-to-zero) | Easy |
@@ -91,15 +92,3 @@
 | 2752 | [Sum Multiples](https://leetcode.com/problems/sum-multiples) | [Java](2752-sum-multiples) | Easy |
 | 2777 | [Find The Distinct Difference Array](https://leetcode.com/problems/find-the-distinct-difference-array) | [Java](2777-find-the-distinct-difference-array) | Easy |
 | 3309 | [Count Prefix And Suffix Pairs I](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i) | [Java](3309-count-prefix-and-suffix-pairs-i) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
-## Greedy
-|  |
-| ------- |
-| [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
-<!---LeetCode Topics End-->
