@@ -16,14 +16,17 @@ class Solution {
         int targetSum = totalSum / threeParts;
         int partition = 0;
         int subSum = 0;
-        for (int i = 0; i < n; i++) {
+        for (int i = 0; i < n - 1; i++) {
             subSum += arr[i];
             if (subSum == targetSum) {
                 partition++;
                 subSum = 0;
+                if (partition == 2) {
+                    return true;
+                }
             }
         }
         
-        return partition >= threeParts;
+        return false;
     }
 }
