@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 74 ✅  
+- Easy: 75 ✅  
 - Medium: 4 ⚡  
 - Hard: 0 🔥  
-- **Total: 78**
+- **Total: 79**
 
 ---
 
@@ -52,6 +52,7 @@
 | 387 | [First Unique Character In A String](https://leetcode.com/problems/first-unique-character-in-a-string) | [Java](0387-first-unique-character-in-a-string) | Easy |
 | 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence) | [Java](0392-is-subsequence) | Easy |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz) | [Java](0412-fizz-buzz) | Easy |
+| 414 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number) | [Java](0414-third-maximum-number) | Easy |
 | 415 | [Add Strings](https://leetcode.com/problems/add-strings) | [Java](0415-add-strings) | Easy |
 | 506 | [Relative Ranks](https://leetcode.com/problems/relative-ranks) | [Java](0506-relative-ranks) | Easy |
 | 541 | [Reverse String II](https://leetcode.com/problems/reverse-string-ii) | [Java](0541-reverse-string-ii) | Easy |
@@ -92,15 +93,3 @@
 | 2752 | [Sum Multiples](https://leetcode.com/problems/sum-multiples) | [Java](2752-sum-multiples) | Easy |
 | 2777 | [Find The Distinct Difference Array](https://leetcode.com/problems/find-the-distinct-difference-array) | [Java](2777-find-the-distinct-difference-array) | Easy |
 | 3309 | [Count Prefix And Suffix Pairs I](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i) | [Java](3309-count-prefix-and-suffix-pairs-i) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0414-third-maximum-number](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0414-third-maximum-number) |
-## Sorting
-|  |
-| ------- |
-| [0414-third-maximum-number](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0414-third-maximum-number) |
-<!---LeetCode Topics End-->
