@@ -7,23 +7,22 @@ class Solution {
         }
 
         int longestPalindrome = 0;
-        boolean takenWithoutPair = false;
+        int unnecessary = 0;
         for (char c : s.toCharArray()) {
             if (letters.get(c) == null) {
                 continue;
             }
-            
+
             if (letters.get(c) % 2 == 0) {
                 longestPalindrome += letters.get(c);
-            } else if (letters.get(c) % 2 != 0 && !takenWithoutPair) {
-                longestPalindrome += letters.get(c);
-                takenWithoutPair = true;
-            } else if (letters.get(c) % 2 != 0 && letters.get(c) != 1) {
+            } else {
                 longestPalindrome += letters.get(c) - 1;
+                unnecessary++;
             }
+    
             letters.remove(c);
         }
 
-        return longestPalindrome;
+        return unnecessary > 0 ? longestPalindrome + 1 : longestPalindrome;
     }
 }
