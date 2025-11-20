@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 76 ✅  
+- Easy: 77 ✅  
 - Medium: 4 ⚡  
 - Hard: 0 🔥  
-- **Total: 80**
+- **Total: 81**
 
 ---
 
@@ -58,6 +58,7 @@
 | 506 | [Relative Ranks](https://leetcode.com/problems/relative-ranks) | [Java](0506-relative-ranks) | Easy |
 | 541 | [Reverse String II](https://leetcode.com/problems/reverse-string-ii) | [Java](0541-reverse-string-ii) | Easy |
 | 557 | [Reverse Words In A String III](https://leetcode.com/problems/reverse-words-in-a-string-iii) | [Java](0557-reverse-words-in-a-string-iii) | Easy |
+| 561 | [Array Partition](https://leetcode.com/problems/array-partition) | [Java](0561-array-partition) | Easy |
 | 575 | [Distribute Candies](https://leetcode.com/problems/distribute-candies) | [Java](0575-distribute-candies) | Easy |
 | 645 | [Set Mismatch](https://leetcode.com/problems/set-mismatch) | [Java](0645-set-mismatch) | Easy |
 | 657 | [Robot Return To Origin](https://leetcode.com/problems/robot-return-to-origin) | [Java](0657-robot-return-to-origin) | Easy |
@@ -94,23 +95,3 @@
 | 2752 | [Sum Multiples](https://leetcode.com/problems/sum-multiples) | [Java](2752-sum-multiples) | Easy |
 | 2777 | [Find The Distinct Difference Array](https://leetcode.com/problems/find-the-distinct-difference-array) | [Java](2777-find-the-distinct-difference-array) | Easy |
 | 3309 | [Count Prefix And Suffix Pairs I](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i) | [Java](3309-count-prefix-and-suffix-pairs-i) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0561-array-partition](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0561-array-partition) |
-## Greedy
-|  |
-| ------- |
-| [0561-array-partition](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0561-array-partition) |
-## Sorting
-|  |
-| ------- |
-| [0561-array-partition](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0561-array-partition) |
-## Counting Sort
-|  |
-| ------- |
-| [0561-array-partition](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0561-array-partition) |
-<!---LeetCode Topics End-->
