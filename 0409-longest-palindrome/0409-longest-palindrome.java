@@ -7,22 +7,16 @@ class Solution {
         }
 
         int longestPalindrome = 0;
-        int unnecessary = 0;
-        for (char c : s.toCharArray()) {
-            if (letters.get(c) == null) {
-                continue;
-            }
-
-            if (letters.get(c) % 2 == 0) {
-                longestPalindrome += letters.get(c);
+        boolean extra = false;
+        for (Character key : letters.keySet()) {
+            if (letters.get(key) % 2 == 0) {
+                longestPalindrome += letters.get(key);
             } else {
-                longestPalindrome += letters.get(c) - 1;
-                unnecessary++;
+                longestPalindrome += letters.get(key) - 1;
+                extra = true;
             }
-    
-            letters.remove(c);
         }
 
-        return unnecessary > 0 ? longestPalindrome + 1 : longestPalindrome;
+        return extra ? longestPalindrome + 1 : longestPalindrome;
     }
 }
