@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 77 ✅  
+- Easy: 78 ✅  
 - Medium: 4 ⚡  
 - Hard: 0 🔥  
-- **Total: 81**
+- **Total: 82**
 
 ---
 
@@ -80,6 +80,7 @@
 | 1454 | [Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences) | [Java](1454-remove-palindromic-subsequences) | Easy |
 | 1505 | [Create Target Array In The Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order) | [Java](1505-create-target-array-in-the-given-order) | Easy |
 | 1566 | [Check If A Word Occurs As A Prefix Of Any Word In A Sentence](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) | [Java](1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) | Easy |
+| 1603 | [Design Parking System](https://leetcode.com/problems/design-parking-system) | [Java](1603-design-parking-system) | Easy |
 | 1642 | [Water Bottles](https://leetcode.com/problems/water-bottles) | [Java](1642-water-bottles) | Easy |
 | 2093 | [Check If String Is A Prefix Of Array](https://leetcode.com/problems/check-if-string-is-a-prefix-of-array) | [Java](2093-check-if-string-is-a-prefix-of-array) | Easy |
 | 2102 | [Find The Middle Index In Array](https://leetcode.com/problems/find-the-middle-index-in-array) | [Java](2102-find-the-middle-index-in-array) | Easy |
@@ -95,19 +96,3 @@
 | 2752 | [Sum Multiples](https://leetcode.com/problems/sum-multiples) | [Java](2752-sum-multiples) | Easy |
 | 2777 | [Find The Distinct Difference Array](https://leetcode.com/problems/find-the-distinct-difference-array) | [Java](2777-find-the-distinct-difference-array) | Easy |
 | 3309 | [Count Prefix And Suffix Pairs I](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i) | [Java](3309-count-prefix-and-suffix-pairs-i) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Design
-|  |
-| ------- |
-| [1603-design-parking-system](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1603-design-parking-system) |
-## Simulation
-|  |
-| ------- |
-| [1603-design-parking-system](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1603-design-parking-system) |
-## Counting
-|  |
-| ------- |
-| [1603-design-parking-system](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1603-design-parking-system) |
-<!---LeetCode Topics End-->
