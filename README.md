@@ -97,3 +97,15 @@
 | 2777 | [Find The Distinct Difference Array](https://leetcode.com/problems/find-the-distinct-difference-array) | [Java](2777-find-the-distinct-difference-array) | Easy |
 | 3309 | [Count Prefix And Suffix Pairs I](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i) | [Java](3309-count-prefix-and-suffix-pairs-i) | Easy |
 | 3498 | [Reverse Degree Of A String](https://leetcode.com/problems/reverse-degree-of-a-string) | [Java](3498-reverse-degree-of-a-string) | Easy |
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0495-teemo-attacking](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0495-teemo-attacking) |
+## Simulation
+|  |
+| ------- |
+| [0495-teemo-attacking](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0495-teemo-attacking) |
+<!---LeetCode Topics End-->
