@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 79 ✅  
+- Easy: 80 ✅  
 - Medium: 4 ⚡  
 - Hard: 0 🔥  
-- **Total: 83**
+- **Total: 84**
 
 ---
 
@@ -55,6 +55,7 @@
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz) | [Java](0412-fizz-buzz) | Easy |
 | 414 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number) | [Java](0414-third-maximum-number) | Easy |
 | 415 | [Add Strings](https://leetcode.com/problems/add-strings) | [Java](0415-add-strings) | Easy |
+| 495 | [Teemo Attacking](https://leetcode.com/problems/teemo-attacking) | [Java](0495-teemo-attacking) | Easy |
 | 506 | [Relative Ranks](https://leetcode.com/problems/relative-ranks) | [Java](0506-relative-ranks) | Easy |
 | 541 | [Reverse String II](https://leetcode.com/problems/reverse-string-ii) | [Java](0541-reverse-string-ii) | Easy |
 | 557 | [Reverse Words In A String III](https://leetcode.com/problems/reverse-words-in-a-string-iii) | [Java](0557-reverse-words-in-a-string-iii) | Easy |
@@ -97,15 +98,3 @@
 | 2777 | [Find The Distinct Difference Array](https://leetcode.com/problems/find-the-distinct-difference-array) | [Java](2777-find-the-distinct-difference-array) | Easy |
 | 3309 | [Count Prefix And Suffix Pairs I](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i) | [Java](3309-count-prefix-and-suffix-pairs-i) | Easy |
 | 3498 | [Reverse Degree Of A String](https://leetcode.com/problems/reverse-degree-of-a-string) | [Java](3498-reverse-degree-of-a-string) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0495-teemo-attacking](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0495-teemo-attacking) |
-## Simulation
-|  |
-| ------- |
-| [0495-teemo-attacking](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0495-teemo-attacking) |
-<!---LeetCode Topics End-->
