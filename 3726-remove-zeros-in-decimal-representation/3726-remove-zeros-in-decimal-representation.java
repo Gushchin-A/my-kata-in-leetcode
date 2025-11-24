@@ -1,18 +1,17 @@
 class Solution {
     public long removeZeros(long n) {
-        if (n < 10) {
-            return n;
-        }
+        long result = 0;
+        long placeValue = 1;
 
-        StringBuilder temp = new StringBuilder();
         while (n > 0) {
             long digit = n % 10;
             if (digit != 0) {
-                temp.append(digit);
+                result += digit * placeValue;
+                placeValue *= 10;
             }
             n = n / 10;
         }
 
-        return Long.parseLong(temp.reverse().toString());
+        return result;
     }
 }
