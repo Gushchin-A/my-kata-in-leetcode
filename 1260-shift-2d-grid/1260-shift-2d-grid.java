@@ -4,10 +4,11 @@ class Solution {
         int cols = grid[0].length;
         int totalLength = rows * cols;
 
+        k = k % totalLength;
         int[] flattenGrid = flatten(grid);
+        
         int[] flattenSwapIndex = new int[totalLength];
         for (int i = 0; i < totalLength; i++) {
-            k = k % totalLength;
             int newIndex = (i + k) % totalLength;
             flattenSwapIndex[newIndex] = flattenGrid[i];
         }
