@@ -7,6 +7,7 @@ class Solution {
         int[] flattenGrid = flatten(grid);
         int[] flattenSwapIndex = new int[totalLength];
         for (int i = 0; i < totalLength; i++) {
+            k = k % totalLength;
             int newIndex = (i + k) % totalLength;
             flattenSwapIndex[newIndex] = flattenGrid[i];
         }
