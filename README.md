@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 82 ✅  
+- Easy: 83 ✅  
 - Medium: 4 ⚡  
 - Hard: 0 🔥  
-- **Total: 86**
+- **Total: 87**
 
 ---
 
@@ -77,6 +77,7 @@
 | 1041 | [Available Captures For Rook](https://leetcode.com/problems/available-captures-for-rook) | [Java](1041-available-captures-for-rook) | Easy |
 | 1062 | [Partition Array Into Three Parts With Equal Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum) | [Java](1062-partition-array-into-three-parts-with-equal-sum) | Easy |
 | 1241 | [Decompress Run Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list) | [Java](1241-decompress-run-length-encoded-list) | Easy |
+| 1260 | [Shift 2d Grid](https://leetcode.com/problems/shift-2d-grid) | [Java](1260-shift-2d-grid) | Easy |
 | 1411 | [Convert Binary Number In A Linked List To Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer) | [Java](1411-convert-binary-number-in-a-linked-list-to-integer) | Easy |
 | 1444 | [Number Of Steps To Reduce A Number To Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero) | [Java](1444-number-of-steps-to-reduce-a-number-to-zero) | Easy |
 | 1454 | [Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences) | [Java](1454-remove-palindromic-subsequences) | Easy |
@@ -100,19 +101,3 @@
 | 3309 | [Count Prefix And Suffix Pairs I](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i) | [Java](3309-count-prefix-and-suffix-pairs-i) | Easy |
 | 3498 | [Reverse Degree Of A String](https://leetcode.com/problems/reverse-degree-of-a-string) | [Java](3498-reverse-degree-of-a-string) | Easy |
 | 3726 | [Remove Zeros In Decimal Representation](https://leetcode.com/problems/remove-zeros-in-decimal-representation) | [Java](3726-remove-zeros-in-decimal-representation) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [1260-shift-2d-grid](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1260-shift-2d-grid) |
-## Matrix
-|  |
-| ------- |
-| [1260-shift-2d-grid](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1260-shift-2d-grid) |
-## Simulation
-|  |
-| ------- |
-| [1260-shift-2d-grid](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1260-shift-2d-grid) |
-<!---LeetCode Topics End-->
