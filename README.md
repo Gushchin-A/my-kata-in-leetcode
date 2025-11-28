@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 84 ✅  
+- Easy: 85 ✅  
 - Medium: 4 ⚡  
 - Hard: 0 🔥  
-- **Total: 88**
+- **Total: 89**
 
 ---
 
@@ -99,26 +99,7 @@
 | 2714 | [Left And Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences) | [Java](2714-left-and-right-sum-differences) | Easy |
 | 2752 | [Sum Multiples](https://leetcode.com/problems/sum-multiples) | [Java](2752-sum-multiples) | Easy |
 | 2777 | [Find The Distinct Difference Array](https://leetcode.com/problems/find-the-distinct-difference-array) | [Java](2777-find-the-distinct-difference-array) | Easy |
+| 3304 | [Find The K Th Character In String Game I](https://leetcode.com/problems/find-the-k-th-character-in-string-game-i) | [Java](3304-find-the-k-th-character-in-string-game-i) | Easy |
 | 3309 | [Count Prefix And Suffix Pairs I](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i) | [Java](3309-count-prefix-and-suffix-pairs-i) | Easy |
 | 3498 | [Reverse Degree Of A String](https://leetcode.com/problems/reverse-degree-of-a-string) | [Java](3498-reverse-degree-of-a-string) | Easy |
 | 3726 | [Remove Zeros In Decimal Representation](https://leetcode.com/problems/remove-zeros-in-decimal-representation) | [Java](3726-remove-zeros-in-decimal-representation) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-|  |
-| ------- |
-| [3304-find-the-k-th-character-in-string-game-i](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
-## Bit Manipulation
-|  |
-| ------- |
-| [3304-find-the-k-th-character-in-string-game-i](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
-## Recursion
-|  |
-| ------- |
-| [3304-find-the-k-th-character-in-string-game-i](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
-## Simulation
-|  |
-| ------- |
-| [3304-find-the-k-th-character-in-string-game-i](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
-<!---LeetCode Topics End-->
