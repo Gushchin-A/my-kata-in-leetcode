@@ -4,17 +4,17 @@ class Solution {
         int[] result = new int[n];
 
         int index = 0;
-        for (int i = 0; i < n; i++) {
-            if (nums[i] % 2 == 0) {
-                result[index] = nums[i];
+        for (int num : nums) {
+            if (num % 2 == 0) {
+                result[index] = num;
                 index += 2;
             }
         }
 
         index = 1;
-        for (int i = 0; i < n; i++) {
-            if (nums[i] % 2 != 0) {
-                result[index] = nums[i];
+        for (int num : nums) {
+            if (num % 2 != 0) {
+                result[index] = num;
                 index += 2;
             }
         }
