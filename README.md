@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 87 ✅  
+- Easy: 88 ✅  
 - Medium: 4 ⚡  
 - Hard: 0 🔥  
-- **Total: 91**
+- **Total: 92**
 
 ---
 
@@ -74,6 +74,7 @@
 | 874 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare) | [Java](0874-backspace-string-compare) | Easy |
 | 905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity) | [Java](0905-sort-array-by-parity) | Easy |
 | 908 | [Middle Of The Linked List](https://leetcode.com/problems/middle-of-the-linked-list) | [Java](0908-middle-of-the-linked-list) | Easy |
+| 922 | [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii) | [Java](0922-sort-array-by-parity-ii) | Easy |
 | 979 | [Di String Match](https://leetcode.com/problems/di-string-match) | [Java](0979-di-string-match) | Easy |
 | 1019 | [Squares Of A Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array) | [Java](1019-squares-of-a-sorted-array) | Easy |
 | 1031 | [Add To Array Form Of Integer](https://leetcode.com/problems/add-to-array-form-of-integer) | [Java](1031-add-to-array-form-of-integer) | Easy |
@@ -105,19 +106,3 @@
 | 3309 | [Count Prefix And Suffix Pairs I](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i) | [Java](3309-count-prefix-and-suffix-pairs-i) | Easy |
 | 3498 | [Reverse Degree Of A String](https://leetcode.com/problems/reverse-degree-of-a-string) | [Java](3498-reverse-degree-of-a-string) | Easy |
 | 3726 | [Remove Zeros In Decimal Representation](https://leetcode.com/problems/remove-zeros-in-decimal-representation) | [Java](3726-remove-zeros-in-decimal-representation) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0922-sort-array-by-parity-ii](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0922-sort-array-by-parity-ii) |
-## Two Pointers
-|  |
-| ------- |
-| [0922-sort-array-by-parity-ii](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0922-sort-array-by-parity-ii) |
-## Sorting
-|  |
-| ------- |
-| [0922-sort-array-by-parity-ii](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0922-sort-array-by-parity-ii) |
-<!---LeetCode Topics End-->
