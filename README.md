@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 88 ✅  
+- Easy: 89 ✅  
 - Medium: 4 ⚡  
 - Hard: 0 🔥  
-- **Total: 92**
+- **Total: 93**
 
 ---
 
@@ -61,6 +61,7 @@
 | 541 | [Reverse String II](https://leetcode.com/problems/reverse-string-ii) | [Java](0541-reverse-string-ii) | Easy |
 | 557 | [Reverse Words In A String III](https://leetcode.com/problems/reverse-words-in-a-string-iii) | [Java](0557-reverse-words-in-a-string-iii) | Easy |
 | 561 | [Array Partition](https://leetcode.com/problems/array-partition) | [Java](0561-array-partition) | Easy |
+| 566 | [Reshape The Matrix](https://leetcode.com/problems/reshape-the-matrix) | [Java](0566-reshape-the-matrix) | Easy |
 | 575 | [Distribute Candies](https://leetcode.com/problems/distribute-candies) | [Java](0575-distribute-candies) | Easy |
 | 645 | [Set Mismatch](https://leetcode.com/problems/set-mismatch) | [Java](0645-set-mismatch) | Easy |
 | 657 | [Robot Return To Origin](https://leetcode.com/problems/robot-return-to-origin) | [Java](0657-robot-return-to-origin) | Easy |
@@ -106,19 +107,3 @@
 | 3309 | [Count Prefix And Suffix Pairs I](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i) | [Java](3309-count-prefix-and-suffix-pairs-i) | Easy |
 | 3498 | [Reverse Degree Of A String](https://leetcode.com/problems/reverse-degree-of-a-string) | [Java](3498-reverse-degree-of-a-string) | Easy |
 | 3726 | [Remove Zeros In Decimal Representation](https://leetcode.com/problems/remove-zeros-in-decimal-representation) | [Java](3726-remove-zeros-in-decimal-representation) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0566-reshape-the-matrix](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0566-reshape-the-matrix) |
-## Matrix
-|  |
-| ------- |
-| [0566-reshape-the-matrix](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0566-reshape-the-matrix) |
-## Simulation
-|  |
-| ------- |
-| [0566-reshape-the-matrix](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0566-reshape-the-matrix) |
-<!---LeetCode Topics End-->
