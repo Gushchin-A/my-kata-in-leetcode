@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 90 ✅  
+- Easy: 91 ✅  
 - Medium: 4 ⚡  
 - Hard: 0 🔥  
-- **Total: 94**
+- **Total: 95**
 
 ---
 
@@ -68,6 +68,7 @@
 | 680 | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii) | [Java](0680-valid-palindrome-ii) | Easy |
 | 682 | [Baseball Game](https://leetcode.com/problems/baseball-game) | [Java](0682-baseball-game) | Easy |
 | 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index) | [Java](0724-find-pivot-index) | Easy |
+| 733 | [Flood Fill](https://leetcode.com/problems/flood-fill) | [Java](0733-flood-fill) | Easy |
 | 822 | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words) | [Java](0822-unique-morse-code-words) | Easy |
 | 832 | [Flipping An Image](https://leetcode.com/problems/flipping-an-image) | [Java](0832-flipping-an-image) | Easy |
 | 841 | [Shortest Distance To A Character](https://leetcode.com/problems/shortest-distance-to-a-character) | [Java](0841-shortest-distance-to-a-character) | Easy |
@@ -108,23 +109,3 @@
 | 3309 | [Count Prefix And Suffix Pairs I](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i) | [Java](3309-count-prefix-and-suffix-pairs-i) | Easy |
 | 3498 | [Reverse Degree Of A String](https://leetcode.com/problems/reverse-degree-of-a-string) | [Java](3498-reverse-degree-of-a-string) | Easy |
 | 3726 | [Remove Zeros In Decimal Representation](https://leetcode.com/problems/remove-zeros-in-decimal-representation) | [Java](3726-remove-zeros-in-decimal-representation) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0733-flood-fill](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0733-flood-fill) |
-## Depth-First Search
-|  |
-| ------- |
-| [0733-flood-fill](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0733-flood-fill) |
-## Breadth-First Search
-|  |
-| ------- |
-| [0733-flood-fill](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0733-flood-fill) |
-## Matrix
-|  |
-| ------- |
-| [0733-flood-fill](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0733-flood-fill) |
-<!---LeetCode Topics End-->
