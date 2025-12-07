@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 92 ✅  
+- Easy: 93 ✅  
 - Medium: 4 ⚡  
 - Hard: 0 🔥  
-- **Total: 96**
+- **Total: 97**
 
 ---
 
@@ -69,6 +69,7 @@
 | 682 | [Baseball Game](https://leetcode.com/problems/baseball-game) | [Java](0682-baseball-game) | Easy |
 | 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index) | [Java](0724-find-pivot-index) | Easy |
 | 733 | [Flood Fill](https://leetcode.com/problems/flood-fill) | [Java](0733-flood-fill) | Easy |
+| 747 | [Largest Number At Least Twice Of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others) | [Java](0747-largest-number-at-least-twice-of-others) | Easy |
 | 822 | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words) | [Java](0822-unique-morse-code-words) | Easy |
 | 832 | [Flipping An Image](https://leetcode.com/problems/flipping-an-image) | [Java](0832-flipping-an-image) | Easy |
 | 841 | [Shortest Distance To A Character](https://leetcode.com/problems/shortest-distance-to-a-character) | [Java](0841-shortest-distance-to-a-character) | Easy |
@@ -110,15 +111,3 @@
 | 3309 | [Count Prefix And Suffix Pairs I](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i) | [Java](3309-count-prefix-and-suffix-pairs-i) | Easy |
 | 3498 | [Reverse Degree Of A String](https://leetcode.com/problems/reverse-degree-of-a-string) | [Java](3498-reverse-degree-of-a-string) | Easy |
 | 3726 | [Remove Zeros In Decimal Representation](https://leetcode.com/problems/remove-zeros-in-decimal-representation) | [Java](3726-remove-zeros-in-decimal-representation) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0747-largest-number-at-least-twice-of-others](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
-## Sorting
-|  |
-| ------- |
-| [0747-largest-number-at-least-twice-of-others](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
-<!---LeetCode Topics End-->
