@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 93 ✅  
+- Easy: 94 ✅  
 - Medium: 4 ⚡  
 - Hard: 0 🔥  
-- **Total: 97**
+- **Total: 98**
 
 ---
 
@@ -46,6 +46,7 @@
 | 258 | [Add Digits](https://leetcode.com/problems/add-digits) | [Java](0258-add-digits) | Easy |
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number) | [Java](0268-missing-number) | Easy |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes) | [Java](0283-move-zeroes) | Easy |
+| 292 | [Nim Game](https://leetcode.com/problems/nim-game) | [Java](0292-nim-game) | Easy |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string) | [Java](0344-reverse-string) | Easy |
 | 349 | [Intersection Of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays) | [Java](0349-intersection-of-two-arrays) | Easy |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note) | [Java](0383-ransom-note) | Easy |
@@ -111,19 +112,3 @@
 | 3309 | [Count Prefix And Suffix Pairs I](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i) | [Java](3309-count-prefix-and-suffix-pairs-i) | Easy |
 | 3498 | [Reverse Degree Of A String](https://leetcode.com/problems/reverse-degree-of-a-string) | [Java](3498-reverse-degree-of-a-string) | Easy |
 | 3726 | [Remove Zeros In Decimal Representation](https://leetcode.com/problems/remove-zeros-in-decimal-representation) | [Java](3726-remove-zeros-in-decimal-representation) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-|  |
-| ------- |
-| [0292-nim-game](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0292-nim-game) |
-## Brainteaser
-|  |
-| ------- |
-| [0292-nim-game](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0292-nim-game) |
-## Game Theory
-|  |
-| ------- |
-| [0292-nim-game](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0292-nim-game) |
-<!---LeetCode Topics End-->
