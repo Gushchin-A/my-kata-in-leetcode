@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 94 ✅  
+- Easy: 95 ✅  
 - Medium: 4 ⚡  
 - Hard: 0 🔥  
-- **Total: 98**
+- **Total: 99**
 
 ---
 
@@ -32,6 +32,7 @@
 | 67 | [Add Binary](https://leetcode.com/problems/add-binary) | [Java](0067-add-binary) | Easy |
 | 83 | [Remove Duplicates From Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list) | [Java](0083-remove-duplicates-from-sorted-list) | Easy |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | [Java](0088-merge-sorted-array) | Easy |
+| 118 | [Pascals Triangle](https://leetcode.com/problems/pascals-triangle) | [Java](0118-pascals-triangle) | Easy |
 | 121 | [Best Time To Buy And Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | [Java](0121-best-time-to-buy-and-sell-stock) | Easy |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | [Java](0125-valid-palindrome) | Easy |
 | 136 | [Single Number](https://leetcode.com/problems/single-number) | [Java](0136-single-number) | Easy |
@@ -112,15 +113,3 @@
 | 3309 | [Count Prefix And Suffix Pairs I](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i) | [Java](3309-count-prefix-and-suffix-pairs-i) | Easy |
 | 3498 | [Reverse Degree Of A String](https://leetcode.com/problems/reverse-degree-of-a-string) | [Java](3498-reverse-degree-of-a-string) | Easy |
 | 3726 | [Remove Zeros In Decimal Representation](https://leetcode.com/problems/remove-zeros-in-decimal-representation) | [Java](3726-remove-zeros-in-decimal-representation) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0118-pascals-triangle](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0118-pascals-triangle) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0118-pascals-triangle](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0118-pascals-triangle) |
-<!---LeetCode Topics End-->
