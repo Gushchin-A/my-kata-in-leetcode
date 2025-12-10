@@ -2,8 +2,17 @@ class NumArray {
     private final int[] nums;
 
     public NumArray(int[] nums) {
-        this.nums = new int[nums.length];
-        System.arraycopy(nums, 0, this.nums, 0, nums.length);
+        int[] temp = new int[nums.length + 1];
+        
+        temp[0] = 0;
+        int indexTemp = 1;
+        int sum = 0;
+        for (int i = 0; i < nums.length; i++) {
+            temp[indexTemp++] = nums[i] + sum;
+            sum += nums[i];
+        }
+
+        this.nums = temp;
     }
     
     public int sumRange(int left, int right) {
@@ -11,13 +20,7 @@ class NumArray {
             throw new IllegalArgumentException("Left must be >= 0. Right must <= last element");
         }
         
-        int sum = 0;
-
-        for (int i = left; i <= right; i++) {
-            sum += nums[i];
-        }
-
-        return sum;
+        return nums[right + 1] - nums[left];
     }
 }
 
