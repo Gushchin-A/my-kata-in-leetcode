@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 95 ✅  
+- Easy: 96 ✅  
 - Medium: 4 ⚡  
 - Hard: 0 🔥  
-- **Total: 99**
+- **Total: 100**
 
 ---
 
@@ -48,6 +48,7 @@
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number) | [Java](0268-missing-number) | Easy |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes) | [Java](0283-move-zeroes) | Easy |
 | 292 | [Nim Game](https://leetcode.com/problems/nim-game) | [Java](0292-nim-game) | Easy |
+| 303 | [Range Sum Query Immutable](https://leetcode.com/problems/range-sum-query-immutable) | [Java](0303-range-sum-query-immutable) | Easy |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string) | [Java](0344-reverse-string) | Easy |
 | 349 | [Intersection Of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays) | [Java](0349-intersection-of-two-arrays) | Easy |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note) | [Java](0383-ransom-note) | Easy |
@@ -113,19 +114,3 @@
 | 3309 | [Count Prefix And Suffix Pairs I](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i) | [Java](3309-count-prefix-and-suffix-pairs-i) | Easy |
 | 3498 | [Reverse Degree Of A String](https://leetcode.com/problems/reverse-degree-of-a-string) | [Java](3498-reverse-degree-of-a-string) | Easy |
 | 3726 | [Remove Zeros In Decimal Representation](https://leetcode.com/problems/remove-zeros-in-decimal-representation) | [Java](3726-remove-zeros-in-decimal-representation) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0303-range-sum-query-immutable](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0303-range-sum-query-immutable) |
-## Design
-|  |
-| ------- |
-| [0303-range-sum-query-immutable](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0303-range-sum-query-immutable) |
-## Prefix Sum
-|  |
-| ------- |
-| [0303-range-sum-query-immutable](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0303-range-sum-query-immutable) |
-<!---LeetCode Topics End-->
