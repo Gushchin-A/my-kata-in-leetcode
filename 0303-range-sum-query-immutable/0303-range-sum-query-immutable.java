@@ -16,7 +16,7 @@ class NumArray {
     }
     
     public int sumRange(int left, int right) {
-        if (left < 0 || right > nums.length - 1) {
+        if (left < 0 || right > nums.length - 2) {
             throw new IllegalArgumentException("Left must be >= 0. Right must <= last element");
         }
         
