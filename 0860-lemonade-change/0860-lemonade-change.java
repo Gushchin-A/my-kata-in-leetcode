@@ -4,31 +4,32 @@ class Solution {
             return false;
         }
 
-        int[] banknotes = new int[3];
-    
+        int five = 0;
+        int ten = 0;
+        int twenty = 0;
         for (int b : bills) {
             if (b == 5) {
-                banknotes[0] += 1; 
+                five += 1; 
             } else if (b == 10) {
-                if (banknotes[0] != 0) {
-                    banknotes[0] -= 1;
-                    banknotes[1] += 1;
+                if (five != 0) {
+                    five -= 1;
+                    ten += 1;
                 } else {
                     return false;
                 }
             } else if (b == 20) {
-                if (banknotes[1] > 0) {
-                    if (banknotes[0] > 0) {
-                    banknotes[0] -= 1;
-                    banknotes[1] -= 1;
-                    banknotes[2] += 1;
+                if (ten > 0) {
+                    if (five > 0) {
+                    five -= 1;
+                    ten -= 1;
+                    twenty += 1;
                     } else {
                         return false;
                     }
                 } else {
-                    if (banknotes[0] >= 3) {
-                        banknotes[0] -= 3;
-                        banknotes[2] += 1;
+                    if (five >= 3) {
+                        five -= 3;
+                        twenty += 1;
                     } else {
                         return false;
                     }
