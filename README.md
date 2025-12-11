@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 96 ✅  
+- Easy: 97 ✅  
 - Medium: 4 ⚡  
 - Hard: 0 🔥  
-- **Total: 100**
+- **Total: 101**
 
 ---
 
@@ -76,6 +76,7 @@
 | 822 | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words) | [Java](0822-unique-morse-code-words) | Easy |
 | 832 | [Flipping An Image](https://leetcode.com/problems/flipping-an-image) | [Java](0832-flipping-an-image) | Easy |
 | 841 | [Shortest Distance To A Character](https://leetcode.com/problems/shortest-distance-to-a-character) | [Java](0841-shortest-distance-to-a-character) | Easy |
+| 860 | [Lemonade Change](https://leetcode.com/problems/lemonade-change) | [Java](0860-lemonade-change) | Easy |
 | 867 | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix) | [Java](0867-transpose-matrix) | Easy |
 | 874 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare) | [Java](0874-backspace-string-compare) | Easy |
 | 905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity) | [Java](0905-sort-array-by-parity) | Easy |
@@ -114,15 +115,3 @@
 | 3309 | [Count Prefix And Suffix Pairs I](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i) | [Java](3309-count-prefix-and-suffix-pairs-i) | Easy |
 | 3498 | [Reverse Degree Of A String](https://leetcode.com/problems/reverse-degree-of-a-string) | [Java](3498-reverse-degree-of-a-string) | Easy |
 | 3726 | [Remove Zeros In Decimal Representation](https://leetcode.com/problems/remove-zeros-in-decimal-representation) | [Java](3726-remove-zeros-in-decimal-representation) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0860-lemonade-change](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0860-lemonade-change) |
-## Greedy
-|  |
-| ------- |
-| [0860-lemonade-change](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0860-lemonade-change) |
-<!---LeetCode Topics End-->
