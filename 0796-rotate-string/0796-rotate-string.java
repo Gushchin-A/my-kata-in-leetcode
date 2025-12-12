@@ -1,33 +1,28 @@
 class Solution {
     public boolean rotateString(String s, String goal) {
-        if (s.length() > goal.length() || s.length() < goal.length()) {
+        int n = goal.length();
+
+        if (n != s.length()) {
             return false;
         }
 
-        if (s.equals(goal)) {
-            return true;
-        }
+        for (int shift = 0; shift < n; shift++) {
+            boolean match = true;
 
-        int i = 0;
-        while (i < goal.length()) {
-            s = rotateLeftByOne(s);
-            if (s.equals(goal)) {
+            for (int i = 0; i < n; i++) {
+                char shiftChar = s.charAt((i + shift) % s.length());
+                char goalChar = goal.charAt(i);
+                if (shiftChar != goalChar) {
+                    match = false;
+                    break;
+                }
+            }
+
+            if (match) {
                 return true;
             }
-            i++;
         }
 
         return false;
-    }
-
-    public static String rotateLeftByOne(String s) {
-        StringBuilder result = new StringBuilder();
-
-        for (int i = 0; i < s.length(); i++) {
-            int newIndex = (i + 1) % s.length();
-            result.append(s.charAt(newIndex));
-        }
-
-        return result.toString();
     }
 }
