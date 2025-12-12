@@ -1,10 +1,16 @@
 class Solution {
     public boolean rotateString(String s, String goal) {
-        int n = goal.length();
+        if (s.length() > goal.length() || s.length() < goal.length()) {
+            return false;
+        }
+
+        if (s.equals(goal)) {
+            return true;
+        }
 
         int i = 0;
-        while (i < n) {
-            s = pleaseHelpMeShiftString(s);
+        while (i < goal.length()) {
+            s = rotateLeftByOne(s);
             if (s.equals(goal)) {
                 return true;
             }
@@ -14,7 +20,7 @@ class Solution {
         return false;
     }
 
-    public String pleaseHelpMeShiftString(String s) {
+    public static String rotateLeftByOne(String s) {
         StringBuilder result = new StringBuilder();
 
         for (int i = 0; i < s.length(); i++) {
