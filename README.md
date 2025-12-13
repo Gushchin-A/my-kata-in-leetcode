@@ -4,9 +4,9 @@
 #### 📊 Progress
 
 - Easy: 98 ✅  
-- Medium: 4 ⚡  
+- Medium: 5 ⚡  
 - Hard: 0 🔥  
-- **Total: 102**
+- **Total: 103**
 
 ---
 
@@ -108,6 +108,7 @@
 | 2288 | [Count Operations To Obtain Zero](https://leetcode.com/problems/count-operations-to-obtain-zero) | [Java](2288-count-operations-to-obtain-zero) | Easy |
 | 2292 | [Counting Words With A Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix) | [Java](2292-counting-words-with-a-given-prefix) | Easy |
 | 2341 | [Count Prefixes Of A Given String](https://leetcode.com/problems/count-prefixes-of-a-given-string) | [Java](2341-count-prefixes-of-a-given-string) | Easy |
+| 2517 | [Maximum Tastiness Of Candy Basket](https://leetcode.com/problems/maximum-tastiness-of-candy-basket) | [Java](2517-maximum-tastiness-of-candy-basket) | Medium |
 | 2698 | [Find The Array Concatenation Value](https://leetcode.com/problems/find-the-array-concatenation-value) | [Java](2698-find-the-array-concatenation-value) | Easy |
 | 2714 | [Left And Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences) | [Java](2714-left-and-right-sum-differences) | Easy |
 | 2752 | [Sum Multiples](https://leetcode.com/problems/sum-multiples) | [Java](2752-sum-multiples) | Easy |
@@ -116,23 +117,3 @@
 | 3309 | [Count Prefix And Suffix Pairs I](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i) | [Java](3309-count-prefix-and-suffix-pairs-i) | Easy |
 | 3498 | [Reverse Degree Of A String](https://leetcode.com/problems/reverse-degree-of-a-string) | [Java](3498-reverse-degree-of-a-string) | Easy |
 | 3726 | [Remove Zeros In Decimal Representation](https://leetcode.com/problems/remove-zeros-in-decimal-representation) | [Java](3726-remove-zeros-in-decimal-representation) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [2517-maximum-tastiness-of-candy-basket](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2517-maximum-tastiness-of-candy-basket) |
-## Binary Search
-|  |
-| ------- |
-| [2517-maximum-tastiness-of-candy-basket](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2517-maximum-tastiness-of-candy-basket) |
-## Greedy
-|  |
-| ------- |
-| [2517-maximum-tastiness-of-candy-basket](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2517-maximum-tastiness-of-candy-basket) |
-## Sorting
-|  |
-| ------- |
-| [2517-maximum-tastiness-of-candy-basket](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2517-maximum-tastiness-of-candy-basket) |
-<!---LeetCode Topics End-->
