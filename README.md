@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 99 ✅  
+- Easy: 100 ✅  
 - Medium: 5 ⚡  
 - Hard: 0 🔥  
-- **Total: 104**
+- **Total: 105**
 
 ---
 
@@ -39,6 +39,7 @@
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | [Java](0141-linked-list-cycle) | Easy |
 | 160 | [Intersection Of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) | [Java](0160-intersection-of-two-linked-lists) | Easy |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element) | [Java](0169-majority-element) | Easy |
+| 171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number) | [Java](0171-excel-sheet-column-number) | Easy |
 | 202 | [Happy Number](https://leetcode.com/problems/happy-number) | [Java](0202-happy-number) | Easy |
 | 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements) | [Java](0203-remove-linked-list-elements) | Easy |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | [Java](0206-reverse-linked-list) | Easy |
@@ -118,15 +119,3 @@
 | 3309 | [Count Prefix And Suffix Pairs I](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i) | [Java](3309-count-prefix-and-suffix-pairs-i) | Easy |
 | 3498 | [Reverse Degree Of A String](https://leetcode.com/problems/reverse-degree-of-a-string) | [Java](3498-reverse-degree-of-a-string) | Easy |
 | 3726 | [Remove Zeros In Decimal Representation](https://leetcode.com/problems/remove-zeros-in-decimal-representation) | [Java](3726-remove-zeros-in-decimal-representation) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-|  |
-| ------- |
-| [0171-excel-sheet-column-number](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0171-excel-sheet-column-number) |
-## String
-|  |
-| ------- |
-| [0171-excel-sheet-column-number](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0171-excel-sheet-column-number) |
-<!---LeetCode Topics End-->
