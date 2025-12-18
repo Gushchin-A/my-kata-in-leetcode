@@ -1,16 +1,13 @@
 class Solution {
     public int minDeletionSize(String[] strs) {
-        String result = String.join("", strs);
         int wordLength = strs[0].length();
-        
+
         int willDelete = 0;
         for (int i = 0; i < wordLength; i++) {
-            for (int j = i; j < result.length() - wordLength; j++) {
-                int current = result.charAt(j) - 'a';
-                int next = result.charAt(j + wordLength) - 'a';
-                if (current <= next) {
-                    j += wordLength - 1;
-                } else {
+            for (int j = 0; j < strs.length - 1; j++) {
+                int current = strs[j].charAt(i) - 'a';
+                int next = strs[j + 1].charAt(i) - 'a';
+                if (current > next) {
                     willDelete++;
                     break;
                 }
