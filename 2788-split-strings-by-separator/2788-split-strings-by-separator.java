@@ -3,17 +3,20 @@ class Solution {
         List<String> result = new ArrayList<>();
 
         for (String w : words) {
-                int left = 0;
-                int right = 0;
-                while (right <= w.length()) {
-                    if (right == w.length() || w.charAt(right) == separator) {
-                        if (left < right) {
-                            result.add(w.substring(left, right));
-                        }
-                        left = right + 1;
+            StringBuilder word = new StringBuilder();
+            for (int i = 0; i < w.length(); i++) {
+                if (w.charAt(i) != separator) {
+                    word.append(w.charAt(i));
+                } else {
+                    if (!word.isEmpty()) {
+                        result.add(word.toString());
+                        word.setLength(0);
                     }
-                    right++;
                 }
+            }
+            if (!word.isEmpty()) {
+                result.add(word.toString());
+            }
         }
 
         return result;
