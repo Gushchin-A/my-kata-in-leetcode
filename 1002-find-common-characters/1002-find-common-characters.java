@@ -1,33 +1,22 @@
 class Solution {
     public List<String> commonChars(String[] words) {
-        Map<Character, Integer> characters = new HashMap<>();
+        Map<Character, Integer> uniq = new HashMap<>();
 
         for (char c : words[0].toCharArray()) {
-            characters.put(c, characters.getOrDefault(c, 0) + 1);
+            uniq.put(c, uniq.getOrDefault(c, 0) + 1);
         }
 
-        Map<Character, Integer> uniq = new HashMap<>(characters);
-        for (Character key : characters.keySet()) {
-            for (String w : words) {
-                if (w.indexOf(key) == -1) {
-                    uniq.remove(key);
-                }
-            }
-        }
+        for (int i = 1; i < words.length; i++) {
+            Map<Character, Integer> freq = new HashMap<>();
 
-        for (Character key : uniq.keySet()) {
-            int count = 0;
-            for (int i = 1; i < words.length; i++) {
-                for (int j = 0; j < words[i].length(); j++) {
-                    char c = words[i].charAt(j);
-                    if (key == c) {
-                        count++;
-                    }
-                }
-                int tempValue = uniq.get(key);
-                uniq.put(key, Math.min(tempValue, count));
-                count = 0;
+            for (char c : words[i].toCharArray()) {
+                freq.put(c, freq.getOrDefault(c, 0) + 1);
             }
+
+            for (Character key : uniq.keySet()) {
+                uniq.put(key, Math.min(uniq.get(key), freq.getOrDefault(key, 0)));
+            }
+
         }
 
         List<String> result = new ArrayList<>();
