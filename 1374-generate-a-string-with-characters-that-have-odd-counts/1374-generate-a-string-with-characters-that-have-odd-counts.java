@@ -1,12 +1,12 @@
 class Solution {
     public String generateTheString(int n) {
-        String[] result = new String[n];
-        Arrays.fill(result, "a");
+        StringBuilder result = new StringBuilder(n);
+        result.append("a".repeat(Math.max(0, n)));
 
         if (n % 2 == 0) {
-            result[0] = "b";
+            result.setCharAt(0, 'b');
         }
 
-        return String.join("", result);
+        return result.toString();
     }
 }
