@@ -1,20 +1,12 @@
 class Solution {
     public String generateTheString(int n) {
-        String firstLetter = "a";
-        String secondLetter = "b";
+        String[] result = new String[n];
+        Arrays.fill(result, "a");
 
-        StringBuilder result = new StringBuilder(n);
-        if (n % 2 != 0) {
-            for (int i = 0; i < n; i++) {
-                result.append(firstLetter);
-            }
-        } else {
-            for (int i = 0; i < n - 1; i++) {
-                result.append(firstLetter);
-            }
-            result.append(secondLetter);
+        if (n % 2 == 0) {
+            result[0] = "b";
         }
 
-        return result.toString();
+        return String.join("", result);
     }
 }
