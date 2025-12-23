@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 107 ✅  
+- Easy: 108 ✅  
 - Medium: 5 ⚡  
 - Hard: 0 🔥  
-- **Total: 112**
+- **Total: 113**
 
 ---
 
@@ -78,6 +78,7 @@
 | 747 | [Largest Number At Least Twice Of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others) | [Java](0747-largest-number-at-least-twice-of-others) | Easy |
 | 796 | [Rotate String](https://leetcode.com/problems/rotate-string) | [Java](0796-rotate-string) | Easy |
 | 806 | [Number Of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string) | [Java](0806-number-of-lines-to-write-string) | Easy |
+| 819 | [Most Common Word](https://leetcode.com/problems/most-common-word) | [Java](0819-most-common-word) | Easy |
 | 822 | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words) | [Java](0822-unique-morse-code-words) | Easy |
 | 832 | [Flipping An Image](https://leetcode.com/problems/flipping-an-image) | [Java](0832-flipping-an-image) | Easy |
 | 841 | [Shortest Distance To A Character](https://leetcode.com/problems/shortest-distance-to-a-character) | [Java](0841-shortest-distance-to-a-character) | Easy |
@@ -126,23 +127,3 @@
 | 3309 | [Count Prefix And Suffix Pairs I](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i) | [Java](3309-count-prefix-and-suffix-pairs-i) | Easy |
 | 3498 | [Reverse Degree Of A String](https://leetcode.com/problems/reverse-degree-of-a-string) | [Java](3498-reverse-degree-of-a-string) | Easy |
 | 3726 | [Remove Zeros In Decimal Representation](https://leetcode.com/problems/remove-zeros-in-decimal-representation) | [Java](3726-remove-zeros-in-decimal-representation) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0819-most-common-word](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0819-most-common-word) |
-## Hash Table
-|  |
-| ------- |
-| [0819-most-common-word](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0819-most-common-word) |
-## String
-|  |
-| ------- |
-| [0819-most-common-word](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0819-most-common-word) |
-## Counting
-|  |
-| ------- |
-| [0819-most-common-word](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0819-most-common-word) |
-<!---LeetCode Topics End-->
