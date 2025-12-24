@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 108 ✅  
+- Easy: 109 ✅  
 - Medium: 5 ⚡  
 - Hard: 0 🔥  
-- **Total: 113**
+- **Total: 114**
 
 ---
 
@@ -99,6 +99,7 @@
 | 1241 | [Decompress Run Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list) | [Java](1241-decompress-run-length-encoded-list) | Easy |
 | 1260 | [Shift 2d Grid](https://leetcode.com/problems/shift-2d-grid) | [Java](1260-shift-2d-grid) | Easy |
 | 1374 | [Generate A String With Characters That Have Odd Counts](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts) | [Java](1374-generate-a-string-with-characters-that-have-odd-counts) | Easy |
+| 1408 | [String Matching In An Array](https://leetcode.com/problems/string-matching-in-an-array) | [Java](1408-string-matching-in-an-array) | Easy |
 | 1411 | [Convert Binary Number In A Linked List To Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer) | [Java](1411-convert-binary-number-in-a-linked-list-to-integer) | Easy |
 | 1444 | [Number Of Steps To Reduce A Number To Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero) | [Java](1444-number-of-steps-to-reduce-a-number-to-zero) | Easy |
 | 1454 | [Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences) | [Java](1454-remove-palindromic-subsequences) | Easy |
@@ -127,19 +128,3 @@
 | 3309 | [Count Prefix And Suffix Pairs I](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i) | [Java](3309-count-prefix-and-suffix-pairs-i) | Easy |
 | 3498 | [Reverse Degree Of A String](https://leetcode.com/problems/reverse-degree-of-a-string) | [Java](3498-reverse-degree-of-a-string) | Easy |
 | 3726 | [Remove Zeros In Decimal Representation](https://leetcode.com/problems/remove-zeros-in-decimal-representation) | [Java](3726-remove-zeros-in-decimal-representation) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [1408-string-matching-in-an-array](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1408-string-matching-in-an-array) |
-## String
-|  |
-| ------- |
-| [1408-string-matching-in-an-array](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1408-string-matching-in-an-array) |
-## String Matching
-|  |
-| ------- |
-| [1408-string-matching-in-an-array](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1408-string-matching-in-an-array) |
-<!---LeetCode Topics End-->
