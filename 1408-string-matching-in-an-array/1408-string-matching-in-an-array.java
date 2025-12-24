@@ -1,6 +1,6 @@
 class Solution {
     public List<String> stringMatching(String[] words) {
-        Set<String> result = new HashSet<>();
+        List<String> result = new ArrayList<>();
 
         for (String w : words) {
             for (String other : words) {
@@ -8,10 +8,11 @@ class Solution {
                     continue;
                 } else if (other.contains(w)) {
                     result.add(w);
+                    break;
                 }
             }
         }
 
-        return new ArrayList<String>(result);
+        return result;
     }
 }
