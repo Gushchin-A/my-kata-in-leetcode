@@ -4,9 +4,9 @@ class Solution {
 
         for (String w : words) {
             for (String other : words) {
-                if (w.equals(other) || w.length() > other.length()) {
-                    continue;
-                } else if (other.contains(w)) {
+                if (!w.equals(other) 
+                        && w.length() <= other.length() 
+                        && other.contains(w)) {
                     result.add(w);
                     break;
                 }
