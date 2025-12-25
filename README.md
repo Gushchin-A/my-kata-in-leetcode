@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 109 ✅  
+- Easy: 110 ✅  
 - Medium: 5 ⚡  
 - Hard: 0 🔥  
-- **Total: 114**
+- **Total: 115**
 
 ---
 
@@ -101,6 +101,7 @@
 | 1374 | [Generate A String With Characters That Have Odd Counts](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts) | [Java](1374-generate-a-string-with-characters-that-have-odd-counts) | Easy |
 | 1408 | [String Matching In An Array](https://leetcode.com/problems/string-matching-in-an-array) | [Java](1408-string-matching-in-an-array) | Easy |
 | 1411 | [Convert Binary Number In A Linked List To Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer) | [Java](1411-convert-binary-number-in-a-linked-list-to-integer) | Easy |
+| 1436 | [Destination City](https://leetcode.com/problems/destination-city) | [Java](1436-destination-city) | Easy |
 | 1444 | [Number Of Steps To Reduce A Number To Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero) | [Java](1444-number-of-steps-to-reduce-a-number-to-zero) | Easy |
 | 1454 | [Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences) | [Java](1454-remove-palindromic-subsequences) | Easy |
 | 1505 | [Create Target Array In The Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order) | [Java](1505-create-target-array-in-the-given-order) | Easy |
@@ -128,19 +129,3 @@
 | 3309 | [Count Prefix And Suffix Pairs I](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i) | [Java](3309-count-prefix-and-suffix-pairs-i) | Easy |
 | 3498 | [Reverse Degree Of A String](https://leetcode.com/problems/reverse-degree-of-a-string) | [Java](3498-reverse-degree-of-a-string) | Easy |
 | 3726 | [Remove Zeros In Decimal Representation](https://leetcode.com/problems/remove-zeros-in-decimal-representation) | [Java](3726-remove-zeros-in-decimal-representation) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [1436-destination-city](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1436-destination-city) |
-## Hash Table
-|  |
-| ------- |
-| [1436-destination-city](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1436-destination-city) |
-## String
-|  |
-| ------- |
-| [1436-destination-city](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1436-destination-city) |
-<!---LeetCode Topics End-->
