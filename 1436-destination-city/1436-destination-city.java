@@ -1,14 +1,15 @@
 class Solution {
     public String destCity(List<List<String>> paths) {
-        String candidate = paths.getFirst().getLast();
-
+        Set<String> departures = new HashSet<>();
         for (List<String> p : paths) {
-            for (List<String> p2 : paths) {
-                String departure = p2.getFirst();
-                if (candidate.equals(departure)) {
-                    candidate = p.getLast();
-                    break;
-                }
+            departures.add(p.getFirst());
+        }
+
+        String candidate = "";
+        for (List<String> p : paths) {
+            candidate = p.getLast();
+            if (!departures.contains(candidate)) {
+                break;
             }
         }
 
