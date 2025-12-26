@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 110 ✅  
+- Easy: 111 ✅  
 - Medium: 5 ⚡  
 - Hard: 0 🔥  
-- **Total: 115**
+- **Total: 116**
 
 ---
 
@@ -105,6 +105,7 @@
 | 1444 | [Number Of Steps To Reduce A Number To Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero) | [Java](1444-number-of-steps-to-reduce-a-number-to-zero) | Easy |
 | 1454 | [Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences) | [Java](1454-remove-palindromic-subsequences) | Easy |
 | 1505 | [Create Target Array In The Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order) | [Java](1505-create-target-array-in-the-given-order) | Easy |
+| 1528 | [Shuffle String](https://leetcode.com/problems/shuffle-string) | [Java](1528-shuffle-string) | Easy |
 | 1566 | [Check If A Word Occurs As A Prefix Of Any Word In A Sentence](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) | [Java](1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) | Easy |
 | 1603 | [Design Parking System](https://leetcode.com/problems/design-parking-system) | [Java](1603-design-parking-system) | Easy |
 | 1642 | [Water Bottles](https://leetcode.com/problems/water-bottles) | [Java](1642-water-bottles) | Easy |
@@ -129,15 +130,3 @@
 | 3309 | [Count Prefix And Suffix Pairs I](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i) | [Java](3309-count-prefix-and-suffix-pairs-i) | Easy |
 | 3498 | [Reverse Degree Of A String](https://leetcode.com/problems/reverse-degree-of-a-string) | [Java](3498-reverse-degree-of-a-string) | Easy |
 | 3726 | [Remove Zeros In Decimal Representation](https://leetcode.com/problems/remove-zeros-in-decimal-representation) | [Java](3726-remove-zeros-in-decimal-representation) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [1528-shuffle-string](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1528-shuffle-string) |
-## String
-|  |
-| ------- |
-| [1528-shuffle-string](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1528-shuffle-string) |
-<!---LeetCode Topics End-->
