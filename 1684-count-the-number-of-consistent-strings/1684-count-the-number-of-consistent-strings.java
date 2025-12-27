@@ -1,19 +1,23 @@
 class Solution {
     public int countConsistentStrings(String allowed, String[] words) {
         int count = 0;
-        
+
         for (String w : words) {
-            boolean isConsistent = true;
-            Set<Character> uniq = new HashSet<>();
+            boolean isExtraSymbol = false;
             for (char c : w.toCharArray()) {
-                if (uniq.add(c)) {
-                    if (!allowed.contains(String.valueOf(c))) {
-                        isConsistent = false;
+                boolean foundInAllowed = false;
+                for (char a : allowed.toCharArray()) {
+                    if (c == a) {
+                        foundInAllowed = true;
                         break;
                     }
                 }
+                if (!foundInAllowed) {
+                    isExtraSymbol = true;
+                    break;
+                }
             }
-            if (isConsistent) {
+            if (!isExtraSymbol) {
                 count++;
             }
         }
