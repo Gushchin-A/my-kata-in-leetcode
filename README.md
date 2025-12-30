@@ -4,9 +4,9 @@
 #### 📊 Progress
 
 - Easy: 114 ✅  
-- Medium: 5 ⚡  
+- Medium: 6 ⚡  
 - Hard: 0 🔥  
-- **Total: 119**
+- **Total: 120**
 
 ---
 
@@ -37,6 +37,7 @@
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | [Java](0125-valid-palindrome) | Easy |
 | 136 | [Single Number](https://leetcode.com/problems/single-number) | [Java](0136-single-number) | Easy |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | [Java](0141-linked-list-cycle) | Easy |
+| 146 | [Lru Cache](https://leetcode.com/problems/lru-cache) | [Java](0146-lru-cache) | Medium |
 | 160 | [Intersection Of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) | [Java](0160-intersection-of-two-linked-lists) | Easy |
 | 168 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title) | [Java](0168-excel-sheet-column-title) | Easy |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element) | [Java](0169-majority-element) | Easy |
@@ -133,23 +134,3 @@
 | 3309 | [Count Prefix And Suffix Pairs I](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i) | [Java](3309-count-prefix-and-suffix-pairs-i) | Easy |
 | 3498 | [Reverse Degree Of A String](https://leetcode.com/problems/reverse-degree-of-a-string) | [Java](3498-reverse-degree-of-a-string) | Easy |
 | 3726 | [Remove Zeros In Decimal Representation](https://leetcode.com/problems/remove-zeros-in-decimal-representation) | [Java](3726-remove-zeros-in-decimal-representation) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Hash Table
-|  |
-| ------- |
-| [0146-lru-cache](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0146-lru-cache) |
-## Linked List
-|  |
-| ------- |
-| [0146-lru-cache](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0146-lru-cache) |
-## Design
-|  |
-| ------- |
-| [0146-lru-cache](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0146-lru-cache) |
-## Doubly-Linked List
-|  |
-| ------- |
-| [0146-lru-cache](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0146-lru-cache) |
-<!---LeetCode Topics End-->
