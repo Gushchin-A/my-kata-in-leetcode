@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 114 ✅  
+- Easy: 115 ✅  
 - Medium: 6 ⚡  
 - Hard: 0 🔥  
-- **Total: 120**
+- **Total: 121**
 
 ---
 
@@ -110,6 +110,7 @@
 | 1566 | [Check If A Word Occurs As A Prefix Of Any Word In A Sentence](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) | [Java](1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) | Easy |
 | 1603 | [Design Parking System](https://leetcode.com/problems/design-parking-system) | [Java](1603-design-parking-system) | Easy |
 | 1642 | [Water Bottles](https://leetcode.com/problems/water-bottles) | [Java](1642-water-bottles) | Easy |
+| 1662 | [Check If Two String Arrays Are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent) | [Java](1662-check-if-two-string-arrays-are-equivalent) | Easy |
 | 1678 | [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation) | [Java](1678-goal-parser-interpretation) | Easy |
 | 1684 | [Count The Number Of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings) | [Java](1684-count-the-number-of-consistent-strings) | Easy |
 | 2022 | [Convert 1d Array Into 2d Array](https://leetcode.com/problems/convert-1d-array-into-2d-array) | [Java](2022-convert-1d-array-into-2d-array) | Easy |
@@ -134,15 +135,3 @@
 | 3309 | [Count Prefix And Suffix Pairs I](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i) | [Java](3309-count-prefix-and-suffix-pairs-i) | Easy |
 | 3498 | [Reverse Degree Of A String](https://leetcode.com/problems/reverse-degree-of-a-string) | [Java](3498-reverse-degree-of-a-string) | Easy |
 | 3726 | [Remove Zeros In Decimal Representation](https://leetcode.com/problems/remove-zeros-in-decimal-representation) | [Java](3726-remove-zeros-in-decimal-representation) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
-## String
-|  |
-| ------- |
-| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
-<!---LeetCode Topics End-->
