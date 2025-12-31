@@ -1,32 +1,30 @@
 class Solution {
     public boolean arrayStringsAreEqual(String[] word1, String[] word2) {
-        List<Character> uniq = arrayStringsToList(word1);
+        int a = 0;
+        int i = 0;
 
-        int indexUniq = 0;
-        for (String w : word2) {
-            if (w.length() > uniq.size() - indexUniq) {
+        int b = 0;
+        int j = 0;
+
+        while (a < word1.length && b < word2.length) {
+            if (word1[a].charAt(i) != word2[b].charAt(j)) {
                 return false;
             }
-            for (int i = 0; i < w.length(); i++) {
-                if (uniq.get(indexUniq) != w.charAt(i)) {
-                    return false;
-                }
-                indexUniq++;
+            i++;
+            j++;
+
+
+            if (i == word1[a].length()) {
+                a++;
+                i = 0;
+            }
+
+            if (j == word2[b].length()) {
+                b++;
+                j = 0;
             }
         }
 
-        return indexUniq == uniq.size();
-    }
-
-    public static List<Character> arrayStringsToList(String[] word) {
-        List<Character> uniq = new ArrayList<>();
-
-        for (String w : word) {
-            for (int i = 0; i < w.length(); i++) {
-                uniq.add(w.charAt(i));
-            }
-        }
-
-        return uniq;
+        return a == word1.length && b == word2.length;
     }
 }
