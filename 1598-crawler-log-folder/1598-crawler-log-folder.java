@@ -4,13 +4,13 @@ class Solution {
 
         for (String l : logs) {
             switch (l) {
-                case "../" -> count -= 1;
-                case "./" -> count -= 0;
-                default -> count += 1;
-            }
-
-            if (count < 0) {
-                count = 0;
+                case "../" -> {
+                    if (count > 0) {
+                        count--;
+                    }
+                }
+                case "./" -> { }
+                default -> count++;
             }
         }
 
