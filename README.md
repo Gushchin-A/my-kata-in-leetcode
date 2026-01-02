@@ -4,9 +4,9 @@
 #### 📊 Progress
 
 - Easy: 116 ✅  
-- Medium: 6 ⚡  
+- Medium: 7 ⚡  
 - Hard: 0 🔥  
-- **Total: 122**
+- **Total: 123**
 
 ---
 
@@ -125,6 +125,7 @@
 | 2288 | [Count Operations To Obtain Zero](https://leetcode.com/problems/count-operations-to-obtain-zero) | [Java](2288-count-operations-to-obtain-zero) | Easy |
 | 2292 | [Counting Words With A Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix) | [Java](2292-counting-words-with-a-given-prefix) | Easy |
 | 2341 | [Count Prefixes Of A Given String](https://leetcode.com/problems/count-prefixes-of-a-given-string) | [Java](2341-count-prefixes-of-a-given-string) | Easy |
+| 2390 | [Removing Stars From A String](https://leetcode.com/problems/removing-stars-from-a-string) | [Java](2390-removing-stars-from-a-string) | Medium |
 | 2506 | [Count Pairs Of Similar Strings](https://leetcode.com/problems/count-pairs-of-similar-strings) | [Java](2506-count-pairs-of-similar-strings) | Easy |
 | 2517 | [Maximum Tastiness Of Candy Basket](https://leetcode.com/problems/maximum-tastiness-of-candy-basket) | [Java](2517-maximum-tastiness-of-candy-basket) | Medium |
 | 2698 | [Find The Array Concatenation Value](https://leetcode.com/problems/find-the-array-concatenation-value) | [Java](2698-find-the-array-concatenation-value) | Easy |
@@ -136,19 +137,3 @@
 | 3309 | [Count Prefix And Suffix Pairs I](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i) | [Java](3309-count-prefix-and-suffix-pairs-i) | Easy |
 | 3498 | [Reverse Degree Of A String](https://leetcode.com/problems/reverse-degree-of-a-string) | [Java](3498-reverse-degree-of-a-string) | Easy |
 | 3726 | [Remove Zeros In Decimal Representation](https://leetcode.com/problems/remove-zeros-in-decimal-representation) | [Java](3726-remove-zeros-in-decimal-representation) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## String
-|  |
-| ------- |
-| [2390-removing-stars-from-a-string](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2390-removing-stars-from-a-string) |
-## Stack
-|  |
-| ------- |
-| [2390-removing-stars-from-a-string](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2390-removing-stars-from-a-string) |
-## Simulation
-|  |
-| ------- |
-| [2390-removing-stars-from-a-string](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2390-removing-stars-from-a-string) |
-<!---LeetCode Topics End-->
