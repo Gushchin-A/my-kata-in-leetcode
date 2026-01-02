@@ -3,20 +3,14 @@ class Solution {
         int n = s.length();
 
         StringBuilder result = new StringBuilder();
-        int mustMiss = 0;
-        for (int i = n - 1; i >= 0; i--) {
-            char current = s.charAt(i);
-            if (current == '*') {
-                mustMiss++;
+        for (char c : s.toCharArray()) {
+            if (c != '*') {
+                result.append(c);
             } else {
-                if (mustMiss == 0) {
-                    result.append(current);
-                } else {
-                    mustMiss--;
-                }
+                result.setLength(result.length() - 1);
             }
         }
 
-        return result.reverse().toString();
+        return result.toString();
     }
 }
