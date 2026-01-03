@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 116 ✅  
+- Easy: 117 ✅  
 - Medium: 7 ⚡  
 - Hard: 0 🔥  
-- **Total: 123**
+- **Total: 124**
 
 ---
 
@@ -95,6 +95,7 @@
 | 1019 | [Squares Of A Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array) | [Java](1019-squares-of-a-sorted-array) | Easy |
 | 1031 | [Add To Array Form Of Integer](https://leetcode.com/problems/add-to-array-form-of-integer) | [Java](1031-add-to-array-form-of-integer) | Easy |
 | 1041 | [Available Captures For Rook](https://leetcode.com/problems/available-captures-for-rook) | [Java](1041-available-captures-for-rook) | Easy |
+| 1047 | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string) | [Java](1047-remove-all-adjacent-duplicates-in-string) | Easy |
 | 1062 | [Partition Array Into Three Parts With Equal Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum) | [Java](1062-partition-array-into-three-parts-with-equal-sum) | Easy |
 | 1221 | [Split A String In Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings) | [Java](1221-split-a-string-in-balanced-strings) | Easy |
 | 1241 | [Decompress Run Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list) | [Java](1241-decompress-run-length-encoded-list) | Easy |
@@ -137,15 +138,3 @@
 | 3309 | [Count Prefix And Suffix Pairs I](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i) | [Java](3309-count-prefix-and-suffix-pairs-i) | Easy |
 | 3498 | [Reverse Degree Of A String](https://leetcode.com/problems/reverse-degree-of-a-string) | [Java](3498-reverse-degree-of-a-string) | Easy |
 | 3726 | [Remove Zeros In Decimal Representation](https://leetcode.com/problems/remove-zeros-in-decimal-representation) | [Java](3726-remove-zeros-in-decimal-representation) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## String
-|  |
-| ------- |
-| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
-## Stack
-|  |
-| ------- |
-| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
-<!---LeetCode Topics End-->
