@@ -4,9 +4,9 @@
 #### 📊 Progress
 
 - Easy: 117 ✅  
-- Medium: 7 ⚡  
+- Medium: 8 ⚡  
 - Hard: 0 🔥  
-- **Total: 124**
+- **Total: 125**
 
 ---
 
@@ -119,6 +119,7 @@
 | 2093 | [Check If String Is A Prefix Of Array](https://leetcode.com/problems/check-if-string-is-a-prefix-of-array) | [Java](2093-check-if-string-is-a-prefix-of-array) | Easy |
 | 2102 | [Find The Middle Index In Array](https://leetcode.com/problems/find-the-middle-index-in-array) | [Java](2102-find-the-middle-index-in-array) | Easy |
 | 2128 | [Reverse Prefix Of Word](https://leetcode.com/problems/reverse-prefix-of-word) | [Java](2128-reverse-prefix-of-word) | Easy |
+| 2181 | [Merge Nodes In Between Zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros) | [Java](2181-merge-nodes-in-between-zeros) | Medium |
 | 2231 | [Find First Palindromic String In The Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array) | [Java](2231-find-first-palindromic-string-in-the-array) | Easy |
 | 2231 | [Largest Number After Digit Swaps By Parity](https://leetcode.com/problems/largest-number-after-digit-swaps-by-parity) | [Java](2231-largest-number-after-digit-swaps-by-parity) | Easy |
 | 2260 | [Divide A String Into Groups Of Size K](https://leetcode.com/problems/divide-a-string-into-groups-of-size-k) | [Java](2260-divide-a-string-into-groups-of-size-k) | Easy |
@@ -138,15 +139,3 @@
 | 3309 | [Count Prefix And Suffix Pairs I](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i) | [Java](3309-count-prefix-and-suffix-pairs-i) | Easy |
 | 3498 | [Reverse Degree Of A String](https://leetcode.com/problems/reverse-degree-of-a-string) | [Java](3498-reverse-degree-of-a-string) | Easy |
 | 3726 | [Remove Zeros In Decimal Representation](https://leetcode.com/problems/remove-zeros-in-decimal-representation) | [Java](3726-remove-zeros-in-decimal-representation) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Linked List
-|  |
-| ------- |
-| [2181-merge-nodes-in-between-zeros](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
-## Simulation
-|  |
-| ------- |
-| [2181-merge-nodes-in-between-zeros](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
-<!---LeetCode Topics End-->
