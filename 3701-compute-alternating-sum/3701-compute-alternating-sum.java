@@ -3,12 +3,12 @@ class Solution {
         int n = nums.length;
 
         int alternatingSum = 0;
-        for (int i = 0; i < n; i++) {
-            if (i % 2 == 0) {
-                alternatingSum += nums[i];
-            } else {
-                alternatingSum -= nums[i];
-            }
+        for (int even = 0; even < n; even += 2) {
+            alternatingSum += nums[even];
+        }
+
+        for (int odd = 1; odd < n; odd += 2) {
+            alternatingSum -= nums[odd];
         }
 
         return alternatingSum;
