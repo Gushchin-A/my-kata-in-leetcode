@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 117 ✅  
+- Easy: 118 ✅  
 - Medium: 8 ⚡  
 - Hard: 0 🔥  
-- **Total: 125**
+- **Total: 126**
 
 ---
 
@@ -138,16 +138,5 @@
 | 3304 | [Find The K Th Character In String Game I](https://leetcode.com/problems/find-the-k-th-character-in-string-game-i) | [Java](3304-find-the-k-th-character-in-string-game-i) | Easy |
 | 3309 | [Count Prefix And Suffix Pairs I](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i) | [Java](3309-count-prefix-and-suffix-pairs-i) | Easy |
 | 3498 | [Reverse Degree Of A String](https://leetcode.com/problems/reverse-degree-of-a-string) | [Java](3498-reverse-degree-of-a-string) | Easy |
+| 3701 | [Compute Alternating Sum](https://leetcode.com/problems/compute-alternating-sum) | [Java](3701-compute-alternating-sum) | Easy |
 | 3726 | [Remove Zeros In Decimal Representation](https://leetcode.com/problems/remove-zeros-in-decimal-representation) | [Java](3726-remove-zeros-in-decimal-representation) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [3701-compute-alternating-sum](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/3701-compute-alternating-sum) |
-## Simulation
-|  |
-| ------- |
-| [3701-compute-alternating-sum](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/3701-compute-alternating-sum) |
-<!---LeetCode Topics End-->
