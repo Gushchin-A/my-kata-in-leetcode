@@ -1,43 +1,28 @@
 class Solution {
     public int oddCells(int m, int n, int[][] indices) {
         int[][] matrix = new int[m][n];
-        int[] flatten = toFlattenArray(indices);
 
         int r = 0;
-        int c = 1;
-        while (r < flatten.length) {
+        int c = 0;
+        while (r < indices.length) {
 
             for (int i = 0; i < n; i++) {
-                int row = flatten[r];
+                int row = indices[r][c];
                 matrix[row][i] += 1;
             }
 
             for (int j = 0; j < m; j++) {
-                int col = flatten[c];
+                int col = indices[r][c + 1];
                 matrix[j][col] += 1;
             }
 
-            r += 2;
-            c += 2;
+            r++;
         }
 
         return countOddInArray(matrix);
     }
-
-    public int[] toFlattenArray(int[][] matrix) {
-        int[] flatten = new int[matrix.length * matrix[0].length];
-        int index = 0;
-
-        for (int i = 0; i < matrix.length; i++) {
-            for (int j = 0; j < matrix[i].length; j++) {
-                flatten[index++] = matrix[i][j];
-            }
-        }
-
-        return flatten;
-    }
-
-    public int countOddInArray(int[][] matrix) {
+    
+    public static int countOddInArray(int[][] matrix) {
         int result = 0;
 
         for (int i = 0; i < matrix.length; i++) {
