@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 118 ✅  
+- Easy: 119 ✅  
 - Medium: 8 ⚡  
 - Hard: 0 🔥  
-- **Total: 126**
+- **Total: 127**
 
 ---
 
@@ -99,6 +99,7 @@
 | 1062 | [Partition Array Into Three Parts With Equal Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum) | [Java](1062-partition-array-into-three-parts-with-equal-sum) | Easy |
 | 1221 | [Split A String In Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings) | [Java](1221-split-a-string-in-balanced-strings) | Easy |
 | 1241 | [Decompress Run Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list) | [Java](1241-decompress-run-length-encoded-list) | Easy |
+| 1252 | [Cells With Odd Values In A Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix) | [Java](1252-cells-with-odd-values-in-a-matrix) | Easy |
 | 1260 | [Shift 2d Grid](https://leetcode.com/problems/shift-2d-grid) | [Java](1260-shift-2d-grid) | Easy |
 | 1374 | [Generate A String With Characters That Have Odd Counts](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts) | [Java](1374-generate-a-string-with-characters-that-have-odd-counts) | Easy |
 | 1408 | [String Matching In An Array](https://leetcode.com/problems/string-matching-in-an-array) | [Java](1408-string-matching-in-an-array) | Easy |
@@ -140,19 +141,3 @@
 | 3498 | [Reverse Degree Of A String](https://leetcode.com/problems/reverse-degree-of-a-string) | [Java](3498-reverse-degree-of-a-string) | Easy |
 | 3701 | [Compute Alternating Sum](https://leetcode.com/problems/compute-alternating-sum) | [Java](3701-compute-alternating-sum) | Easy |
 | 3726 | [Remove Zeros In Decimal Representation](https://leetcode.com/problems/remove-zeros-in-decimal-representation) | [Java](3726-remove-zeros-in-decimal-representation) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [1252-cells-with-odd-values-in-a-matrix](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
-## Math
-|  |
-| ------- |
-| [1252-cells-with-odd-values-in-a-matrix](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
-## Simulation
-|  |
-| ------- |
-| [1252-cells-with-odd-values-in-a-matrix](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
-<!---LeetCode Topics End-->
