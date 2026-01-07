@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 119 ✅  
+- Easy: 120 ✅  
 - Medium: 8 ⚡  
 - Hard: 0 🔥  
-- **Total: 127**
+- **Total: 128**
 
 ---
 
@@ -48,6 +48,7 @@
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | [Java](0206-reverse-linked-list) | Easy |
 | 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list) | [Java](0234-palindrome-linked-list) | Easy |
 | 238 | [Product Of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) | [Java](0238-product-of-array-except-self) | Medium |
+| 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | [Java](0242-valid-anagram) | Easy |
 | 258 | [Add Digits](https://leetcode.com/problems/add-digits) | [Java](0258-add-digits) | Easy |
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number) | [Java](0268-missing-number) | Easy |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes) | [Java](0283-move-zeroes) | Easy |
@@ -141,19 +142,3 @@
 | 3498 | [Reverse Degree Of A String](https://leetcode.com/problems/reverse-degree-of-a-string) | [Java](3498-reverse-degree-of-a-string) | Easy |
 | 3701 | [Compute Alternating Sum](https://leetcode.com/problems/compute-alternating-sum) | [Java](3701-compute-alternating-sum) | Easy |
 | 3726 | [Remove Zeros In Decimal Representation](https://leetcode.com/problems/remove-zeros-in-decimal-representation) | [Java](3726-remove-zeros-in-decimal-representation) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Hash Table
-|  |
-| ------- |
-| [0242-valid-anagram](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0242-valid-anagram) |
-## String
-|  |
-| ------- |
-| [0242-valid-anagram](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0242-valid-anagram) |
-## Sorting
-|  |
-| ------- |
-| [0242-valid-anagram](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0242-valid-anagram) |
-<!---LeetCode Topics End-->
