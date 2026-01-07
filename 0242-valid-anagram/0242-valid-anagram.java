@@ -4,21 +4,25 @@ class Solution {
             return false;
         }
 
-        int[] letters = new int[26];
+        Map<Character, Integer> letters = new HashMap<>();
         for (int i = 0; i < s.length(); i++) {
-            int charS = s.charAt(i) - 'a';
-            int charT = t.charAt(i) - 'a';
-
-            letters[charS] += 1;
-            letters[charT] -= 1;
+            char charS = s.charAt(i);
+            letters.put(charS, letters.getOrDefault(charS, 0) + 1);
         }
 
-        for (int l : letters) {
-            if (l != 0) {
+        for (int i = 0; i < t.length(); i++) {
+            char charT = t.charAt(i);
+            letters.put(charT, letters.getOrDefault(charT, 0) - 1);
+
+            if (letters.get(charT) < 0) {
                 return false;
+            }
+
+            if (letters.get(charT) == 0) {
+                letters.remove(charT);
             }
         }
 
-        return true;
+        return letters.size() == 0;
     }
 }
