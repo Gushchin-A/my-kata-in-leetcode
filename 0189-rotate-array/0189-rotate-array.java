@@ -3,7 +3,6 @@ class Solution {
         int n = nums.length;
 
         int[] temp = new int[n];
-        k = k % n;
         for (int i = 0; i < n; i++) {
             int newIndex = (i + k) % n;
             temp[newIndex] = nums[i];
