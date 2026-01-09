@@ -4,9 +4,9 @@
 #### 📊 Progress
 
 - Easy: 121 ✅  
-- Medium: 8 ⚡  
+- Medium: 9 ⚡  
 - Hard: 0 🔥  
-- **Total: 129**
+- **Total: 130**
 
 ---
 
@@ -42,6 +42,7 @@
 | 168 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title) | [Java](0168-excel-sheet-column-title) | Easy |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element) | [Java](0169-majority-element) | Easy |
 | 171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number) | [Java](0171-excel-sheet-column-number) | Easy |
+| 189 | [Rotate Array](https://leetcode.com/problems/rotate-array) | [Java](0189-rotate-array) | Medium |
 | 202 | [Happy Number](https://leetcode.com/problems/happy-number) | [Java](0202-happy-number) | Easy |
 | 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements) | [Java](0203-remove-linked-list-elements) | Easy |
 | 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings) | [Java](0205-isomorphic-strings) | Easy |
@@ -143,19 +144,3 @@
 | 3498 | [Reverse Degree Of A String](https://leetcode.com/problems/reverse-degree-of-a-string) | [Java](3498-reverse-degree-of-a-string) | Easy |
 | 3701 | [Compute Alternating Sum](https://leetcode.com/problems/compute-alternating-sum) | [Java](3701-compute-alternating-sum) | Easy |
 | 3726 | [Remove Zeros In Decimal Representation](https://leetcode.com/problems/remove-zeros-in-decimal-representation) | [Java](3726-remove-zeros-in-decimal-representation) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0189-rotate-array](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0189-rotate-array) |
-## Math
-|  |
-| ------- |
-| [0189-rotate-array](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0189-rotate-array) |
-## Two Pointers
-|  |
-| ------- |
-| [0189-rotate-array](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0189-rotate-array) |
-<!---LeetCode Topics End-->
