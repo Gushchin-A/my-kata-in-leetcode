@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 121 ✅  
+- Easy: 122 ✅  
 - Medium: 9 ⚡  
 - Hard: 0 🔥  
-- **Total: 130**
+- **Total: 131**
 
 ---
 
@@ -57,6 +57,7 @@
 | 292 | [Nim Game](https://leetcode.com/problems/nim-game) | [Java](0292-nim-game) | Easy |
 | 303 | [Range Sum Query Immutable](https://leetcode.com/problems/range-sum-query-immutable) | [Java](0303-range-sum-query-immutable) | Easy |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string) | [Java](0344-reverse-string) | Easy |
+| 345 | [Reverse Vowels Of A String](https://leetcode.com/problems/reverse-vowels-of-a-string) | [Java](0345-reverse-vowels-of-a-string) | Easy |
 | 349 | [Intersection Of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays) | [Java](0349-intersection-of-two-arrays) | Easy |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note) | [Java](0383-ransom-note) | Easy |
 | 387 | [First Unique Character In A String](https://leetcode.com/problems/first-unique-character-in-a-string) | [Java](0387-first-unique-character-in-a-string) | Easy |
@@ -144,15 +145,3 @@
 | 3498 | [Reverse Degree Of A String](https://leetcode.com/problems/reverse-degree-of-a-string) | [Java](3498-reverse-degree-of-a-string) | Easy |
 | 3701 | [Compute Alternating Sum](https://leetcode.com/problems/compute-alternating-sum) | [Java](3701-compute-alternating-sum) | Easy |
 | 3726 | [Remove Zeros In Decimal Representation](https://leetcode.com/problems/remove-zeros-in-decimal-representation) | [Java](3726-remove-zeros-in-decimal-representation) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Two Pointers
-|  |
-| ------- |
-| [0345-reverse-vowels-of-a-string](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0345-reverse-vowels-of-a-string) |
-## String
-|  |
-| ------- |
-| [0345-reverse-vowels-of-a-string](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0345-reverse-vowels-of-a-string) |
-<!---LeetCode Topics End-->
