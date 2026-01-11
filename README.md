@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 122 ✅  
+- Easy: 123 ✅  
 - Medium: 9 ⚡  
 - Hard: 0 🔥  
-- **Total: 131**
+- **Total: 132**
 
 ---
 
@@ -61,6 +61,7 @@
 | 349 | [Intersection Of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays) | [Java](0349-intersection-of-two-arrays) | Easy |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note) | [Java](0383-ransom-note) | Easy |
 | 387 | [First Unique Character In A String](https://leetcode.com/problems/first-unique-character-in-a-string) | [Java](0387-first-unique-character-in-a-string) | Easy |
+| 389 | [Find The Difference](https://leetcode.com/problems/find-the-difference) | [Java](0389-find-the-difference) | Easy |
 | 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence) | [Java](0392-is-subsequence) | Easy |
 | 409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome) | [Java](0409-longest-palindrome) | Easy |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz) | [Java](0412-fizz-buzz) | Easy |
@@ -145,23 +146,3 @@
 | 3498 | [Reverse Degree Of A String](https://leetcode.com/problems/reverse-degree-of-a-string) | [Java](3498-reverse-degree-of-a-string) | Easy |
 | 3701 | [Compute Alternating Sum](https://leetcode.com/problems/compute-alternating-sum) | [Java](3701-compute-alternating-sum) | Easy |
 | 3726 | [Remove Zeros In Decimal Representation](https://leetcode.com/problems/remove-zeros-in-decimal-representation) | [Java](3726-remove-zeros-in-decimal-representation) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Hash Table
-|  |
-| ------- |
-| [0389-find-the-difference](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0389-find-the-difference) |
-## String
-|  |
-| ------- |
-| [0389-find-the-difference](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0389-find-the-difference) |
-## Bit Manipulation
-|  |
-| ------- |
-| [0389-find-the-difference](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0389-find-the-difference) |
-## Sorting
-|  |
-| ------- |
-| [0389-find-the-difference](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0389-find-the-difference) |
-<!---LeetCode Topics End-->
