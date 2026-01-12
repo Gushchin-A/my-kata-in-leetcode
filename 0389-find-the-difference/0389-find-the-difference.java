@@ -1,17 +1,17 @@
 class Solution {
     public char findTheDifference(String s, String t) {
-        int[] letters = new int[26];
+        Map<Character, Integer> letters = new HashMap<>();
 
         for (int i = 0; i < s.length(); i++) {
-            letters[s.charAt(i) - 'a'] += 1;
+            letters.merge(s.charAt(i), 1, (oldValue, newValue) -> oldValue + newValue);
         }
         for (int i = 0; i < t.length(); i++) {
-            letters[t.charAt(i) - 'a'] -= 1;
+            letters.merge(t.charAt(i), -1, (oldValue, newValue) -> oldValue + newValue);
         }
 
-        for (int i = 0; i < letters.length; i++) {
-            if (letters[i] < 0) {
-                return (char) (i + 'a');
+        for (Character key : letters.keySet()) {
+            if (letters.get(key) < 0) {
+                return key;
             }
         }
 
