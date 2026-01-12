@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 123 ✅  
+- Easy: 124 ✅  
 - Medium: 9 ⚡  
 - Hard: 0 🔥  
-- **Total: 132**
+- **Total: 133**
 
 ---
 
@@ -67,6 +67,7 @@
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz) | [Java](0412-fizz-buzz) | Easy |
 | 414 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number) | [Java](0414-third-maximum-number) | Easy |
 | 415 | [Add Strings](https://leetcode.com/problems/add-strings) | [Java](0415-add-strings) | Easy |
+| 434 | [Number Of Segments In A String](https://leetcode.com/problems/number-of-segments-in-a-string) | [Java](0434-number-of-segments-in-a-string) | Easy |
 | 463 | [Island Perimeter](https://leetcode.com/problems/island-perimeter) | [Java](0463-island-perimeter) | Easy |
 | 495 | [Teemo Attacking](https://leetcode.com/problems/teemo-attacking) | [Java](0495-teemo-attacking) | Easy |
 | 506 | [Relative Ranks](https://leetcode.com/problems/relative-ranks) | [Java](0506-relative-ranks) | Easy |
@@ -146,11 +147,3 @@
 | 3498 | [Reverse Degree Of A String](https://leetcode.com/problems/reverse-degree-of-a-string) | [Java](3498-reverse-degree-of-a-string) | Easy |
 | 3701 | [Compute Alternating Sum](https://leetcode.com/problems/compute-alternating-sum) | [Java](3701-compute-alternating-sum) | Easy |
 | 3726 | [Remove Zeros In Decimal Representation](https://leetcode.com/problems/remove-zeros-in-decimal-representation) | [Java](3726-remove-zeros-in-decimal-representation) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## String
-|  |
-| ------- |
-| [0434-number-of-segments-in-a-string](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0434-number-of-segments-in-a-string) |
-<!---LeetCode Topics End-->
