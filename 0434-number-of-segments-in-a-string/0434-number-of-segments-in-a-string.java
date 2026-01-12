@@ -1,7 +1,12 @@
 class Solution {
     public int countSegments(String s) {
-        String[] words = s.trim().split("\\s+");
-        
-        return words[0].isEmpty() ? 0 : words.length;
+        String normalized = s.trim();
+        if (normalized.isEmpty()) {
+            return 0;
+        }
+
+        String[] words = normalized.split("\\s+");
+
+        return words.length;
     }
 }
