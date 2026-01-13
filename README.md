@@ -147,3 +147,19 @@
 | 3498 | [Reverse Degree Of A String](https://leetcode.com/problems/reverse-degree-of-a-string) | [Java](3498-reverse-degree-of-a-string) | Easy |
 | 3701 | [Compute Alternating Sum](https://leetcode.com/problems/compute-alternating-sum) | [Java](3701-compute-alternating-sum) | Easy |
 | 3726 | [Remove Zeros In Decimal Representation](https://leetcode.com/problems/remove-zeros-in-decimal-representation) | [Java](3726-remove-zeros-in-decimal-representation) | Easy |
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0500-keyboard-row](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0500-keyboard-row) |
+## Hash Table
+|  |
+| ------- |
+| [0500-keyboard-row](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0500-keyboard-row) |
+## String
+|  |
+| ------- |
+| [0500-keyboard-row](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0500-keyboard-row) |
+<!---LeetCode Topics End-->
