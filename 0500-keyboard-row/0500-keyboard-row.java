@@ -1,63 +1,43 @@
 class Solution {
+    private static final Set<Character> FIRST_ROW = Set.of('q', 'w', 'e', 'r', 't', 'y', 'u', 'i', 'o', 'p');
+    private static final Set<Character> SECOND_ROW = Set.of('a', 's', 'd', 'f', 'g', 'h', 'j', 'k', 'l');
+    private static final Set<Character> THIRD_ROW = Set.of('z', 'x', 'c', 'v', 'b', 'n', 'm');
+
     public String[] findWords(String[] words) {
         String[] result = new String[words.length];
 
         int newSize = 0;
         for (String s : words) {
-            if (isFirstRow(s)) {
-                result[newSize] = s;
-                newSize++;
-            } else if (isSecondRow(s)) {
-                result[newSize] = s;
-                newSize++;
-            } else if (isThirdRow(s)) {
-                result[newSize] = s;
-                newSize++;
+            if (isWordRow(s)) {
+                result[newSize++] = s;
             }
         }
 
         return Arrays.copyOf(result, newSize);
     }
 
-    private boolean isFirstRow(String s) {
+    private boolean isWordRow(String s) {
         String sLower = s.toLowerCase();
-        for (char c : sLower.toCharArray()) {
-            switch (c) {
-                case 'q', 'w', 'e', 'r', 't', 'y', 'u', 'i', 'o', 'p' -> {
-                }
-                default -> {
-                    return false;
-                }
-            }
-        }
-        return true;
-    }
+        char firstLetter = sLower.charAt(0);
 
-    private boolean isSecondRow(String s) {
-        String sLower = s.toLowerCase();
-        for (char c : sLower.toCharArray()) {
-            switch (c) {
-                case 'a', 's', 'd', 'f', 'g', 'h', 'j', 'k', 'l' -> {
-                }
-                default -> {
-                    return false;
-                }
-            }
-        }
-        return true;
-    }
+        Set<Character> row;
 
-    private boolean isThirdRow(String s) {
-        String sLower = s.toLowerCase();
+        if (FIRST_ROW.contains(firstLetter)) {
+            row = FIRST_ROW;
+        } else if (SECOND_ROW.contains(firstLetter)) {
+            row = SECOND_ROW;
+        } else if (THIRD_ROW.contains(firstLetter)) {
+            row = THIRD_ROW;
+        } else {
+            return false;
+        }
+
         for (char c : sLower.toCharArray()) {
-            switch (c) {
-                case 'z', 'x', 'c', 'v', 'b', 'n', 'm' -> {
-                }
-                default -> {
-                    return false;
-                }
+            if (!row.contains(c)) {
+                return false;
             }
         }
+
         return true;
     }
 }
