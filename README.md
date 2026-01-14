@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 125 ✅  
+- Easy: 126 ✅  
 - Medium: 9 ⚡  
 - Hard: 0 🔥  
-- **Total: 134**
+- **Total: 135**
 
 ---
 
@@ -68,6 +68,7 @@
 | 414 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number) | [Java](0414-third-maximum-number) | Easy |
 | 415 | [Add Strings](https://leetcode.com/problems/add-strings) | [Java](0415-add-strings) | Easy |
 | 434 | [Number Of Segments In A String](https://leetcode.com/problems/number-of-segments-in-a-string) | [Java](0434-number-of-segments-in-a-string) | Easy |
+| 459 | [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern) | [Java](0459-repeated-substring-pattern) | Easy |
 | 463 | [Island Perimeter](https://leetcode.com/problems/island-perimeter) | [Java](0463-island-perimeter) | Easy |
 | 495 | [Teemo Attacking](https://leetcode.com/problems/teemo-attacking) | [Java](0495-teemo-attacking) | Easy |
 | 500 | [Keyboard Row](https://leetcode.com/problems/keyboard-row) | [Java](0500-keyboard-row) | Easy |
@@ -148,15 +149,3 @@
 | 3498 | [Reverse Degree Of A String](https://leetcode.com/problems/reverse-degree-of-a-string) | [Java](3498-reverse-degree-of-a-string) | Easy |
 | 3701 | [Compute Alternating Sum](https://leetcode.com/problems/compute-alternating-sum) | [Java](3701-compute-alternating-sum) | Easy |
 | 3726 | [Remove Zeros In Decimal Representation](https://leetcode.com/problems/remove-zeros-in-decimal-representation) | [Java](3726-remove-zeros-in-decimal-representation) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## String
-|  |
-| ------- |
-| [0459-repeated-substring-pattern](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0459-repeated-substring-pattern) |
-## String Matching
-|  |
-| ------- |
-| [0459-repeated-substring-pattern](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0459-repeated-substring-pattern) |
-<!---LeetCode Topics End-->
