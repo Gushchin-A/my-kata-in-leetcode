@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 126 ✅  
+- Easy: 127 ✅  
 - Medium: 9 ⚡  
 - Hard: 0 🔥  
-- **Total: 135**
+- **Total: 136**
 
 ---
 
@@ -47,6 +47,7 @@
 | 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements) | [Java](0203-remove-linked-list-elements) | Easy |
 | 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings) | [Java](0205-isomorphic-strings) | Easy |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | [Java](0206-reverse-linked-list) | Easy |
+| 219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii) | [Java](0219-contains-duplicate-ii) | Easy |
 | 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list) | [Java](0234-palindrome-linked-list) | Easy |
 | 238 | [Product Of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) | [Java](0238-product-of-array-except-self) | Medium |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | [Java](0242-valid-anagram) | Easy |
@@ -149,19 +150,3 @@
 | 3498 | [Reverse Degree Of A String](https://leetcode.com/problems/reverse-degree-of-a-string) | [Java](3498-reverse-degree-of-a-string) | Easy |
 | 3701 | [Compute Alternating Sum](https://leetcode.com/problems/compute-alternating-sum) | [Java](3701-compute-alternating-sum) | Easy |
 | 3726 | [Remove Zeros In Decimal Representation](https://leetcode.com/problems/remove-zeros-in-decimal-representation) | [Java](3726-remove-zeros-in-decimal-representation) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0219-contains-duplicate-ii](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0219-contains-duplicate-ii) |
-## Hash Table
-|  |
-| ------- |
-| [0219-contains-duplicate-ii](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0219-contains-duplicate-ii) |
-## Sliding Window
-|  |
-| ------- |
-| [0219-contains-duplicate-ii](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0219-contains-duplicate-ii) |
-<!---LeetCode Topics End-->
