@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 128 ✅  
+- Easy: 129 ✅  
 - Medium: 9 ⚡  
 - Hard: 0 🔥  
-- **Total: 137**
+- **Total: 138**
 
 ---
 
@@ -103,6 +103,7 @@
 | 979 | [Di String Match](https://leetcode.com/problems/di-string-match) | [Java](0979-di-string-match) | Easy |
 | 1002 | [Find Common Characters](https://leetcode.com/problems/find-common-characters) | [Java](1002-find-common-characters) | Easy |
 | 1019 | [Squares Of A Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array) | [Java](1019-squares-of-a-sorted-array) | Easy |
+| 1021 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses) | [Java](1021-remove-outermost-parentheses) | Easy |
 | 1031 | [Add To Array Form Of Integer](https://leetcode.com/problems/add-to-array-form-of-integer) | [Java](1031-add-to-array-form-of-integer) | Easy |
 | 1041 | [Available Captures For Rook](https://leetcode.com/problems/available-captures-for-rook) | [Java](1041-available-captures-for-rook) | Easy |
 | 1047 | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string) | [Java](1047-remove-all-adjacent-duplicates-in-string) | Easy |
@@ -151,15 +152,3 @@
 | 3498 | [Reverse Degree Of A String](https://leetcode.com/problems/reverse-degree-of-a-string) | [Java](3498-reverse-degree-of-a-string) | Easy |
 | 3701 | [Compute Alternating Sum](https://leetcode.com/problems/compute-alternating-sum) | [Java](3701-compute-alternating-sum) | Easy |
 | 3726 | [Remove Zeros In Decimal Representation](https://leetcode.com/problems/remove-zeros-in-decimal-representation) | [Java](3726-remove-zeros-in-decimal-representation) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## String
-|  |
-| ------- |
-| [1021-remove-outermost-parentheses](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1021-remove-outermost-parentheses) |
-## Stack
-|  |
-| ------- |
-| [1021-remove-outermost-parentheses](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1021-remove-outermost-parentheses) |
-<!---LeetCode Topics End-->
