@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 129 ✅  
+- Easy: 130 ✅  
 - Medium: 9 ⚡  
 - Hard: 0 🔥  
-- **Total: 138**
+- **Total: 139**
 
 ---
 
@@ -108,6 +108,7 @@
 | 1041 | [Available Captures For Rook](https://leetcode.com/problems/available-captures-for-rook) | [Java](1041-available-captures-for-rook) | Easy |
 | 1047 | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string) | [Java](1047-remove-all-adjacent-duplicates-in-string) | Easy |
 | 1062 | [Partition Array Into Three Parts With Equal Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum) | [Java](1062-partition-array-into-three-parts-with-equal-sum) | Easy |
+| 1108 | [Defanging An Ip Address](https://leetcode.com/problems/defanging-an-ip-address) | [Java](1108-defanging-an-ip-address) | Easy |
 | 1221 | [Split A String In Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings) | [Java](1221-split-a-string-in-balanced-strings) | Easy |
 | 1241 | [Decompress Run Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list) | [Java](1241-decompress-run-length-encoded-list) | Easy |
 | 1252 | [Cells With Odd Values In A Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix) | [Java](1252-cells-with-odd-values-in-a-matrix) | Easy |
@@ -152,11 +153,3 @@
 | 3498 | [Reverse Degree Of A String](https://leetcode.com/problems/reverse-degree-of-a-string) | [Java](3498-reverse-degree-of-a-string) | Easy |
 | 3701 | [Compute Alternating Sum](https://leetcode.com/problems/compute-alternating-sum) | [Java](3701-compute-alternating-sum) | Easy |
 | 3726 | [Remove Zeros In Decimal Representation](https://leetcode.com/problems/remove-zeros-in-decimal-representation) | [Java](3726-remove-zeros-in-decimal-representation) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## String
-|  |
-| ------- |
-| [1108-defanging-an-ip-address](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1108-defanging-an-ip-address) |
-<!---LeetCode Topics End-->
