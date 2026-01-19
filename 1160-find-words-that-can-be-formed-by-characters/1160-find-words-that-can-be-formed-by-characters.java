@@ -3,7 +3,7 @@ class Solution {
         int result = 0;
         
         for (String word : words) {
-            
+
             int[] letters = new int[26];
             for (char c : chars.toCharArray()) {
                 letters[c - 'a'] += 1;
@@ -11,19 +11,10 @@ class Solution {
 
             boolean isGoodWord = true;
             for (char c : word.toCharArray()) {
-                if (letters[c - 'a'] <= 0) {
+                letters[c - 'a'] -= 1;
+                if (letters[c - 'a'] < 0) {
                     isGoodWord = false;
                     break;
-                }
-            }
-
-            if (isGoodWord) {
-                for (char c : word.toCharArray()) {
-                    letters[c - 'a'] -= 1;
-                    if (letters[c - 'a'] < 0) {
-                        isGoodWord = false;
-                        break;
-                    }
                 }
             }
 
