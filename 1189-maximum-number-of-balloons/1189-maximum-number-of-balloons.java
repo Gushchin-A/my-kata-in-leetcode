@@ -1,34 +1,18 @@
 class Solution {
     public int maxNumberOfBalloons(String text) {
-        char[] balloon = {'b', 'a', 'l', 'l', 'o', 'o', 'n'};
         Map<Character, Integer> charsCounts = new HashMap<>();
 
         for (char c : text.toCharArray()) {
-            charsCounts.put(c, charsCounts.getOrDefault(c, 0) +1);
+            charsCounts.merge(c, 1, Integer::sum);
         }
 
-        int result = 0;
+        int b = charsCounts.get('b') == null ? 0 : charsCounts.get('b');
+        int a = charsCounts.get('a') == null ? 0 : charsCounts.get('a');
+        int l = charsCounts.get('l') == null ? 0 : charsCounts.get('l') / 2;
+        int o = charsCounts.get('o') == null ? 0 : charsCounts.get('o') / 2;
+        int n = charsCounts.get('n') == null ? 0 : charsCounts.get('n');
 
-        boolean isGood = true;
-        while (isGood) {
-            for (char c : balloon) {
-                if (!charsCounts.containsKey(c)) {
-                    isGood = false;
-                    break;
-                } else {
-                    if (charsCounts.get(c) <= 0) {
-                        isGood = false;
-                        break;
-                    } else {
-                        charsCounts.put(c, charsCounts.get(c) - 1);
-                    }
-                }
-            }
-            if (isGood) {
-                result += 1;
-            }
-        }
-
-        return result;
+        return Math.min(Math.min(a, b),
+                Math.min(Math.min(l, o), n));
     }
 }
