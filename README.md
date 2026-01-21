@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 132 ✅  
+- Easy: 133 ✅  
 - Medium: 9 ⚡  
 - Hard: 0 🔥  
-- **Total: 141**
+- **Total: 142**
 
 ---
 
@@ -139,6 +139,7 @@
 | 2231 | [Largest Number After Digit Swaps By Parity](https://leetcode.com/problems/largest-number-after-digit-swaps-by-parity) | [Java](2231-largest-number-after-digit-swaps-by-parity) | Easy |
 | 2260 | [Divide A String Into Groups Of Size K](https://leetcode.com/problems/divide-a-string-into-groups-of-size-k) | [Java](2260-divide-a-string-into-groups-of-size-k) | Easy |
 | 2274 | [Keep Multiplying Found Values By Two](https://leetcode.com/problems/keep-multiplying-found-values-by-two) | [Java](2274-keep-multiplying-found-values-by-two) | Easy |
+| 2287 | [Rearrange Characters To Make Target String](https://leetcode.com/problems/rearrange-characters-to-make-target-string) | [Java](2287-rearrange-characters-to-make-target-string) | Easy |
 | 2288 | [Count Operations To Obtain Zero](https://leetcode.com/problems/count-operations-to-obtain-zero) | [Java](2288-count-operations-to-obtain-zero) | Easy |
 | 2292 | [Counting Words With A Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix) | [Java](2292-counting-words-with-a-given-prefix) | Easy |
 | 2341 | [Count Prefixes Of A Given String](https://leetcode.com/problems/count-prefixes-of-a-given-string) | [Java](2341-count-prefixes-of-a-given-string) | Easy |
@@ -155,19 +156,3 @@
 | 3498 | [Reverse Degree Of A String](https://leetcode.com/problems/reverse-degree-of-a-string) | [Java](3498-reverse-degree-of-a-string) | Easy |
 | 3701 | [Compute Alternating Sum](https://leetcode.com/problems/compute-alternating-sum) | [Java](3701-compute-alternating-sum) | Easy |
 | 3726 | [Remove Zeros In Decimal Representation](https://leetcode.com/problems/remove-zeros-in-decimal-representation) | [Java](3726-remove-zeros-in-decimal-representation) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Hash Table
-|  |
-| ------- |
-| [2287-rearrange-characters-to-make-target-string](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
-## String
-|  |
-| ------- |
-| [2287-rearrange-characters-to-make-target-string](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
-## Counting
-|  |
-| ------- |
-| [2287-rearrange-characters-to-make-target-string](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
-<!---LeetCode Topics End-->
