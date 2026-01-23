@@ -9,6 +9,11 @@ class Solution {
             int maxRight = sumInArrayNumOne(s.substring(i + 1, n).toCharArray());
 
             max = Math.max(max, maxLeft + maxRight);
+            
+            if (max == n) {
+                return max;
+            }
+
             i++;
         }
 
