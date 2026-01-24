@@ -1,18 +1,29 @@
 class Solution {
-    private static Set<Character> vowels = Set.of('a', 'e', 'i', 'o', 'u');
-    
-    public String toGoatLatin(String sentence) {
-        String[] words = sentence.split(" ");
+    private final static Set<Character> vowels = Set.of('a', 'e', 'i', 'o', 'u');
 
-        for (int i = 0; i < words.length; i++) {
-            if (vowels.contains(Character.toLowerCase(words[i].charAt(0)))) {
-                words[i] = words[i] + "ma" + "a".repeat(i + 1);
+    public String toGoatLatin(String sentence) {
+        StringBuilder result = new StringBuilder();
+        StringBuilder aLetter = new StringBuilder();
+
+        for (String w : sentence.split(" ")) {
+            aLetter.append("a");
+
+            if (vowels.contains(Character.toLowerCase(w.charAt(0)))) {
+                result.append(w);
+                result.append("ma");
+                result.append(aLetter);
+                result.append(" ");
             } else {
-                words[i] = words[i].substring(1) + words[i].charAt(0)
-                        + "ma" + "a".repeat(i + 1);
+                result.append(w.substring(1));
+                result.append(w.charAt(0));
+                result.append("ma");
+                result.append(aLetter);
+                result.append(" ");
             }
         }
 
-        return String.join(" ", words);
+        result.setLength(result.length() - 1);
+
+        return result.toString();
     }
 }
