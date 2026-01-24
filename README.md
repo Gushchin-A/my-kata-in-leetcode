@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 135 ✅  
+- Easy: 136 ✅  
 - Medium: 9 ⚡  
 - Hard: 0 🔥  
-- **Total: 144**
+- **Total: 145**
 
 ---
 
@@ -91,6 +91,7 @@
 | 806 | [Number Of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string) | [Java](0806-number-of-lines-to-write-string) | Easy |
 | 819 | [Most Common Word](https://leetcode.com/problems/most-common-word) | [Java](0819-most-common-word) | Easy |
 | 822 | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words) | [Java](0822-unique-morse-code-words) | Easy |
+| 824 | [Goat Latin](https://leetcode.com/problems/goat-latin) | [Java](0824-goat-latin) | Easy |
 | 832 | [Flipping An Image](https://leetcode.com/problems/flipping-an-image) | [Java](0832-flipping-an-image) | Easy |
 | 841 | [Shortest Distance To A Character](https://leetcode.com/problems/shortest-distance-to-a-character) | [Java](0841-shortest-distance-to-a-character) | Easy |
 | 860 | [Lemonade Change](https://leetcode.com/problems/lemonade-change) | [Java](0860-lemonade-change) | Easy |
@@ -158,11 +159,3 @@
 | 3498 | [Reverse Degree Of A String](https://leetcode.com/problems/reverse-degree-of-a-string) | [Java](3498-reverse-degree-of-a-string) | Easy |
 | 3701 | [Compute Alternating Sum](https://leetcode.com/problems/compute-alternating-sum) | [Java](3701-compute-alternating-sum) | Easy |
 | 3726 | [Remove Zeros In Decimal Representation](https://leetcode.com/problems/remove-zeros-in-decimal-representation) | [Java](3726-remove-zeros-in-decimal-representation) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## String
-|  |
-| ------- |
-| [0824-goat-latin](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0824-goat-latin) |
-<!---LeetCode Topics End-->
