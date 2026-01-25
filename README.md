@@ -160,15 +160,3 @@
 | 3498 | [Reverse Degree Of A String](https://leetcode.com/problems/reverse-degree-of-a-string) | [Java](3498-reverse-degree-of-a-string) | Easy |
 | 3701 | [Compute Alternating Sum](https://leetcode.com/problems/compute-alternating-sum) | [Java](3701-compute-alternating-sum) | Easy |
 | 3726 | [Remove Zeros In Decimal Representation](https://leetcode.com/problems/remove-zeros-in-decimal-representation) | [Java](3726-remove-zeros-in-decimal-representation) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Hash Table
-|  |
-| ------- |
-| [0771-jewels-and-stones](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0771-jewels-and-stones) |
-## String
-|  |
-| ------- |
-| [0771-jewels-and-stones](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0771-jewels-and-stones) |
-<!---LeetCode Topics End-->
