@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 136 ✅  
+- Easy: 137 ✅  
 - Medium: 9 ⚡  
 - Hard: 0 🔥  
-- **Total: 145**
+- **Total: 146**
 
 ---
 
@@ -87,6 +87,7 @@
 | 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index) | [Java](0724-find-pivot-index) | Easy |
 | 733 | [Flood Fill](https://leetcode.com/problems/flood-fill) | [Java](0733-flood-fill) | Easy |
 | 747 | [Largest Number At Least Twice Of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others) | [Java](0747-largest-number-at-least-twice-of-others) | Easy |
+| 771 | [Jewels And Stones](https://leetcode.com/problems/jewels-and-stones) | [Java](0771-jewels-and-stones) | Easy |
 | 796 | [Rotate String](https://leetcode.com/problems/rotate-string) | [Java](0796-rotate-string) | Easy |
 | 806 | [Number Of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string) | [Java](0806-number-of-lines-to-write-string) | Easy |
 | 819 | [Most Common Word](https://leetcode.com/problems/most-common-word) | [Java](0819-most-common-word) | Easy |
@@ -159,15 +160,3 @@
 | 3498 | [Reverse Degree Of A String](https://leetcode.com/problems/reverse-degree-of-a-string) | [Java](3498-reverse-degree-of-a-string) | Easy |
 | 3701 | [Compute Alternating Sum](https://leetcode.com/problems/compute-alternating-sum) | [Java](3701-compute-alternating-sum) | Easy |
 | 3726 | [Remove Zeros In Decimal Representation](https://leetcode.com/problems/remove-zeros-in-decimal-representation) | [Java](3726-remove-zeros-in-decimal-representation) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Hash Table
-|  |
-| ------- |
-| [0771-jewels-and-stones](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0771-jewels-and-stones) |
-## String
-|  |
-| ------- |
-| [0771-jewels-and-stones](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0771-jewels-and-stones) |
-<!---LeetCode Topics End-->
