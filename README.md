@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 137 ✅  
+- Easy: 138 ✅  
 - Medium: 9 ⚡  
 - Hard: 0 🔥  
-- **Total: 146**
+- **Total: 147**
 
 ---
 
@@ -73,6 +73,7 @@
 | 459 | [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern) | [Java](0459-repeated-substring-pattern) | Easy |
 | 463 | [Island Perimeter](https://leetcode.com/problems/island-perimeter) | [Java](0463-island-perimeter) | Easy |
 | 495 | [Teemo Attacking](https://leetcode.com/problems/teemo-attacking) | [Java](0495-teemo-attacking) | Easy |
+| 496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i) | [Java](0496-next-greater-element-i) | Easy |
 | 500 | [Keyboard Row](https://leetcode.com/problems/keyboard-row) | [Java](0500-keyboard-row) | Easy |
 | 506 | [Relative Ranks](https://leetcode.com/problems/relative-ranks) | [Java](0506-relative-ranks) | Easy |
 | 541 | [Reverse String II](https://leetcode.com/problems/reverse-string-ii) | [Java](0541-reverse-string-ii) | Easy |
@@ -160,23 +161,3 @@
 | 3498 | [Reverse Degree Of A String](https://leetcode.com/problems/reverse-degree-of-a-string) | [Java](3498-reverse-degree-of-a-string) | Easy |
 | 3701 | [Compute Alternating Sum](https://leetcode.com/problems/compute-alternating-sum) | [Java](3701-compute-alternating-sum) | Easy |
 | 3726 | [Remove Zeros In Decimal Representation](https://leetcode.com/problems/remove-zeros-in-decimal-representation) | [Java](3726-remove-zeros-in-decimal-representation) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0496-next-greater-element-i](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0496-next-greater-element-i) |
-## Hash Table
-|  |
-| ------- |
-| [0496-next-greater-element-i](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0496-next-greater-element-i) |
-## Stack
-|  |
-| ------- |
-| [0496-next-greater-element-i](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0496-next-greater-element-i) |
-## Monotonic Stack
-|  |
-| ------- |
-| [0496-next-greater-element-i](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0496-next-greater-element-i) |
-<!---LeetCode Topics End-->
