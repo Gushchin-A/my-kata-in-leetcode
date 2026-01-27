@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 138 ✅  
+- Easy: 139 ✅  
 - Medium: 9 ⚡  
 - Hard: 0 🔥  
-- **Total: 147**
+- **Total: 148**
 
 ---
 
@@ -99,6 +99,7 @@
 | 860 | [Lemonade Change](https://leetcode.com/problems/lemonade-change) | [Java](0860-lemonade-change) | Easy |
 | 867 | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix) | [Java](0867-transpose-matrix) | Easy |
 | 874 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare) | [Java](0874-backspace-string-compare) | Easy |
+| 884 | [Uncommon Words From Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences) | [Java](0884-uncommon-words-from-two-sentences) | Easy |
 | 905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity) | [Java](0905-sort-array-by-parity) | Easy |
 | 908 | [Middle Of The Linked List](https://leetcode.com/problems/middle-of-the-linked-list) | [Java](0908-middle-of-the-linked-list) | Easy |
 | 922 | [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii) | [Java](0922-sort-array-by-parity-ii) | Easy |
@@ -161,19 +162,3 @@
 | 3498 | [Reverse Degree Of A String](https://leetcode.com/problems/reverse-degree-of-a-string) | [Java](3498-reverse-degree-of-a-string) | Easy |
 | 3701 | [Compute Alternating Sum](https://leetcode.com/problems/compute-alternating-sum) | [Java](3701-compute-alternating-sum) | Easy |
 | 3726 | [Remove Zeros In Decimal Representation](https://leetcode.com/problems/remove-zeros-in-decimal-representation) | [Java](3726-remove-zeros-in-decimal-representation) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Hash Table
-|  |
-| ------- |
-| [0884-uncommon-words-from-two-sentences](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
-## String
-|  |
-| ------- |
-| [0884-uncommon-words-from-two-sentences](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
-## Counting
-|  |
-| ------- |
-| [0884-uncommon-words-from-two-sentences](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
-<!---LeetCode Topics End-->
