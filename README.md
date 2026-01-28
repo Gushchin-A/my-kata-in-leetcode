@@ -169,10 +169,12 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0496-next-greater-element-i) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0496-next-greater-element-i) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Stack
 |  |
 | ------- |
