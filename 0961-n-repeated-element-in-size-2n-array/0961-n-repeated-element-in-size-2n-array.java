@@ -1,14 +1,15 @@
 class Solution {
     public int repeatedNTimes(int[] nums) {
-        Set<Integer> uniq = new HashSet<>();
+        int maxNum = 10_000;
+        int[] counts = new int[maxNum + 1];
 
         for (int num : nums) {
-            if (uniq.contains(num)) {
+            counts[num] += 1;
+            if (counts[num] > 1) {
                 return num;
             }
-            uniq.add(num);
         }
-        
+
         return -1;
     }
 }
