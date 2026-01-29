@@ -9,8 +9,6 @@ class Solution {
     }
 
     public void reverseArray(int[] nums, int left, int right) {
-        int n = nums.length;
-        
         while (left < right) {
             int temp = nums[left];
             nums[left] = nums[right];
