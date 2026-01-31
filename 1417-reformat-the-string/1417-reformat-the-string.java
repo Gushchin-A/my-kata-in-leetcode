@@ -1,47 +1,36 @@
 class Solution {
     public String reformat(String s) {
-        List<Character> digits = new ArrayList<>();
-        List<Character> letters = new ArrayList<>();
-
         int minRangeDigit = 48;
         int maxRangeDigit = 57;
+
+        int digitCount = 0;
+        int lettersCount = 0;
         for (char c : s.toCharArray()) {
             if (c >= minRangeDigit && c <= maxRangeDigit) {
-                digits.add(c);
+                digitCount++;
             } else {
-                letters.add(c);
+                lettersCount++;
             }
         }
 
-        StringBuilder result = new StringBuilder();
-        int diffLength = Math.abs(digits.size() - letters.size());
-
-        if (diffLength > 1) {
+        if (Math.abs(digitCount - lettersCount) > 1) {
             return "";
-        } else if (diffLength == 0) {
-            int i = 0;
-            while (i < digits.size()) {
-                result.append(digits.get(i));
-                result.append(letters.get(i));
-                i++;
+        }
+
+        char[] result = new char[s.length()];
+        int digit = digitCount >= lettersCount ? 0 : 1;
+        int letter = lettersCount > digitCount ? 0 : 1;
+
+        for (char c : s.toCharArray()) {
+            if (c >= minRangeDigit && c <= maxRangeDigit) {
+                result[digit] = c;
+                digit += 2;
+            } else {
+                result[letter] = c;
+                letter += 2;
             }
-            return result.toString();
         }
-
-        List<Character> longerLength = digits.size() > letters.size()
-                    ? digits : letters;
-        List<Character> shorterLength = digits.size() < letters.size()
-                ? digits : letters;
-
-        int i = 0;
-        while (i < shorterLength.size()) {
-            result.append(longerLength.get(i));
-            result.append(shorterLength.get(i));
-            i++;
-        }
-
-        result.append(longerLength.getLast());
-
-        return result.toString();
+        
+        return new String(result);
     }
 }
