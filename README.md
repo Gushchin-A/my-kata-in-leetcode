@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 144 ✅  
+- Easy: 145 ✅  
 - Medium: 9 ⚡  
 - Hard: 0 🔥  
-- **Total: 153**
+- **Total: 154**
 
 ---
 
@@ -137,6 +137,7 @@
 | 1566 | [Check If A Word Occurs As A Prefix Of Any Word In A Sentence](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) | [Java](1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) | Easy |
 | 1598 | [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder) | [Java](1598-crawler-log-folder) | Easy |
 | 1603 | [Design Parking System](https://leetcode.com/problems/design-parking-system) | [Java](1603-design-parking-system) | Easy |
+| 1636 | [Sort Array By Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency) | [Java](1636-sort-array-by-increasing-frequency) | Easy |
 | 1642 | [Water Bottles](https://leetcode.com/problems/water-bottles) | [Java](1642-water-bottles) | Easy |
 | 1662 | [Check If Two String Arrays Are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent) | [Java](1662-check-if-two-string-arrays-are-equivalent) | Easy |
 | 1678 | [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation) | [Java](1678-goal-parser-interpretation) | Easy |
@@ -167,19 +168,3 @@
 | 3498 | [Reverse Degree Of A String](https://leetcode.com/problems/reverse-degree-of-a-string) | [Java](3498-reverse-degree-of-a-string) | Easy |
 | 3701 | [Compute Alternating Sum](https://leetcode.com/problems/compute-alternating-sum) | [Java](3701-compute-alternating-sum) | Easy |
 | 3726 | [Remove Zeros In Decimal Representation](https://leetcode.com/problems/remove-zeros-in-decimal-representation) | [Java](3726-remove-zeros-in-decimal-representation) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [1636-sort-array-by-increasing-frequency](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
-## Hash Table
-|  |
-| ------- |
-| [1636-sort-array-by-increasing-frequency](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
-## Sorting
-|  |
-| ------- |
-| [1636-sort-array-by-increasing-frequency](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
-<!---LeetCode Topics End-->
