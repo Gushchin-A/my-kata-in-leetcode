@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 145 ✅  
+- Easy: 146 ✅  
 - Medium: 9 ⚡  
 - Hard: 0 🔥  
-- **Total: 154**
+- **Total: 155**
 
 ---
 
@@ -124,6 +124,7 @@
 | 1252 | [Cells With Odd Values In A Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix) | [Java](1252-cells-with-odd-values-in-a-matrix) | Easy |
 | 1260 | [Shift 2d Grid](https://leetcode.com/problems/shift-2d-grid) | [Java](1260-shift-2d-grid) | Easy |
 | 1309 | [Decrypt String From Alphabet To Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping) | [Java](1309-decrypt-string-from-alphabet-to-integer-mapping) | Easy |
+| 1331 | [Rank Transform Of An Array](https://leetcode.com/problems/rank-transform-of-an-array) | [Java](1331-rank-transform-of-an-array) | Easy |
 | 1374 | [Generate A String With Characters That Have Odd Counts](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts) | [Java](1374-generate-a-string-with-characters-that-have-odd-counts) | Easy |
 | 1408 | [String Matching In An Array](https://leetcode.com/problems/string-matching-in-an-array) | [Java](1408-string-matching-in-an-array) | Easy |
 | 1411 | [Convert Binary Number In A Linked List To Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer) | [Java](1411-convert-binary-number-in-a-linked-list-to-integer) | Easy |
@@ -168,19 +169,3 @@
 | 3498 | [Reverse Degree Of A String](https://leetcode.com/problems/reverse-degree-of-a-string) | [Java](3498-reverse-degree-of-a-string) | Easy |
 | 3701 | [Compute Alternating Sum](https://leetcode.com/problems/compute-alternating-sum) | [Java](3701-compute-alternating-sum) | Easy |
 | 3726 | [Remove Zeros In Decimal Representation](https://leetcode.com/problems/remove-zeros-in-decimal-representation) | [Java](3726-remove-zeros-in-decimal-representation) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [1331-rank-transform-of-an-array](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1331-rank-transform-of-an-array) |
-## Hash Table
-|  |
-| ------- |
-| [1331-rank-transform-of-an-array](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1331-rank-transform-of-an-array) |
-## Sorting
-|  |
-| ------- |
-| [1331-rank-transform-of-an-array](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1331-rank-transform-of-an-array) |
-<!---LeetCode Topics End-->
