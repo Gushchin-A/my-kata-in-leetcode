@@ -1,15 +1,14 @@
 class Solution {
     public int[] arrayRankTransform(int[] arr) {
         int n = arr.length;
-        HashMap<Integer, Integer> ranks = new HashMap<>();
+        Map<Integer, Integer> ranks = new TreeMap<>();
 
-        Set<Integer> sortedUniq = new TreeSet<>();
         for (int i = 0; i < n; i++) {
-            sortedUniq.add(arr[i]);
+            ranks.put(arr[i], 0);
         }
         
         int rank = 1;
-        for (Integer num : sortedUniq) {
+        for (Integer num : ranks.keySet()) {
             ranks.put(num, rank++);
         }
 
