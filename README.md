@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 146 ✅  
+- Easy: 147 ✅  
 - Medium: 9 ⚡  
 - Hard: 0 🔥  
-- **Total: 155**
+- **Total: 156**
 
 ---
 
@@ -126,6 +126,7 @@
 | 1309 | [Decrypt String From Alphabet To Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping) | [Java](1309-decrypt-string-from-alphabet-to-integer-mapping) | Easy |
 | 1331 | [Rank Transform Of An Array](https://leetcode.com/problems/rank-transform-of-an-array) | [Java](1331-rank-transform-of-an-array) | Easy |
 | 1374 | [Generate A String With Characters That Have Odd Counts](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts) | [Java](1374-generate-a-string-with-characters-that-have-odd-counts) | Easy |
+| 1394 | [Find Lucky Integer In An Array](https://leetcode.com/problems/find-lucky-integer-in-an-array) | [Java](1394-find-lucky-integer-in-an-array) | Easy |
 | 1408 | [String Matching In An Array](https://leetcode.com/problems/string-matching-in-an-array) | [Java](1408-string-matching-in-an-array) | Easy |
 | 1411 | [Convert Binary Number In A Linked List To Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer) | [Java](1411-convert-binary-number-in-a-linked-list-to-integer) | Easy |
 | 1417 | [Reformat The String](https://leetcode.com/problems/reformat-the-string) | [Java](1417-reformat-the-string) | Easy |
@@ -169,19 +170,3 @@
 | 3498 | [Reverse Degree Of A String](https://leetcode.com/problems/reverse-degree-of-a-string) | [Java](3498-reverse-degree-of-a-string) | Easy |
 | 3701 | [Compute Alternating Sum](https://leetcode.com/problems/compute-alternating-sum) | [Java](3701-compute-alternating-sum) | Easy |
 | 3726 | [Remove Zeros In Decimal Representation](https://leetcode.com/problems/remove-zeros-in-decimal-representation) | [Java](3726-remove-zeros-in-decimal-representation) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [1394-find-lucky-integer-in-an-array](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
-## Hash Table
-|  |
-| ------- |
-| [1394-find-lucky-integer-in-an-array](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
-## Counting
-|  |
-| ------- |
-| [1394-find-lucky-integer-in-an-array](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
-<!---LeetCode Topics End-->
