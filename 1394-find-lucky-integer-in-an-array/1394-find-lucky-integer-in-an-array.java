@@ -1,16 +1,17 @@
 class Solution {
     public int findLucky(int[] arr) {
-        Map<Integer, Integer> counts = new HashMap<>();
+        int maxValueConstraints = 500;
+        int[] counts = new int[maxValueConstraints + 1];
 
         for (int num : arr) {
-            counts.merge(num, 1, Integer::sum);
+            counts[num]++;
         }
 
         int result = -1;
-        for (Map.Entry<Integer, Integer> num : counts.entrySet()) {
-            if (num.getKey().equals(num.getValue())) {
-                if (num.getKey() > result) {
-                    result = num.getKey();
+        for (int num : arr) {
+            if (num == counts[num]) {
+                if (num > result) {
+                    result = num;
                 }
             }
         }
