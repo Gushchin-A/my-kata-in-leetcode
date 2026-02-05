@@ -1,15 +1,21 @@
 class Solution {
     public boolean uniqueOccurrences(int[] arr) {
-        Map<Integer, Integer> counts = new HashMap<>();
+        int maxValue = 1_000;
+        int offset = 1_000;
+        int[] counts = new int[maxValue + offset + 1];
+
 
         for (int num : arr) {
-            counts.merge(num, 1, Integer::sum);
+            counts[num + offset]++;
         }
 
-        Set<Integer> uniqCounts = new HashSet<>();
-        for (Integer count : counts.values()) {
-            if (!uniqCounts.add(count)) {
-                return false;
+        Arrays.sort(counts);
+
+        for (int i = 0; i < counts.length - 1; i++) {
+            if (counts[i] != 0) {
+                if (counts[i] == counts[i + 1]) {
+                    return false;
+                }
             }
         }
 
