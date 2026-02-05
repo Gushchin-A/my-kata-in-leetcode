@@ -1,21 +1,32 @@
 class Solution {
     public boolean uniqueOccurrences(int[] arr) {
-        int maxValue = 1_000;
-        int offset = 1_000;
-        int[] counts = new int[maxValue + offset + 1];
+        Arrays.sort(arr);
 
-
-        for (int num : arr) {
-            counts[num + offset]++;
-        }
-
-        Arrays.sort(counts);
-
-        for (int i = 0; i < counts.length - 1; i++) {
-            if (counts[i] != 0) {
-                if (counts[i] == counts[i + 1]) {
+        Set<Integer> uniqCounts = new HashSet<>();
+        
+        int count = 0;
+        boolean endDuplicates = false;
+        for (int i = 0; i < arr.length; i++) {
+            if (i + 1 < arr.length) {
+                if (arr[i] != arr[i + 1]) {
+                    count++;
+                    endDuplicates = true;
+                } else {
+                    count++;
+                }
+            } else {
+                count++;
+                if (!uniqCounts.add(count)) {
                     return false;
                 }
+            }
+
+            if (endDuplicates) {
+                if (!uniqCounts.add(count)) {
+                    return false;
+                }
+                endDuplicates = false;
+                count = 0;
             }
         }
 
