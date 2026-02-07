@@ -1,6 +1,6 @@
 class Solution {
     public List<Integer> intersection(int[][] nums) {
-        Map<Integer, Integer> counts = new TreeMap<>();
+        Map<Integer, Integer> counts = new HashMap<>();
 
         for (int[] row : nums) {
             for (int num : row) {
@@ -15,6 +15,8 @@ class Solution {
                 result.add(entry.getKey());
             }
         }
+        
+        Collections.sort(result);
 
         return result;
     }
