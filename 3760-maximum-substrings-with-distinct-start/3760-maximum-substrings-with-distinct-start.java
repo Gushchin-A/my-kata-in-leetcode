@@ -1,13 +1,12 @@
 class Solution {
     public int maxDistinct(String s) {
-        boolean[] seen = new boolean[26];
+        Set<Character> seen = new HashSet<>();
 
         int result = 0;
         for (char c : s.toCharArray()) {
-            if (!seen[c - 'a']) {
+            if (seen.add(c)) {
                 result++;
             }
-            seen[c - 'a'] = true;
         }
 
         return result;
