@@ -4,9 +4,9 @@
 #### 📊 Progress
 
 - Easy: 150 ✅  
-- Medium: 10 ⚡  
+- Medium: 11 ⚡  
 - Hard: 0 🔥  
-- **Total: 160**
+- **Total: 161**
 
 ---
 
@@ -124,6 +124,7 @@
 | 1241 | [Decompress Run Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list) | [Java](1241-decompress-run-length-encoded-list) | Easy |
 | 1252 | [Cells With Odd Values In A Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix) | [Java](1252-cells-with-odd-values-in-a-matrix) | Easy |
 | 1260 | [Shift 2d Grid](https://leetcode.com/problems/shift-2d-grid) | [Java](1260-shift-2d-grid) | Easy |
+| 1282 | [Group The People Given The Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to) | [Java](1282-group-the-people-given-the-group-size-they-belong-to) | Medium |
 | 1309 | [Decrypt String From Alphabet To Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping) | [Java](1309-decrypt-string-from-alphabet-to-integer-mapping) | Easy |
 | 1331 | [Rank Transform Of An Array](https://leetcode.com/problems/rank-transform-of-an-array) | [Java](1331-rank-transform-of-an-array) | Easy |
 | 1374 | [Generate A String With Characters That Have Odd Counts](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts) | [Java](1374-generate-a-string-with-characters-that-have-odd-counts) | Easy |
@@ -174,19 +175,3 @@
 | 3701 | [Compute Alternating Sum](https://leetcode.com/problems/compute-alternating-sum) | [Java](3701-compute-alternating-sum) | Easy |
 | 3726 | [Remove Zeros In Decimal Representation](https://leetcode.com/problems/remove-zeros-in-decimal-representation) | [Java](3726-remove-zeros-in-decimal-representation) | Easy |
 | 3760 | [Maximum Substrings With Distinct Start](https://leetcode.com/problems/maximum-substrings-with-distinct-start) | [Java](3760-maximum-substrings-with-distinct-start) | Medium |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
-## Hash Table
-|  |
-| ------- |
-| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
-## Greedy
-|  |
-| ------- |
-| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
-<!---LeetCode Topics End-->
