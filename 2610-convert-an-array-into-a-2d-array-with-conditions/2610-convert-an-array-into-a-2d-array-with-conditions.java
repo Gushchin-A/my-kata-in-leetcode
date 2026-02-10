@@ -1,36 +1,35 @@
 class Solution {
     public List<List<Integer>> findMatrix(int[] nums) {
-        int[] copy = new int[nums.length];
-        System.arraycopy(nums, 0, copy, 0, copy.length);
+        Map<Integer, Integer> counts = new HashMap<>();
+
+        int maxRow = 0;
+        for (int num : nums) {
+            counts.put(num, counts.getOrDefault(num, 0) + 1);
+            if (counts.get(num) > maxRow) {
+                maxRow = counts.get(num);
+            }
+        }
 
         List<List<Integer>> result = new ArrayList<>();
-        List<Integer> row = new ArrayList<>();
-        Set<Integer> tempUniq = new HashSet<>();
 
-        int index = 0;
-        int seen = 0;
-        while (seen < copy.length) {
+        int i = 0;
+        while (i < maxRow) {
+            
+            List<Integer> row = new ArrayList<>();
 
-            if (tempUniq.add(copy[index]) && copy[index] != -1) {
-                row.add(copy[index]);
-                copy[index] = -1;
-                seen++;
+            for (Map.Entry<Integer, Integer> keyValue : counts.entrySet()) {
+                int key = keyValue.getKey();
+                int value = keyValue.getValue();
+                if (value != 0) {
+                    row.add(key);
+                    counts.put(key, counts.get(key) - 1);
+                }
             }
 
-            if (index == copy.length - 1) {
-                result.add(row);
-                row = new ArrayList<>();
-                tempUniq = new HashSet<>();
-                index = 0;
-            }
-
-            index++;
-        }
-
-        if (!row.isEmpty()) {
             result.add(row);
+            i++;
         }
-
+        
         return result;
     }
 }
