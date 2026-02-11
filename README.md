@@ -4,9 +4,9 @@
 #### 📊 Progress
 
 - Easy: 150 ✅  
-- Medium: 12 ⚡  
+- Medium: 13 ⚡  
 - Hard: 0 🔥  
-- **Total: 162**
+- **Total: 163**
 
 ---
 
@@ -78,6 +78,7 @@
 | 496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i) | [Java](0496-next-greater-element-i) | Easy |
 | 500 | [Keyboard Row](https://leetcode.com/problems/keyboard-row) | [Java](0500-keyboard-row) | Easy |
 | 506 | [Relative Ranks](https://leetcode.com/problems/relative-ranks) | [Java](0506-relative-ranks) | Easy |
+| 535 | [Encode And Decode Tinyurl](https://leetcode.com/problems/encode-and-decode-tinyurl) | [Java](0535-encode-and-decode-tinyurl) | Medium |
 | 541 | [Reverse String II](https://leetcode.com/problems/reverse-string-ii) | [Java](0541-reverse-string-ii) | Easy |
 | 557 | [Reverse Words In A String III](https://leetcode.com/problems/reverse-words-in-a-string-iii) | [Java](0557-reverse-words-in-a-string-iii) | Easy |
 | 561 | [Array Partition](https://leetcode.com/problems/array-partition) | [Java](0561-array-partition) | Easy |
@@ -176,23 +177,3 @@
 | 3701 | [Compute Alternating Sum](https://leetcode.com/problems/compute-alternating-sum) | [Java](3701-compute-alternating-sum) | Easy |
 | 3726 | [Remove Zeros In Decimal Representation](https://leetcode.com/problems/remove-zeros-in-decimal-representation) | [Java](3726-remove-zeros-in-decimal-representation) | Easy |
 | 3760 | [Maximum Substrings With Distinct Start](https://leetcode.com/problems/maximum-substrings-with-distinct-start) | [Java](3760-maximum-substrings-with-distinct-start) | Medium |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Hash Table
-|  |
-| ------- |
-| [0535-encode-and-decode-tinyurl](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0535-encode-and-decode-tinyurl) |
-## String
-|  |
-| ------- |
-| [0535-encode-and-decode-tinyurl](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0535-encode-and-decode-tinyurl) |
-## Design
-|  |
-| ------- |
-| [0535-encode-and-decode-tinyurl](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0535-encode-and-decode-tinyurl) |
-## Hash Function
-|  |
-| ------- |
-| [0535-encode-and-decode-tinyurl](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0535-encode-and-decode-tinyurl) |
-<!---LeetCode Topics End-->
