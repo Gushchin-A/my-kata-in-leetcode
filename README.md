@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 150 ✅  
+- Easy: 151 ✅  
 - Medium: 13 ⚡  
 - Hard: 0 🔥  
-- **Total: 163**
+- **Total: 164**
 
 ---
 
@@ -174,22 +174,7 @@
 | 3304 | [Find The K Th Character In String Game I](https://leetcode.com/problems/find-the-k-th-character-in-string-game-i) | [Java](3304-find-the-k-th-character-in-string-game-i) | Easy |
 | 3309 | [Count Prefix And Suffix Pairs I](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i) | [Java](3309-count-prefix-and-suffix-pairs-i) | Easy |
 | 3498 | [Reverse Degree Of A String](https://leetcode.com/problems/reverse-degree-of-a-string) | [Java](3498-reverse-degree-of-a-string) | Easy |
+| 3541 | [Find Most Frequent Vowel And Consonant](https://leetcode.com/problems/find-most-frequent-vowel-and-consonant) | [Java](3541-find-most-frequent-vowel-and-consonant) | Easy |
 | 3701 | [Compute Alternating Sum](https://leetcode.com/problems/compute-alternating-sum) | [Java](3701-compute-alternating-sum) | Easy |
 | 3726 | [Remove Zeros In Decimal Representation](https://leetcode.com/problems/remove-zeros-in-decimal-representation) | [Java](3726-remove-zeros-in-decimal-representation) | Easy |
 | 3760 | [Maximum Substrings With Distinct Start](https://leetcode.com/problems/maximum-substrings-with-distinct-start) | [Java](3760-maximum-substrings-with-distinct-start) | Medium |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Hash Table
-|  |
-| ------- |
-| [3541-find-most-frequent-vowel-and-consonant](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
-## String
-|  |
-| ------- |
-| [3541-find-most-frequent-vowel-and-consonant](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
-## Counting
-|  |
-| ------- |
-| [3541-find-most-frequent-vowel-and-consonant](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
-<!---LeetCode Topics End-->
