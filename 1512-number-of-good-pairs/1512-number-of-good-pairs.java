@@ -5,7 +5,6 @@ class Solution {
         int pairs = 0;
         for (int num : nums) {
             pairs += freq.getOrDefault(num, 0);
-
             freq.merge(num, 1, Integer::sum);
         }
 
