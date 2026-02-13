@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 151 ✅  
+- Easy: 152 ✅  
 - Medium: 13 ⚡  
 - Hard: 0 🔥  
-- **Total: 164**
+- **Total: 165**
 
 ---
 
@@ -138,6 +138,7 @@
 | 1444 | [Number Of Steps To Reduce A Number To Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero) | [Java](1444-number-of-steps-to-reduce-a-number-to-zero) | Easy |
 | 1454 | [Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences) | [Java](1454-remove-palindromic-subsequences) | Easy |
 | 1505 | [Create Target Array In The Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order) | [Java](1505-create-target-array-in-the-given-order) | Easy |
+| 1512 | [Number Of Good Pairs](https://leetcode.com/problems/number-of-good-pairs) | [Java](1512-number-of-good-pairs) | Easy |
 | 1528 | [Shuffle String](https://leetcode.com/problems/shuffle-string) | [Java](1528-shuffle-string) | Easy |
 | 1566 | [Check If A Word Occurs As A Prefix Of Any Word In A Sentence](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) | [Java](1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) | Easy |
 | 1598 | [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder) | [Java](1598-crawler-log-folder) | Easy |
@@ -178,23 +179,3 @@
 | 3701 | [Compute Alternating Sum](https://leetcode.com/problems/compute-alternating-sum) | [Java](3701-compute-alternating-sum) | Easy |
 | 3726 | [Remove Zeros In Decimal Representation](https://leetcode.com/problems/remove-zeros-in-decimal-representation) | [Java](3726-remove-zeros-in-decimal-representation) | Easy |
 | 3760 | [Maximum Substrings With Distinct Start](https://leetcode.com/problems/maximum-substrings-with-distinct-start) | [Java](3760-maximum-substrings-with-distinct-start) | Medium |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [1512-number-of-good-pairs](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1512-number-of-good-pairs) |
-## Hash Table
-|  |
-| ------- |
-| [1512-number-of-good-pairs](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1512-number-of-good-pairs) |
-## Math
-|  |
-| ------- |
-| [1512-number-of-good-pairs](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1512-number-of-good-pairs) |
-## Counting
-|  |
-| ------- |
-| [1512-number-of-good-pairs](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1512-number-of-good-pairs) |
-<!---LeetCode Topics End-->
