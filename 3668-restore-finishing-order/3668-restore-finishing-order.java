@@ -1,19 +1,14 @@
 class Solution {
     public int[] recoverOrder(int[] order, int[] friends) {
-        Map<Integer, Integer> freq = new HashMap<>();
-
-        for (int i = 0; i < friends.length; i++) {
-            for (int j = 0; j < order.length; j++) {
-                if (friends[i] == order[j]) {
-                    freq.put(friends[i], j + 1);
-                }
-            }
+        Set<Integer> myFriends = new HashSet<>();
+        for (int f : friends) {
+            myFriends.add(f);
         }
 
         int[] result = new int[friends.length];
         int indexRes = 0;
         for (int id : order) {
-            if (freq.containsKey(id)) {
+            if (myFriends.contains(id)) {
                 result[indexRes++] = id;
             }
         }
