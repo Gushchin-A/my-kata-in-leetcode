@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 153 ✅  
+- Easy: 154 ✅  
 - Medium: 13 ⚡  
 - Hard: 0 🔥  
-- **Total: 166**
+- **Total: 167**
 
 ---
 
@@ -149,6 +149,7 @@
 | 1678 | [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation) | [Java](1678-goal-parser-interpretation) | Easy |
 | 1684 | [Count The Number Of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings) | [Java](1684-count-the-number-of-consistent-strings) | Easy |
 | 2022 | [Convert 1d Array Into 2d Array](https://leetcode.com/problems/convert-1d-array-into-2d-array) | [Java](2022-convert-1d-array-into-2d-array) | Easy |
+| 2053 | [Kth Distinct String In An Array](https://leetcode.com/problems/kth-distinct-string-in-an-array) | [Java](2053-kth-distinct-string-in-an-array) | Easy |
 | 2093 | [Check If String Is A Prefix Of Array](https://leetcode.com/problems/check-if-string-is-a-prefix-of-array) | [Java](2093-check-if-string-is-a-prefix-of-array) | Easy |
 | 2102 | [Find The Middle Index In Array](https://leetcode.com/problems/find-the-middle-index-in-array) | [Java](2102-find-the-middle-index-in-array) | Easy |
 | 2128 | [Reverse Prefix Of Word](https://leetcode.com/problems/reverse-prefix-of-word) | [Java](2128-reverse-prefix-of-word) | Easy |
@@ -180,23 +181,3 @@
 | 3701 | [Compute Alternating Sum](https://leetcode.com/problems/compute-alternating-sum) | [Java](3701-compute-alternating-sum) | Easy |
 | 3726 | [Remove Zeros In Decimal Representation](https://leetcode.com/problems/remove-zeros-in-decimal-representation) | [Java](3726-remove-zeros-in-decimal-representation) | Easy |
 | 3760 | [Maximum Substrings With Distinct Start](https://leetcode.com/problems/maximum-substrings-with-distinct-start) | [Java](3760-maximum-substrings-with-distinct-start) | Medium |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [2053-kth-distinct-string-in-an-array](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
-## Hash Table
-|  |
-| ------- |
-| [2053-kth-distinct-string-in-an-array](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
-## String
-|  |
-| ------- |
-| [2053-kth-distinct-string-in-an-array](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
-## Counting
-|  |
-| ------- |
-| [2053-kth-distinct-string-in-an-array](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
-<!---LeetCode Topics End-->
