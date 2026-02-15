@@ -1,16 +1,21 @@
 class Solution {
     public String kthDistinct(String[] arr, int k) {
-        Set<String> distinctStrings = new HashSet<>();
-        List<String> tempResult = new ArrayList<>();
+        Map<String, Integer> freq = new HashMap<>();
 
         for (String str : arr) {
-            if (!distinctStrings.add(str)) {
-                tempResult.remove(str);
-            } else {
-                tempResult.add(str);
-            }
+            freq.put(str, freq.getOrDefault(str, 0) + 1);
         }
 
-        return tempResult.size() < k ? "" : tempResult.get(k - 1);
+        int countK = 0;
+        for (String str : arr) {
+            if (freq.get(str) == 1) {
+                countK++;
+                if (countK == k) {
+                    return str;
+                }
+            }
+        }
+        
+        return "";
     }
 }
