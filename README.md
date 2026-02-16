@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 154 ✅  
+- Easy: 155 ✅  
 - Medium: 13 ⚡  
 - Hard: 0 🔥  
-- **Total: 167**
+- **Total: 168**
 
 ---
 
@@ -167,6 +167,7 @@
 | 2390 | [Removing Stars From A String](https://leetcode.com/problems/removing-stars-from-a-string) | [Java](2390-removing-stars-from-a-string) | Medium |
 | 2506 | [Count Pairs Of Similar Strings](https://leetcode.com/problems/count-pairs-of-similar-strings) | [Java](2506-count-pairs-of-similar-strings) | Easy |
 | 2517 | [Maximum Tastiness Of Candy Basket](https://leetcode.com/problems/maximum-tastiness-of-candy-basket) | [Java](2517-maximum-tastiness-of-candy-basket) | Medium |
+| 2570 | [Merge Two 2d Arrays By Summing Values](https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values) | [Java](2570-merge-two-2d-arrays-by-summing-values) | Easy |
 | 2610 | [Convert An Array Into A 2d Array With Conditions](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions) | [Java](2610-convert-an-array-into-a-2d-array-with-conditions) | Medium |
 | 2698 | [Find The Array Concatenation Value](https://leetcode.com/problems/find-the-array-concatenation-value) | [Java](2698-find-the-array-concatenation-value) | Easy |
 | 2714 | [Left And Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences) | [Java](2714-left-and-right-sum-differences) | Easy |
@@ -181,19 +182,3 @@
 | 3701 | [Compute Alternating Sum](https://leetcode.com/problems/compute-alternating-sum) | [Java](3701-compute-alternating-sum) | Easy |
 | 3726 | [Remove Zeros In Decimal Representation](https://leetcode.com/problems/remove-zeros-in-decimal-representation) | [Java](3726-remove-zeros-in-decimal-representation) | Easy |
 | 3760 | [Maximum Substrings With Distinct Start](https://leetcode.com/problems/maximum-substrings-with-distinct-start) | [Java](3760-maximum-substrings-with-distinct-start) | Medium |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
-## Hash Table
-|  |
-| ------- |
-| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
-## Two Pointers
-|  |
-| ------- |
-| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
-<!---LeetCode Topics End-->
