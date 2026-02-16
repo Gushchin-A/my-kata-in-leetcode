@@ -181,3 +181,19 @@
 | 3701 | [Compute Alternating Sum](https://leetcode.com/problems/compute-alternating-sum) | [Java](3701-compute-alternating-sum) | Easy |
 | 3726 | [Remove Zeros In Decimal Representation](https://leetcode.com/problems/remove-zeros-in-decimal-representation) | [Java](3726-remove-zeros-in-decimal-representation) | Easy |
 | 3760 | [Maximum Substrings With Distinct Start](https://leetcode.com/problems/maximum-substrings-with-distinct-start) | [Java](3760-maximum-substrings-with-distinct-start) | Medium |
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+## Hash Table
+|  |
+| ------- |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+## Two Pointers
+|  |
+| ------- |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+<!---LeetCode Topics End-->
