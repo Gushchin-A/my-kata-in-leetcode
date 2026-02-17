@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 155 ✅  
+- Easy: 156 ✅  
 - Medium: 13 ⚡  
 - Hard: 0 🔥  
-- **Total: 168**
+- **Total: 169**
 
 ---
 
@@ -152,6 +152,7 @@
 | 2053 | [Kth Distinct String In An Array](https://leetcode.com/problems/kth-distinct-string-in-an-array) | [Java](2053-kth-distinct-string-in-an-array) | Easy |
 | 2093 | [Check If String Is A Prefix Of Array](https://leetcode.com/problems/check-if-string-is-a-prefix-of-array) | [Java](2093-check-if-string-is-a-prefix-of-array) | Easy |
 | 2102 | [Find The Middle Index In Array](https://leetcode.com/problems/find-the-middle-index-in-array) | [Java](2102-find-the-middle-index-in-array) | Easy |
+| 2103 | [Rings And Rods](https://leetcode.com/problems/rings-and-rods) | [Java](2103-rings-and-rods) | Easy |
 | 2128 | [Reverse Prefix Of Word](https://leetcode.com/problems/reverse-prefix-of-word) | [Java](2128-reverse-prefix-of-word) | Easy |
 | 2181 | [Merge Nodes In Between Zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros) | [Java](2181-merge-nodes-in-between-zeros) | Medium |
 | 2215 | [Find The Difference Of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays) | [Java](2215-find-the-difference-of-two-arrays) | Easy |
@@ -182,15 +183,3 @@
 | 3701 | [Compute Alternating Sum](https://leetcode.com/problems/compute-alternating-sum) | [Java](3701-compute-alternating-sum) | Easy |
 | 3726 | [Remove Zeros In Decimal Representation](https://leetcode.com/problems/remove-zeros-in-decimal-representation) | [Java](3726-remove-zeros-in-decimal-representation) | Easy |
 | 3760 | [Maximum Substrings With Distinct Start](https://leetcode.com/problems/maximum-substrings-with-distinct-start) | [Java](3760-maximum-substrings-with-distinct-start) | Medium |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Hash Table
-|  |
-| ------- |
-| [2103-rings-and-rods](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2103-rings-and-rods) |
-## String
-|  |
-| ------- |
-| [2103-rings-and-rods](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2103-rings-and-rods) |
-<!---LeetCode Topics End-->
