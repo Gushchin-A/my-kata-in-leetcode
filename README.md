@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 156 ✅  
+- Easy: 157 ✅  
 - Medium: 13 ⚡  
 - Hard: 0 🔥  
-- **Total: 169**
+- **Total: 170**
 
 ---
 
@@ -175,6 +175,7 @@
 | 2752 | [Sum Multiples](https://leetcode.com/problems/sum-multiples) | [Java](2752-sum-multiples) | Easy |
 | 2777 | [Find The Distinct Difference Array](https://leetcode.com/problems/find-the-distinct-difference-array) | [Java](2777-find-the-distinct-difference-array) | Easy |
 | 2788 | [Split Strings By Separator](https://leetcode.com/problems/split-strings-by-separator) | [Java](2788-split-strings-by-separator) | Easy |
+| 3289 | [The Two Sneaky Numbers Of Digitville](https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville) | [Java](3289-the-two-sneaky-numbers-of-digitville) | Easy |
 | 3304 | [Find The K Th Character In String Game I](https://leetcode.com/problems/find-the-k-th-character-in-string-game-i) | [Java](3304-find-the-k-th-character-in-string-game-i) | Easy |
 | 3309 | [Count Prefix And Suffix Pairs I](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i) | [Java](3309-count-prefix-and-suffix-pairs-i) | Easy |
 | 3498 | [Reverse Degree Of A String](https://leetcode.com/problems/reverse-degree-of-a-string) | [Java](3498-reverse-degree-of-a-string) | Easy |
@@ -183,19 +184,3 @@
 | 3701 | [Compute Alternating Sum](https://leetcode.com/problems/compute-alternating-sum) | [Java](3701-compute-alternating-sum) | Easy |
 | 3726 | [Remove Zeros In Decimal Representation](https://leetcode.com/problems/remove-zeros-in-decimal-representation) | [Java](3726-remove-zeros-in-decimal-representation) | Easy |
 | 3760 | [Maximum Substrings With Distinct Start](https://leetcode.com/problems/maximum-substrings-with-distinct-start) | [Java](3760-maximum-substrings-with-distinct-start) | Medium |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
-## Hash Table
-|  |
-| ------- |
-| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
-## Math
-|  |
-| ------- |
-| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
-<!---LeetCode Topics End-->
