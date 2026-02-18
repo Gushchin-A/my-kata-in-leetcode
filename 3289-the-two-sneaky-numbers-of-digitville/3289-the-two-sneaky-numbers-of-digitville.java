@@ -2,12 +2,12 @@ class Solution {
     public int[] getSneakyNumbers(int[] nums) {
         int maxSneakyNumbers = 2;
         int[] result = new int[maxSneakyNumbers];
-        Set<Integer> uniq = new HashSet<>(nums.length - 2);
+        Arrays.sort(nums);
 
         int indexRes = 0;
-        for (int num : nums) {
-            if (!uniq.add(num)) {
-                result[indexRes++] = num;
+        for (int i = 0; i < nums.length - 1; i++) {
+            if (nums[i] == nums[i + 1]) {
+                result[indexRes++] = nums[i];
             }
         }
 
