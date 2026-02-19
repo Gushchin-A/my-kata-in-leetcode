@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 157 ✅  
+- Easy: 158 ✅  
 - Medium: 13 ⚡  
 - Hard: 0 🔥  
-- **Total: 170**
+- **Total: 171**
 
 ---
 
@@ -183,20 +183,5 @@
 | 3668 | [Restore Finishing Order](https://leetcode.com/problems/restore-finishing-order) | [Java](3668-restore-finishing-order) | Easy |
 | 3701 | [Compute Alternating Sum](https://leetcode.com/problems/compute-alternating-sum) | [Java](3701-compute-alternating-sum) | Easy |
 | 3726 | [Remove Zeros In Decimal Representation](https://leetcode.com/problems/remove-zeros-in-decimal-representation) | [Java](3726-remove-zeros-in-decimal-representation) | Easy |
+| 3731 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements) | [Java](3731-find-missing-elements) | Easy |
 | 3760 | [Maximum Substrings With Distinct Start](https://leetcode.com/problems/maximum-substrings-with-distinct-start) | [Java](3760-maximum-substrings-with-distinct-start) | Medium |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [3731-find-missing-elements](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/3731-find-missing-elements) |
-## Hash Table
-|  |
-| ------- |
-| [3731-find-missing-elements](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/3731-find-missing-elements) |
-## Sorting
-|  |
-| ------- |
-| [3731-find-missing-elements](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/3731-find-missing-elements) |
-<!---LeetCode Topics End-->
