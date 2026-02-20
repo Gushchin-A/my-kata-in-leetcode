@@ -6,13 +6,8 @@ class Solution {
             freq.put(c, freq.getOrDefault(c, 0) + 1);
         }
 
-        int benchmarkFreq = freq.get(s.charAt(0));
-        for (Integer f : freq.values()) {
-            if (f != benchmarkFreq) {
-                return false;
-            }
-        }
+        Set<Integer> frequencies = new HashSet<>(freq.values());
 
-        return true;
+        return frequencies.size() == 1;
     }
 }
