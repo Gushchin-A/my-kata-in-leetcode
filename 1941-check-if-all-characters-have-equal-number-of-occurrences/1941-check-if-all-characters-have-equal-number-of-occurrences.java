@@ -1,13 +1,21 @@
 class Solution {
     public boolean areOccurrencesEqual(String s) {
-        Map<Character, Integer> freq = new HashMap<>();
+        int maxLetters = 26;
+        int[] freq = new int[maxLetters];
 
         for (char c : s.toCharArray()) {
-            freq.put(c, freq.getOrDefault(c, 0) + 1);
+            freq[c - 'a']++;
         }
 
-        Set<Integer> frequencies = new HashSet<>(freq.values());
+        int benchmarkFreq = freq[s.charAt(0) - 'a'];
+        for (int i = 0; i < freq.length; i++) {
+            if (freq[i] != 0) {
+                if (freq[i] != benchmarkFreq) {
+                    return false;
+                }
+            }
+        }
 
-        return frequencies.size() == 1;
+        return true;
     }
 }
