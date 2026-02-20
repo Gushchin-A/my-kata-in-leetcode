@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 158 ✅  
+- Easy: 159 ✅  
 - Medium: 13 ⚡  
 - Hard: 0 🔥  
-- **Total: 171**
+- **Total: 172**
 
 ---
 
@@ -148,6 +148,7 @@
 | 1662 | [Check If Two String Arrays Are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent) | [Java](1662-check-if-two-string-arrays-are-equivalent) | Easy |
 | 1678 | [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation) | [Java](1678-goal-parser-interpretation) | Easy |
 | 1684 | [Count The Number Of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings) | [Java](1684-count-the-number-of-consistent-strings) | Easy |
+| 1941 | [Check If All Characters Have Equal Number Of Occurrences](https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences) | [Java](1941-check-if-all-characters-have-equal-number-of-occurrences) | Easy |
 | 2022 | [Convert 1d Array Into 2d Array](https://leetcode.com/problems/convert-1d-array-into-2d-array) | [Java](2022-convert-1d-array-into-2d-array) | Easy |
 | 2053 | [Kth Distinct String In An Array](https://leetcode.com/problems/kth-distinct-string-in-an-array) | [Java](2053-kth-distinct-string-in-an-array) | Easy |
 | 2093 | [Check If String Is A Prefix Of Array](https://leetcode.com/problems/check-if-string-is-a-prefix-of-array) | [Java](2093-check-if-string-is-a-prefix-of-array) | Easy |
@@ -185,19 +186,3 @@
 | 3726 | [Remove Zeros In Decimal Representation](https://leetcode.com/problems/remove-zeros-in-decimal-representation) | [Java](3726-remove-zeros-in-decimal-representation) | Easy |
 | 3731 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements) | [Java](3731-find-missing-elements) | Easy |
 | 3760 | [Maximum Substrings With Distinct Start](https://leetcode.com/problems/maximum-substrings-with-distinct-start) | [Java](3760-maximum-substrings-with-distinct-start) | Medium |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Hash Table
-|  |
-| ------- |
-| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
-## String
-|  |
-| ------- |
-| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
-## Counting
-|  |
-| ------- |
-| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
-<!---LeetCode Topics End-->
