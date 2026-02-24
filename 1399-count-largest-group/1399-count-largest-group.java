@@ -1,38 +1,25 @@
 class Solution {
     public int countLargestGroup(int n) {
-        Map<Integer, List<Integer>> sumAndGroups = new HashMap<>();
+        Map<Integer, Integer> sumAndGroups = new HashMap<>();
 
         int maxSizeGroup = 0;
         for (int i = 1; i <= n; i++) {
-            int sum = sumDigitsInNumber(i);
-            if (sumAndGroups.get(sum) == null) {
-                sumAndGroups.put(sum, new ArrayList<>(List.of(i)));
-            } else {
-                List<Integer> group = sumAndGroups.get(sum);
-                group.add(i);
+            int num = i;
+            int sum = 0;
+            while (num > 0) {
+                int digit = num % 10;
+                sum += digit;
+                num /= 10;
             }
-            maxSizeGroup = Math.max(maxSizeGroup, sumAndGroups.get(sum).size());
+            sumAndGroups.merge(sum, 1, Integer::sum);
+            maxSizeGroup = Math.max(maxSizeGroup, sumAndGroups.get(sum));
         }
 
-        int result = 0;
-        for (List<Integer> group : sumAndGroups.values()) {
-            if (group.size() == maxSizeGroup) {
-                result++;
-            }
-        }
+        int finalMaxSizeGroup = maxSizeGroup;
 
-        return result;
-    }
-
-    private int sumDigitsInNumber(int num) {
-        int sum = 0;
-        
-        while (num > 0) {
-            int digit = num % 10;
-            sum += digit;
-            num /= 10;
-        }
-
-        return sum;
+        return (int) sumAndGroups.values()
+                .stream()
+                .filter(value -> value == finalMaxSizeGroup)
+                .count();
     }
 }
