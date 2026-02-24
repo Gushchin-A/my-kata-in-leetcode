@@ -4,13 +4,7 @@ class Solution {
 
         int maxSizeGroup = 0;
         for (int i = 1; i <= n; i++) {
-            int num = i;
-            int sum = 0;
-            while (num > 0) {
-                int digit = num % 10;
-                sum += digit;
-                num /= 10;
-            }
+            int sum = sumDigitsInNumber(i);
             if (sumAndGroups.get(sum) == null) {
                 sumAndGroups.put(sum, new ArrayList<>(List.of(i)));
             } else {
@@ -19,12 +13,27 @@ class Solution {
             }
             maxSizeGroup = Math.max(maxSizeGroup, sumAndGroups.get(sum).size());
         }
-        
-        int finalMaxSizeGroup = maxSizeGroup;
-        
-        return (int) sumAndGroups.values()
-                .stream()
-                .filter(value -> value.size() == finalMaxSizeGroup)
-                .count();
+
+        int result = 0;
+        for (List<Integer> group : sumAndGroups.values()) {
+            if (group.size() == maxSizeGroup) {
+                result++;
+            }
+        }
+
+        return result;
     }
+
+    private int sumDigitsInNumber(int num) {
+        int sum = 0;
+        
+        while (num > 0) {
+            int digit = num % 10;
+            sum += digit;
+            num /= 10;
+        }
+
+        return sum;
+    }
+    
 }
