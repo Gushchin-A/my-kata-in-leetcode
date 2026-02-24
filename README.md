@@ -190,15 +190,3 @@
 | 3726 | [Remove Zeros In Decimal Representation](https://leetcode.com/problems/remove-zeros-in-decimal-representation) | [Java](3726-remove-zeros-in-decimal-representation) | Easy |
 | 3731 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements) | [Java](3731-find-missing-elements) | Easy |
 | 3760 | [Maximum Substrings With Distinct Start](https://leetcode.com/problems/maximum-substrings-with-distinct-start) | [Java](3760-maximum-substrings-with-distinct-start) | Medium |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Hash Table
-|  |
-| ------- |
-| [1399-count-largest-group](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1399-count-largest-group) |
-## Math
-|  |
-| ------- |
-| [1399-count-largest-group](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1399-count-largest-group) |
-<!---LeetCode Topics End-->
