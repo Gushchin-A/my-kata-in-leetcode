@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 162 ✅  
+- Easy: 163 ✅  
 - Medium: 13 ⚡  
 - Hard: 0 🔥  
-- **Total: 175**
+- **Total: 176**
 
 ---
 
@@ -130,6 +130,7 @@
 | 1331 | [Rank Transform Of An Array](https://leetcode.com/problems/rank-transform-of-an-array) | [Java](1331-rank-transform-of-an-array) | Easy |
 | 1374 | [Generate A String With Characters That Have Odd Counts](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts) | [Java](1374-generate-a-string-with-characters-that-have-odd-counts) | Easy |
 | 1394 | [Find Lucky Integer In An Array](https://leetcode.com/problems/find-lucky-integer-in-an-array) | [Java](1394-find-lucky-integer-in-an-array) | Easy |
+| 1399 | [Count Largest Group](https://leetcode.com/problems/count-largest-group) | [Java](1399-count-largest-group) | Easy |
 | 1408 | [String Matching In An Array](https://leetcode.com/problems/string-matching-in-an-array) | [Java](1408-string-matching-in-an-array) | Easy |
 | 1411 | [Convert Binary Number In A Linked List To Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer) | [Java](1411-convert-binary-number-in-a-linked-list-to-integer) | Easy |
 | 1417 | [Reformat The String](https://leetcode.com/problems/reformat-the-string) | [Java](1417-reformat-the-string) | Easy |
@@ -189,15 +190,3 @@
 | 3726 | [Remove Zeros In Decimal Representation](https://leetcode.com/problems/remove-zeros-in-decimal-representation) | [Java](3726-remove-zeros-in-decimal-representation) | Easy |
 | 3731 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements) | [Java](3731-find-missing-elements) | Easy |
 | 3760 | [Maximum Substrings With Distinct Start](https://leetcode.com/problems/maximum-substrings-with-distinct-start) | [Java](3760-maximum-substrings-with-distinct-start) | Medium |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Hash Table
-|  |
-| ------- |
-| [1399-count-largest-group](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1399-count-largest-group) |
-## Math
-|  |
-| ------- |
-| [1399-count-largest-group](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1399-count-largest-group) |
-<!---LeetCode Topics End-->
