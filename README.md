@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 164 ✅  
+- Easy: 165 ✅  
 - Medium: 13 ⚡  
 - Hard: 0 🔥  
-- **Total: 177**
+- **Total: 178**
 
 ---
 
@@ -149,6 +149,7 @@
 | 1662 | [Check If Two String Arrays Are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent) | [Java](1662-check-if-two-string-arrays-are-equivalent) | Easy |
 | 1678 | [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation) | [Java](1678-goal-parser-interpretation) | Easy |
 | 1684 | [Count The Number Of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings) | [Java](1684-count-the-number-of-consistent-strings) | Easy |
+| 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [Java](1768-merge-strings-alternately) | Easy |
 | 1935 | [Maximum Number Of Words You Can Type](https://leetcode.com/problems/maximum-number-of-words-you-can-type) | [Java](1935-maximum-number-of-words-you-can-type) | Easy |
 | 1941 | [Check If All Characters Have Equal Number Of Occurrences](https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences) | [Java](1941-check-if-all-characters-have-equal-number-of-occurrences) | Easy |
 | 2022 | [Convert 1d Array Into 2d Array](https://leetcode.com/problems/convert-1d-array-into-2d-array) | [Java](2022-convert-1d-array-into-2d-array) | Easy |
@@ -191,15 +192,3 @@
 | 3731 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements) | [Java](3731-find-missing-elements) | Easy |
 | 3760 | [Maximum Substrings With Distinct Start](https://leetcode.com/problems/maximum-substrings-with-distinct-start) | [Java](3760-maximum-substrings-with-distinct-start) | Medium |
 | 3794 | [Reverse String Prefix](https://leetcode.com/problems/reverse-string-prefix) | [Java](3794-reverse-string-prefix) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Two Pointers
-|  |
-| ------- |
-| [1768-merge-strings-alternately](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1768-merge-strings-alternately) |
-## String
-|  |
-| ------- |
-| [1768-merge-strings-alternately](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1768-merge-strings-alternately) |
-<!---LeetCode Topics End-->
