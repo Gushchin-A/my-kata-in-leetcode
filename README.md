@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 166 ✅  
+- Easy: 167 ✅  
 - Medium: 13 ⚡  
 - Hard: 0 🔥  
-- **Total: 179**
+- **Total: 180**
 
 ---
 
@@ -190,26 +190,7 @@
 | 3701 | [Compute Alternating Sum](https://leetcode.com/problems/compute-alternating-sum) | [Java](3701-compute-alternating-sum) | Easy |
 | 3726 | [Remove Zeros In Decimal Representation](https://leetcode.com/problems/remove-zeros-in-decimal-representation) | [Java](3726-remove-zeros-in-decimal-representation) | Easy |
 | 3731 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements) | [Java](3731-find-missing-elements) | Easy |
+| 3750 | [Minimum Number Of Flips To Reverse Binary String](https://leetcode.com/problems/minimum-number-of-flips-to-reverse-binary-string) | [Java](3750-minimum-number-of-flips-to-reverse-binary-string) | Easy |
 | 3760 | [Maximum Substrings With Distinct Start](https://leetcode.com/problems/maximum-substrings-with-distinct-start) | [Java](3760-maximum-substrings-with-distinct-start) | Medium |
 | 3794 | [Reverse String Prefix](https://leetcode.com/problems/reverse-string-prefix) | [Java](3794-reverse-string-prefix) | Easy |
 | 3823 | [Reverse Letters Then Special Characters In A String](https://leetcode.com/problems/reverse-letters-then-special-characters-in-a-string) | [Java](3823-reverse-letters-then-special-characters-in-a-string) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-|  |
-| ------- |
-| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
-## Two Pointers
-|  |
-| ------- |
-| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
-## String
-|  |
-| ------- |
-| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
-## Bit Manipulation
-|  |
-| ------- |
-| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
-<!---LeetCode Topics End-->
