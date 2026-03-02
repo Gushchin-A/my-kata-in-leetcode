@@ -3,7 +3,7 @@ class Solution {
         StringBuilder result = new StringBuilder();
 
         int seen = 0;
-        for (String word : s.split("\\s+")) {
+        for (String word : s.split(" ")) {
             if (seen == k) {
                 break;
             }
