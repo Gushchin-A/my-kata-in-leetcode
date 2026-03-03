@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 169 ✅  
+- Easy: 170 ✅  
 - Medium: 13 ⚡  
 - Hard: 0 🔥  
-- **Total: 182**
+- **Total: 183**
 
 ---
 
@@ -175,6 +175,7 @@
 | 2517 | [Maximum Tastiness Of Candy Basket](https://leetcode.com/problems/maximum-tastiness-of-candy-basket) | [Java](2517-maximum-tastiness-of-candy-basket) | Medium |
 | 2570 | [Merge Two 2d Arrays By Summing Values](https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values) | [Java](2570-merge-two-2d-arrays-by-summing-values) | Easy |
 | 2610 | [Convert An Array Into A 2d Array With Conditions](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions) | [Java](2610-convert-an-array-into-a-2d-array-with-conditions) | Medium |
+| 2697 | [Lexicographically Smallest Palindrome](https://leetcode.com/problems/lexicographically-smallest-palindrome) | [Java](2697-lexicographically-smallest-palindrome) | Easy |
 | 2698 | [Find The Array Concatenation Value](https://leetcode.com/problems/find-the-array-concatenation-value) | [Java](2698-find-the-array-concatenation-value) | Easy |
 | 2714 | [Left And Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences) | [Java](2714-left-and-right-sum-differences) | Easy |
 | 2752 | [Sum Multiples](https://leetcode.com/problems/sum-multiples) | [Java](2752-sum-multiples) | Easy |
@@ -196,19 +197,3 @@
 | 3760 | [Maximum Substrings With Distinct Start](https://leetcode.com/problems/maximum-substrings-with-distinct-start) | [Java](3760-maximum-substrings-with-distinct-start) | Medium |
 | 3794 | [Reverse String Prefix](https://leetcode.com/problems/reverse-string-prefix) | [Java](3794-reverse-string-prefix) | Easy |
 | 3823 | [Reverse Letters Then Special Characters In A String](https://leetcode.com/problems/reverse-letters-then-special-characters-in-a-string) | [Java](3823-reverse-letters-then-special-characters-in-a-string) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Two Pointers
-|  |
-| ------- |
-| [2697-lexicographically-smallest-palindrome](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
-## String
-|  |
-| ------- |
-| [2697-lexicographically-smallest-palindrome](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
-## Greedy
-|  |
-| ------- |
-| [2697-lexicographically-smallest-palindrome](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
-<!---LeetCode Topics End-->
