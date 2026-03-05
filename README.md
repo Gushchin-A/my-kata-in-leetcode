@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 171 ✅  
+- Easy: 172 ✅  
 - Medium: 13 ⚡  
 - Hard: 0 🔥  
-- **Total: 184**
+- **Total: 185**
 
 ---
 
@@ -180,6 +180,7 @@
 | 2698 | [Find The Array Concatenation Value](https://leetcode.com/problems/find-the-array-concatenation-value) | [Java](2698-find-the-array-concatenation-value) | Easy |
 | 2714 | [Left And Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences) | [Java](2714-left-and-right-sum-differences) | Easy |
 | 2752 | [Sum Multiples](https://leetcode.com/problems/sum-multiples) | [Java](2752-sum-multiples) | Easy |
+| 2769 | [Find The Maximum Achievable Number](https://leetcode.com/problems/find-the-maximum-achievable-number) | [Java](2769-find-the-maximum-achievable-number) | Easy |
 | 2777 | [Find The Distinct Difference Array](https://leetcode.com/problems/find-the-distinct-difference-array) | [Java](2777-find-the-distinct-difference-array) | Easy |
 | 2788 | [Split Strings By Separator](https://leetcode.com/problems/split-strings-by-separator) | [Java](2788-split-strings-by-separator) | Easy |
 | 2965 | [Find Missing And Repeated Values](https://leetcode.com/problems/find-missing-and-repeated-values) | [Java](2965-find-missing-and-repeated-values) | Easy |
@@ -198,11 +199,3 @@
 | 3760 | [Maximum Substrings With Distinct Start](https://leetcode.com/problems/maximum-substrings-with-distinct-start) | [Java](3760-maximum-substrings-with-distinct-start) | Medium |
 | 3794 | [Reverse String Prefix](https://leetcode.com/problems/reverse-string-prefix) | [Java](3794-reverse-string-prefix) | Easy |
 | 3823 | [Reverse Letters Then Special Characters In A String](https://leetcode.com/problems/reverse-letters-then-special-characters-in-a-string) | [Java](3823-reverse-letters-then-special-characters-in-a-string) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-|  |
-| ------- |
-| [2769-find-the-maximum-achievable-number](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2769-find-the-maximum-achievable-number) |
-<!---LeetCode Topics End-->
