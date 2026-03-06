@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 172 ✅  
+- Easy: 173 ✅  
 - Medium: 13 ⚡  
 - Hard: 0 🔥  
-- **Total: 185**
+- **Total: 186**
 
 ---
 
@@ -151,6 +151,7 @@
 | 1684 | [Count The Number Of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings) | [Java](1684-count-the-number-of-consistent-strings) | Easy |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [Java](1768-merge-strings-alternately) | Easy |
 | 1816 | [Truncate Sentence](https://leetcode.com/problems/truncate-sentence) | [Java](1816-truncate-sentence) | Easy |
+| 1920 | [Build Array From Permutation](https://leetcode.com/problems/build-array-from-permutation) | [Java](1920-build-array-from-permutation) | Easy |
 | 1935 | [Maximum Number Of Words You Can Type](https://leetcode.com/problems/maximum-number-of-words-you-can-type) | [Java](1935-maximum-number-of-words-you-can-type) | Easy |
 | 1941 | [Check If All Characters Have Equal Number Of Occurrences](https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences) | [Java](1941-check-if-all-characters-have-equal-number-of-occurrences) | Easy |
 | 2022 | [Convert 1d Array Into 2d Array](https://leetcode.com/problems/convert-1d-array-into-2d-array) | [Java](2022-convert-1d-array-into-2d-array) | Easy |
@@ -199,15 +200,3 @@
 | 3760 | [Maximum Substrings With Distinct Start](https://leetcode.com/problems/maximum-substrings-with-distinct-start) | [Java](3760-maximum-substrings-with-distinct-start) | Medium |
 | 3794 | [Reverse String Prefix](https://leetcode.com/problems/reverse-string-prefix) | [Java](3794-reverse-string-prefix) | Easy |
 | 3823 | [Reverse Letters Then Special Characters In A String](https://leetcode.com/problems/reverse-letters-then-special-characters-in-a-string) | [Java](3823-reverse-letters-then-special-characters-in-a-string) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [1920-build-array-from-permutation](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1920-build-array-from-permutation) |
-## Simulation
-|  |
-| ------- |
-| [1920-build-array-from-permutation](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1920-build-array-from-permutation) |
-<!---LeetCode Topics End-->
