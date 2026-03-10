@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 176 ✅  
+- Easy: 177 ✅  
 - Medium: 13 ⚡  
 - Hard: 0 🔥  
-- **Total: 189**
+- **Total: 190**
 
 ---
 
@@ -161,6 +161,7 @@
 | 2093 | [Check If String Is A Prefix Of Array](https://leetcode.com/problems/check-if-string-is-a-prefix-of-array) | [Java](2093-check-if-string-is-a-prefix-of-array) | Easy |
 | 2102 | [Find The Middle Index In Array](https://leetcode.com/problems/find-the-middle-index-in-array) | [Java](2102-find-the-middle-index-in-array) | Easy |
 | 2103 | [Rings And Rods](https://leetcode.com/problems/rings-and-rods) | [Java](2103-rings-and-rods) | Easy |
+| 2114 | [Maximum Number Of Words Found In Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences) | [Java](2114-maximum-number-of-words-found-in-sentences) | Easy |
 | 2128 | [Reverse Prefix Of Word](https://leetcode.com/problems/reverse-prefix-of-word) | [Java](2128-reverse-prefix-of-word) | Easy |
 | 2181 | [Merge Nodes In Between Zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros) | [Java](2181-merge-nodes-in-between-zeros) | Medium |
 | 2215 | [Find The Difference Of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays) | [Java](2215-find-the-difference-of-two-arrays) | Easy |
@@ -203,15 +204,3 @@
 | 3760 | [Maximum Substrings With Distinct Start](https://leetcode.com/problems/maximum-substrings-with-distinct-start) | [Java](3760-maximum-substrings-with-distinct-start) | Medium |
 | 3794 | [Reverse String Prefix](https://leetcode.com/problems/reverse-string-prefix) | [Java](3794-reverse-string-prefix) | Easy |
 | 3823 | [Reverse Letters Then Special Characters In A String](https://leetcode.com/problems/reverse-letters-then-special-characters-in-a-string) | [Java](3823-reverse-letters-then-special-characters-in-a-string) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
-## String
-|  |
-| ------- |
-| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
-<!---LeetCode Topics End-->
