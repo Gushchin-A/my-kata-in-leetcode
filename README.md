@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 178 ✅  
+- Easy: 179 ✅  
 - Medium: 13 ⚡  
 - Hard: 0 🔥  
-- **Total: 191**
+- **Total: 192**
 
 ---
 
@@ -189,6 +189,7 @@
 | 2777 | [Find The Distinct Difference Array](https://leetcode.com/problems/find-the-distinct-difference-array) | [Java](2777-find-the-distinct-difference-array) | Easy |
 | 2788 | [Split Strings By Separator](https://leetcode.com/problems/split-strings-by-separator) | [Java](2788-split-strings-by-separator) | Easy |
 | 2965 | [Find Missing And Repeated Values](https://leetcode.com/problems/find-missing-and-repeated-values) | [Java](2965-find-missing-and-repeated-values) | Easy |
+| 2974 | [Minimum Number Game](https://leetcode.com/problems/minimum-number-game) | [Java](2974-minimum-number-game) | Easy |
 | 3005 | [Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency) | [Java](3005-count-elements-with-maximum-frequency) | Easy |
 | 3110 | [Score Of A String](https://leetcode.com/problems/score-of-a-string) | [Java](3110-score-of-a-string) | Easy |
 | 3285 | [Find Indices Of Stable Mountains](https://leetcode.com/problems/find-indices-of-stable-mountains) | [Java](3285-find-indices-of-stable-mountains) | Easy |
@@ -205,23 +206,3 @@
 | 3760 | [Maximum Substrings With Distinct Start](https://leetcode.com/problems/maximum-substrings-with-distinct-start) | [Java](3760-maximum-substrings-with-distinct-start) | Medium |
 | 3794 | [Reverse String Prefix](https://leetcode.com/problems/reverse-string-prefix) | [Java](3794-reverse-string-prefix) | Easy |
 | 3823 | [Reverse Letters Then Special Characters In A String](https://leetcode.com/problems/reverse-letters-then-special-characters-in-a-string) | [Java](3823-reverse-letters-then-special-characters-in-a-string) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [2974-minimum-number-game](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2974-minimum-number-game) |
-## Sorting
-|  |
-| ------- |
-| [2974-minimum-number-game](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2974-minimum-number-game) |
-## Heap (Priority Queue)
-|  |
-| ------- |
-| [2974-minimum-number-game](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2974-minimum-number-game) |
-## Simulation
-|  |
-| ------- |
-| [2974-minimum-number-game](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2974-minimum-number-game) |
-<!---LeetCode Topics End-->
