@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 179 ✅  
+- Easy: 180 ✅  
 - Medium: 13 ⚡  
 - Hard: 0 🔥  
-- **Total: 192**
+- **Total: 193**
 
 ---
 
@@ -192,6 +192,7 @@
 | 2974 | [Minimum Number Game](https://leetcode.com/problems/minimum-number-game) | [Java](2974-minimum-number-game) | Easy |
 | 3005 | [Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency) | [Java](3005-count-elements-with-maximum-frequency) | Easy |
 | 3110 | [Score Of A String](https://leetcode.com/problems/score-of-a-string) | [Java](3110-score-of-a-string) | Easy |
+| 3174 | [Clear Digits](https://leetcode.com/problems/clear-digits) | [Java](3174-clear-digits) | Easy |
 | 3285 | [Find Indices Of Stable Mountains](https://leetcode.com/problems/find-indices-of-stable-mountains) | [Java](3285-find-indices-of-stable-mountains) | Easy |
 | 3289 | [The Two Sneaky Numbers Of Digitville](https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville) | [Java](3289-the-two-sneaky-numbers-of-digitville) | Easy |
 | 3304 | [Find The K Th Character In String Game I](https://leetcode.com/problems/find-the-k-th-character-in-string-game-i) | [Java](3304-find-the-k-th-character-in-string-game-i) | Easy |
@@ -206,19 +207,3 @@
 | 3760 | [Maximum Substrings With Distinct Start](https://leetcode.com/problems/maximum-substrings-with-distinct-start) | [Java](3760-maximum-substrings-with-distinct-start) | Medium |
 | 3794 | [Reverse String Prefix](https://leetcode.com/problems/reverse-string-prefix) | [Java](3794-reverse-string-prefix) | Easy |
 | 3823 | [Reverse Letters Then Special Characters In A String](https://leetcode.com/problems/reverse-letters-then-special-characters-in-a-string) | [Java](3823-reverse-letters-then-special-characters-in-a-string) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## String
-|  |
-| ------- |
-| [3174-clear-digits](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/3174-clear-digits) |
-## Stack
-|  |
-| ------- |
-| [3174-clear-digits](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/3174-clear-digits) |
-## Simulation
-|  |
-| ------- |
-| [3174-clear-digits](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/3174-clear-digits) |
-<!---LeetCode Topics End-->
