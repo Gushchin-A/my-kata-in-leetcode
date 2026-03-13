@@ -206,3 +206,19 @@
 | 3760 | [Maximum Substrings With Distinct Start](https://leetcode.com/problems/maximum-substrings-with-distinct-start) | [Java](3760-maximum-substrings-with-distinct-start) | Medium |
 | 3794 | [Reverse String Prefix](https://leetcode.com/problems/reverse-string-prefix) | [Java](3794-reverse-string-prefix) | Easy |
 | 3823 | [Reverse Letters Then Special Characters In A String](https://leetcode.com/problems/reverse-letters-then-special-characters-in-a-string) | [Java](3823-reverse-letters-then-special-characters-in-a-string) | Easy |
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+|  |
+| ------- |
+| [3174-clear-digits](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/3174-clear-digits) |
+## Stack
+|  |
+| ------- |
+| [3174-clear-digits](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/3174-clear-digits) |
+## Simulation
+|  |
+| ------- |
+| [3174-clear-digits](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/3174-clear-digits) |
+<!---LeetCode Topics End-->
