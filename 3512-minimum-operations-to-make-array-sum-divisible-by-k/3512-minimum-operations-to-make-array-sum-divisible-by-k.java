@@ -4,7 +4,7 @@ class Solution {
         return sum % k;
     }
 
-    private static int sumArray(int[] nums) {
+    private int sumArray(int[] nums) {
         int sum = 0;
         for (int num : nums) {
             sum += num;
