@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 180 ✅  
+- Easy: 181 ✅  
 - Medium: 14 ⚡  
 - Hard: 0 🔥  
-- **Total: 194**
+- **Total: 195**
 
 ---
 
@@ -199,6 +199,7 @@
 | 3304 | [Find The K Th Character In String Game I](https://leetcode.com/problems/find-the-k-th-character-in-string-game-i) | [Java](3304-find-the-k-th-character-in-string-game-i) | Easy |
 | 3309 | [Count Prefix And Suffix Pairs I](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i) | [Java](3309-count-prefix-and-suffix-pairs-i) | Easy |
 | 3498 | [Reverse Degree Of A String](https://leetcode.com/problems/reverse-degree-of-a-string) | [Java](3498-reverse-degree-of-a-string) | Easy |
+| 3512 | [Minimum Operations To Make Array Sum Divisible By K](https://leetcode.com/problems/minimum-operations-to-make-array-sum-divisible-by-k) | [Java](3512-minimum-operations-to-make-array-sum-divisible-by-k) | Easy |
 | 3541 | [Find Most Frequent Vowel And Consonant](https://leetcode.com/problems/find-most-frequent-vowel-and-consonant) | [Java](3541-find-most-frequent-vowel-and-consonant) | Easy |
 | 3668 | [Restore Finishing Order](https://leetcode.com/problems/restore-finishing-order) | [Java](3668-restore-finishing-order) | Easy |
 | 3701 | [Compute Alternating Sum](https://leetcode.com/problems/compute-alternating-sum) | [Java](3701-compute-alternating-sum) | Easy |
@@ -208,15 +209,3 @@
 | 3760 | [Maximum Substrings With Distinct Start](https://leetcode.com/problems/maximum-substrings-with-distinct-start) | [Java](3760-maximum-substrings-with-distinct-start) | Medium |
 | 3794 | [Reverse String Prefix](https://leetcode.com/problems/reverse-string-prefix) | [Java](3794-reverse-string-prefix) | Easy |
 | 3823 | [Reverse Letters Then Special Characters In A String](https://leetcode.com/problems/reverse-letters-then-special-characters-in-a-string) | [Java](3823-reverse-letters-then-special-characters-in-a-string) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
-## Math
-|  |
-| ------- |
-| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
-<!---LeetCode Topics End-->
