@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 185 ✅  
+- Easy: 186 ✅  
 - Medium: 14 ⚡  
 - Hard: 0 🔥  
-- **Total: 199**
+- **Total: 200**
 
 ---
 
@@ -192,6 +192,7 @@
 | 2788 | [Split Strings By Separator](https://leetcode.com/problems/split-strings-by-separator) | [Java](2788-split-strings-by-separator) | Easy |
 | 2807 | [Insert Greatest Common Divisors In Linked List](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list) | [Java](2807-insert-greatest-common-divisors-in-linked-list) | Medium |
 | 2894 | [Divisible And Non Divisible Sums Difference](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference) | [Java](2894-divisible-and-non-divisible-sums-difference) | Easy |
+| 2942 | [Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character) | [Java](2942-find-words-containing-character) | Easy |
 | 2965 | [Find Missing And Repeated Values](https://leetcode.com/problems/find-missing-and-repeated-values) | [Java](2965-find-missing-and-repeated-values) | Easy |
 | 2974 | [Minimum Number Game](https://leetcode.com/problems/minimum-number-game) | [Java](2974-minimum-number-game) | Easy |
 | 3005 | [Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency) | [Java](3005-count-elements-with-maximum-frequency) | Easy |
@@ -213,15 +214,3 @@
 | 3760 | [Maximum Substrings With Distinct Start](https://leetcode.com/problems/maximum-substrings-with-distinct-start) | [Java](3760-maximum-substrings-with-distinct-start) | Medium |
 | 3794 | [Reverse String Prefix](https://leetcode.com/problems/reverse-string-prefix) | [Java](3794-reverse-string-prefix) | Easy |
 | 3823 | [Reverse Letters Then Special Characters In A String](https://leetcode.com/problems/reverse-letters-then-special-characters-in-a-string) | [Java](3823-reverse-letters-then-special-characters-in-a-string) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [2942-find-words-containing-character](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2942-find-words-containing-character) |
-## String
-|  |
-| ------- |
-| [2942-find-words-containing-character](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2942-find-words-containing-character) |
-<!---LeetCode Topics End-->
