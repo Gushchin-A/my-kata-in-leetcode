@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 187 ✅  
+- Easy: 188 ✅  
 - Medium: 14 ⚡  
 - Hard: 0 🔥  
-- **Total: 201**
+- **Total: 202**
 
 ---
 
@@ -204,6 +204,7 @@
 | 3289 | [The Two Sneaky Numbers Of Digitville](https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville) | [Java](3289-the-two-sneaky-numbers-of-digitville) | Easy |
 | 3304 | [Find The K Th Character In String Game I](https://leetcode.com/problems/find-the-k-th-character-in-string-game-i) | [Java](3304-find-the-k-th-character-in-string-game-i) | Easy |
 | 3309 | [Count Prefix And Suffix Pairs I](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i) | [Java](3309-count-prefix-and-suffix-pairs-i) | Easy |
+| 3467 | [Transform Array By Parity](https://leetcode.com/problems/transform-array-by-parity) | [Java](3467-transform-array-by-parity) | Easy |
 | 3498 | [Reverse Degree Of A String](https://leetcode.com/problems/reverse-degree-of-a-string) | [Java](3498-reverse-degree-of-a-string) | Easy |
 | 3512 | [Minimum Operations To Make Array Sum Divisible By K](https://leetcode.com/problems/minimum-operations-to-make-array-sum-divisible-by-k) | [Java](3512-minimum-operations-to-make-array-sum-divisible-by-k) | Easy |
 | 3541 | [Find Most Frequent Vowel And Consonant](https://leetcode.com/problems/find-most-frequent-vowel-and-consonant) | [Java](3541-find-most-frequent-vowel-and-consonant) | Easy |
@@ -215,19 +216,3 @@
 | 3760 | [Maximum Substrings With Distinct Start](https://leetcode.com/problems/maximum-substrings-with-distinct-start) | [Java](3760-maximum-substrings-with-distinct-start) | Medium |
 | 3794 | [Reverse String Prefix](https://leetcode.com/problems/reverse-string-prefix) | [Java](3794-reverse-string-prefix) | Easy |
 | 3823 | [Reverse Letters Then Special Characters In A String](https://leetcode.com/problems/reverse-letters-then-special-characters-in-a-string) | [Java](3823-reverse-letters-then-special-characters-in-a-string) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [3467-transform-array-by-parity](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/3467-transform-array-by-parity) |
-## Sorting
-|  |
-| ------- |
-| [3467-transform-array-by-parity](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/3467-transform-array-by-parity) |
-## Counting
-|  |
-| ------- |
-| [3467-transform-array-by-parity](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/3467-transform-array-by-parity) |
-<!---LeetCode Topics End-->
