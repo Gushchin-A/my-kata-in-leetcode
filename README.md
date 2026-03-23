@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 188 ✅  
+- Easy: 189 ✅  
 - Medium: 14 ⚡  
 - Hard: 0 🔥  
-- **Total: 202**
+- **Total: 203**
 
 ---
 
@@ -207,6 +207,7 @@
 | 3467 | [Transform Array By Parity](https://leetcode.com/problems/transform-array-by-parity) | [Java](3467-transform-array-by-parity) | Easy |
 | 3498 | [Reverse Degree Of A String](https://leetcode.com/problems/reverse-degree-of-a-string) | [Java](3498-reverse-degree-of-a-string) | Easy |
 | 3512 | [Minimum Operations To Make Array Sum Divisible By K](https://leetcode.com/problems/minimum-operations-to-make-array-sum-divisible-by-k) | [Java](3512-minimum-operations-to-make-array-sum-divisible-by-k) | Easy |
+| 3516 | [Find Closest Person](https://leetcode.com/problems/find-closest-person) | [Java](3516-find-closest-person) | Easy |
 | 3541 | [Find Most Frequent Vowel And Consonant](https://leetcode.com/problems/find-most-frequent-vowel-and-consonant) | [Java](3541-find-most-frequent-vowel-and-consonant) | Easy |
 | 3668 | [Restore Finishing Order](https://leetcode.com/problems/restore-finishing-order) | [Java](3668-restore-finishing-order) | Easy |
 | 3701 | [Compute Alternating Sum](https://leetcode.com/problems/compute-alternating-sum) | [Java](3701-compute-alternating-sum) | Easy |
@@ -216,11 +217,3 @@
 | 3760 | [Maximum Substrings With Distinct Start](https://leetcode.com/problems/maximum-substrings-with-distinct-start) | [Java](3760-maximum-substrings-with-distinct-start) | Medium |
 | 3794 | [Reverse String Prefix](https://leetcode.com/problems/reverse-string-prefix) | [Java](3794-reverse-string-prefix) | Easy |
 | 3823 | [Reverse Letters Then Special Characters In A String](https://leetcode.com/problems/reverse-letters-then-special-characters-in-a-string) | [Java](3823-reverse-letters-then-special-characters-in-a-string) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-|  |
-| ------- |
-| [3516-find-closest-person](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/3516-find-closest-person) |
-<!---LeetCode Topics End-->
