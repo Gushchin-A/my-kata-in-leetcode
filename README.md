@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 189 ✅  
+- Easy: 190 ✅  
 - Medium: 14 ⚡  
 - Hard: 0 🔥  
-- **Total: 203**
+- **Total: 204**
 
 ---
 
@@ -139,6 +139,7 @@
 | 1436 | [Destination City](https://leetcode.com/problems/destination-city) | [Java](1436-destination-city) | Easy |
 | 1444 | [Number Of Steps To Reduce A Number To Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero) | [Java](1444-number-of-steps-to-reduce-a-number-to-zero) | Easy |
 | 1454 | [Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences) | [Java](1454-remove-palindromic-subsequences) | Easy |
+| 1470 | [Shuffle The Array](https://leetcode.com/problems/shuffle-the-array) | [Java](1470-shuffle-the-array) | Easy |
 | 1505 | [Create Target Array In The Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order) | [Java](1505-create-target-array-in-the-given-order) | Easy |
 | 1512 | [Number Of Good Pairs](https://leetcode.com/problems/number-of-good-pairs) | [Java](1512-number-of-good-pairs) | Easy |
 | 1528 | [Shuffle String](https://leetcode.com/problems/shuffle-string) | [Java](1528-shuffle-string) | Easy |
@@ -217,11 +218,3 @@
 | 3760 | [Maximum Substrings With Distinct Start](https://leetcode.com/problems/maximum-substrings-with-distinct-start) | [Java](3760-maximum-substrings-with-distinct-start) | Medium |
 | 3794 | [Reverse String Prefix](https://leetcode.com/problems/reverse-string-prefix) | [Java](3794-reverse-string-prefix) | Easy |
 | 3823 | [Reverse Letters Then Special Characters In A String](https://leetcode.com/problems/reverse-letters-then-special-characters-in-a-string) | [Java](3823-reverse-letters-then-special-characters-in-a-string) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [1470-shuffle-the-array](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1470-shuffle-the-array) |
-<!---LeetCode Topics End-->
