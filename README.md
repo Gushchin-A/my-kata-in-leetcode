@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 190 ✅  
+- Easy: 191 ✅  
 - Medium: 14 ⚡  
 - Hard: 0 🔥  
-- **Total: 204**
+- **Total: 205**
 
 ---
 
@@ -160,6 +160,7 @@
 | 1941 | [Check If All Characters Have Equal Number Of Occurrences](https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences) | [Java](1941-check-if-all-characters-have-equal-number-of-occurrences) | Easy |
 | 2011 | [Final Value Of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations) | [Java](2011-final-value-of-variable-after-performing-operations) | Easy |
 | 2022 | [Convert 1d Array Into 2d Array](https://leetcode.com/problems/convert-1d-array-into-2d-array) | [Java](2022-convert-1d-array-into-2d-array) | Easy |
+| 2037 | [Minimum Number Of Moves To Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone) | [Java](2037-minimum-number-of-moves-to-seat-everyone) | Easy |
 | 2053 | [Kth Distinct String In An Array](https://leetcode.com/problems/kth-distinct-string-in-an-array) | [Java](2053-kth-distinct-string-in-an-array) | Easy |
 | 2093 | [Check If String Is A Prefix Of Array](https://leetcode.com/problems/check-if-string-is-a-prefix-of-array) | [Java](2093-check-if-string-is-a-prefix-of-array) | Easy |
 | 2102 | [Find The Middle Index In Array](https://leetcode.com/problems/find-the-middle-index-in-array) | [Java](2102-find-the-middle-index-in-array) | Easy |
@@ -218,23 +219,3 @@
 | 3760 | [Maximum Substrings With Distinct Start](https://leetcode.com/problems/maximum-substrings-with-distinct-start) | [Java](3760-maximum-substrings-with-distinct-start) | Medium |
 | 3794 | [Reverse String Prefix](https://leetcode.com/problems/reverse-string-prefix) | [Java](3794-reverse-string-prefix) | Easy |
 | 3823 | [Reverse Letters Then Special Characters In A String](https://leetcode.com/problems/reverse-letters-then-special-characters-in-a-string) | [Java](3823-reverse-letters-then-special-characters-in-a-string) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
-## Greedy
-|  |
-| ------- |
-| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
-## Sorting
-|  |
-| ------- |
-| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
-## Counting Sort
-|  |
-| ------- |
-| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
-<!---LeetCode Topics End-->
