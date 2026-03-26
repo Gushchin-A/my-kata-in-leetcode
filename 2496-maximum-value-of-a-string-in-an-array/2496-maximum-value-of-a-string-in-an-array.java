@@ -3,20 +3,23 @@ class Solution {
         int max = 0;
 
         for (String str : strs) {
-            int candidate = digitsValueOrlengthInStr(str);
+            int candidate = getValueFromStr(str);
             max = Math.max(max, candidate);
         }
 
         return max;
     }
 
-    private int digitsValueOrlengthInStr(String str) {
+    private int getValueFromStr(String str) {
         int result = 0;
-    
-        try {
-            result = Integer.parseInt(str);
-        } catch (NumberFormatException e) {
-            return str.length();
+
+        for (char c : str.toCharArray()) {
+            if (c > '9') {
+                return str.length();
+            } else {
+                int digit = c - '0';
+                result = result * 10 + digit;
+            }
         }
 
         return result;
