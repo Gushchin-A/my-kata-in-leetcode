@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 193 ✅  
+- Easy: 194 ✅  
 - Medium: 14 ⚡  
 - Hard: 0 🔥  
-- **Total: 207**
+- **Total: 208**
 
 ---
 
@@ -163,6 +163,7 @@
 | 2022 | [Convert 1d Array Into 2d Array](https://leetcode.com/problems/convert-1d-array-into-2d-array) | [Java](2022-convert-1d-array-into-2d-array) | Easy |
 | 2037 | [Minimum Number Of Moves To Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone) | [Java](2037-minimum-number-of-moves-to-seat-everyone) | Easy |
 | 2053 | [Kth Distinct String In An Array](https://leetcode.com/problems/kth-distinct-string-in-an-array) | [Java](2053-kth-distinct-string-in-an-array) | Easy |
+| 2062 | [Count Vowel Substrings Of A String](https://leetcode.com/problems/count-vowel-substrings-of-a-string) | [Java](2062-count-vowel-substrings-of-a-string) | Easy |
 | 2093 | [Check If String Is A Prefix Of Array](https://leetcode.com/problems/check-if-string-is-a-prefix-of-array) | [Java](2093-check-if-string-is-a-prefix-of-array) | Easy |
 | 2102 | [Find The Middle Index In Array](https://leetcode.com/problems/find-the-middle-index-in-array) | [Java](2102-find-the-middle-index-in-array) | Easy |
 | 2103 | [Rings And Rods](https://leetcode.com/problems/rings-and-rods) | [Java](2103-rings-and-rods) | Easy |
@@ -221,15 +222,3 @@
 | 3760 | [Maximum Substrings With Distinct Start](https://leetcode.com/problems/maximum-substrings-with-distinct-start) | [Java](3760-maximum-substrings-with-distinct-start) | Medium |
 | 3794 | [Reverse String Prefix](https://leetcode.com/problems/reverse-string-prefix) | [Java](3794-reverse-string-prefix) | Easy |
 | 3823 | [Reverse Letters Then Special Characters In A String](https://leetcode.com/problems/reverse-letters-then-special-characters-in-a-string) | [Java](3823-reverse-letters-then-special-characters-in-a-string) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Hash Table
-|  |
-| ------- |
-| [2062-count-vowel-substrings-of-a-string](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2062-count-vowel-substrings-of-a-string) |
-## String
-|  |
-| ------- |
-| [2062-count-vowel-substrings-of-a-string](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2062-count-vowel-substrings-of-a-string) |
-<!---LeetCode Topics End-->
