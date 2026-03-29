@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 194 ✅  
+- Easy: 195 ✅  
 - Medium: 14 ⚡  
 - Hard: 0 🔥  
-- **Total: 208**
+- **Total: 209**
 
 ---
 
@@ -175,6 +175,7 @@
 | 2231 | [Largest Number After Digit Swaps By Parity](https://leetcode.com/problems/largest-number-after-digit-swaps-by-parity) | [Java](2231-largest-number-after-digit-swaps-by-parity) | Easy |
 | 2248 | [Intersection Of Multiple Arrays](https://leetcode.com/problems/intersection-of-multiple-arrays) | [Java](2248-intersection-of-multiple-arrays) | Easy |
 | 2260 | [Divide A String Into Groups Of Size K](https://leetcode.com/problems/divide-a-string-into-groups-of-size-k) | [Java](2260-divide-a-string-into-groups-of-size-k) | Easy |
+| 2264 | [Largest 3 Same Digit Number In String](https://leetcode.com/problems/largest-3-same-digit-number-in-string) | [Java](2264-largest-3-same-digit-number-in-string) | Easy |
 | 2274 | [Keep Multiplying Found Values By Two](https://leetcode.com/problems/keep-multiplying-found-values-by-two) | [Java](2274-keep-multiplying-found-values-by-two) | Easy |
 | 2287 | [Rearrange Characters To Make Target String](https://leetcode.com/problems/rearrange-characters-to-make-target-string) | [Java](2287-rearrange-characters-to-make-target-string) | Easy |
 | 2288 | [Count Operations To Obtain Zero](https://leetcode.com/problems/count-operations-to-obtain-zero) | [Java](2288-count-operations-to-obtain-zero) | Easy |
@@ -222,11 +223,3 @@
 | 3760 | [Maximum Substrings With Distinct Start](https://leetcode.com/problems/maximum-substrings-with-distinct-start) | [Java](3760-maximum-substrings-with-distinct-start) | Medium |
 | 3794 | [Reverse String Prefix](https://leetcode.com/problems/reverse-string-prefix) | [Java](3794-reverse-string-prefix) | Easy |
 | 3823 | [Reverse Letters Then Special Characters In A String](https://leetcode.com/problems/reverse-letters-then-special-characters-in-a-string) | [Java](3823-reverse-letters-then-special-characters-in-a-string) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## String
-|  |
-| ------- |
-| [2264-largest-3-same-digit-number-in-string](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2264-largest-3-same-digit-number-in-string) |
-<!---LeetCode Topics End-->
