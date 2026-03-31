@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 196 ✅  
+- Easy: 197 ✅  
 - Medium: 14 ⚡  
 - Hard: 0 🔥  
-- **Total: 210**
+- **Total: 211**
 
 ---
 
@@ -204,6 +204,7 @@
 | 2974 | [Minimum Number Game](https://leetcode.com/problems/minimum-number-game) | [Java](2974-minimum-number-game) | Easy |
 | 3005 | [Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency) | [Java](3005-count-elements-with-maximum-frequency) | Easy |
 | 3110 | [Score Of A String](https://leetcode.com/problems/score-of-a-string) | [Java](3110-score-of-a-string) | Easy |
+| 3151 | [Special Array I](https://leetcode.com/problems/special-array-i) | [Java](3151-special-array-i) | Easy |
 | 3174 | [Clear Digits](https://leetcode.com/problems/clear-digits) | [Java](3174-clear-digits) | Easy |
 | 3190 | [Find Minimum Operations To Make All Elements Divisible By Three](https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three) | [Java](3190-find-minimum-operations-to-make-all-elements-divisible-by-three) | Easy |
 | 3274 | [Check If Two Chessboard Squares Have The Same Color](https://leetcode.com/problems/check-if-two-chessboard-squares-have-the-same-color) | [Java](3274-check-if-two-chessboard-squares-have-the-same-color) | Easy |
@@ -224,11 +225,3 @@
 | 3760 | [Maximum Substrings With Distinct Start](https://leetcode.com/problems/maximum-substrings-with-distinct-start) | [Java](3760-maximum-substrings-with-distinct-start) | Medium |
 | 3794 | [Reverse String Prefix](https://leetcode.com/problems/reverse-string-prefix) | [Java](3794-reverse-string-prefix) | Easy |
 | 3823 | [Reverse Letters Then Special Characters In A String](https://leetcode.com/problems/reverse-letters-then-special-characters-in-a-string) | [Java](3823-reverse-letters-then-special-characters-in-a-string) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [3151-special-array-i](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/3151-special-array-i) |
-<!---LeetCode Topics End-->
