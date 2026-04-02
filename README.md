@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 198 ✅  
+- Easy: 199 ✅  
 - Medium: 14 ⚡  
 - Hard: 0 🔥  
-- **Total: 212**
+- **Total: 213**
 
 ---
 
@@ -220,25 +220,10 @@
 | 3541 | [Find Most Frequent Vowel And Consonant](https://leetcode.com/problems/find-most-frequent-vowel-and-consonant) | [Java](3541-find-most-frequent-vowel-and-consonant) | Easy |
 | 3668 | [Restore Finishing Order](https://leetcode.com/problems/restore-finishing-order) | [Java](3668-restore-finishing-order) | Easy |
 | 3701 | [Compute Alternating Sum](https://leetcode.com/problems/compute-alternating-sum) | [Java](3701-compute-alternating-sum) | Easy |
+| 3712 | [Sum Of Elements With Frequency Divisible By K](https://leetcode.com/problems/sum-of-elements-with-frequency-divisible-by-k) | [Java](3712-sum-of-elements-with-frequency-divisible-by-k) | Easy |
 | 3726 | [Remove Zeros In Decimal Representation](https://leetcode.com/problems/remove-zeros-in-decimal-representation) | [Java](3726-remove-zeros-in-decimal-representation) | Easy |
 | 3731 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements) | [Java](3731-find-missing-elements) | Easy |
 | 3750 | [Minimum Number Of Flips To Reverse Binary String](https://leetcode.com/problems/minimum-number-of-flips-to-reverse-binary-string) | [Java](3750-minimum-number-of-flips-to-reverse-binary-string) | Easy |
 | 3760 | [Maximum Substrings With Distinct Start](https://leetcode.com/problems/maximum-substrings-with-distinct-start) | [Java](3760-maximum-substrings-with-distinct-start) | Medium |
 | 3794 | [Reverse String Prefix](https://leetcode.com/problems/reverse-string-prefix) | [Java](3794-reverse-string-prefix) | Easy |
 | 3823 | [Reverse Letters Then Special Characters In A String](https://leetcode.com/problems/reverse-letters-then-special-characters-in-a-string) | [Java](3823-reverse-letters-then-special-characters-in-a-string) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
-## Hash Table
-|  |
-| ------- |
-| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
-## Counting
-|  |
-| ------- |
-| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
-<!---LeetCode Topics End-->
