@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 199 ✅  
+- Easy: 200 ✅  
 - Medium: 14 ⚡  
 - Hard: 0 🔥  
-- **Total: 213**
+- **Total: 214**
 
 ---
 
@@ -227,11 +227,4 @@
 | 3760 | [Maximum Substrings With Distinct Start](https://leetcode.com/problems/maximum-substrings-with-distinct-start) | [Java](3760-maximum-substrings-with-distinct-start) | Medium |
 | 3794 | [Reverse String Prefix](https://leetcode.com/problems/reverse-string-prefix) | [Java](3794-reverse-string-prefix) | Easy |
 | 3823 | [Reverse Letters Then Special Characters In A String](https://leetcode.com/problems/reverse-letters-then-special-characters-in-a-string) | [Java](3823-reverse-letters-then-special-characters-in-a-string) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## String
-|  |
-| ------- |
-| [3856-trim-trailing-vowels](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/3856-trim-trailing-vowels) |
-<!---LeetCode Topics End-->
+| 3856 | [Trim Trailing Vowels](https://leetcode.com/problems/trim-trailing-vowels) | [Java](3856-trim-trailing-vowels) | Easy |
