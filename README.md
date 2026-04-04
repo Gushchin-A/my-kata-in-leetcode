@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 200 ✅  
+- Easy: 201 ✅  
 - Medium: 14 ⚡  
 - Hard: 0 🔥  
-- **Total: 214**
+- **Total: 215**
 
 ---
 
@@ -191,6 +191,7 @@
 | 2517 | [Maximum Tastiness Of Candy Basket](https://leetcode.com/problems/maximum-tastiness-of-candy-basket) | [Java](2517-maximum-tastiness-of-candy-basket) | Medium |
 | 2570 | [Merge Two 2d Arrays By Summing Values](https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values) | [Java](2570-merge-two-2d-arrays-by-summing-values) | Easy |
 | 2610 | [Convert An Array Into A 2d Array With Conditions](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions) | [Java](2610-convert-an-array-into-a-2d-array-with-conditions) | Medium |
+| 2696 | [Minimum String Length After Removing Substrings](https://leetcode.com/problems/minimum-string-length-after-removing-substrings) | [Java](2696-minimum-string-length-after-removing-substrings) | Easy |
 | 2697 | [Lexicographically Smallest Palindrome](https://leetcode.com/problems/lexicographically-smallest-palindrome) | [Java](2697-lexicographically-smallest-palindrome) | Easy |
 | 2698 | [Find The Array Concatenation Value](https://leetcode.com/problems/find-the-array-concatenation-value) | [Java](2698-find-the-array-concatenation-value) | Easy |
 | 2714 | [Left And Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences) | [Java](2714-left-and-right-sum-differences) | Easy |
@@ -228,19 +229,3 @@
 | 3794 | [Reverse String Prefix](https://leetcode.com/problems/reverse-string-prefix) | [Java](3794-reverse-string-prefix) | Easy |
 | 3823 | [Reverse Letters Then Special Characters In A String](https://leetcode.com/problems/reverse-letters-then-special-characters-in-a-string) | [Java](3823-reverse-letters-then-special-characters-in-a-string) | Easy |
 | 3856 | [Trim Trailing Vowels](https://leetcode.com/problems/trim-trailing-vowels) | [Java](3856-trim-trailing-vowels) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## String
-|  |
-| ------- |
-| [2696-minimum-string-length-after-removing-substrings](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
-## Stack
-|  |
-| ------- |
-| [2696-minimum-string-length-after-removing-substrings](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
-## Simulation
-|  |
-| ------- |
-| [2696-minimum-string-length-after-removing-substrings](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
-<!---LeetCode Topics End-->
