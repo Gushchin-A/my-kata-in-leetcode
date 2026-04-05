@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 201 ✅  
+- Easy: 202 ✅  
 - Medium: 14 ⚡  
 - Hard: 0 🔥  
-- **Total: 215**
+- **Total: 216**
 
 ---
 
@@ -140,6 +140,7 @@
 | 1444 | [Number Of Steps To Reduce A Number To Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero) | [Java](1444-number-of-steps-to-reduce-a-number-to-zero) | Easy |
 | 1454 | [Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences) | [Java](1454-remove-palindromic-subsequences) | Easy |
 | 1470 | [Shuffle The Array](https://leetcode.com/problems/shuffle-the-array) | [Java](1470-shuffle-the-array) | Easy |
+| 1475 | [Final Prices With A Special Discount In A Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop) | [Java](1475-final-prices-with-a-special-discount-in-a-shop) | Easy |
 | 1505 | [Create Target Array In The Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order) | [Java](1505-create-target-array-in-the-given-order) | Easy |
 | 1512 | [Number Of Good Pairs](https://leetcode.com/problems/number-of-good-pairs) | [Java](1512-number-of-good-pairs) | Easy |
 | 1528 | [Shuffle String](https://leetcode.com/problems/shuffle-string) | [Java](1528-shuffle-string) | Easy |
@@ -229,19 +230,3 @@
 | 3794 | [Reverse String Prefix](https://leetcode.com/problems/reverse-string-prefix) | [Java](3794-reverse-string-prefix) | Easy |
 | 3823 | [Reverse Letters Then Special Characters In A String](https://leetcode.com/problems/reverse-letters-then-special-characters-in-a-string) | [Java](3823-reverse-letters-then-special-characters-in-a-string) | Easy |
 | 3856 | [Trim Trailing Vowels](https://leetcode.com/problems/trim-trailing-vowels) | [Java](3856-trim-trailing-vowels) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
-## Stack
-|  |
-| ------- |
-| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
-## Monotonic Stack
-|  |
-| ------- |
-| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
-<!---LeetCode Topics End-->
