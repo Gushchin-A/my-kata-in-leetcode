@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 203 ✅  
+- Easy: 204 ✅  
 - Medium: 14 ⚡  
 - Hard: 0 🔥  
-- **Total: 217**
+- **Total: 218**
 
 ---
 
@@ -222,6 +222,7 @@
 | 3516 | [Find Closest Person](https://leetcode.com/problems/find-closest-person) | [Java](3516-find-closest-person) | Easy |
 | 3541 | [Find Most Frequent Vowel And Consonant](https://leetcode.com/problems/find-most-frequent-vowel-and-consonant) | [Java](3541-find-most-frequent-vowel-and-consonant) | Easy |
 | 3668 | [Restore Finishing Order](https://leetcode.com/problems/restore-finishing-order) | [Java](3668-restore-finishing-order) | Easy |
+| 3683 | [Earliest Time To Finish One Task](https://leetcode.com/problems/earliest-time-to-finish-one-task) | [Java](3683-earliest-time-to-finish-one-task) | Easy |
 | 3701 | [Compute Alternating Sum](https://leetcode.com/problems/compute-alternating-sum) | [Java](3701-compute-alternating-sum) | Easy |
 | 3712 | [Sum Of Elements With Frequency Divisible By K](https://leetcode.com/problems/sum-of-elements-with-frequency-divisible-by-k) | [Java](3712-sum-of-elements-with-frequency-divisible-by-k) | Easy |
 | 3726 | [Remove Zeros In Decimal Representation](https://leetcode.com/problems/remove-zeros-in-decimal-representation) | [Java](3726-remove-zeros-in-decimal-representation) | Easy |
@@ -231,11 +232,3 @@
 | 3794 | [Reverse String Prefix](https://leetcode.com/problems/reverse-string-prefix) | [Java](3794-reverse-string-prefix) | Easy |
 | 3823 | [Reverse Letters Then Special Characters In A String](https://leetcode.com/problems/reverse-letters-then-special-characters-in-a-string) | [Java](3823-reverse-letters-then-special-characters-in-a-string) | Easy |
 | 3856 | [Trim Trailing Vowels](https://leetcode.com/problems/trim-trailing-vowels) | [Java](3856-trim-trailing-vowels) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [3683-earliest-time-to-finish-one-task](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/3683-earliest-time-to-finish-one-task) |
-<!---LeetCode Topics End-->
