@@ -5,11 +5,7 @@ class Solution {
 
         for (int num : nums) {
             sumElement += num;
-            if (num > 9) {
-                sumDigit += findSumDigitOfNumber(num);
-            } else {
-                sumDigit += num;
-            }
+            sumDigit += findSumDigitOfNumber(num);
         }
 
         return Math.abs(sumElement - sumDigit);
