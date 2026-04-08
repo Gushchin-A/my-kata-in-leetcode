@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 204 ✅  
+- Easy: 205 ✅  
 - Medium: 14 ⚡  
 - Hard: 0 🔥  
-- **Total: 218**
+- **Total: 219**
 
 ---
 
@@ -191,6 +191,7 @@
 | 2506 | [Count Pairs Of Similar Strings](https://leetcode.com/problems/count-pairs-of-similar-strings) | [Java](2506-count-pairs-of-similar-strings) | Easy |
 | 2517 | [Maximum Tastiness Of Candy Basket](https://leetcode.com/problems/maximum-tastiness-of-candy-basket) | [Java](2517-maximum-tastiness-of-candy-basket) | Medium |
 | 2520 | [Count The Digits That Divide A Number](https://leetcode.com/problems/count-the-digits-that-divide-a-number) | [Java](2520-count-the-digits-that-divide-a-number) | Easy |
+| 2535 | [Difference Between Element Sum And Digit Sum Of An Array](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array) | [Java](2535-difference-between-element-sum-and-digit-sum-of-an-array) | Easy |
 | 2570 | [Merge Two 2d Arrays By Summing Values](https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values) | [Java](2570-merge-two-2d-arrays-by-summing-values) | Easy |
 | 2610 | [Convert An Array Into A 2d Array With Conditions](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions) | [Java](2610-convert-an-array-into-a-2d-array-with-conditions) | Medium |
 | 2696 | [Minimum String Length After Removing Substrings](https://leetcode.com/problems/minimum-string-length-after-removing-substrings) | [Java](2696-minimum-string-length-after-removing-substrings) | Easy |
@@ -232,15 +233,3 @@
 | 3794 | [Reverse String Prefix](https://leetcode.com/problems/reverse-string-prefix) | [Java](3794-reverse-string-prefix) | Easy |
 | 3823 | [Reverse Letters Then Special Characters In A String](https://leetcode.com/problems/reverse-letters-then-special-characters-in-a-string) | [Java](3823-reverse-letters-then-special-characters-in-a-string) | Easy |
 | 3856 | [Trim Trailing Vowels](https://leetcode.com/problems/trim-trailing-vowels) | [Java](3856-trim-trailing-vowels) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
-## Math
-|  |
-| ------- |
-| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
-<!---LeetCode Topics End-->
