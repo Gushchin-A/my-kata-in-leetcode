@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 205 ✅  
+- Easy: 206 ✅  
 - Medium: 15 ⚡  
 - Hard: 0 🔥  
-- **Total: 220**
+- **Total: 221**
 
 ---
 
@@ -88,6 +88,7 @@
 | 657 | [Robot Return To Origin](https://leetcode.com/problems/robot-return-to-origin) | [Java](0657-robot-return-to-origin) | Easy |
 | 680 | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii) | [Java](0680-valid-palindrome-ii) | Easy |
 | 682 | [Baseball Game](https://leetcode.com/problems/baseball-game) | [Java](0682-baseball-game) | Easy |
+| 709 | [To Lower Case](https://leetcode.com/problems/to-lower-case) | [Java](0709-to-lower-case) | Easy |
 | 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index) | [Java](0724-find-pivot-index) | Easy |
 | 733 | [Flood Fill](https://leetcode.com/problems/flood-fill) | [Java](0733-flood-fill) | Easy |
 | 747 | [Largest Number At Least Twice Of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others) | [Java](0747-largest-number-at-least-twice-of-others) | Easy |
@@ -234,11 +235,3 @@
 | 3794 | [Reverse String Prefix](https://leetcode.com/problems/reverse-string-prefix) | [Java](3794-reverse-string-prefix) | Easy |
 | 3823 | [Reverse Letters Then Special Characters In A String](https://leetcode.com/problems/reverse-letters-then-special-characters-in-a-string) | [Java](3823-reverse-letters-then-special-characters-in-a-string) | Easy |
 | 3856 | [Trim Trailing Vowels](https://leetcode.com/problems/trim-trailing-vowels) | [Java](3856-trim-trailing-vowels) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## String
-|  |
-| ------- |
-| [0709-to-lower-case](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0709-to-lower-case) |
-<!---LeetCode Topics End-->
