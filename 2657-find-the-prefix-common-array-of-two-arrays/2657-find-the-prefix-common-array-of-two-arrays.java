@@ -3,16 +3,19 @@ class Solution {
         int[] C = new int[A.length];
 
         for (int i = 0; i < C.length; i++) {
-            Set<Integer> uniq = new HashSet<>();
+
+            boolean[] seen = new boolean[51];
             for (int j = 0; j <= i; j++) {
-                uniq.add(A[j]);
+                seen[A[j]] = true;
             }
+
             int count = 0;
             for (int j = 0; j <= i; j++) {
-                if (!uniq.add(B[j])) {
+                if (seen[B[j]]) {
                     count++;
                 }
             }
+
             C[i] = count;
         }
 
