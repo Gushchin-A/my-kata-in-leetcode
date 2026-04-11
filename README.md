@@ -4,9 +4,9 @@
 #### 📊 Progress
 
 - Easy: 206 ✅  
-- Medium: 15 ⚡  
+- Medium: 16 ⚡  
 - Hard: 0 🔥  
-- **Total: 221**
+- **Total: 222**
 
 ---
 
@@ -196,6 +196,7 @@
 | 2535 | [Difference Between Element Sum And Digit Sum Of An Array](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array) | [Java](2535-difference-between-element-sum-and-digit-sum-of-an-array) | Easy |
 | 2570 | [Merge Two 2d Arrays By Summing Values](https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values) | [Java](2570-merge-two-2d-arrays-by-summing-values) | Easy |
 | 2610 | [Convert An Array Into A 2d Array With Conditions](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions) | [Java](2610-convert-an-array-into-a-2d-array-with-conditions) | Medium |
+| 2657 | [Find The Prefix Common Array Of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays) | [Java](2657-find-the-prefix-common-array-of-two-arrays) | Medium |
 | 2696 | [Minimum String Length After Removing Substrings](https://leetcode.com/problems/minimum-string-length-after-removing-substrings) | [Java](2696-minimum-string-length-after-removing-substrings) | Easy |
 | 2697 | [Lexicographically Smallest Palindrome](https://leetcode.com/problems/lexicographically-smallest-palindrome) | [Java](2697-lexicographically-smallest-palindrome) | Easy |
 | 2698 | [Find The Array Concatenation Value](https://leetcode.com/problems/find-the-array-concatenation-value) | [Java](2698-find-the-array-concatenation-value) | Easy |
@@ -235,19 +236,3 @@
 | 3794 | [Reverse String Prefix](https://leetcode.com/problems/reverse-string-prefix) | [Java](3794-reverse-string-prefix) | Easy |
 | 3823 | [Reverse Letters Then Special Characters In A String](https://leetcode.com/problems/reverse-letters-then-special-characters-in-a-string) | [Java](3823-reverse-letters-then-special-characters-in-a-string) | Easy |
 | 3856 | [Trim Trailing Vowels](https://leetcode.com/problems/trim-trailing-vowels) | [Java](3856-trim-trailing-vowels) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
-## Hash Table
-|  |
-| ------- |
-| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
-## Bit Manipulation
-|  |
-| ------- |
-| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
-<!---LeetCode Topics End-->
