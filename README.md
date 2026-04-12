@@ -4,9 +4,9 @@
 #### 📊 Progress
 
 - Easy: 206 ✅  
-- Medium: 16 ⚡  
+- Medium: 17 ⚡  
 - Hard: 0 🔥  
-- **Total: 222**
+- **Total: 223**
 
 ---
 
@@ -50,6 +50,7 @@
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | [Java](0217-contains-duplicate) | Easy |
 | 219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii) | [Java](0219-contains-duplicate-ii) | Easy |
 | 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list) | [Java](0234-palindrome-linked-list) | Easy |
+| 237 | [Delete Node In A Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list) | [Java](0237-delete-node-in-a-linked-list) | Medium |
 | 238 | [Product Of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) | [Java](0238-product-of-array-except-self) | Medium |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | [Java](0242-valid-anagram) | Easy |
 | 258 | [Add Digits](https://leetcode.com/problems/add-digits) | [Java](0258-add-digits) | Easy |
@@ -236,11 +237,3 @@
 | 3794 | [Reverse String Prefix](https://leetcode.com/problems/reverse-string-prefix) | [Java](3794-reverse-string-prefix) | Easy |
 | 3823 | [Reverse Letters Then Special Characters In A String](https://leetcode.com/problems/reverse-letters-then-special-characters-in-a-string) | [Java](3823-reverse-letters-then-special-characters-in-a-string) | Easy |
 | 3856 | [Trim Trailing Vowels](https://leetcode.com/problems/trim-trailing-vowels) | [Java](3856-trim-trailing-vowels) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Linked List
-|  |
-| ------- |
-| [0237-delete-node-in-a-linked-list](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0237-delete-node-in-a-linked-list) |
-<!---LeetCode Topics End-->
