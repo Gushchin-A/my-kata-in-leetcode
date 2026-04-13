@@ -4,9 +4,9 @@
 #### 📊 Progress
 
 - Easy: 206 ✅  
-- Medium: 17 ⚡  
+- Medium: 18 ⚡  
 - Hard: 0 🔥  
-- **Total: 223**
+- **Total: 224**
 
 ---
 
@@ -30,6 +30,7 @@
 | 58 | [Length Of Last Word](https://leetcode.com/problems/length-of-last-word) | [Java](0058-length-of-last-word) | Easy |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one) | [Java](0066-plus-one) | Easy |
 | 67 | [Add Binary](https://leetcode.com/problems/add-binary) | [Java](0067-add-binary) | Easy |
+| 78 | [Subsets](https://leetcode.com/problems/subsets) | [Java](0078-subsets) | Medium |
 | 83 | [Remove Duplicates From Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list) | [Java](0083-remove-duplicates-from-sorted-list) | Easy |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | [Java](0088-merge-sorted-array) | Easy |
 | 118 | [Pascals Triangle](https://leetcode.com/problems/pascals-triangle) | [Java](0118-pascals-triangle) | Easy |
@@ -237,19 +238,3 @@
 | 3794 | [Reverse String Prefix](https://leetcode.com/problems/reverse-string-prefix) | [Java](3794-reverse-string-prefix) | Easy |
 | 3823 | [Reverse Letters Then Special Characters In A String](https://leetcode.com/problems/reverse-letters-then-special-characters-in-a-string) | [Java](3823-reverse-letters-then-special-characters-in-a-string) | Easy |
 | 3856 | [Trim Trailing Vowels](https://leetcode.com/problems/trim-trailing-vowels) | [Java](3856-trim-trailing-vowels) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0078-subsets](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0078-subsets) |
-## Backtracking
-|  |
-| ------- |
-| [0078-subsets](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0078-subsets) |
-## Bit Manipulation
-|  |
-| ------- |
-| [0078-subsets](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0078-subsets) |
-<!---LeetCode Topics End-->
