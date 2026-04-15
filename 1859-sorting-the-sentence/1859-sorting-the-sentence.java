@@ -1,27 +1,14 @@
 class Solution {
     public String sortSentence(String s) {
-        int spaces = 0;
-        for (int i = 0; i < s.length(); i++) {
-            char c = s.charAt(i);
-            if (c == ' ') {
-                spaces++;
-            }
+        String[] words = s.split(" ");
+        String[] result = new String[words.length];
+
+        for (String word : words) {
+            int order = word.charAt(word.length() - 1) - '0';
+            int index = order - 1;
+            result[index] = word.substring(0, word.length() - 1);
         }
 
-        String[] words = new String[spaces + 1];
-        int start = 0;
-        int index = 0;
-        for (int i = 0; i < s.length(); i++) {
-            char c = s.charAt(i);
-            if (c == ' ') {
-                index = s.charAt(i - 1) - '0';
-                words[index - 1] = s.substring(start, i - 1);
-                start = i + 1;
-            }
-        }
-        index = s.charAt(s.length() - 1) - '0';
-        words[index - 1] = s.substring(start, s.length() - 1);
-
-        return String.join(" ", words);
+        return String.join(" ", result);
     }
 }
