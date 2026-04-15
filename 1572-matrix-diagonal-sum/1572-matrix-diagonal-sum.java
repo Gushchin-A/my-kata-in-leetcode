@@ -7,14 +7,15 @@ class Solution {
             for (int j = i; j < n; j++) {
                 int left = mat[i][j];
                 int right = mat[i][n - 1 - j];
-                sum += left + right;
+
+                if (j == n - 1 - j) {
+                    sum += left;
+                } else {
+                    sum += left + right;
+                }
+
                 break;
             }
-        }
-
-        if (n % 2 != 0) {
-            int intersection = n / 2;
-            sum -= mat[intersection][intersection];
         }
 
         return sum;
