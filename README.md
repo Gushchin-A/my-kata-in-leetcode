@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 208 ✅  
+- Easy: 209 ✅  
 - Medium: 18 ⚡  
 - Hard: 0 🔥  
-- **Total: 226**
+- **Total: 227**
 
 ---
 
@@ -149,6 +149,7 @@
 | 1528 | [Shuffle String](https://leetcode.com/problems/shuffle-string) | [Java](1528-shuffle-string) | Easy |
 | 1566 | [Check If A Word Occurs As A Prefix Of Any Word In A Sentence](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) | [Java](1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) | Easy |
 | 1572 | [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum) | [Java](1572-matrix-diagonal-sum) | Easy |
+| 1588 | [Sum Of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays) | [Java](1588-sum-of-all-odd-length-subarrays) | Easy |
 | 1598 | [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder) | [Java](1598-crawler-log-folder) | Easy |
 | 1603 | [Design Parking System](https://leetcode.com/problems/design-parking-system) | [Java](1603-design-parking-system) | Easy |
 | 1636 | [Sort Array By Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency) | [Java](1636-sort-array-by-increasing-frequency) | Easy |
@@ -240,19 +241,3 @@
 | 3794 | [Reverse String Prefix](https://leetcode.com/problems/reverse-string-prefix) | [Java](3794-reverse-string-prefix) | Easy |
 | 3823 | [Reverse Letters Then Special Characters In A String](https://leetcode.com/problems/reverse-letters-then-special-characters-in-a-string) | [Java](3823-reverse-letters-then-special-characters-in-a-string) | Easy |
 | 3856 | [Trim Trailing Vowels](https://leetcode.com/problems/trim-trailing-vowels) | [Java](3856-trim-trailing-vowels) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [1588-sum-of-all-odd-length-subarrays](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
-## Math
-|  |
-| ------- |
-| [1588-sum-of-all-odd-length-subarrays](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
-## Prefix Sum
-|  |
-| ------- |
-| [1588-sum-of-all-odd-length-subarrays](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
-<!---LeetCode Topics End-->
