@@ -11,12 +11,15 @@ class Solution {
         for (int num : nums) {
             if (num == firstMax) {
                 seenFirstMax++;
+                if (seenFirstMax > 1) {
+                    return (firstMax - 1) * (firstMax - 1);
+                }
             }
             if (num < firstMax) {
                 secondMax = Math.max(secondMax, num);
             }
         }
 
-        return seenFirstMax > 1 ? (firstMax - 1) * (firstMax - 1) : (firstMax - 1) * (secondMax - 1);
+        return (firstMax - 1) * (secondMax - 1);
     }
 }
