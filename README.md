@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 210 ✅  
+- Easy: 211 ✅  
 - Medium: 18 ⚡  
 - Hard: 0 🔥  
-- **Total: 228**
+- **Total: 229**
 
 ---
 
@@ -189,6 +189,7 @@
 | 2287 | [Rearrange Characters To Make Target String](https://leetcode.com/problems/rearrange-characters-to-make-target-string) | [Java](2287-rearrange-characters-to-make-target-string) | Easy |
 | 2288 | [Count Operations To Obtain Zero](https://leetcode.com/problems/count-operations-to-obtain-zero) | [Java](2288-count-operations-to-obtain-zero) | Easy |
 | 2292 | [Counting Words With A Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix) | [Java](2292-counting-words-with-a-given-prefix) | Easy |
+| 2315 | [Count Asterisks](https://leetcode.com/problems/count-asterisks) | [Java](2315-count-asterisks) | Easy |
 | 2325 | [Decode The Message](https://leetcode.com/problems/decode-the-message) | [Java](2325-decode-the-message) | Easy |
 | 2341 | [Count Prefixes Of A Given String](https://leetcode.com/problems/count-prefixes-of-a-given-string) | [Java](2341-count-prefixes-of-a-given-string) | Easy |
 | 2390 | [Removing Stars From A String](https://leetcode.com/problems/removing-stars-from-a-string) | [Java](2390-removing-stars-from-a-string) | Medium |
@@ -242,11 +243,3 @@
 | 3794 | [Reverse String Prefix](https://leetcode.com/problems/reverse-string-prefix) | [Java](3794-reverse-string-prefix) | Easy |
 | 3823 | [Reverse Letters Then Special Characters In A String](https://leetcode.com/problems/reverse-letters-then-special-characters-in-a-string) | [Java](3823-reverse-letters-then-special-characters-in-a-string) | Easy |
 | 3856 | [Trim Trailing Vowels](https://leetcode.com/problems/trim-trailing-vowels) | [Java](3856-trim-trailing-vowels) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## String
-|  |
-| ------- |
-| [2315-count-asterisks](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2315-count-asterisks) |
-<!---LeetCode Topics End-->
