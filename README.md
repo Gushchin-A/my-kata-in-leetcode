@@ -4,9 +4,9 @@
 #### 📊 Progress
 
 - Easy: 211 ✅  
-- Medium: 18 ⚡  
+- Medium: 19 ⚡  
 - Hard: 0 🔥  
-- **Total: 229**
+- **Total: 230**
 
 ---
 
@@ -27,6 +27,7 @@
 | 28 | [Find The Index Of The First Occurrence In A String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string) | [Java](0028-find-the-index-of-the-first-occurrence-in-a-string) | Easy |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position) | [Java](0035-search-insert-position) | Easy |
 | 43 | [Multiply Strings](https://leetcode.com/problems/multiply-strings) | [Java](0043-multiply-strings) | Medium |
+| 48 | [Rotate Image](https://leetcode.com/problems/rotate-image) | [Java](0048-rotate-image) | Medium |
 | 58 | [Length Of Last Word](https://leetcode.com/problems/length-of-last-word) | [Java](0058-length-of-last-word) | Easy |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one) | [Java](0066-plus-one) | Easy |
 | 67 | [Add Binary](https://leetcode.com/problems/add-binary) | [Java](0067-add-binary) | Easy |
@@ -243,19 +244,3 @@
 | 3794 | [Reverse String Prefix](https://leetcode.com/problems/reverse-string-prefix) | [Java](3794-reverse-string-prefix) | Easy |
 | 3823 | [Reverse Letters Then Special Characters In A String](https://leetcode.com/problems/reverse-letters-then-special-characters-in-a-string) | [Java](3823-reverse-letters-then-special-characters-in-a-string) | Easy |
 | 3856 | [Trim Trailing Vowels](https://leetcode.com/problems/trim-trailing-vowels) | [Java](3856-trim-trailing-vowels) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0048-rotate-image](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0048-rotate-image) |
-## Math
-|  |
-| ------- |
-| [0048-rotate-image](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0048-rotate-image) |
-## Matrix
-|  |
-| ------- |
-| [0048-rotate-image](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0048-rotate-image) |
-<!---LeetCode Topics End-->
