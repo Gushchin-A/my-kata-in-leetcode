@@ -7,19 +7,17 @@ class Solution {
         }
 
         int[] answer = new int[sizeAnswer];
-        for (int i = 0; i < answer.length; i++) {
-            answer[i] = -1;
-        }
-
+        int indexAnswer = 0;
         for (int num : nums) {
-            int[] reverse = new int[getCountDigitsFromNum(num)];
-            int index = 0;
+            int sizeDigits = getCountDigitsFromNum(num);
+            indexAnswer += sizeDigits; 
+
+            int tempIndexAnswer = indexAnswer - 1;
             while (num > 0) {
                 int digit = num % 10;
                 num /= 10;
-                reverse[index++] = digit;
+                answer[tempIndexAnswer--] = digit;
             }
-            putDigitsToArray(reverse, answer);
         }
 
         return answer;
@@ -34,21 +32,5 @@ class Solution {
         }
 
         return count;
-    }
-
-    private void putDigitsToArray(int[] reverse, int[] answer) {
-        int indexRes = 0;
-
-        for (int num : answer) {
-            if (num != -1) {
-                indexRes++;
-            } else {
-                break;
-            }
-        }
-
-        for (int i = reverse.length - 1; i >= 0; i--) {
-            answer[indexRes++] = reverse[i];
-        }
     }
 }
