@@ -36,8 +36,11 @@ class Solution {
 
         int[] luckyNumbers = Arrays.copyOfRange(tempLuckyNumbers, 0, index);
 
-        return Arrays.stream(luckyNumbers)
-                .boxed()
-                .collect(Collectors.toList());
+        List<Integer> result = new ArrayList<>();
+        for (int num : luckyNumbers) {
+            result.add(num);
+        }
+
+        return result;
     }
 }
