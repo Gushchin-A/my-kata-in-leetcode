@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 213 ✅  
+- Easy: 214 ✅  
 - Medium: 19 ⚡  
 - Hard: 0 🔥  
-- **Total: 232**
+- **Total: 233**
 
 ---
 
@@ -134,6 +134,7 @@
 | 1331 | [Rank Transform Of An Array](https://leetcode.com/problems/rank-transform-of-an-array) | [Java](1331-rank-transform-of-an-array) | Easy |
 | 1365 | [How Many Numbers Are Smaller Than The Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number) | [Java](1365-how-many-numbers-are-smaller-than-the-current-number) | Easy |
 | 1374 | [Generate A String With Characters That Have Odd Counts](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts) | [Java](1374-generate-a-string-with-characters-that-have-odd-counts) | Easy |
+| 1380 | [Lucky Numbers In A Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix) | [Java](1380-lucky-numbers-in-a-matrix) | Easy |
 | 1394 | [Find Lucky Integer In An Array](https://leetcode.com/problems/find-lucky-integer-in-an-array) | [Java](1394-find-lucky-integer-in-an-array) | Easy |
 | 1399 | [Count Largest Group](https://leetcode.com/problems/count-largest-group) | [Java](1399-count-largest-group) | Easy |
 | 1408 | [String Matching In An Array](https://leetcode.com/problems/string-matching-in-an-array) | [Java](1408-string-matching-in-an-array) | Easy |
@@ -246,15 +247,3 @@
 | 3794 | [Reverse String Prefix](https://leetcode.com/problems/reverse-string-prefix) | [Java](3794-reverse-string-prefix) | Easy |
 | 3823 | [Reverse Letters Then Special Characters In A String](https://leetcode.com/problems/reverse-letters-then-special-characters-in-a-string) | [Java](3823-reverse-letters-then-special-characters-in-a-string) | Easy |
 | 3856 | [Trim Trailing Vowels](https://leetcode.com/problems/trim-trailing-vowels) | [Java](3856-trim-trailing-vowels) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [1380-lucky-numbers-in-a-matrix](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
-## Matrix
-|  |
-| ------- |
-| [1380-lucky-numbers-in-a-matrix](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
-<!---LeetCode Topics End-->
