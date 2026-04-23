@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 214 ✅  
+- Easy: 215 ✅  
 - Medium: 19 ⚡  
 - Hard: 0 🔥  
-- **Total: 233**
+- **Total: 234**
 
 ---
 
@@ -130,6 +130,7 @@
 | 1252 | [Cells With Odd Values In A Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix) | [Java](1252-cells-with-odd-values-in-a-matrix) | Easy |
 | 1260 | [Shift 2d Grid](https://leetcode.com/problems/shift-2d-grid) | [Java](1260-shift-2d-grid) | Easy |
 | 1282 | [Group The People Given The Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to) | [Java](1282-group-the-people-given-the-group-size-they-belong-to) | Medium |
+| 1295 | [Find Numbers With Even Number Of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits) | [Java](1295-find-numbers-with-even-number-of-digits) | Easy |
 | 1309 | [Decrypt String From Alphabet To Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping) | [Java](1309-decrypt-string-from-alphabet-to-integer-mapping) | Easy |
 | 1331 | [Rank Transform Of An Array](https://leetcode.com/problems/rank-transform-of-an-array) | [Java](1331-rank-transform-of-an-array) | Easy |
 | 1365 | [How Many Numbers Are Smaller Than The Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number) | [Java](1365-how-many-numbers-are-smaller-than-the-current-number) | Easy |
@@ -247,15 +248,3 @@
 | 3794 | [Reverse String Prefix](https://leetcode.com/problems/reverse-string-prefix) | [Java](3794-reverse-string-prefix) | Easy |
 | 3823 | [Reverse Letters Then Special Characters In A String](https://leetcode.com/problems/reverse-letters-then-special-characters-in-a-string) | [Java](3823-reverse-letters-then-special-characters-in-a-string) | Easy |
 | 3856 | [Trim Trailing Vowels](https://leetcode.com/problems/trim-trailing-vowels) | [Java](3856-trim-trailing-vowels) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [1295-find-numbers-with-even-number-of-digits](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
-## Math
-|  |
-| ------- |
-| [1295-find-numbers-with-even-number-of-digits](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
-<!---LeetCode Topics End-->
