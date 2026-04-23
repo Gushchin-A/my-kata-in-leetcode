@@ -3,12 +3,7 @@ class Solution {
         int result = 0;
 
         for (int num : nums) {
-            int n = num;
-            int digits = 0;
-            while (n > 0) {
-                n /= 10;
-                digits++;
-            }
+            int digits = (int) Math.log10(num) + 1;
             result += digits % 2 == 0 ? 1 : 0;
         }
 
