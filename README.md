@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 215 ✅  
+- Easy: 216 ✅  
 - Medium: 19 ⚡  
 - Hard: 0 🔥  
-- **Total: 234**
+- **Total: 235**
 
 ---
 
@@ -223,6 +223,7 @@
 | 2974 | [Minimum Number Game](https://leetcode.com/problems/minimum-number-game) | [Java](2974-minimum-number-game) | Easy |
 | 3005 | [Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency) | [Java](3005-count-elements-with-maximum-frequency) | Easy |
 | 3019 | [Number Of Changing Keys](https://leetcode.com/problems/number-of-changing-keys) | [Java](3019-number-of-changing-keys) | Easy |
+| 3074 | [Apple Redistribution Into Boxes](https://leetcode.com/problems/apple-redistribution-into-boxes) | [Java](3074-apple-redistribution-into-boxes) | Easy |
 | 3110 | [Score Of A String](https://leetcode.com/problems/score-of-a-string) | [Java](3110-score-of-a-string) | Easy |
 | 3151 | [Special Array I](https://leetcode.com/problems/special-array-i) | [Java](3151-special-array-i) | Easy |
 | 3174 | [Clear Digits](https://leetcode.com/problems/clear-digits) | [Java](3174-clear-digits) | Easy |
@@ -248,19 +249,3 @@
 | 3794 | [Reverse String Prefix](https://leetcode.com/problems/reverse-string-prefix) | [Java](3794-reverse-string-prefix) | Easy |
 | 3823 | [Reverse Letters Then Special Characters In A String](https://leetcode.com/problems/reverse-letters-then-special-characters-in-a-string) | [Java](3823-reverse-letters-then-special-characters-in-a-string) | Easy |
 | 3856 | [Trim Trailing Vowels](https://leetcode.com/problems/trim-trailing-vowels) | [Java](3856-trim-trailing-vowels) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [3074-apple-redistribution-into-boxes](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/3074-apple-redistribution-into-boxes) |
-## Greedy
-|  |
-| ------- |
-| [3074-apple-redistribution-into-boxes](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/3074-apple-redistribution-into-boxes) |
-## Sorting
-|  |
-| ------- |
-| [3074-apple-redistribution-into-boxes](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/3074-apple-redistribution-into-boxes) |
-<!---LeetCode Topics End-->
