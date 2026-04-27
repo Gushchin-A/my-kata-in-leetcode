@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 218 ✅  
+- Easy: 219 ✅  
 - Medium: 19 ⚡  
 - Hard: 0 🔥  
-- **Total: 237**
+- **Total: 238**
 
 ---
 
@@ -160,6 +160,7 @@
 | 1636 | [Sort Array By Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency) | [Java](1636-sort-array-by-increasing-frequency) | Easy |
 | 1642 | [Water Bottles](https://leetcode.com/problems/water-bottles) | [Java](1642-water-bottles) | Easy |
 | 1662 | [Check If Two String Arrays Are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent) | [Java](1662-check-if-two-string-arrays-are-equivalent) | Easy |
+| 1672 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth) | [Java](1672-richest-customer-wealth) | Easy |
 | 1678 | [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation) | [Java](1678-goal-parser-interpretation) | Easy |
 | 1684 | [Count The Number Of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings) | [Java](1684-count-the-number-of-consistent-strings) | Easy |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [Java](1768-merge-strings-alternately) | Easy |
@@ -251,15 +252,3 @@
 | 3794 | [Reverse String Prefix](https://leetcode.com/problems/reverse-string-prefix) | [Java](3794-reverse-string-prefix) | Easy |
 | 3823 | [Reverse Letters Then Special Characters In A String](https://leetcode.com/problems/reverse-letters-then-special-characters-in-a-string) | [Java](3823-reverse-letters-then-special-characters-in-a-string) | Easy |
 | 3856 | [Trim Trailing Vowels](https://leetcode.com/problems/trim-trailing-vowels) | [Java](3856-trim-trailing-vowels) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [1672-richest-customer-wealth](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1672-richest-customer-wealth) |
-## Matrix
-|  |
-| ------- |
-| [1672-richest-customer-wealth](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1672-richest-customer-wealth) |
-<!---LeetCode Topics End-->
