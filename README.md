@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 219 ✅  
+- Easy: 220 ✅  
 - Medium: 19 ⚡  
 - Hard: 0 🔥  
-- **Total: 238**
+- **Total: 239**
 
 ---
 
@@ -149,6 +149,7 @@
 | 1464 | [Maximum Product Of Two Elements In An Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array) | [Java](1464-maximum-product-of-two-elements-in-an-array) | Easy |
 | 1470 | [Shuffle The Array](https://leetcode.com/problems/shuffle-the-array) | [Java](1470-shuffle-the-array) | Easy |
 | 1475 | [Final Prices With A Special Discount In A Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop) | [Java](1475-final-prices-with-a-special-discount-in-a-shop) | Easy |
+| 1480 | [Running Sum Of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array) | [Java](1480-running-sum-of-1d-array) | Easy |
 | 1505 | [Create Target Array In The Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order) | [Java](1505-create-target-array-in-the-given-order) | Easy |
 | 1512 | [Number Of Good Pairs](https://leetcode.com/problems/number-of-good-pairs) | [Java](1512-number-of-good-pairs) | Easy |
 | 1528 | [Shuffle String](https://leetcode.com/problems/shuffle-string) | [Java](1528-shuffle-string) | Easy |
@@ -252,15 +253,3 @@
 | 3794 | [Reverse String Prefix](https://leetcode.com/problems/reverse-string-prefix) | [Java](3794-reverse-string-prefix) | Easy |
 | 3823 | [Reverse Letters Then Special Characters In A String](https://leetcode.com/problems/reverse-letters-then-special-characters-in-a-string) | [Java](3823-reverse-letters-then-special-characters-in-a-string) | Easy |
 | 3856 | [Trim Trailing Vowels](https://leetcode.com/problems/trim-trailing-vowels) | [Java](3856-trim-trailing-vowels) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [1480-running-sum-of-1d-array](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1480-running-sum-of-1d-array) |
-## Prefix Sum
-|  |
-| ------- |
-| [1480-running-sum-of-1d-array](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1480-running-sum-of-1d-array) |
-<!---LeetCode Topics End-->
