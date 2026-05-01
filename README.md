@@ -4,9 +4,9 @@
 #### 📊 Progress
 
 - Easy: 222 ✅  
-- Medium: 19 ⚡  
+- Medium: 20 ⚡  
 - Hard: 0 🔥  
-- **Total: 241**
+- **Total: 242**
 
 ---
 
@@ -16,6 +16,7 @@
 |-----|-------|----------|------------|
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum) | [Java](0001-two-sum) | Easy |
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | [Java](0002-add-two-numbers) | Medium |
+| 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [Java](0003-longest-substring-without-repeating-characters) | Medium |
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number) | [Java](0009-palindrome-number) | Easy |
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water) | [Java](0011-container-with-most-water) | Medium |
 | 13 | [Roman To Integer](https://leetcode.com/problems/roman-to-integer) | [Java](0013-roman-to-integer) | Easy |
@@ -255,19 +256,3 @@
 | 3794 | [Reverse String Prefix](https://leetcode.com/problems/reverse-string-prefix) | [Java](3794-reverse-string-prefix) | Easy |
 | 3823 | [Reverse Letters Then Special Characters In A String](https://leetcode.com/problems/reverse-letters-then-special-characters-in-a-string) | [Java](3823-reverse-letters-then-special-characters-in-a-string) | Easy |
 | 3856 | [Trim Trailing Vowels](https://leetcode.com/problems/trim-trailing-vowels) | [Java](3856-trim-trailing-vowels) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Hash Table
-|  |
-| ------- |
-| [0003-longest-substring-without-repeating-characters](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
-## String
-|  |
-| ------- |
-| [0003-longest-substring-without-repeating-characters](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
-## Sliding Window
-|  |
-| ------- |
-| [0003-longest-substring-without-repeating-characters](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
-<!---LeetCode Topics End-->
