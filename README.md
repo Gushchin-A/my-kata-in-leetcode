@@ -4,9 +4,9 @@
 #### 📊 Progress
 
 - Easy: 222 ✅  
-- Medium: 21 ⚡  
+- Medium: 22 ⚡  
 - Hard: 0 🔥  
-- **Total: 243**
+- **Total: 244**
 
 ---
 
@@ -17,6 +17,7 @@
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum) | [Java](0001-two-sum) | Easy |
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | [Java](0002-add-two-numbers) | Medium |
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [Java](0003-longest-substring-without-repeating-characters) | Medium |
+| 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) | [Java](0005-longest-palindromic-substring) | Medium |
 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer) | [Java](0007-reverse-integer) | Medium |
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number) | [Java](0009-palindrome-number) | Easy |
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water) | [Java](0011-container-with-most-water) | Medium |
@@ -257,19 +258,3 @@
 | 3794 | [Reverse String Prefix](https://leetcode.com/problems/reverse-string-prefix) | [Java](3794-reverse-string-prefix) | Easy |
 | 3823 | [Reverse Letters Then Special Characters In A String](https://leetcode.com/problems/reverse-letters-then-special-characters-in-a-string) | [Java](3823-reverse-letters-then-special-characters-in-a-string) | Easy |
 | 3856 | [Trim Trailing Vowels](https://leetcode.com/problems/trim-trailing-vowels) | [Java](3856-trim-trailing-vowels) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Two Pointers
-|  |
-| ------- |
-| [0005-longest-palindromic-substring](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0005-longest-palindromic-substring) |
-## String
-|  |
-| ------- |
-| [0005-longest-palindromic-substring](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0005-longest-palindromic-substring) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0005-longest-palindromic-substring](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0005-longest-palindromic-substring) |
-<!---LeetCode Topics End-->
