@@ -1,22 +1,19 @@
 class Solution {
     public String longestPalindrome(String s) {
         int n = s.length();
-        String longestSubstring = "";
+        String longestSubstring = s.substring(0, 1);
 
         for (int i = 0; i < n; i++) {
-            StringBuilder tempSubstring = new StringBuilder();
-            tempSubstring.append(s.charAt(i));
-            if (isStringPalindrome(tempSubstring.toString())) {
-                if (tempSubstring.length() > longestSubstring.length()) {
-                    longestSubstring = tempSubstring.toString();
-                }
+            if (n - i <= longestSubstring.length()) {
+                break;
             }
             for (int j = i + 1; j < n; j++) {
-                tempSubstring.append(s.charAt(j));
-                if (isStringPalindrome(tempSubstring.toString())) {
-                    if (tempSubstring.length() > longestSubstring.length()) {
-                        longestSubstring = tempSubstring.toString();
-                    }
+                int currentLength = j - i + 1;
+                if (currentLength <= longestSubstring.length()) {
+                    continue;
+                }
+                if (isStringPalindrome(s, i, j)) {
+                    longestSubstring = s.substring(i, j + 1);
                 }
             }
         }
@@ -24,10 +21,7 @@ class Solution {
         return longestSubstring;
     }
 
-    private boolean isStringPalindrome(String s) {
-        int left = 0;
-        int right = s.length() - 1;
-
+    private boolean isStringPalindrome(String s, int left, int right) {
         while (left < right) {
             if (s.charAt(right) != s.charAt(left)) {
                 return false;
