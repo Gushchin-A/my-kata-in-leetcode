@@ -4,32 +4,27 @@ class Solution {
         String longestSubstring = s.substring(0, 1);
 
         for (int i = 0; i < n; i++) {
-            if (n - i <= longestSubstring.length()) {
-                break;
+            int left = i;
+            int right = i;
+            while (left >= 0 && right < n && s.charAt(left) == s.charAt(right)) {
+                if (right - left + 1 > longestSubstring.length()) {
+                    longestSubstring = s.substring(left, right + 1);
+                }
+                left--;
+                right++;
             }
-            for (int j = i + 1; j < n; j++) {
-                int currentLength = j - i + 1;
-                if (currentLength <= longestSubstring.length()) {
-                    continue;
+
+            left = i;
+            right = i + 1;
+            while (left >= 0 && right < n && s.charAt(left) == s.charAt(right)) {
+                if (right - left + 1 > longestSubstring.length()) {
+                    longestSubstring = s.substring(left, right + 1);
                 }
-                if (isStringPalindrome(s, i, j)) {
-                    longestSubstring = s.substring(i, j + 1);
-                }
+                left--;
+                right++;
             }
         }
 
         return longestSubstring;
-    }
-
-    private boolean isStringPalindrome(String s, int left, int right) {
-        while (left < right) {
-            if (s.charAt(right) != s.charAt(left)) {
-                return false;
-            }
-            left++;
-            right--;
-        }
-
-        return true;
     }
 }
