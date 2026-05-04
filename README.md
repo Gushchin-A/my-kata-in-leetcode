@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 222 ✅  
+- Easy: 223 ✅  
 - Medium: 22 ⚡  
 - Hard: 0 🔥  
-- **Total: 244**
+- **Total: 245**
 
 ---
 
@@ -170,6 +170,7 @@
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [Java](1768-merge-strings-alternately) | Easy |
 | 1773 | [Count Items Matching A Rule](https://leetcode.com/problems/count-items-matching-a-rule) | [Java](1773-count-items-matching-a-rule) | Easy |
 | 1816 | [Truncate Sentence](https://leetcode.com/problems/truncate-sentence) | [Java](1816-truncate-sentence) | Easy |
+| 1844 | [Replace All Digits With Characters](https://leetcode.com/problems/replace-all-digits-with-characters) | [Java](1844-replace-all-digits-with-characters) | Easy |
 | 1859 | [Sorting The Sentence](https://leetcode.com/problems/sorting-the-sentence) | [Java](1859-sorting-the-sentence) | Easy |
 | 1913 | [Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs) | [Java](1913-maximum-product-difference-between-two-pairs) | Easy |
 | 1920 | [Build Array From Permutation](https://leetcode.com/problems/build-array-from-permutation) | [Java](1920-build-array-from-permutation) | Easy |
@@ -258,11 +259,3 @@
 | 3794 | [Reverse String Prefix](https://leetcode.com/problems/reverse-string-prefix) | [Java](3794-reverse-string-prefix) | Easy |
 | 3823 | [Reverse Letters Then Special Characters In A String](https://leetcode.com/problems/reverse-letters-then-special-characters-in-a-string) | [Java](3823-reverse-letters-then-special-characters-in-a-string) | Easy |
 | 3856 | [Trim Trailing Vowels](https://leetcode.com/problems/trim-trailing-vowels) | [Java](3856-trim-trailing-vowels) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## String
-|  |
-| ------- |
-| [1844-replace-all-digits-with-characters](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1844-replace-all-digits-with-characters) |
-<!---LeetCode Topics End-->
