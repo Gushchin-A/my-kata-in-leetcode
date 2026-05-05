@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 223 ✅  
+- Easy: 224 ✅  
 - Medium: 22 ⚡  
 - Hard: 0 🔥  
-- **Total: 245**
+- **Total: 246**
 
 ---
 
@@ -242,6 +242,7 @@
 | 3289 | [The Two Sneaky Numbers Of Digitville](https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville) | [Java](3289-the-two-sneaky-numbers-of-digitville) | Easy |
 | 3304 | [Find The K Th Character In String Game I](https://leetcode.com/problems/find-the-k-th-character-in-string-game-i) | [Java](3304-find-the-k-th-character-in-string-game-i) | Easy |
 | 3309 | [Count Prefix And Suffix Pairs I](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i) | [Java](3309-count-prefix-and-suffix-pairs-i) | Easy |
+| 3340 | [Check Balanced String](https://leetcode.com/problems/check-balanced-string) | [Java](3340-check-balanced-string) | Easy |
 | 3432 | [Count Partitions With Even Sum Difference](https://leetcode.com/problems/count-partitions-with-even-sum-difference) | [Java](3432-count-partitions-with-even-sum-difference) | Easy |
 | 3467 | [Transform Array By Parity](https://leetcode.com/problems/transform-array-by-parity) | [Java](3467-transform-array-by-parity) | Easy |
 | 3498 | [Reverse Degree Of A String](https://leetcode.com/problems/reverse-degree-of-a-string) | [Java](3498-reverse-degree-of-a-string) | Easy |
@@ -259,11 +260,3 @@
 | 3794 | [Reverse String Prefix](https://leetcode.com/problems/reverse-string-prefix) | [Java](3794-reverse-string-prefix) | Easy |
 | 3823 | [Reverse Letters Then Special Characters In A String](https://leetcode.com/problems/reverse-letters-then-special-characters-in-a-string) | [Java](3823-reverse-letters-then-special-characters-in-a-string) | Easy |
 | 3856 | [Trim Trailing Vowels](https://leetcode.com/problems/trim-trailing-vowels) | [Java](3856-trim-trailing-vowels) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## String
-|  |
-| ------- |
-| [3340-check-balanced-string](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/3340-check-balanced-string) |
-<!---LeetCode Topics End-->
