@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 225 ✅  
+- Easy: 226 ✅  
 - Medium: 22 ⚡  
 - Hard: 0 🔥  
-- **Total: 247**
+- **Total: 248**
 
 ---
 
@@ -190,6 +190,7 @@
 | 2103 | [Rings And Rods](https://leetcode.com/problems/rings-and-rods) | [Java](2103-rings-and-rods) | Easy |
 | 2114 | [Maximum Number Of Words Found In Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences) | [Java](2114-maximum-number-of-words-found-in-sentences) | Easy |
 | 2128 | [Reverse Prefix Of Word](https://leetcode.com/problems/reverse-prefix-of-word) | [Java](2128-reverse-prefix-of-word) | Easy |
+| 2160 | [Minimum Sum Of Four Digit Number After Splitting Digits](https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits) | [Java](2160-minimum-sum-of-four-digit-number-after-splitting-digits) | Easy |
 | 2181 | [Merge Nodes In Between Zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros) | [Java](2181-merge-nodes-in-between-zeros) | Medium |
 | 2215 | [Find The Difference Of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays) | [Java](2215-find-the-difference-of-two-arrays) | Easy |
 | 2231 | [Find First Palindromic String In The Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array) | [Java](2231-find-first-palindromic-string-in-the-array) | Easy |
@@ -261,19 +262,3 @@
 | 3794 | [Reverse String Prefix](https://leetcode.com/problems/reverse-string-prefix) | [Java](3794-reverse-string-prefix) | Easy |
 | 3823 | [Reverse Letters Then Special Characters In A String](https://leetcode.com/problems/reverse-letters-then-special-characters-in-a-string) | [Java](3823-reverse-letters-then-special-characters-in-a-string) | Easy |
 | 3856 | [Trim Trailing Vowels](https://leetcode.com/problems/trim-trailing-vowels) | [Java](3856-trim-trailing-vowels) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-|  |
-| ------- |
-| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
-## Greedy
-|  |
-| ------- |
-| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
-## Sorting
-|  |
-| ------- |
-| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
-<!---LeetCode Topics End-->
