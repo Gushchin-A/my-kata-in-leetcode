@@ -4,9 +4,9 @@
 #### 📊 Progress
 
 - Easy: 227 ✅  
-- Medium: 22 ⚡  
+- Medium: 23 ⚡  
 - Hard: 0 🔥  
-- **Total: 249**
+- **Total: 250**
 
 ---
 
@@ -18,6 +18,7 @@
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | [Java](0002-add-two-numbers) | Medium |
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [Java](0003-longest-substring-without-repeating-characters) | Medium |
 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) | [Java](0005-longest-palindromic-substring) | Medium |
+| 6 | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion) | [Java](0006-zigzag-conversion) | Medium |
 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer) | [Java](0007-reverse-integer) | Medium |
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number) | [Java](0009-palindrome-number) | Easy |
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water) | [Java](0011-container-with-most-water) | Medium |
@@ -263,11 +264,3 @@
 | 3794 | [Reverse String Prefix](https://leetcode.com/problems/reverse-string-prefix) | [Java](3794-reverse-string-prefix) | Easy |
 | 3823 | [Reverse Letters Then Special Characters In A String](https://leetcode.com/problems/reverse-letters-then-special-characters-in-a-string) | [Java](3823-reverse-letters-then-special-characters-in-a-string) | Easy |
 | 3856 | [Trim Trailing Vowels](https://leetcode.com/problems/trim-trailing-vowels) | [Java](3856-trim-trailing-vowels) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## String
-|  |
-| ------- |
-| [0006-zigzag-conversion](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0006-zigzag-conversion) |
-<!---LeetCode Topics End-->
