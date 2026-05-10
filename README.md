@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 227 ✅  
+- Easy: 228 ✅  
 - Medium: 23 ⚡  
 - Hard: 0 🔥  
-- **Total: 250**
+- **Total: 251**
 
 ---
 
@@ -38,6 +38,7 @@
 | 78 | [Subsets](https://leetcode.com/problems/subsets) | [Java](0078-subsets) | Medium |
 | 83 | [Remove Duplicates From Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list) | [Java](0083-remove-duplicates-from-sorted-list) | Easy |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | [Java](0088-merge-sorted-array) | Easy |
+| 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) | [Java](0094-binary-tree-inorder-traversal) | Easy |
 | 118 | [Pascals Triangle](https://leetcode.com/problems/pascals-triangle) | [Java](0118-pascals-triangle) | Easy |
 | 121 | [Best Time To Buy And Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | [Java](0121-best-time-to-buy-and-sell-stock) | Easy |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | [Java](0125-valid-palindrome) | Easy |
@@ -264,23 +265,3 @@
 | 3794 | [Reverse String Prefix](https://leetcode.com/problems/reverse-string-prefix) | [Java](3794-reverse-string-prefix) | Easy |
 | 3823 | [Reverse Letters Then Special Characters In A String](https://leetcode.com/problems/reverse-letters-then-special-characters-in-a-string) | [Java](3823-reverse-letters-then-special-characters-in-a-string) | Easy |
 | 3856 | [Trim Trailing Vowels](https://leetcode.com/problems/trim-trailing-vowels) | [Java](3856-trim-trailing-vowels) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Stack
-|  |
-| ------- |
-| [0094-binary-tree-inorder-traversal](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0094-binary-tree-inorder-traversal) |
-## Tree
-|  |
-| ------- |
-| [0094-binary-tree-inorder-traversal](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0094-binary-tree-inorder-traversal) |
-## Depth-First Search
-|  |
-| ------- |
-| [0094-binary-tree-inorder-traversal](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0094-binary-tree-inorder-traversal) |
-## Binary Tree
-|  |
-| ------- |
-| [0094-binary-tree-inorder-traversal](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0094-binary-tree-inorder-traversal) |
-<!---LeetCode Topics End-->
