@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 228 ✅  
+- Easy: 229 ✅  
 - Medium: 23 ⚡  
 - Hard: 0 🔥  
-- **Total: 251**
+- **Total: 252**
 
 ---
 
@@ -60,6 +60,7 @@
 | 237 | [Delete Node In A Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list) | [Java](0237-delete-node-in-a-linked-list) | Medium |
 | 238 | [Product Of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) | [Java](0238-product-of-array-except-self) | Medium |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | [Java](0242-valid-anagram) | Easy |
+| 257 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths) | [Java](0257-binary-tree-paths) | Easy |
 | 258 | [Add Digits](https://leetcode.com/problems/add-digits) | [Java](0258-add-digits) | Easy |
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number) | [Java](0268-missing-number) | Easy |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes) | [Java](0283-move-zeroes) | Easy |
@@ -265,27 +266,3 @@
 | 3794 | [Reverse String Prefix](https://leetcode.com/problems/reverse-string-prefix) | [Java](3794-reverse-string-prefix) | Easy |
 | 3823 | [Reverse Letters Then Special Characters In A String](https://leetcode.com/problems/reverse-letters-then-special-characters-in-a-string) | [Java](3823-reverse-letters-then-special-characters-in-a-string) | Easy |
 | 3856 | [Trim Trailing Vowels](https://leetcode.com/problems/trim-trailing-vowels) | [Java](3856-trim-trailing-vowels) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## String
-|  |
-| ------- |
-| [0257-binary-tree-paths](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0257-binary-tree-paths) |
-## Backtracking
-|  |
-| ------- |
-| [0257-binary-tree-paths](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0257-binary-tree-paths) |
-## Tree
-|  |
-| ------- |
-| [0257-binary-tree-paths](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0257-binary-tree-paths) |
-## Depth-First Search
-|  |
-| ------- |
-| [0257-binary-tree-paths](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0257-binary-tree-paths) |
-## Binary Tree
-|  |
-| ------- |
-| [0257-binary-tree-paths](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0257-binary-tree-paths) |
-<!---LeetCode Topics End-->
