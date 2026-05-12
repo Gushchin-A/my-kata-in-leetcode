@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 229 ✅  
+- Easy: 230 ✅  
 - Medium: 23 ⚡  
 - Hard: 0 🔥  
-- **Total: 252**
+- **Total: 253**
 
 ---
 
@@ -56,6 +56,7 @@
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | [Java](0206-reverse-linked-list) | Easy |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | [Java](0217-contains-duplicate) | Easy |
 | 219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii) | [Java](0219-contains-duplicate-ii) | Easy |
+| 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree) | [Java](0226-invert-binary-tree) | Easy |
 | 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list) | [Java](0234-palindrome-linked-list) | Easy |
 | 237 | [Delete Node In A Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list) | [Java](0237-delete-node-in-a-linked-list) | Medium |
 | 238 | [Product Of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) | [Java](0238-product-of-array-except-self) | Medium |
@@ -266,23 +267,3 @@
 | 3794 | [Reverse String Prefix](https://leetcode.com/problems/reverse-string-prefix) | [Java](3794-reverse-string-prefix) | Easy |
 | 3823 | [Reverse Letters Then Special Characters In A String](https://leetcode.com/problems/reverse-letters-then-special-characters-in-a-string) | [Java](3823-reverse-letters-then-special-characters-in-a-string) | Easy |
 | 3856 | [Trim Trailing Vowels](https://leetcode.com/problems/trim-trailing-vowels) | [Java](3856-trim-trailing-vowels) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Tree
-|  |
-| ------- |
-| [0226-invert-binary-tree](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0226-invert-binary-tree) |
-## Depth-First Search
-|  |
-| ------- |
-| [0226-invert-binary-tree](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0226-invert-binary-tree) |
-## Breadth-First Search
-|  |
-| ------- |
-| [0226-invert-binary-tree](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0226-invert-binary-tree) |
-## Binary Tree
-|  |
-| ------- |
-| [0226-invert-binary-tree](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0226-invert-binary-tree) |
-<!---LeetCode Topics End-->
