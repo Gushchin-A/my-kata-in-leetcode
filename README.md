@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 230 ✅  
+- Easy: 231 ✅  
 - Medium: 23 ⚡  
 - Hard: 0 🔥  
-- **Total: 253**
+- **Total: 254**
 
 ---
 
@@ -200,6 +200,7 @@
 | 2215 | [Find The Difference Of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays) | [Java](2215-find-the-difference-of-two-arrays) | Easy |
 | 2231 | [Find First Palindromic String In The Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array) | [Java](2231-find-first-palindromic-string-in-the-array) | Easy |
 | 2231 | [Largest Number After Digit Swaps By Parity](https://leetcode.com/problems/largest-number-after-digit-swaps-by-parity) | [Java](2231-largest-number-after-digit-swaps-by-parity) | Easy |
+| 2236 | [Root Equals Sum Of Children](https://leetcode.com/problems/root-equals-sum-of-children) | [Java](2236-root-equals-sum-of-children) | Easy |
 | 2248 | [Intersection Of Multiple Arrays](https://leetcode.com/problems/intersection-of-multiple-arrays) | [Java](2248-intersection-of-multiple-arrays) | Easy |
 | 2260 | [Divide A String Into Groups Of Size K](https://leetcode.com/problems/divide-a-string-into-groups-of-size-k) | [Java](2260-divide-a-string-into-groups-of-size-k) | Easy |
 | 2264 | [Largest 3 Same Digit Number In String](https://leetcode.com/problems/largest-3-same-digit-number-in-string) | [Java](2264-largest-3-same-digit-number-in-string) | Easy |
@@ -267,15 +268,3 @@
 | 3794 | [Reverse String Prefix](https://leetcode.com/problems/reverse-string-prefix) | [Java](3794-reverse-string-prefix) | Easy |
 | 3823 | [Reverse Letters Then Special Characters In A String](https://leetcode.com/problems/reverse-letters-then-special-characters-in-a-string) | [Java](3823-reverse-letters-then-special-characters-in-a-string) | Easy |
 | 3856 | [Trim Trailing Vowels](https://leetcode.com/problems/trim-trailing-vowels) | [Java](3856-trim-trailing-vowels) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Tree
-|  |
-| ------- |
-| [2236-root-equals-sum-of-children](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2236-root-equals-sum-of-children) |
-## Binary Tree
-|  |
-| ------- |
-| [2236-root-equals-sum-of-children](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2236-root-equals-sum-of-children) |
-<!---LeetCode Topics End-->
