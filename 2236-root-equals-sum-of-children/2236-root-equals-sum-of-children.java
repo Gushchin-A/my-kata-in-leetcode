@@ -15,7 +15,23 @@
  */
 class Solution {
     public boolean checkTree(TreeNode root) {
-        int sumChildren = root.left.val + root.right.val;
-        return root.val == sumChildren;
+        int[] sumChildren = new int[1];
+        helper(root, sumChildren);
+
+        return root.val == sumChildren[0];
+    }
+
+    private void helper(TreeNode node, int[] sumChildren) {
+        if (node == null) {
+            return;
+        }
+
+        if (node.left == null && node.right == null) {
+            return;
+        }
+
+        sumChildren[0] += node.left.val + node.right.val;
+        helper(node.left, sumChildren);
+        helper(node.right, sumChildren);
     }
 }
