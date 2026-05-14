@@ -26,11 +26,18 @@ class Solution {
             return;
         }
 
-        if (root.val <= high && root.val >= low) {
-            sum[0] += root.val;
+        if (root.val < low) {
+            helper(root.right, low, high, sum);
+            return;
         }
 
-        helper(root.left, low, high, sum);
+        if (root.val > high) {
+            helper(root.left, low, high, sum);
+            return;
+        }
+
+        sum[0] += root.val;
         helper(root.right, low, high, sum);
+        helper(root.left, low, high, sum);
     }
 }
