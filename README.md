@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 231 ✅  
+- Easy: 232 ✅  
 - Medium: 23 ⚡  
 - Hard: 0 🔥  
-- **Total: 254**
+- **Total: 255**
 
 ---
 
@@ -118,6 +118,7 @@
 | 908 | [Middle Of The Linked List](https://leetcode.com/problems/middle-of-the-linked-list) | [Java](0908-middle-of-the-linked-list) | Easy |
 | 922 | [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii) | [Java](0922-sort-array-by-parity-ii) | Easy |
 | 929 | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses) | [Java](0929-unique-email-addresses) | Easy |
+| 938 | [Range Sum Of Bst](https://leetcode.com/problems/range-sum-of-bst) | [Java](0938-range-sum-of-bst) | Easy |
 | 944 | [Delete Columns To Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted) | [Java](0944-delete-columns-to-make-sorted) | Easy |
 | 961 | [N Repeated Element In Size 2n Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array) | [Java](0961-n-repeated-element-in-size-2n-array) | Easy |
 | 979 | [Di String Match](https://leetcode.com/problems/di-string-match) | [Java](0979-di-string-match) | Easy |
@@ -268,23 +269,3 @@
 | 3794 | [Reverse String Prefix](https://leetcode.com/problems/reverse-string-prefix) | [Java](3794-reverse-string-prefix) | Easy |
 | 3823 | [Reverse Letters Then Special Characters In A String](https://leetcode.com/problems/reverse-letters-then-special-characters-in-a-string) | [Java](3823-reverse-letters-then-special-characters-in-a-string) | Easy |
 | 3856 | [Trim Trailing Vowels](https://leetcode.com/problems/trim-trailing-vowels) | [Java](3856-trim-trailing-vowels) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Tree
-|  |
-| ------- |
-| [0938-range-sum-of-bst](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0938-range-sum-of-bst) |
-## Depth-First Search
-|  |
-| ------- |
-| [0938-range-sum-of-bst](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0938-range-sum-of-bst) |
-## Binary Search Tree
-|  |
-| ------- |
-| [0938-range-sum-of-bst](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0938-range-sum-of-bst) |
-## Binary Tree
-|  |
-| ------- |
-| [0938-range-sum-of-bst](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0938-range-sum-of-bst) |
-<!---LeetCode Topics End-->
