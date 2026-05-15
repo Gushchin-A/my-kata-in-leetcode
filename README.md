@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 232 ✅  
+- Easy: 233 ✅  
 - Medium: 23 ⚡  
 - Hard: 0 🔥  
-- **Total: 255**
+- **Total: 256**
 
 ---
 
@@ -244,6 +244,7 @@
 | 3074 | [Apple Redistribution Into Boxes](https://leetcode.com/problems/apple-redistribution-into-boxes) | [Java](3074-apple-redistribution-into-boxes) | Easy |
 | 3110 | [Score Of A String](https://leetcode.com/problems/score-of-a-string) | [Java](3110-score-of-a-string) | Easy |
 | 3151 | [Special Array I](https://leetcode.com/problems/special-array-i) | [Java](3151-special-array-i) | Easy |
+| 3162 | [Find The Number Of Good Pairs I](https://leetcode.com/problems/find-the-number-of-good-pairs-i) | [Java](3162-find-the-number-of-good-pairs-i) | Easy |
 | 3174 | [Clear Digits](https://leetcode.com/problems/clear-digits) | [Java](3174-clear-digits) | Easy |
 | 3190 | [Find Minimum Operations To Make All Elements Divisible By Three](https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three) | [Java](3190-find-minimum-operations-to-make-all-elements-divisible-by-three) | Easy |
 | 3274 | [Check If Two Chessboard Squares Have The Same Color](https://leetcode.com/problems/check-if-two-chessboard-squares-have-the-same-color) | [Java](3274-check-if-two-chessboard-squares-have-the-same-color) | Easy |
@@ -269,15 +270,3 @@
 | 3794 | [Reverse String Prefix](https://leetcode.com/problems/reverse-string-prefix) | [Java](3794-reverse-string-prefix) | Easy |
 | 3823 | [Reverse Letters Then Special Characters In A String](https://leetcode.com/problems/reverse-letters-then-special-characters-in-a-string) | [Java](3823-reverse-letters-then-special-characters-in-a-string) | Easy |
 | 3856 | [Trim Trailing Vowels](https://leetcode.com/problems/trim-trailing-vowels) | [Java](3856-trim-trailing-vowels) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [3162-find-the-number-of-good-pairs-i](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/3162-find-the-number-of-good-pairs-i) |
-## Hash Table
-|  |
-| ------- |
-| [3162-find-the-number-of-good-pairs-i](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/3162-find-the-number-of-good-pairs-i) |
-<!---LeetCode Topics End-->
