@@ -13,7 +13,7 @@ class Solution {
                             triplets.add(i);
                             triplets.add(j);
                             triplets.add(k);
-                            k++;
+                            break;
                         } else {
                             k++;
                         }
