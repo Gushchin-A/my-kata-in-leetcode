@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 233 ✅  
+- Easy: 234 ✅  
 - Medium: 23 ⚡  
 - Hard: 0 🔥  
-- **Total: 256**
+- **Total: 257**
 
 ---
 
@@ -212,6 +212,7 @@
 | 2315 | [Count Asterisks](https://leetcode.com/problems/count-asterisks) | [Java](2315-count-asterisks) | Easy |
 | 2325 | [Decode The Message](https://leetcode.com/problems/decode-the-message) | [Java](2325-decode-the-message) | Easy |
 | 2341 | [Count Prefixes Of A Given String](https://leetcode.com/problems/count-prefixes-of-a-given-string) | [Java](2341-count-prefixes-of-a-given-string) | Easy |
+| 2367 | [Number Of Arithmetic Triplets](https://leetcode.com/problems/number-of-arithmetic-triplets) | [Java](2367-number-of-arithmetic-triplets) | Easy |
 | 2390 | [Removing Stars From A String](https://leetcode.com/problems/removing-stars-from-a-string) | [Java](2390-removing-stars-from-a-string) | Medium |
 | 2396 | [Strictly Palindromic Number](https://leetcode.com/problems/strictly-palindromic-number) | [Java](2396-strictly-palindromic-number) | Medium |
 | 2418 | [Sort The People](https://leetcode.com/problems/sort-the-people) | [Java](2418-sort-the-people) | Easy |
@@ -270,23 +271,3 @@
 | 3794 | [Reverse String Prefix](https://leetcode.com/problems/reverse-string-prefix) | [Java](3794-reverse-string-prefix) | Easy |
 | 3823 | [Reverse Letters Then Special Characters In A String](https://leetcode.com/problems/reverse-letters-then-special-characters-in-a-string) | [Java](3823-reverse-letters-then-special-characters-in-a-string) | Easy |
 | 3856 | [Trim Trailing Vowels](https://leetcode.com/problems/trim-trailing-vowels) | [Java](3856-trim-trailing-vowels) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [2367-number-of-arithmetic-triplets](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2367-number-of-arithmetic-triplets) |
-## Hash Table
-|  |
-| ------- |
-| [2367-number-of-arithmetic-triplets](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2367-number-of-arithmetic-triplets) |
-## Two Pointers
-|  |
-| ------- |
-| [2367-number-of-arithmetic-triplets](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2367-number-of-arithmetic-triplets) |
-## Enumeration
-|  |
-| ------- |
-| [2367-number-of-arithmetic-triplets](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2367-number-of-arithmetic-triplets) |
-<!---LeetCode Topics End-->
