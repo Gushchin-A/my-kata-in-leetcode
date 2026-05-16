@@ -1,6 +1,6 @@
 class Solution {
     public int arithmeticTriplets(int[] nums, int diff) {
-        List<Integer> triplets = new ArrayList<>();
+        int count = 0;
 
         int i = 0;
         while (i < nums.length - 2) {
@@ -10,9 +10,7 @@ class Solution {
                     int k = j + 1;
                     while (k < nums.length) {
                         if (nums[k] - nums[j] == diff) {
-                            triplets.add(i);
-                            triplets.add(j);
-                            triplets.add(k);
+                            count++;
                             break;
                         } else {
                             k++;
@@ -26,6 +24,6 @@ class Solution {
             i++;
         }
 
-        return triplets.size() / 3;
+        return count;
     }
 }
