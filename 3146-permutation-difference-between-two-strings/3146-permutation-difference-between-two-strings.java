@@ -1,17 +1,18 @@
 class Solution {
     public int findPermutationDifference(String s, String t) {
-        Map<Character, Integer> sIndices = new HashMap<>();
-        Map<Character, Integer> tIndices = new HashMap<>();
+        int[] sIndices = new int[26];
+        int[] tIndices = new int[26];
 
         for (int i = 0; i < s.length(); i++) {
-            sIndices.put(s.charAt(i), i);
-            tIndices.put(t.charAt(i), i);
+            sIndices[s.charAt(i) - 'a'] = i;
+            tIndices[t.charAt(i) - 'a'] = i;
+
         }
 
         int permutationDifference = 0;
-        for (Map.Entry<Character, Integer> entry : sIndices.entrySet()) {
-            int sIndex = sIndices.get(entry.getKey());
-            int tIndex = tIndices.get(entry.getKey());
+        for (int i = 0; i < s.length(); i++) {
+            int sIndex = sIndices[s.charAt(i) - 'a'];
+            int tIndex = tIndices[s.charAt(i) - 'a'];
             permutationDifference += Math.abs(sIndex - tIndex);
         }
 
