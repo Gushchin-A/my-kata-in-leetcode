@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 235 ✅  
+- Easy: 236 ✅  
 - Medium: 23 ⚡  
 - Hard: 0 🔥  
-- **Total: 258**
+- **Total: 259**
 
 ---
 
@@ -237,6 +237,7 @@
 | 2807 | [Insert Greatest Common Divisors In Linked List](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list) | [Java](2807-insert-greatest-common-divisors-in-linked-list) | Medium |
 | 2894 | [Divisible And Non Divisible Sums Difference](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference) | [Java](2894-divisible-and-non-divisible-sums-difference) | Easy |
 | 2942 | [Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character) | [Java](2942-find-words-containing-character) | Easy |
+| 2956 | [Find Common Elements Between Two Arrays](https://leetcode.com/problems/find-common-elements-between-two-arrays) | [Java](2956-find-common-elements-between-two-arrays) | Easy |
 | 2965 | [Find Missing And Repeated Values](https://leetcode.com/problems/find-missing-and-repeated-values) | [Java](2965-find-missing-and-repeated-values) | Easy |
 | 2974 | [Minimum Number Game](https://leetcode.com/problems/minimum-number-game) | [Java](2974-minimum-number-game) | Easy |
 | 3005 | [Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency) | [Java](3005-count-elements-with-maximum-frequency) | Easy |
@@ -272,15 +273,3 @@
 | 3794 | [Reverse String Prefix](https://leetcode.com/problems/reverse-string-prefix) | [Java](3794-reverse-string-prefix) | Easy |
 | 3823 | [Reverse Letters Then Special Characters In A String](https://leetcode.com/problems/reverse-letters-then-special-characters-in-a-string) | [Java](3823-reverse-letters-then-special-characters-in-a-string) | Easy |
 | 3856 | [Trim Trailing Vowels](https://leetcode.com/problems/trim-trailing-vowels) | [Java](3856-trim-trailing-vowels) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [2956-find-common-elements-between-two-arrays](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
-## Hash Table
-|  |
-| ------- |
-| [2956-find-common-elements-between-two-arrays](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
-<!---LeetCode Topics End-->
