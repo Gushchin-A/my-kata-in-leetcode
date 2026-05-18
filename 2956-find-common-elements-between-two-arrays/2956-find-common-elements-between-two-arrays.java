@@ -14,7 +14,6 @@ class Solution {
         }
 
         int[] result = new int[2];
-        int index = 0;
         for (int i = 0; i < length; i++) {
             if (i < nums1.length) {
                 if (seen2[nums1[i]]) {
