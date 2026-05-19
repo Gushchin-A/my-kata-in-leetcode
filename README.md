@@ -4,9 +4,9 @@
 #### 📊 Progress
 
 - Easy: 236 ✅  
-- Medium: 23 ⚡  
+- Medium: 24 ⚡  
 - Hard: 0 🔥  
-- **Total: 259**
+- **Total: 260**
 
 ---
 
@@ -150,6 +150,7 @@
 | 1408 | [String Matching In An Array](https://leetcode.com/problems/string-matching-in-an-array) | [Java](1408-string-matching-in-an-array) | Easy |
 | 1411 | [Convert Binary Number In A Linked List To Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer) | [Java](1411-convert-binary-number-in-a-linked-list-to-integer) | Easy |
 | 1417 | [Reformat The String](https://leetcode.com/problems/reformat-the-string) | [Java](1417-reformat-the-string) | Easy |
+| 1418 | [Display Table Of Food Orders In A Restaurant](https://leetcode.com/problems/display-table-of-food-orders-in-a-restaurant) | [Java](1418-display-table-of-food-orders-in-a-restaurant) | Medium |
 | 1422 | [Maximum Score After Splitting A String](https://leetcode.com/problems/maximum-score-after-splitting-a-string) | [Java](1422-maximum-score-after-splitting-a-string) | Easy |
 | 1436 | [Destination City](https://leetcode.com/problems/destination-city) | [Java](1436-destination-city) | Easy |
 | 1444 | [Number Of Steps To Reduce A Number To Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero) | [Java](1444-number-of-steps-to-reduce-a-number-to-zero) | Easy |
@@ -273,27 +274,3 @@
 | 3794 | [Reverse String Prefix](https://leetcode.com/problems/reverse-string-prefix) | [Java](3794-reverse-string-prefix) | Easy |
 | 3823 | [Reverse Letters Then Special Characters In A String](https://leetcode.com/problems/reverse-letters-then-special-characters-in-a-string) | [Java](3823-reverse-letters-then-special-characters-in-a-string) | Easy |
 | 3856 | [Trim Trailing Vowels](https://leetcode.com/problems/trim-trailing-vowels) | [Java](3856-trim-trailing-vowels) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
-## Hash Table
-|  |
-| ------- |
-| [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
-## String
-|  |
-| ------- |
-| [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
-## Sorting
-|  |
-| ------- |
-| [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
-## Ordered Set
-|  |
-| ------- |
-| [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
-<!---LeetCode Topics End-->
