@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 236 ✅  
+- Easy: 237 ✅  
 - Medium: 24 ⚡  
 - Hard: 0 🔥  
-- **Total: 260**
+- **Total: 261**
 
 ---
 
@@ -252,6 +252,7 @@
 | 3174 | [Clear Digits](https://leetcode.com/problems/clear-digits) | [Java](3174-clear-digits) | Easy |
 | 3190 | [Find Minimum Operations To Make All Elements Divisible By Three](https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three) | [Java](3190-find-minimum-operations-to-make-all-elements-divisible-by-three) | Easy |
 | 3274 | [Check If Two Chessboard Squares Have The Same Color](https://leetcode.com/problems/check-if-two-chessboard-squares-have-the-same-color) | [Java](3274-check-if-two-chessboard-squares-have-the-same-color) | Easy |
+| 3280 | [Convert Date To Binary](https://leetcode.com/problems/convert-date-to-binary) | [Java](3280-convert-date-to-binary) | Easy |
 | 3285 | [Find Indices Of Stable Mountains](https://leetcode.com/problems/find-indices-of-stable-mountains) | [Java](3285-find-indices-of-stable-mountains) | Easy |
 | 3289 | [The Two Sneaky Numbers Of Digitville](https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville) | [Java](3289-the-two-sneaky-numbers-of-digitville) | Easy |
 | 3304 | [Find The K Th Character In String Game I](https://leetcode.com/problems/find-the-k-th-character-in-string-game-i) | [Java](3304-find-the-k-th-character-in-string-game-i) | Easy |
@@ -274,15 +275,3 @@
 | 3794 | [Reverse String Prefix](https://leetcode.com/problems/reverse-string-prefix) | [Java](3794-reverse-string-prefix) | Easy |
 | 3823 | [Reverse Letters Then Special Characters In A String](https://leetcode.com/problems/reverse-letters-then-special-characters-in-a-string) | [Java](3823-reverse-letters-then-special-characters-in-a-string) | Easy |
 | 3856 | [Trim Trailing Vowels](https://leetcode.com/problems/trim-trailing-vowels) | [Java](3856-trim-trailing-vowels) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-|  |
-| ------- |
-| [3280-convert-date-to-binary](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/3280-convert-date-to-binary) |
-## String
-|  |
-| ------- |
-| [3280-convert-date-to-binary](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/3280-convert-date-to-binary) |
-<!---LeetCode Topics End-->
