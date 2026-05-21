@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 237 ✅  
+- Easy: 238 ✅  
 - Medium: 24 ⚡  
 - Hard: 0 🔥  
-- **Total: 261**
+- **Total: 262**
 
 ---
 
@@ -216,6 +216,7 @@
 | 2367 | [Number Of Arithmetic Triplets](https://leetcode.com/problems/number-of-arithmetic-triplets) | [Java](2367-number-of-arithmetic-triplets) | Easy |
 | 2390 | [Removing Stars From A String](https://leetcode.com/problems/removing-stars-from-a-string) | [Java](2390-removing-stars-from-a-string) | Medium |
 | 2396 | [Strictly Palindromic Number](https://leetcode.com/problems/strictly-palindromic-number) | [Java](2396-strictly-palindromic-number) | Medium |
+| 2413 | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple) | [Java](2413-smallest-even-multiple) | Easy |
 | 2418 | [Sort The People](https://leetcode.com/problems/sort-the-people) | [Java](2418-sort-the-people) | Easy |
 | 2469 | [Convert The Temperature](https://leetcode.com/problems/convert-the-temperature) | [Java](2469-convert-the-temperature) | Easy |
 | 2496 | [Maximum Value Of A String In An Array](https://leetcode.com/problems/maximum-value-of-a-string-in-an-array) | [Java](2496-maximum-value-of-a-string-in-an-array) | Easy |
@@ -275,15 +276,3 @@
 | 3794 | [Reverse String Prefix](https://leetcode.com/problems/reverse-string-prefix) | [Java](3794-reverse-string-prefix) | Easy |
 | 3823 | [Reverse Letters Then Special Characters In A String](https://leetcode.com/problems/reverse-letters-then-special-characters-in-a-string) | [Java](3823-reverse-letters-then-special-characters-in-a-string) | Easy |
 | 3856 | [Trim Trailing Vowels](https://leetcode.com/problems/trim-trailing-vowels) | [Java](3856-trim-trailing-vowels) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-|  |
-| ------- |
-| [2413-smallest-even-multiple](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2413-smallest-even-multiple) |
-## Number Theory
-|  |
-| ------- |
-| [2413-smallest-even-multiple](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2413-smallest-even-multiple) |
-<!---LeetCode Topics End-->
