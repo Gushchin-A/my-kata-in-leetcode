@@ -4,9 +4,9 @@
 #### 📊 Progress
 
 - Easy: 238 ✅  
-- Medium: 24 ⚡  
+- Medium: 25 ⚡  
 - Hard: 0 🔥  
-- **Total: 262**
+- **Total: 263**
 
 ---
 
@@ -142,6 +142,7 @@
 | 1304 | [Find N Unique Integers Sum Up To Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero) | [Java](1304-find-n-unique-integers-sum-up-to-zero) | Easy |
 | 1309 | [Decrypt String From Alphabet To Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping) | [Java](1309-decrypt-string-from-alphabet-to-integer-mapping) | Easy |
 | 1331 | [Rank Transform Of An Array](https://leetcode.com/problems/rank-transform-of-an-array) | [Java](1331-rank-transform-of-an-array) | Easy |
+| 1347 | [Minimum Number Of Steps To Make Two Strings Anagram](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram) | [Java](1347-minimum-number-of-steps-to-make-two-strings-anagram) | Medium |
 | 1365 | [How Many Numbers Are Smaller Than The Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number) | [Java](1365-how-many-numbers-are-smaller-than-the-current-number) | Easy |
 | 1374 | [Generate A String With Characters That Have Odd Counts](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts) | [Java](1374-generate-a-string-with-characters-that-have-odd-counts) | Easy |
 | 1380 | [Lucky Numbers In A Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix) | [Java](1380-lucky-numbers-in-a-matrix) | Easy |
@@ -276,19 +277,3 @@
 | 3794 | [Reverse String Prefix](https://leetcode.com/problems/reverse-string-prefix) | [Java](3794-reverse-string-prefix) | Easy |
 | 3823 | [Reverse Letters Then Special Characters In A String](https://leetcode.com/problems/reverse-letters-then-special-characters-in-a-string) | [Java](3823-reverse-letters-then-special-characters-in-a-string) | Easy |
 | 3856 | [Trim Trailing Vowels](https://leetcode.com/problems/trim-trailing-vowels) | [Java](3856-trim-trailing-vowels) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Hash Table
-|  |
-| ------- |
-| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
-## String
-|  |
-| ------- |
-| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
-## Counting
-|  |
-| ------- |
-| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
-<!---LeetCode Topics End-->
