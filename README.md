@@ -278,3 +278,23 @@
 | 3794 | [Reverse String Prefix](https://leetcode.com/problems/reverse-string-prefix) | [Java](3794-reverse-string-prefix) | Easy |
 | 3823 | [Reverse Letters Then Special Characters In A String](https://leetcode.com/problems/reverse-letters-then-special-characters-in-a-string) | [Java](3823-reverse-letters-then-special-characters-in-a-string) | Easy |
 | 3856 | [Trim Trailing Vowels](https://leetcode.com/problems/trim-trailing-vowels) | [Java](3856-trim-trailing-vowels) | Easy |
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Hash Table
+|  |
+| ------- |
+| [1079-letter-tile-possibilities](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1079-letter-tile-possibilities) |
+## String
+|  |
+| ------- |
+| [1079-letter-tile-possibilities](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1079-letter-tile-possibilities) |
+## Backtracking
+|  |
+| ------- |
+| [1079-letter-tile-possibilities](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1079-letter-tile-possibilities) |
+## Counting
+|  |
+| ------- |
+| [1079-letter-tile-possibilities](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1079-letter-tile-possibilities) |
+<!---LeetCode Topics End-->
