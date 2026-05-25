@@ -4,9 +4,9 @@
 #### 📊 Progress
 
 - Easy: 239 ✅  
-- Medium: 25 ⚡  
+- Medium: 26 ⚡  
 - Hard: 0 🔥  
-- **Total: 264**
+- **Total: 265**
 
 ---
 
@@ -129,6 +129,7 @@
 | 1041 | [Available Captures For Rook](https://leetcode.com/problems/available-captures-for-rook) | [Java](1041-available-captures-for-rook) | Easy |
 | 1047 | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string) | [Java](1047-remove-all-adjacent-duplicates-in-string) | Easy |
 | 1062 | [Partition Array Into Three Parts With Equal Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum) | [Java](1062-partition-array-into-three-parts-with-equal-sum) | Easy |
+| 1079 | [Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities) | [Java](1079-letter-tile-possibilities) | Medium |
 | 1108 | [Defanging An Ip Address](https://leetcode.com/problems/defanging-an-ip-address) | [Java](1108-defanging-an-ip-address) | Easy |
 | 1160 | [Find Words That Can Be Formed By Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters) | [Java](1160-find-words-that-can-be-formed-by-characters) | Easy |
 | 1189 | [Maximum Number Of Balloons](https://leetcode.com/problems/maximum-number-of-balloons) | [Java](1189-maximum-number-of-balloons) | Easy |
@@ -278,23 +279,3 @@
 | 3794 | [Reverse String Prefix](https://leetcode.com/problems/reverse-string-prefix) | [Java](3794-reverse-string-prefix) | Easy |
 | 3823 | [Reverse Letters Then Special Characters In A String](https://leetcode.com/problems/reverse-letters-then-special-characters-in-a-string) | [Java](3823-reverse-letters-then-special-characters-in-a-string) | Easy |
 | 3856 | [Trim Trailing Vowels](https://leetcode.com/problems/trim-trailing-vowels) | [Java](3856-trim-trailing-vowels) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Hash Table
-|  |
-| ------- |
-| [1079-letter-tile-possibilities](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1079-letter-tile-possibilities) |
-## String
-|  |
-| ------- |
-| [1079-letter-tile-possibilities](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1079-letter-tile-possibilities) |
-## Backtracking
-|  |
-| ------- |
-| [1079-letter-tile-possibilities](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1079-letter-tile-possibilities) |
-## Counting
-|  |
-| ------- |
-| [1079-letter-tile-possibilities](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1079-letter-tile-possibilities) |
-<!---LeetCode Topics End-->
