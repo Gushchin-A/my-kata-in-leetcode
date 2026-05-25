@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 239 ✅  
+- Easy: 240 ✅  
 - Medium: 26 ⚡  
 - Hard: 0 🔥  
-- **Total: 265**
+- **Total: 266**
 
 ---
 
@@ -279,19 +279,4 @@
 | 3794 | [Reverse String Prefix](https://leetcode.com/problems/reverse-string-prefix) | [Java](3794-reverse-string-prefix) | Easy |
 | 3823 | [Reverse Letters Then Special Characters In A String](https://leetcode.com/problems/reverse-letters-then-special-characters-in-a-string) | [Java](3823-reverse-letters-then-special-characters-in-a-string) | Easy |
 | 3856 | [Trim Trailing Vowels](https://leetcode.com/problems/trim-trailing-vowels) | [Java](3856-trim-trailing-vowels) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [3921-score-validator](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/3921-score-validator) |
-## String
-|  |
-| ------- |
-| [3921-score-validator](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/3921-score-validator) |
-## Simulation
-|  |
-| ------- |
-| [3921-score-validator](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/3921-score-validator) |
-<!---LeetCode Topics End-->
+| 3921 | [Score Validator](https://leetcode.com/problems/score-validator) | [Java](3921-score-validator) | Easy |
