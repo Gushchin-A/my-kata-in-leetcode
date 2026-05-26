@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 240 ✅  
+- Easy: 241 ✅  
 - Medium: 26 ⚡  
 - Hard: 0 🔥  
-- **Total: 266**
+- **Total: 267**
 
 ---
 
@@ -98,6 +98,7 @@
 | 657 | [Robot Return To Origin](https://leetcode.com/problems/robot-return-to-origin) | [Java](0657-robot-return-to-origin) | Easy |
 | 680 | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii) | [Java](0680-valid-palindrome-ii) | Easy |
 | 682 | [Baseball Game](https://leetcode.com/problems/baseball-game) | [Java](0682-baseball-game) | Easy |
+| 696 | [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings) | [Java](0696-count-binary-substrings) | Easy |
 | 709 | [To Lower Case](https://leetcode.com/problems/to-lower-case) | [Java](0709-to-lower-case) | Easy |
 | 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index) | [Java](0724-find-pivot-index) | Easy |
 | 733 | [Flood Fill](https://leetcode.com/problems/flood-fill) | [Java](0733-flood-fill) | Easy |
@@ -280,15 +281,3 @@
 | 3823 | [Reverse Letters Then Special Characters In A String](https://leetcode.com/problems/reverse-letters-then-special-characters-in-a-string) | [Java](3823-reverse-letters-then-special-characters-in-a-string) | Easy |
 | 3856 | [Trim Trailing Vowels](https://leetcode.com/problems/trim-trailing-vowels) | [Java](3856-trim-trailing-vowels) | Easy |
 | 3921 | [Score Validator](https://leetcode.com/problems/score-validator) | [Java](3921-score-validator) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Two Pointers
-|  |
-| ------- |
-| [0696-count-binary-substrings](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0696-count-binary-substrings) |
-## String
-|  |
-| ------- |
-| [0696-count-binary-substrings](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0696-count-binary-substrings) |
-<!---LeetCode Topics End-->
