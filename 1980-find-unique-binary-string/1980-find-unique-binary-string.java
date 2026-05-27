@@ -6,13 +6,12 @@ class Solution {
         String result = "";
         for (String binaryString : nums) {
 
-            StringBuilder str = new StringBuilder();
+            StringBuilder candidate = new StringBuilder();
             for (char c : binaryString.toCharArray()) {
-                str.append(c);
+                candidate.append(c);
             }
 
-            StringBuilder candidate = str;
-            for (int i = 0; i < str.length(); i++) {
+            for (int i = 0; i < candidate.length(); i++) {
                 if (candidate.charAt(i) == '1') {
                     candidate.setCharAt(i, '0');
                 } else {
@@ -23,7 +22,11 @@ class Solution {
                     result = candidate.toString();
                     break;
                 } else {
-                    candidate = str;
+                    if (candidate.charAt(i) == '1') {
+                        candidate.setCharAt(i, '0');
+                    } else {
+                        candidate.setCharAt(i, '1');
+                    }
                 }
             }
         }
