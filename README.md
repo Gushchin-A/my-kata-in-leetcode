@@ -4,9 +4,9 @@
 #### 📊 Progress
 
 - Easy: 241 ✅  
-- Medium: 26 ⚡  
+- Medium: 27 ⚡  
 - Hard: 0 🔥  
-- **Total: 267**
+- **Total: 268**
 
 ---
 
@@ -189,6 +189,7 @@
 | 1935 | [Maximum Number Of Words You Can Type](https://leetcode.com/problems/maximum-number-of-words-you-can-type) | [Java](1935-maximum-number-of-words-you-can-type) | Easy |
 | 1941 | [Check If All Characters Have Equal Number Of Occurrences](https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences) | [Java](1941-check-if-all-characters-have-equal-number-of-occurrences) | Easy |
 | 1957 | [Delete Characters To Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string) | [Java](1957-delete-characters-to-make-fancy-string) | Easy |
+| 1980 | [Find Unique Binary String](https://leetcode.com/problems/find-unique-binary-string) | [Java](1980-find-unique-binary-string) | Medium |
 | 2011 | [Final Value Of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations) | [Java](2011-final-value-of-variable-after-performing-operations) | Easy |
 | 2022 | [Convert 1d Array Into 2d Array](https://leetcode.com/problems/convert-1d-array-into-2d-array) | [Java](2022-convert-1d-array-into-2d-array) | Easy |
 | 2037 | [Minimum Number Of Moves To Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone) | [Java](2037-minimum-number-of-moves-to-seat-everyone) | Easy |
@@ -281,23 +282,3 @@
 | 3823 | [Reverse Letters Then Special Characters In A String](https://leetcode.com/problems/reverse-letters-then-special-characters-in-a-string) | [Java](3823-reverse-letters-then-special-characters-in-a-string) | Easy |
 | 3856 | [Trim Trailing Vowels](https://leetcode.com/problems/trim-trailing-vowels) | [Java](3856-trim-trailing-vowels) | Easy |
 | 3921 | [Score Validator](https://leetcode.com/problems/score-validator) | [Java](3921-score-validator) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [1980-find-unique-binary-string](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1980-find-unique-binary-string) |
-## Hash Table
-|  |
-| ------- |
-| [1980-find-unique-binary-string](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1980-find-unique-binary-string) |
-## String
-|  |
-| ------- |
-| [1980-find-unique-binary-string](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1980-find-unique-binary-string) |
-## Backtracking
-|  |
-| ------- |
-| [1980-find-unique-binary-string](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1980-find-unique-binary-string) |
-<!---LeetCode Topics End-->
