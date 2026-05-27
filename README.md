@@ -282,3 +282,23 @@
 | 3823 | [Reverse Letters Then Special Characters In A String](https://leetcode.com/problems/reverse-letters-then-special-characters-in-a-string) | [Java](3823-reverse-letters-then-special-characters-in-a-string) | Easy |
 | 3856 | [Trim Trailing Vowels](https://leetcode.com/problems/trim-trailing-vowels) | [Java](3856-trim-trailing-vowels) | Easy |
 | 3921 | [Score Validator](https://leetcode.com/problems/score-validator) | [Java](3921-score-validator) | Easy |
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1980-find-unique-binary-string](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1980-find-unique-binary-string) |
+## Hash Table
+|  |
+| ------- |
+| [1980-find-unique-binary-string](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1980-find-unique-binary-string) |
+## String
+|  |
+| ------- |
+| [1980-find-unique-binary-string](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1980-find-unique-binary-string) |
+## Backtracking
+|  |
+| ------- |
+| [1980-find-unique-binary-string](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1980-find-unique-binary-string) |
+<!---LeetCode Topics End-->
