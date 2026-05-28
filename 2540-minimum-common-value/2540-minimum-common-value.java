@@ -12,8 +12,6 @@ class Solution {
                     int candidate = nums1[i];
                     if (candidate <= nums1[nums1.length - 1] || candidate <= nums2[nums2.length - 1]) {
                         return candidate;
-                    } else {
-                        j++;
                     }
                 } else {
                     j++;
