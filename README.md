@@ -291,4 +291,12 @@
 |  |
 | ------- |
 | [1837-sum-of-digits-in-base-k](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1837-sum-of-digits-in-base-k) |
+## Array
+|  |
+| ------- |
+| [1652-defuse-the-bomb](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1652-defuse-the-bomb) |
+## Sliding Window
+|  |
+| ------- |
+| [1652-defuse-the-bomb](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1652-defuse-the-bomb) |
 <!---LeetCode Topics End-->
