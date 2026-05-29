@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 243 ✅  
+- Easy: 244 ✅  
 - Medium: 27 ⚡  
 - Hard: 0 🔥  
-- **Total: 270**
+- **Total: 271**
 
 ---
 
@@ -172,6 +172,7 @@
 | 1603 | [Design Parking System](https://leetcode.com/problems/design-parking-system) | [Java](1603-design-parking-system) | Easy |
 | 1636 | [Sort Array By Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency) | [Java](1636-sort-array-by-increasing-frequency) | Easy |
 | 1642 | [Water Bottles](https://leetcode.com/problems/water-bottles) | [Java](1642-water-bottles) | Easy |
+| 1652 | [Defuse The Bomb](https://leetcode.com/problems/defuse-the-bomb) | [Java](1652-defuse-the-bomb) | Easy |
 | 1662 | [Check If Two String Arrays Are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent) | [Java](1662-check-if-two-string-arrays-are-equivalent) | Easy |
 | 1672 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth) | [Java](1672-richest-customer-wealth) | Easy |
 | 1678 | [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation) | [Java](1678-goal-parser-interpretation) | Easy |
@@ -284,19 +285,3 @@
 | 3823 | [Reverse Letters Then Special Characters In A String](https://leetcode.com/problems/reverse-letters-then-special-characters-in-a-string) | [Java](3823-reverse-letters-then-special-characters-in-a-string) | Easy |
 | 3856 | [Trim Trailing Vowels](https://leetcode.com/problems/trim-trailing-vowels) | [Java](3856-trim-trailing-vowels) | Easy |
 | 3921 | [Score Validator](https://leetcode.com/problems/score-validator) | [Java](3921-score-validator) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-|  |
-| ------- |
-| [1837-sum-of-digits-in-base-k](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1837-sum-of-digits-in-base-k) |
-## Array
-|  |
-| ------- |
-| [1652-defuse-the-bomb](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1652-defuse-the-bomb) |
-## Sliding Window
-|  |
-| ------- |
-| [1652-defuse-the-bomb](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1652-defuse-the-bomb) |
-<!---LeetCode Topics End-->
