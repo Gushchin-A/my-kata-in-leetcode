@@ -285,15 +285,3 @@
 | 3823 | [Reverse Letters Then Special Characters In A String](https://leetcode.com/problems/reverse-letters-then-special-characters-in-a-string) | [Java](3823-reverse-letters-then-special-characters-in-a-string) | Easy |
 | 3856 | [Trim Trailing Vowels](https://leetcode.com/problems/trim-trailing-vowels) | [Java](3856-trim-trailing-vowels) | Easy |
 | 3921 | [Score Validator](https://leetcode.com/problems/score-validator) | [Java](3921-score-validator) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [1652-defuse-the-bomb](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1652-defuse-the-bomb) |
-## Sliding Window
-|  |
-| ------- |
-| [1652-defuse-the-bomb](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1652-defuse-the-bomb) |
-<!---LeetCode Topics End-->
