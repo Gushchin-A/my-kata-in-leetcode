@@ -4,12 +4,12 @@ class Solution {
             return new int[0];
         }
 
-        Map<Integer, Integer> countDigitsInArray = new HashMap<>();
+        int[] countDigitsInArray = new int[10];
         int minNumber = 100;
         int maxNumber = 999;
 
         for (int digit : digits) {
-            countDigitsInArray.merge(digit, 1, Integer::sum);
+            countDigitsInArray[digit]++;
         }
 
         int[] result = new int[maxNumber];
@@ -17,15 +17,16 @@ class Solution {
         for (int i = minNumber; i < maxNumber; i++) {
             
             if (i % 2 == 0) {
-                Map<Integer, Integer> countDigitsInNumber = getCountsDigitsFromNumber(i);
+                int[] countDigitsInNumber = getCountsDigitsFromNumber(i);
                 boolean isFindNumber = true;
 
-                for (Integer key : countDigitsInNumber.keySet()) {
-                    int valueArray = countDigitsInArray.get(key) == null ? 0 : countDigitsInArray.get(key);
-                    int valueNumber = countDigitsInNumber.get(key);
+                for (int j = 0; j < 10; j++) {
+                    int valueArray = countDigitsInArray[j];
+                    int valueNumber = countDigitsInNumber[j];
 
                     if (valueArray < valueNumber) {
                         isFindNumber = false;
+                        break;
                     }
                 }
                 if (isFindNumber) {
@@ -37,12 +38,12 @@ class Solution {
         return Arrays.copyOf(result, indexResult);
     }
 
-    private Map<Integer, Integer> getCountsDigitsFromNumber(int number) {
-        Map<Integer, Integer> countDigits = new HashMap<>();
+    private int[] getCountsDigitsFromNumber(int number) {
+        int[] countDigits = new int[10];
 
         while (number > 0) {
             int digit = number % 10; 
-            countDigits.merge(digit, 1, Integer::sum);
+            countDigits[digit]++;
             number /= 10;
         }
 
