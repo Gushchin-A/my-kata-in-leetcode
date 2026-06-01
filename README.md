@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 245 ✅  
+- Easy: 246 ✅  
 - Medium: 27 ⚡  
 - Hard: 0 🔥  
-- **Total: 272**
+- **Total: 273**
 
 ---
 
@@ -199,6 +199,7 @@
 | 2062 | [Count Vowel Substrings Of A String](https://leetcode.com/problems/count-vowel-substrings-of-a-string) | [Java](2062-count-vowel-substrings-of-a-string) | Easy |
 | 2089 | [Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array) | [Java](2089-find-target-indices-after-sorting-array) | Easy |
 | 2093 | [Check If String Is A Prefix Of Array](https://leetcode.com/problems/check-if-string-is-a-prefix-of-array) | [Java](2093-check-if-string-is-a-prefix-of-array) | Easy |
+| 2094 | [Finding 3 Digit Even Numbers](https://leetcode.com/problems/finding-3-digit-even-numbers) | [Java](2094-finding-3-digit-even-numbers) | Easy |
 | 2102 | [Find The Middle Index In Array](https://leetcode.com/problems/find-the-middle-index-in-array) | [Java](2102-find-the-middle-index-in-array) | Easy |
 | 2103 | [Rings And Rods](https://leetcode.com/problems/rings-and-rods) | [Java](2103-rings-and-rods) | Easy |
 | 2114 | [Maximum Number Of Words Found In Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences) | [Java](2114-maximum-number-of-words-found-in-sentences) | Easy |
@@ -286,27 +287,3 @@
 | 3823 | [Reverse Letters Then Special Characters In A String](https://leetcode.com/problems/reverse-letters-then-special-characters-in-a-string) | [Java](3823-reverse-letters-then-special-characters-in-a-string) | Easy |
 | 3856 | [Trim Trailing Vowels](https://leetcode.com/problems/trim-trailing-vowels) | [Java](3856-trim-trailing-vowels) | Easy |
 | 3921 | [Score Validator](https://leetcode.com/problems/score-validator) | [Java](3921-score-validator) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [2094-finding-3-digit-even-numbers](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2094-finding-3-digit-even-numbers) |
-## Hash Table
-|  |
-| ------- |
-| [2094-finding-3-digit-even-numbers](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2094-finding-3-digit-even-numbers) |
-## Recursion
-|  |
-| ------- |
-| [2094-finding-3-digit-even-numbers](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2094-finding-3-digit-even-numbers) |
-## Sorting
-|  |
-| ------- |
-| [2094-finding-3-digit-even-numbers](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2094-finding-3-digit-even-numbers) |
-## Enumeration
-|  |
-| ------- |
-| [2094-finding-3-digit-even-numbers](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2094-finding-3-digit-even-numbers) |
-<!---LeetCode Topics End-->
