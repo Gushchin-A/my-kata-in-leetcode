@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 246 ✅  
+- Easy: 247 ✅  
 - Medium: 27 ⚡  
 - Hard: 0 🔥  
-- **Total: 273**
+- **Total: 274**
 
 ---
 
@@ -262,6 +262,7 @@
 | 3174 | [Clear Digits](https://leetcode.com/problems/clear-digits) | [Java](3174-clear-digits) | Easy |
 | 3190 | [Find Minimum Operations To Make All Elements Divisible By Three](https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three) | [Java](3190-find-minimum-operations-to-make-all-elements-divisible-by-three) | Easy |
 | 3258 | [Count Substrings That Satisfy K Constraint I](https://leetcode.com/problems/count-substrings-that-satisfy-k-constraint-i) | [Java](3258-count-substrings-that-satisfy-k-constraint-i) | Easy |
+| 3270 | [Find The Key Of The Numbers](https://leetcode.com/problems/find-the-key-of-the-numbers) | [Java](3270-find-the-key-of-the-numbers) | Easy |
 | 3274 | [Check If Two Chessboard Squares Have The Same Color](https://leetcode.com/problems/check-if-two-chessboard-squares-have-the-same-color) | [Java](3274-check-if-two-chessboard-squares-have-the-same-color) | Easy |
 | 3280 | [Convert Date To Binary](https://leetcode.com/problems/convert-date-to-binary) | [Java](3280-convert-date-to-binary) | Easy |
 | 3285 | [Find Indices Of Stable Mountains](https://leetcode.com/problems/find-indices-of-stable-mountains) | [Java](3285-find-indices-of-stable-mountains) | Easy |
@@ -287,11 +288,3 @@
 | 3823 | [Reverse Letters Then Special Characters In A String](https://leetcode.com/problems/reverse-letters-then-special-characters-in-a-string) | [Java](3823-reverse-letters-then-special-characters-in-a-string) | Easy |
 | 3856 | [Trim Trailing Vowels](https://leetcode.com/problems/trim-trailing-vowels) | [Java](3856-trim-trailing-vowels) | Easy |
 | 3921 | [Score Validator](https://leetcode.com/problems/score-validator) | [Java](3921-score-validator) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-|  |
-| ------- |
-| [3270-find-the-key-of-the-numbers](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/3270-find-the-key-of-the-numbers) |
-<!---LeetCode Topics End-->
