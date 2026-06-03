@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 247 ✅  
+- Easy: 248 ✅  
 - Medium: 27 ⚡  
 - Hard: 0 🔥  
-- **Total: 274**
+- **Total: 275**
 
 ---
 
@@ -233,6 +233,7 @@
 | 2535 | [Difference Between Element Sum And Digit Sum Of An Array](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array) | [Java](2535-difference-between-element-sum-and-digit-sum-of-an-array) | Easy |
 | 2540 | [Minimum Common Value](https://leetcode.com/problems/minimum-common-value) | [Java](2540-minimum-common-value) | Easy |
 | 2553 | [Separate The Digits In An Array](https://leetcode.com/problems/separate-the-digits-in-an-array) | [Java](2553-separate-the-digits-in-an-array) | Easy |
+| 2566 | [Maximum Difference By Remapping A Digit](https://leetcode.com/problems/maximum-difference-by-remapping-a-digit) | [Java](2566-maximum-difference-by-remapping-a-digit) | Easy |
 | 2570 | [Merge Two 2d Arrays By Summing Values](https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values) | [Java](2570-merge-two-2d-arrays-by-summing-values) | Easy |
 | 2610 | [Convert An Array Into A 2d Array With Conditions](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions) | [Java](2610-convert-an-array-into-a-2d-array-with-conditions) | Medium |
 | 2656 | [Maximum Sum With Exactly K Elements](https://leetcode.com/problems/maximum-sum-with-exactly-k-elements) | [Java](2656-maximum-sum-with-exactly-k-elements) | Easy |
@@ -288,15 +289,3 @@
 | 3823 | [Reverse Letters Then Special Characters In A String](https://leetcode.com/problems/reverse-letters-then-special-characters-in-a-string) | [Java](3823-reverse-letters-then-special-characters-in-a-string) | Easy |
 | 3856 | [Trim Trailing Vowels](https://leetcode.com/problems/trim-trailing-vowels) | [Java](3856-trim-trailing-vowels) | Easy |
 | 3921 | [Score Validator](https://leetcode.com/problems/score-validator) | [Java](3921-score-validator) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-|  |
-| ------- |
-| [2566-maximum-difference-by-remapping-a-digit](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2566-maximum-difference-by-remapping-a-digit) |
-## Greedy
-|  |
-| ------- |
-| [2566-maximum-difference-by-remapping-a-digit](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2566-maximum-difference-by-remapping-a-digit) |
-<!---LeetCode Topics End-->
