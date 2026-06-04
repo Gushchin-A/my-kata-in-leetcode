@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 248 ✅  
+- Easy: 249 ✅  
 - Medium: 27 ⚡  
 - Hard: 0 🔥  
-- **Total: 275**
+- **Total: 276**
 
 ---
 
@@ -236,6 +236,7 @@
 | 2566 | [Maximum Difference By Remapping A Digit](https://leetcode.com/problems/maximum-difference-by-remapping-a-digit) | [Java](2566-maximum-difference-by-remapping-a-digit) | Easy |
 | 2570 | [Merge Two 2d Arrays By Summing Values](https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values) | [Java](2570-merge-two-2d-arrays-by-summing-values) | Easy |
 | 2610 | [Convert An Array Into A 2d Array With Conditions](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions) | [Java](2610-convert-an-array-into-a-2d-array-with-conditions) | Medium |
+| 2651 | [Calculate Delayed Arrival Time](https://leetcode.com/problems/calculate-delayed-arrival-time) | [Java](2651-calculate-delayed-arrival-time) | Easy |
 | 2656 | [Maximum Sum With Exactly K Elements](https://leetcode.com/problems/maximum-sum-with-exactly-k-elements) | [Java](2656-maximum-sum-with-exactly-k-elements) | Easy |
 | 2657 | [Find The Prefix Common Array Of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays) | [Java](2657-find-the-prefix-common-array-of-two-arrays) | Medium |
 | 2696 | [Minimum String Length After Removing Substrings](https://leetcode.com/problems/minimum-string-length-after-removing-substrings) | [Java](2696-minimum-string-length-after-removing-substrings) | Easy |
@@ -289,11 +290,3 @@
 | 3823 | [Reverse Letters Then Special Characters In A String](https://leetcode.com/problems/reverse-letters-then-special-characters-in-a-string) | [Java](3823-reverse-letters-then-special-characters-in-a-string) | Easy |
 | 3856 | [Trim Trailing Vowels](https://leetcode.com/problems/trim-trailing-vowels) | [Java](3856-trim-trailing-vowels) | Easy |
 | 3921 | [Score Validator](https://leetcode.com/problems/score-validator) | [Java](3921-score-validator) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-|  |
-| ------- |
-| [2651-calculate-delayed-arrival-time](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2651-calculate-delayed-arrival-time) |
-<!---LeetCode Topics End-->
