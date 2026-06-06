@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 250 ✅  
+- Easy: 251 ✅  
 - Medium: 27 ⚡  
 - Hard: 0 🔥  
-- **Total: 277**
+- **Total: 278**
 
 ---
 
@@ -287,15 +287,8 @@
 | 3731 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements) | [Java](3731-find-missing-elements) | Easy |
 | 3750 | [Minimum Number Of Flips To Reverse Binary String](https://leetcode.com/problems/minimum-number-of-flips-to-reverse-binary-string) | [Java](3750-minimum-number-of-flips-to-reverse-binary-string) | Easy |
 | 3760 | [Maximum Substrings With Distinct Start](https://leetcode.com/problems/maximum-substrings-with-distinct-start) | [Java](3760-maximum-substrings-with-distinct-start) | Medium |
+| 3783 | [Mirror Distance Of An Integer](https://leetcode.com/problems/mirror-distance-of-an-integer) | [Java](3783-mirror-distance-of-an-integer) | Easy |
 | 3794 | [Reverse String Prefix](https://leetcode.com/problems/reverse-string-prefix) | [Java](3794-reverse-string-prefix) | Easy |
 | 3823 | [Reverse Letters Then Special Characters In A String](https://leetcode.com/problems/reverse-letters-then-special-characters-in-a-string) | [Java](3823-reverse-letters-then-special-characters-in-a-string) | Easy |
 | 3856 | [Trim Trailing Vowels](https://leetcode.com/problems/trim-trailing-vowels) | [Java](3856-trim-trailing-vowels) | Easy |
 | 3921 | [Score Validator](https://leetcode.com/problems/score-validator) | [Java](3921-score-validator) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-|  |
-| ------- |
-| [3783-mirror-distance-of-an-integer](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/3783-mirror-distance-of-an-integer) |
-<!---LeetCode Topics End-->
