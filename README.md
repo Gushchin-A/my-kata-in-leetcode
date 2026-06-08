@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 251 ✅  
+- Easy: 252 ✅  
 - Medium: 27 ⚡  
 - Hard: 0 🔥  
-- **Total: 278**
+- **Total: 279**
 
 ---
 
@@ -190,6 +190,7 @@
 | 1929 | [Concatenation Of Array](https://leetcode.com/problems/concatenation-of-array) | [Java](1929-concatenation-of-array) | Easy |
 | 1935 | [Maximum Number Of Words You Can Type](https://leetcode.com/problems/maximum-number-of-words-you-can-type) | [Java](1935-maximum-number-of-words-you-can-type) | Easy |
 | 1941 | [Check If All Characters Have Equal Number Of Occurrences](https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences) | [Java](1941-check-if-all-characters-have-equal-number-of-occurrences) | Easy |
+| 1945 | [Sum Of Digits Of String After Convert](https://leetcode.com/problems/sum-of-digits-of-string-after-convert) | [Java](1945-sum-of-digits-of-string-after-convert) | Easy |
 | 1957 | [Delete Characters To Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string) | [Java](1957-delete-characters-to-make-fancy-string) | Easy |
 | 1980 | [Find Unique Binary String](https://leetcode.com/problems/find-unique-binary-string) | [Java](1980-find-unique-binary-string) | Medium |
 | 2011 | [Final Value Of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations) | [Java](2011-final-value-of-variable-after-performing-operations) | Easy |
@@ -292,15 +293,3 @@
 | 3823 | [Reverse Letters Then Special Characters In A String](https://leetcode.com/problems/reverse-letters-then-special-characters-in-a-string) | [Java](3823-reverse-letters-then-special-characters-in-a-string) | Easy |
 | 3856 | [Trim Trailing Vowels](https://leetcode.com/problems/trim-trailing-vowels) | [Java](3856-trim-trailing-vowels) | Easy |
 | 3921 | [Score Validator](https://leetcode.com/problems/score-validator) | [Java](3921-score-validator) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## String
-|  |
-| ------- |
-| [1945-sum-of-digits-of-string-after-convert](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
-## Simulation
-|  |
-| ------- |
-| [1945-sum-of-digits-of-string-after-convert](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
-<!---LeetCode Topics End-->
