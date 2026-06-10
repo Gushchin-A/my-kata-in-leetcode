@@ -1,9 +1,8 @@
 class Solution {
     public int timeRequiredToBuy(int[] tickets, int k) {
-        int[] ticketsCopy = Arrays.copyOf(tickets, tickets.length);
         Deque<Integer> queue = new ArrayDeque<>();
         
-        for (int i = 0; i < ticketsCopy.length; i++) {
+        for (int i = 0; i < tickets.length; i++) {
             queue.add(i);
         }
 
