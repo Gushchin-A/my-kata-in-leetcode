@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 253 ✅  
+- Easy: 254 ✅  
 - Medium: 27 ⚡  
 - Hard: 0 🔥  
-- **Total: 280**
+- **Total: 281**
 
 ---
 
@@ -198,6 +198,7 @@
 | 2037 | [Minimum Number Of Moves To Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone) | [Java](2037-minimum-number-of-moves-to-seat-everyone) | Easy |
 | 2053 | [Kth Distinct String In An Array](https://leetcode.com/problems/kth-distinct-string-in-an-array) | [Java](2053-kth-distinct-string-in-an-array) | Easy |
 | 2062 | [Count Vowel Substrings Of A String](https://leetcode.com/problems/count-vowel-substrings-of-a-string) | [Java](2062-count-vowel-substrings-of-a-string) | Easy |
+| 2073 | [Time Needed To Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets) | [Java](2073-time-needed-to-buy-tickets) | Easy |
 | 2089 | [Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array) | [Java](2089-find-target-indices-after-sorting-array) | Easy |
 | 2093 | [Check If String Is A Prefix Of Array](https://leetcode.com/problems/check-if-string-is-a-prefix-of-array) | [Java](2093-check-if-string-is-a-prefix-of-array) | Easy |
 | 2094 | [Finding 3 Digit Even Numbers](https://leetcode.com/problems/finding-3-digit-even-numbers) | [Java](2094-finding-3-digit-even-numbers) | Easy |
@@ -294,19 +295,3 @@
 | 3856 | [Trim Trailing Vowels](https://leetcode.com/problems/trim-trailing-vowels) | [Java](3856-trim-trailing-vowels) | Easy |
 | 3861 | [Minimum Capacity Box](https://leetcode.com/problems/minimum-capacity-box) | [Java](3861-minimum-capacity-box) | Easy |
 | 3921 | [Score Validator](https://leetcode.com/problems/score-validator) | [Java](3921-score-validator) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [2073-time-needed-to-buy-tickets](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2073-time-needed-to-buy-tickets) |
-## Queue
-|  |
-| ------- |
-| [2073-time-needed-to-buy-tickets](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2073-time-needed-to-buy-tickets) |
-## Simulation
-|  |
-| ------- |
-| [2073-time-needed-to-buy-tickets](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2073-time-needed-to-buy-tickets) |
-<!---LeetCode Topics End-->
