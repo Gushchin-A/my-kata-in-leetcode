@@ -5,8 +5,10 @@ class Solution {
         for (int i = 0; i < mat.length; i++) {
             for (int j = 0; j < mat[i].length; j++) {
                 if (mat[i][j] == 1) {
-                    if (isSpecialHorizontal(mat, i, j) && isSpecialVertical(mat, i, j)) {
-                        result++;
+                    if (isSpecialDfsRight(mat, i, j + 1) && isSpecialDfsLeft(mat, i, j - 1)) {
+                        if (isSpecialDfsDown(mat, i + 1, j) && isSpecialDfsUp(mat, i - 1, j)) {
+                            result++;
+                        }
                     }
                 }
             }
@@ -15,35 +17,67 @@ class Solution {
         return result; 
     }
 
-    private boolean isSpecialHorizontal(int[][] mat, int i, int j) {
-        for (int x = j + 1; x < mat[i].length; x++) {
-            if (mat[i][x] == 1) {
-                return false;
-            }
+    private boolean isSpecialDfsRight(int[][] mat, int i, int j) {
+        if (j >= mat[i].length) {
+            return true;
         }
 
-        for (int x = j - 1; x >= 0; x--) {
-            if (mat[i][x] == 1) {
-                return false;
-            }
+        if (mat[i][j] == 1) {
+            return false;
         }
 
-        return true;
+        if (isSpecialDfsRight(mat, i, j + 1)) {
+            return true;
+        }
+
+        return false;
     }
 
-    private boolean isSpecialVertical(int[][] mat, int i, int j) {
-        for (int y = i + 1; y < mat.length; y++) {
-            if (mat[y][j] == 1) {
-                return false;
-            }
+        private boolean isSpecialDfsLeft(int[][] mat, int i, int j) {
+        if (j < 0) {
+            return true;
         }
 
-        for (int y = i - 1; y >= 0; y--) {
-            if (mat[y][j] == 1) {
-                return false;
-            }
+        if (mat[i][j] == 1) {
+            return false;
         }
 
-        return true;
+        if (isSpecialDfsLeft(mat, i, j - 1)) {
+            return true;
+        }
+
+        return false;
+    }
+
+    private boolean isSpecialDfsDown(int[][] mat, int i, int j) {
+        if (i >= mat.length) {
+            return true;
+        }
+
+        if (mat[i][j] == 1) {
+            return false;
+        }
+
+        if (isSpecialDfsDown(mat, i + 1, j)) {
+            return true;
+        }
+
+        return false;
+    }
+    
+    private boolean isSpecialDfsUp(int[][] mat, int i, int j) {
+        if (i < 0) {
+            return true;
+        }
+
+        if (mat[i][j] == 1) {
+            return false;
+        }
+
+        if (isSpecialDfsUp(mat, i - 1, j)) {
+            return true;
+        }
+
+        return false;
     }
 }
