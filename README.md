@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 254 ✅  
+- Easy: 255 ✅  
 - Medium: 27 ⚡  
 - Hard: 0 🔥  
-- **Total: 281**
+- **Total: 282**
 
 ---
 
@@ -167,6 +167,7 @@
 | 1528 | [Shuffle String](https://leetcode.com/problems/shuffle-string) | [Java](1528-shuffle-string) | Easy |
 | 1566 | [Check If A Word Occurs As A Prefix Of Any Word In A Sentence](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) | [Java](1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) | Easy |
 | 1572 | [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum) | [Java](1572-matrix-diagonal-sum) | Easy |
+| 1582 | [Special Positions In A Binary Matrix](https://leetcode.com/problems/special-positions-in-a-binary-matrix) | [Java](1582-special-positions-in-a-binary-matrix) | Easy |
 | 1588 | [Sum Of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays) | [Java](1588-sum-of-all-odd-length-subarrays) | Easy |
 | 1598 | [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder) | [Java](1598-crawler-log-folder) | Easy |
 | 1603 | [Design Parking System](https://leetcode.com/problems/design-parking-system) | [Java](1603-design-parking-system) | Easy |
@@ -295,15 +296,3 @@
 | 3856 | [Trim Trailing Vowels](https://leetcode.com/problems/trim-trailing-vowels) | [Java](3856-trim-trailing-vowels) | Easy |
 | 3861 | [Minimum Capacity Box](https://leetcode.com/problems/minimum-capacity-box) | [Java](3861-minimum-capacity-box) | Easy |
 | 3921 | [Score Validator](https://leetcode.com/problems/score-validator) | [Java](3921-score-validator) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [1582-special-positions-in-a-binary-matrix](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
-## Matrix
-|  |
-| ------- |
-| [1582-special-positions-in-a-binary-matrix](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
-<!---LeetCode Topics End-->
