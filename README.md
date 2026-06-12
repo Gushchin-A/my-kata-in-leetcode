@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 255 ✅  
+- Easy: 256 ✅  
 - Medium: 27 ⚡  
 - Hard: 0 🔥  
-- **Total: 282**
+- **Total: 283**
 
 ---
 
@@ -230,6 +230,7 @@
 | 2418 | [Sort The People](https://leetcode.com/problems/sort-the-people) | [Java](2418-sort-the-people) | Easy |
 | 2469 | [Convert The Temperature](https://leetcode.com/problems/convert-the-temperature) | [Java](2469-convert-the-temperature) | Easy |
 | 2496 | [Maximum Value Of A String In An Array](https://leetcode.com/problems/maximum-value-of-a-string-in-an-array) | [Java](2496-maximum-value-of-a-string-in-an-array) | Easy |
+| 2500 | [Delete Greatest Value In Each Row](https://leetcode.com/problems/delete-greatest-value-in-each-row) | [Java](2500-delete-greatest-value-in-each-row) | Easy |
 | 2506 | [Count Pairs Of Similar Strings](https://leetcode.com/problems/count-pairs-of-similar-strings) | [Java](2506-count-pairs-of-similar-strings) | Easy |
 | 2517 | [Maximum Tastiness Of Candy Basket](https://leetcode.com/problems/maximum-tastiness-of-candy-basket) | [Java](2517-maximum-tastiness-of-candy-basket) | Medium |
 | 2520 | [Count The Digits That Divide A Number](https://leetcode.com/problems/count-the-digits-that-divide-a-number) | [Java](2520-count-the-digits-that-divide-a-number) | Easy |
@@ -296,27 +297,3 @@
 | 3856 | [Trim Trailing Vowels](https://leetcode.com/problems/trim-trailing-vowels) | [Java](3856-trim-trailing-vowels) | Easy |
 | 3861 | [Minimum Capacity Box](https://leetcode.com/problems/minimum-capacity-box) | [Java](3861-minimum-capacity-box) | Easy |
 | 3921 | [Score Validator](https://leetcode.com/problems/score-validator) | [Java](3921-score-validator) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [2500-delete-greatest-value-in-each-row](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
-## Sorting
-|  |
-| ------- |
-| [2500-delete-greatest-value-in-each-row](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
-## Heap (Priority Queue)
-|  |
-| ------- |
-| [2500-delete-greatest-value-in-each-row](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
-## Matrix
-|  |
-| ------- |
-| [2500-delete-greatest-value-in-each-row](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
-## Simulation
-|  |
-| ------- |
-| [2500-delete-greatest-value-in-each-row](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
-<!---LeetCode Topics End-->
