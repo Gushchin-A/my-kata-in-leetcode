@@ -298,3 +298,19 @@
 | 3856 | [Trim Trailing Vowels](https://leetcode.com/problems/trim-trailing-vowels) | [Java](3856-trim-trailing-vowels) | Easy |
 | 3861 | [Minimum Capacity Box](https://leetcode.com/problems/minimum-capacity-box) | [Java](3861-minimum-capacity-box) | Easy |
 | 3921 | [Score Validator](https://leetcode.com/problems/score-validator) | [Java](3921-score-validator) | Easy |
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Tree
+|  |
+| ------- |
+| [2331-evaluate-boolean-binary-tree](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2331-evaluate-boolean-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [2331-evaluate-boolean-binary-tree](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2331-evaluate-boolean-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [2331-evaluate-boolean-binary-tree](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2331-evaluate-boolean-binary-tree) |
+<!---LeetCode Topics End-->
