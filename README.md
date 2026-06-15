@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 258 ✅  
+- Easy: 259 ✅  
 - Medium: 27 ⚡  
 - Hard: 0 🔥  
-- **Total: 285**
+- **Total: 286**
 
 ---
 
@@ -279,6 +279,7 @@
 | 3304 | [Find The K Th Character In String Game I](https://leetcode.com/problems/find-the-k-th-character-in-string-game-i) | [Java](3304-find-the-k-th-character-in-string-game-i) | Easy |
 | 3309 | [Count Prefix And Suffix Pairs I](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i) | [Java](3309-count-prefix-and-suffix-pairs-i) | Easy |
 | 3340 | [Check Balanced String](https://leetcode.com/problems/check-balanced-string) | [Java](3340-check-balanced-string) | Easy |
+| 3427 | [Sum Of Variable Length Subarrays](https://leetcode.com/problems/sum-of-variable-length-subarrays) | [Java](3427-sum-of-variable-length-subarrays) | Easy |
 | 3432 | [Count Partitions With Even Sum Difference](https://leetcode.com/problems/count-partitions-with-even-sum-difference) | [Java](3432-count-partitions-with-even-sum-difference) | Easy |
 | 3467 | [Transform Array By Parity](https://leetcode.com/problems/transform-array-by-parity) | [Java](3467-transform-array-by-parity) | Easy |
 | 3498 | [Reverse Degree Of A String](https://leetcode.com/problems/reverse-degree-of-a-string) | [Java](3498-reverse-degree-of-a-string) | Easy |
@@ -299,15 +300,3 @@
 | 3856 | [Trim Trailing Vowels](https://leetcode.com/problems/trim-trailing-vowels) | [Java](3856-trim-trailing-vowels) | Easy |
 | 3861 | [Minimum Capacity Box](https://leetcode.com/problems/minimum-capacity-box) | [Java](3861-minimum-capacity-box) | Easy |
 | 3921 | [Score Validator](https://leetcode.com/problems/score-validator) | [Java](3921-score-validator) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [3427-sum-of-variable-length-subarrays](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/3427-sum-of-variable-length-subarrays) |
-## Prefix Sum
-|  |
-| ------- |
-| [3427-sum-of-variable-length-subarrays](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/3427-sum-of-variable-length-subarrays) |
-<!---LeetCode Topics End-->
