@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 259 ✅  
+- Easy: 260 ✅  
 - Medium: 27 ⚡  
 - Hard: 0 🔥  
-- **Total: 286**
+- **Total: 287**
 
 ---
 
@@ -39,6 +39,7 @@
 | 83 | [Remove Duplicates From Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list) | [Java](0083-remove-duplicates-from-sorted-list) | Easy |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | [Java](0088-merge-sorted-array) | Easy |
 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) | [Java](0094-binary-tree-inorder-traversal) | Easy |
+| 100 | [Same Tree](https://leetcode.com/problems/same-tree) | [Java](0100-same-tree) | Easy |
 | 118 | [Pascals Triangle](https://leetcode.com/problems/pascals-triangle) | [Java](0118-pascals-triangle) | Easy |
 | 121 | [Best Time To Buy And Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | [Java](0121-best-time-to-buy-and-sell-stock) | Easy |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | [Java](0125-valid-palindrome) | Easy |
@@ -300,23 +301,3 @@
 | 3856 | [Trim Trailing Vowels](https://leetcode.com/problems/trim-trailing-vowels) | [Java](3856-trim-trailing-vowels) | Easy |
 | 3861 | [Minimum Capacity Box](https://leetcode.com/problems/minimum-capacity-box) | [Java](3861-minimum-capacity-box) | Easy |
 | 3921 | [Score Validator](https://leetcode.com/problems/score-validator) | [Java](3921-score-validator) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Tree
-|  |
-| ------- |
-| [0100-same-tree](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0100-same-tree) |
-## Depth-First Search
-|  |
-| ------- |
-| [0100-same-tree](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0100-same-tree) |
-## Breadth-First Search
-|  |
-| ------- |
-| [0100-same-tree](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0100-same-tree) |
-## Binary Tree
-|  |
-| ------- |
-| [0100-same-tree](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0100-same-tree) |
-<!---LeetCode Topics End-->
