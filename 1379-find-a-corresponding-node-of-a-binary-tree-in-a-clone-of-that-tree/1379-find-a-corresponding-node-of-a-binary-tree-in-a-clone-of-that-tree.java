@@ -10,23 +10,17 @@
 
 class Solution {
     public final TreeNode getTargetCopy(final TreeNode original, final TreeNode cloned, final TreeNode target) {
-        List<TreeNode> result = new ArrayList<>();
-        dfs(original, cloned, target, result);
-
-        return result.getFirst();
-    }
-
-    private void dfs(final TreeNode original, final TreeNode cloned, final TreeNode target, List<TreeNode> result) {
         if (original == null) {
-            return;
+            return null;
         }
 
         if (original.val == target.val) {
-            result.add(cloned);
-            return;
-        } else {
-            dfs(original.left, cloned.left, target, result);
-            dfs(original.right, cloned.right, target, result);
+            return cloned;
         }
+
+        TreeNode left = getTargetCopy(original.left, cloned.left, target);
+        TreeNode right = getTargetCopy(original.right, cloned.right, target);
+
+        return left == null ? right : left;
     }
 }
