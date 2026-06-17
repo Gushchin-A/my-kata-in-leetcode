@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 260 ✅  
+- Easy: 261 ✅  
 - Medium: 27 ⚡  
 - Hard: 0 🔥  
-- **Total: 287**
+- **Total: 288**
 
 ---
 
@@ -149,6 +149,7 @@
 | 1347 | [Minimum Number Of Steps To Make Two Strings Anagram](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram) | [Java](1347-minimum-number-of-steps-to-make-two-strings-anagram) | Medium |
 | 1365 | [How Many Numbers Are Smaller Than The Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number) | [Java](1365-how-many-numbers-are-smaller-than-the-current-number) | Easy |
 | 1374 | [Generate A String With Characters That Have Odd Counts](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts) | [Java](1374-generate-a-string-with-characters-that-have-odd-counts) | Easy |
+| 1379 | [Find A Corresponding Node Of A Binary Tree In A Clone Of That Tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) | [Java](1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) | Easy |
 | 1380 | [Lucky Numbers In A Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix) | [Java](1380-lucky-numbers-in-a-matrix) | Easy |
 | 1394 | [Find Lucky Integer In An Array](https://leetcode.com/problems/find-lucky-integer-in-an-array) | [Java](1394-find-lucky-integer-in-an-array) | Easy |
 | 1399 | [Count Largest Group](https://leetcode.com/problems/count-largest-group) | [Java](1399-count-largest-group) | Easy |
@@ -301,23 +302,3 @@
 | 3856 | [Trim Trailing Vowels](https://leetcode.com/problems/trim-trailing-vowels) | [Java](3856-trim-trailing-vowels) | Easy |
 | 3861 | [Minimum Capacity Box](https://leetcode.com/problems/minimum-capacity-box) | [Java](3861-minimum-capacity-box) | Easy |
 | 3921 | [Score Validator](https://leetcode.com/problems/score-validator) | [Java](3921-score-validator) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Tree
-|  |
-| ------- |
-| [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
-## Depth-First Search
-|  |
-| ------- |
-| [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
-## Breadth-First Search
-|  |
-| ------- |
-| [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
-## Binary Tree
-|  |
-| ------- |
-| [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
-<!---LeetCode Topics End-->
