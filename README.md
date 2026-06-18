@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 261 ✅  
+- Easy: 262 ✅  
 - Medium: 27 ⚡  
 - Hard: 0 🔥  
-- **Total: 288**
+- **Total: 289**
 
 ---
 
@@ -117,6 +117,7 @@
 | 867 | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix) | [Java](0867-transpose-matrix) | Easy |
 | 874 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare) | [Java](0874-backspace-string-compare) | Easy |
 | 884 | [Uncommon Words From Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences) | [Java](0884-uncommon-words-from-two-sentences) | Easy |
+| 897 | [Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree) | [Java](0897-increasing-order-search-tree) | Easy |
 | 905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity) | [Java](0905-sort-array-by-parity) | Easy |
 | 908 | [Middle Of The Linked List](https://leetcode.com/problems/middle-of-the-linked-list) | [Java](0908-middle-of-the-linked-list) | Easy |
 | 922 | [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii) | [Java](0922-sort-array-by-parity-ii) | Easy |
@@ -302,27 +303,3 @@
 | 3856 | [Trim Trailing Vowels](https://leetcode.com/problems/trim-trailing-vowels) | [Java](3856-trim-trailing-vowels) | Easy |
 | 3861 | [Minimum Capacity Box](https://leetcode.com/problems/minimum-capacity-box) | [Java](3861-minimum-capacity-box) | Easy |
 | 3921 | [Score Validator](https://leetcode.com/problems/score-validator) | [Java](3921-score-validator) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Stack
-|  |
-| ------- |
-| [0897-increasing-order-search-tree](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0897-increasing-order-search-tree) |
-## Tree
-|  |
-| ------- |
-| [0897-increasing-order-search-tree](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0897-increasing-order-search-tree) |
-## Depth-First Search
-|  |
-| ------- |
-| [0897-increasing-order-search-tree](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0897-increasing-order-search-tree) |
-## Binary Search Tree
-|  |
-| ------- |
-| [0897-increasing-order-search-tree](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0897-increasing-order-search-tree) |
-## Binary Tree
-|  |
-| ------- |
-| [0897-increasing-order-search-tree](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0897-increasing-order-search-tree) |
-<!---LeetCode Topics End-->
