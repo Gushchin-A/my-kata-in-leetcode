@@ -14,31 +14,28 @@
  * }
  */
 class Solution {
+    private TreeNode prev;
+
     public TreeNode increasingBST(TreeNode root) {
-        List<TreeNode> list = new LinkedList<>();
+        TreeNode dummy = new TreeNode();
+        prev = dummy;
 
-        inorder(root, list);
+        inorder(root);
 
-        return list.getFirst();
+        return dummy.right;
     }
 
-    private void inorder(TreeNode root, List<TreeNode> list) {
+    private void inorder(TreeNode root) {
         if (root == null) {
             return;
         }
 
-        inorder(root.left, list);
-        
-        if (list.isEmpty()) {
-            root.left = null;
-            list.add(root);
-        } else {
-            TreeNode prev = list.getLast();
-            prev.right = root;
-            root.left = null;
-            list.add(root);
-        }
+        inorder(root.left);
 
-        inorder(root.right, list);
+        prev.right = root;
+        root.left = null;
+        prev = root;
+
+        inorder(root.right);
     }
 }
