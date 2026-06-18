@@ -303,3 +303,27 @@
 | 3856 | [Trim Trailing Vowels](https://leetcode.com/problems/trim-trailing-vowels) | [Java](3856-trim-trailing-vowels) | Easy |
 | 3861 | [Minimum Capacity Box](https://leetcode.com/problems/minimum-capacity-box) | [Java](3861-minimum-capacity-box) | Easy |
 | 3921 | [Score Validator](https://leetcode.com/problems/score-validator) | [Java](3921-score-validator) | Easy |
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Stack
+|  |
+| ------- |
+| [0897-increasing-order-search-tree](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0897-increasing-order-search-tree) |
+## Tree
+|  |
+| ------- |
+| [0897-increasing-order-search-tree](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0897-increasing-order-search-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0897-increasing-order-search-tree](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0897-increasing-order-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0897-increasing-order-search-tree](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0897-increasing-order-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0897-increasing-order-search-tree](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0897-increasing-order-search-tree) |
+<!---LeetCode Topics End-->
