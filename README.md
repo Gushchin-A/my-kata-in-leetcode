@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 262 ✅  
+- Easy: 263 ✅  
 - Medium: 27 ⚡  
 - Hard: 0 🔥  
-- **Total: 289**
+- **Total: 290**
 
 ---
 
@@ -129,6 +129,7 @@
 | 1002 | [Find Common Characters](https://leetcode.com/problems/find-common-characters) | [Java](1002-find-common-characters) | Easy |
 | 1019 | [Squares Of A Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array) | [Java](1019-squares-of-a-sorted-array) | Easy |
 | 1021 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses) | [Java](1021-remove-outermost-parentheses) | Easy |
+| 1022 | [Sum Of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers) | [Java](1022-sum-of-root-to-leaf-binary-numbers) | Easy |
 | 1031 | [Add To Array Form Of Integer](https://leetcode.com/problems/add-to-array-form-of-integer) | [Java](1031-add-to-array-form-of-integer) | Easy |
 | 1041 | [Available Captures For Rook](https://leetcode.com/problems/available-captures-for-rook) | [Java](1041-available-captures-for-rook) | Easy |
 | 1047 | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string) | [Java](1047-remove-all-adjacent-duplicates-in-string) | Easy |
@@ -303,19 +304,3 @@
 | 3856 | [Trim Trailing Vowels](https://leetcode.com/problems/trim-trailing-vowels) | [Java](3856-trim-trailing-vowels) | Easy |
 | 3861 | [Minimum Capacity Box](https://leetcode.com/problems/minimum-capacity-box) | [Java](3861-minimum-capacity-box) | Easy |
 | 3921 | [Score Validator](https://leetcode.com/problems/score-validator) | [Java](3921-score-validator) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Tree
-|  |
-| ------- |
-| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
-## Depth-First Search
-|  |
-| ------- |
-| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
-## Binary Tree
-|  |
-| ------- |
-| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
-<!---LeetCode Topics End-->
