@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 263 ✅  
+- Easy: 264 ✅  
 - Medium: 27 ⚡  
 - Hard: 0 🔥  
-- **Total: 290**
+- **Total: 291**
 
 ---
 
@@ -77,6 +77,7 @@
 | 387 | [First Unique Character In A String](https://leetcode.com/problems/first-unique-character-in-a-string) | [Java](0387-first-unique-character-in-a-string) | Easy |
 | 389 | [Find The Difference](https://leetcode.com/problems/find-the-difference) | [Java](0389-find-the-difference) | Easy |
 | 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence) | [Java](0392-is-subsequence) | Easy |
+| 404 | [Sum Of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves) | [Java](0404-sum-of-left-leaves) | Easy |
 | 409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome) | [Java](0409-longest-palindrome) | Easy |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz) | [Java](0412-fizz-buzz) | Easy |
 | 414 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number) | [Java](0414-third-maximum-number) | Easy |
@@ -304,23 +305,3 @@
 | 3856 | [Trim Trailing Vowels](https://leetcode.com/problems/trim-trailing-vowels) | [Java](3856-trim-trailing-vowels) | Easy |
 | 3861 | [Minimum Capacity Box](https://leetcode.com/problems/minimum-capacity-box) | [Java](3861-minimum-capacity-box) | Easy |
 | 3921 | [Score Validator](https://leetcode.com/problems/score-validator) | [Java](3921-score-validator) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Tree
-|  |
-| ------- |
-| [0404-sum-of-left-leaves](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0404-sum-of-left-leaves) |
-## Depth-First Search
-|  |
-| ------- |
-| [0404-sum-of-left-leaves](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0404-sum-of-left-leaves) |
-## Breadth-First Search
-|  |
-| ------- |
-| [0404-sum-of-left-leaves](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0404-sum-of-left-leaves) |
-## Binary Tree
-|  |
-| ------- |
-| [0404-sum-of-left-leaves](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0404-sum-of-left-leaves) |
-<!---LeetCode Topics End-->
