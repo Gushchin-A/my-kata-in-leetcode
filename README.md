@@ -4,9 +4,9 @@
 #### 📊 Progress
 
 - Easy: 264 ✅  
-- Medium: 27 ⚡  
+- Medium: 28 ⚡  
 - Hard: 0 🔥  
-- **Total: 291**
+- **Total: 292**
 
 ---
 
@@ -43,6 +43,7 @@
 | 118 | [Pascals Triangle](https://leetcode.com/problems/pascals-triangle) | [Java](0118-pascals-triangle) | Easy |
 | 121 | [Best Time To Buy And Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | [Java](0121-best-time-to-buy-and-sell-stock) | Easy |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | [Java](0125-valid-palindrome) | Easy |
+| 129 | [Sum Root To Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers) | [Java](0129-sum-root-to-leaf-numbers) | Medium |
 | 136 | [Single Number](https://leetcode.com/problems/single-number) | [Java](0136-single-number) | Easy |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | [Java](0141-linked-list-cycle) | Easy |
 | 146 | [Lru Cache](https://leetcode.com/problems/lru-cache) | [Java](0146-lru-cache) | Medium |
@@ -305,19 +306,3 @@
 | 3856 | [Trim Trailing Vowels](https://leetcode.com/problems/trim-trailing-vowels) | [Java](3856-trim-trailing-vowels) | Easy |
 | 3861 | [Minimum Capacity Box](https://leetcode.com/problems/minimum-capacity-box) | [Java](3861-minimum-capacity-box) | Easy |
 | 3921 | [Score Validator](https://leetcode.com/problems/score-validator) | [Java](3921-score-validator) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Tree
-|  |
-| ------- |
-| [0129-sum-root-to-leaf-numbers](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
-## Depth-First Search
-|  |
-| ------- |
-| [0129-sum-root-to-leaf-numbers](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
-## Binary Tree
-|  |
-| ------- |
-| [0129-sum-root-to-leaf-numbers](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
-<!---LeetCode Topics End-->
