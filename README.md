@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 264 ✅  
+- Easy: 265 ✅  
 - Medium: 28 ⚡  
 - Hard: 0 🔥  
-- **Total: 292**
+- **Total: 293**
 
 ---
 
@@ -40,6 +40,7 @@
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | [Java](0088-merge-sorted-array) | Easy |
 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) | [Java](0094-binary-tree-inorder-traversal) | Easy |
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree) | [Java](0100-same-tree) | Easy |
+| 104 | [Maximum Depth Of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | [Java](0104-maximum-depth-of-binary-tree) | Easy |
 | 118 | [Pascals Triangle](https://leetcode.com/problems/pascals-triangle) | [Java](0118-pascals-triangle) | Easy |
 | 121 | [Best Time To Buy And Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | [Java](0121-best-time-to-buy-and-sell-stock) | Easy |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | [Java](0125-valid-palindrome) | Easy |
@@ -306,23 +307,3 @@
 | 3856 | [Trim Trailing Vowels](https://leetcode.com/problems/trim-trailing-vowels) | [Java](3856-trim-trailing-vowels) | Easy |
 | 3861 | [Minimum Capacity Box](https://leetcode.com/problems/minimum-capacity-box) | [Java](3861-minimum-capacity-box) | Easy |
 | 3921 | [Score Validator](https://leetcode.com/problems/score-validator) | [Java](3921-score-validator) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Tree
-|  |
-| ------- |
-| [0104-maximum-depth-of-binary-tree](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
-## Depth-First Search
-|  |
-| ------- |
-| [0104-maximum-depth-of-binary-tree](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
-## Breadth-First Search
-|  |
-| ------- |
-| [0104-maximum-depth-of-binary-tree](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
-## Binary Tree
-|  |
-| ------- |
-| [0104-maximum-depth-of-binary-tree](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
-<!---LeetCode Topics End-->
