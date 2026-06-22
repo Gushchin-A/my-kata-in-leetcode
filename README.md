@@ -4,9 +4,9 @@
 #### 📊 Progress
 
 - Easy: 265 ✅  
-- Medium: 28 ⚡  
+- Medium: 29 ⚡  
 - Hard: 0 🔥  
-- **Total: 293**
+- **Total: 294**
 
 ---
 
@@ -156,6 +156,7 @@
 | 1374 | [Generate A String With Characters That Have Odd Counts](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts) | [Java](1374-generate-a-string-with-characters-that-have-odd-counts) | Easy |
 | 1379 | [Find A Corresponding Node Of A Binary Tree In A Clone Of That Tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) | [Java](1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) | Easy |
 | 1380 | [Lucky Numbers In A Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix) | [Java](1380-lucky-numbers-in-a-matrix) | Easy |
+| 1382 | [Balance A Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree) | [Java](1382-balance-a-binary-search-tree) | Medium |
 | 1394 | [Find Lucky Integer In An Array](https://leetcode.com/problems/find-lucky-integer-in-an-array) | [Java](1394-find-lucky-integer-in-an-array) | Easy |
 | 1399 | [Count Largest Group](https://leetcode.com/problems/count-largest-group) | [Java](1399-count-largest-group) | Easy |
 | 1408 | [String Matching In An Array](https://leetcode.com/problems/string-matching-in-an-array) | [Java](1408-string-matching-in-an-array) | Easy |
@@ -307,31 +308,3 @@
 | 3856 | [Trim Trailing Vowels](https://leetcode.com/problems/trim-trailing-vowels) | [Java](3856-trim-trailing-vowels) | Easy |
 | 3861 | [Minimum Capacity Box](https://leetcode.com/problems/minimum-capacity-box) | [Java](3861-minimum-capacity-box) | Easy |
 | 3921 | [Score Validator](https://leetcode.com/problems/score-validator) | [Java](3921-score-validator) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Divide and Conquer
-|  |
-| ------- |
-| [1382-balance-a-binary-search-tree](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1382-balance-a-binary-search-tree) |
-## Greedy
-|  |
-| ------- |
-| [1382-balance-a-binary-search-tree](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1382-balance-a-binary-search-tree) |
-## Tree
-|  |
-| ------- |
-| [1382-balance-a-binary-search-tree](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1382-balance-a-binary-search-tree) |
-## Depth-First Search
-|  |
-| ------- |
-| [1382-balance-a-binary-search-tree](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1382-balance-a-binary-search-tree) |
-## Binary Search Tree
-|  |
-| ------- |
-| [1382-balance-a-binary-search-tree](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1382-balance-a-binary-search-tree) |
-## Binary Tree
-|  |
-| ------- |
-| [1382-balance-a-binary-search-tree](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1382-balance-a-binary-search-tree) |
-<!---LeetCode Topics End-->
