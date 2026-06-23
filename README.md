@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 265 ✅  
+- Easy: 266 ✅  
 - Medium: 29 ⚡  
 - Hard: 0 🔥  
-- **Total: 294**
+- **Total: 295**
 
 ---
 
@@ -47,6 +47,7 @@
 | 129 | [Sum Root To Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers) | [Java](0129-sum-root-to-leaf-numbers) | Medium |
 | 136 | [Single Number](https://leetcode.com/problems/single-number) | [Java](0136-single-number) | Easy |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | [Java](0141-linked-list-cycle) | Easy |
+| 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal) | [Java](0145-binary-tree-postorder-traversal) | Easy |
 | 146 | [Lru Cache](https://leetcode.com/problems/lru-cache) | [Java](0146-lru-cache) | Medium |
 | 160 | [Intersection Of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) | [Java](0160-intersection-of-two-linked-lists) | Easy |
 | 168 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title) | [Java](0168-excel-sheet-column-title) | Easy |
@@ -308,23 +309,3 @@
 | 3856 | [Trim Trailing Vowels](https://leetcode.com/problems/trim-trailing-vowels) | [Java](3856-trim-trailing-vowels) | Easy |
 | 3861 | [Minimum Capacity Box](https://leetcode.com/problems/minimum-capacity-box) | [Java](3861-minimum-capacity-box) | Easy |
 | 3921 | [Score Validator](https://leetcode.com/problems/score-validator) | [Java](3921-score-validator) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Stack
-|  |
-| ------- |
-| [0145-binary-tree-postorder-traversal](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0145-binary-tree-postorder-traversal) |
-## Tree
-|  |
-| ------- |
-| [0145-binary-tree-postorder-traversal](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0145-binary-tree-postorder-traversal) |
-## Depth-First Search
-|  |
-| ------- |
-| [0145-binary-tree-postorder-traversal](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0145-binary-tree-postorder-traversal) |
-## Binary Tree
-|  |
-| ------- |
-| [0145-binary-tree-postorder-traversal](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0145-binary-tree-postorder-traversal) |
-<!---LeetCode Topics End-->
