@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 267 ✅  
+- Easy: 268 ✅  
 - Medium: 29 ⚡  
 - Hard: 0 🔥  
-- **Total: 296**
+- **Total: 297**
 
 ---
 
@@ -101,6 +101,7 @@
 | 566 | [Reshape The Matrix](https://leetcode.com/problems/reshape-the-matrix) | [Java](0566-reshape-the-matrix) | Easy |
 | 575 | [Distribute Candies](https://leetcode.com/problems/distribute-candies) | [Java](0575-distribute-candies) | Easy |
 | 617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees) | [Java](0617-merge-two-binary-trees) | Easy |
+| 637 | [Average Of Levels In Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree) | [Java](0637-average-of-levels-in-binary-tree) | Easy |
 | 645 | [Set Mismatch](https://leetcode.com/problems/set-mismatch) | [Java](0645-set-mismatch) | Easy |
 | 657 | [Robot Return To Origin](https://leetcode.com/problems/robot-return-to-origin) | [Java](0657-robot-return-to-origin) | Easy |
 | 680 | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii) | [Java](0680-valid-palindrome-ii) | Easy |
@@ -310,23 +311,3 @@
 | 3856 | [Trim Trailing Vowels](https://leetcode.com/problems/trim-trailing-vowels) | [Java](3856-trim-trailing-vowels) | Easy |
 | 3861 | [Minimum Capacity Box](https://leetcode.com/problems/minimum-capacity-box) | [Java](3861-minimum-capacity-box) | Easy |
 | 3921 | [Score Validator](https://leetcode.com/problems/score-validator) | [Java](3921-score-validator) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Tree
-|  |
-| ------- |
-| [0637-average-of-levels-in-binary-tree](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
-## Depth-First Search
-|  |
-| ------- |
-| [0637-average-of-levels-in-binary-tree](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
-## Breadth-First Search
-|  |
-| ------- |
-| [0637-average-of-levels-in-binary-tree](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
-## Binary Tree
-|  |
-| ------- |
-| [0637-average-of-levels-in-binary-tree](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
-<!---LeetCode Topics End-->
