@@ -14,18 +14,16 @@
  * }
  */
 class Solution {
-    List<List<Integer>> result;
-
     public List<List<Integer>> pathSum(TreeNode root, int targetSum) {
-        result = new ArrayList<>();
+        List<List<Integer>> result = new ArrayList<>();
         List<Integer> tempList = new ArrayList<>();
 
-        dfs(root, targetSum, tempList);
+        backtracking(root, targetSum, tempList, result);
 
         return result;
     }
 
-    private void dfs(TreeNode root, int targetSumBalance, List<Integer> tempList) {
+    private void backtracking(TreeNode root, int targetSumBalance, List<Integer> tempList, List<List<Integer>> result) {
         if (root == null) {
             return;
         }
@@ -33,19 +31,13 @@ class Solution {
         tempList.add(root.val);
         targetSumBalance -= root.val;
 
-        if (root.left == null && root.right == null) {
-            if (targetSumBalance == 0) {
-                result.add(new ArrayList<>(tempList));
-                tempList.removeLast();
-                return;
-            } else {
-                tempList.removeLast();
-                return;
-            }
+        if (root.left == null && root.right == null && targetSumBalance == 0) {
+            result.add(new ArrayList(tempList));
+        } else {
+            backtracking(root.left, targetSumBalance, tempList, result);
+            backtracking(root.right, targetSumBalance, tempList, result);
         }
 
-        dfs(root.left, targetSumBalance, tempList);
-        dfs(root.right, targetSumBalance, tempList);
         tempList.removeLast();
     }
 }
