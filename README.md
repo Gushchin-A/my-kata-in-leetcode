@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 268 ✅  
+- Easy: 269 ✅  
 - Medium: 30 ⚡  
 - Hard: 0 🔥  
-- **Total: 298**
+- **Total: 299**
 
 ---
 
@@ -122,6 +122,7 @@
 | 841 | [Shortest Distance To A Character](https://leetcode.com/problems/shortest-distance-to-a-character) | [Java](0841-shortest-distance-to-a-character) | Easy |
 | 860 | [Lemonade Change](https://leetcode.com/problems/lemonade-change) | [Java](0860-lemonade-change) | Easy |
 | 867 | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix) | [Java](0867-transpose-matrix) | Easy |
+| 872 | [Leaf Similar Trees](https://leetcode.com/problems/leaf-similar-trees) | [Java](0872-leaf-similar-trees) | Easy |
 | 874 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare) | [Java](0874-backspace-string-compare) | Easy |
 | 884 | [Uncommon Words From Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences) | [Java](0884-uncommon-words-from-two-sentences) | Easy |
 | 897 | [Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree) | [Java](0897-increasing-order-search-tree) | Easy |
@@ -312,19 +313,3 @@
 | 3856 | [Trim Trailing Vowels](https://leetcode.com/problems/trim-trailing-vowels) | [Java](3856-trim-trailing-vowels) | Easy |
 | 3861 | [Minimum Capacity Box](https://leetcode.com/problems/minimum-capacity-box) | [Java](3861-minimum-capacity-box) | Easy |
 | 3921 | [Score Validator](https://leetcode.com/problems/score-validator) | [Java](3921-score-validator) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Tree
-|  |
-| ------- |
-| [0872-leaf-similar-trees](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0872-leaf-similar-trees) |
-## Depth-First Search
-|  |
-| ------- |
-| [0872-leaf-similar-trees](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0872-leaf-similar-trees) |
-## Binary Tree
-|  |
-| ------- |
-| [0872-leaf-similar-trees](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0872-leaf-similar-trees) |
-<!---LeetCode Topics End-->
