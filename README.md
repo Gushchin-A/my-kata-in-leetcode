@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 269 ✅  
+- Easy: 270 ✅  
 - Medium: 30 ⚡  
 - Hard: 0 🔥  
-- **Total: 299**
+- **Total: 300**
 
 ---
 
@@ -133,6 +133,7 @@
 | 938 | [Range Sum Of Bst](https://leetcode.com/problems/range-sum-of-bst) | [Java](0938-range-sum-of-bst) | Easy |
 | 944 | [Delete Columns To Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted) | [Java](0944-delete-columns-to-make-sorted) | Easy |
 | 961 | [N Repeated Element In Size 2n Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array) | [Java](0961-n-repeated-element-in-size-2n-array) | Easy |
+| 965 | [Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree) | [Java](0965-univalued-binary-tree) | Easy |
 | 979 | [Di String Match](https://leetcode.com/problems/di-string-match) | [Java](0979-di-string-match) | Easy |
 | 1002 | [Find Common Characters](https://leetcode.com/problems/find-common-characters) | [Java](1002-find-common-characters) | Easy |
 | 1019 | [Squares Of A Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array) | [Java](1019-squares-of-a-sorted-array) | Easy |
@@ -313,23 +314,3 @@
 | 3856 | [Trim Trailing Vowels](https://leetcode.com/problems/trim-trailing-vowels) | [Java](3856-trim-trailing-vowels) | Easy |
 | 3861 | [Minimum Capacity Box](https://leetcode.com/problems/minimum-capacity-box) | [Java](3861-minimum-capacity-box) | Easy |
 | 3921 | [Score Validator](https://leetcode.com/problems/score-validator) | [Java](3921-score-validator) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Tree
-|  |
-| ------- |
-| [0965-univalued-binary-tree](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0965-univalued-binary-tree) |
-## Depth-First Search
-|  |
-| ------- |
-| [0965-univalued-binary-tree](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0965-univalued-binary-tree) |
-## Breadth-First Search
-|  |
-| ------- |
-| [0965-univalued-binary-tree](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0965-univalued-binary-tree) |
-## Binary Tree
-|  |
-| ------- |
-| [0965-univalued-binary-tree](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0965-univalued-binary-tree) |
-<!---LeetCode Topics End-->
