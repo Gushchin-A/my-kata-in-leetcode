@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 270 ✅  
+- Easy: 271 ✅  
 - Medium: 30 ⚡  
 - Hard: 0 🔥  
-- **Total: 300**
+- **Total: 301**
 
 ---
 
@@ -99,6 +99,7 @@
 | 541 | [Reverse String II](https://leetcode.com/problems/reverse-string-ii) | [Java](0541-reverse-string-ii) | Easy |
 | 557 | [Reverse Words In A String III](https://leetcode.com/problems/reverse-words-in-a-string-iii) | [Java](0557-reverse-words-in-a-string-iii) | Easy |
 | 561 | [Array Partition](https://leetcode.com/problems/array-partition) | [Java](0561-array-partition) | Easy |
+| 563 | [Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt) | [Java](0563-binary-tree-tilt) | Easy |
 | 566 | [Reshape The Matrix](https://leetcode.com/problems/reshape-the-matrix) | [Java](0566-reshape-the-matrix) | Easy |
 | 575 | [Distribute Candies](https://leetcode.com/problems/distribute-candies) | [Java](0575-distribute-candies) | Easy |
 | 617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees) | [Java](0617-merge-two-binary-trees) | Easy |
@@ -314,19 +315,3 @@
 | 3856 | [Trim Trailing Vowels](https://leetcode.com/problems/trim-trailing-vowels) | [Java](3856-trim-trailing-vowels) | Easy |
 | 3861 | [Minimum Capacity Box](https://leetcode.com/problems/minimum-capacity-box) | [Java](3861-minimum-capacity-box) | Easy |
 | 3921 | [Score Validator](https://leetcode.com/problems/score-validator) | [Java](3921-score-validator) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Tree
-|  |
-| ------- |
-| [0563-binary-tree-tilt](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0563-binary-tree-tilt) |
-## Depth-First Search
-|  |
-| ------- |
-| [0563-binary-tree-tilt](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0563-binary-tree-tilt) |
-## Binary Tree
-|  |
-| ------- |
-| [0563-binary-tree-tilt](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0563-binary-tree-tilt) |
-<!---LeetCode Topics End-->
