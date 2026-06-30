@@ -316,35 +316,3 @@
 | 3856 | [Trim Trailing Vowels](https://leetcode.com/problems/trim-trailing-vowels) | [Java](3856-trim-trailing-vowels) | Easy |
 | 3861 | [Minimum Capacity Box](https://leetcode.com/problems/minimum-capacity-box) | [Java](3861-minimum-capacity-box) | Easy |
 | 3921 | [Score Validator](https://leetcode.com/problems/score-validator) | [Java](3921-score-validator) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Hash Table
-|  |
-| ------- |
-| [0653-two-sum-iv-input-is-a-bst](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
-## Two Pointers
-|  |
-| ------- |
-| [0653-two-sum-iv-input-is-a-bst](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
-## Tree
-|  |
-| ------- |
-| [0653-two-sum-iv-input-is-a-bst](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
-## Depth-First Search
-|  |
-| ------- |
-| [0653-two-sum-iv-input-is-a-bst](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
-## Breadth-First Search
-|  |
-| ------- |
-| [0653-two-sum-iv-input-is-a-bst](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
-## Binary Search Tree
-|  |
-| ------- |
-| [0653-two-sum-iv-input-is-a-bst](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
-## Binary Tree
-|  |
-| ------- |
-| [0653-two-sum-iv-input-is-a-bst](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
-<!---LeetCode Topics End-->
