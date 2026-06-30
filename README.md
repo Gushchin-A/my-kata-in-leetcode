@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 271 ✅  
+- Easy: 272 ✅  
 - Medium: 30 ⚡  
 - Hard: 0 🔥  
-- **Total: 301**
+- **Total: 302**
 
 ---
 
@@ -105,6 +105,7 @@
 | 617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees) | [Java](0617-merge-two-binary-trees) | Easy |
 | 637 | [Average Of Levels In Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree) | [Java](0637-average-of-levels-in-binary-tree) | Easy |
 | 645 | [Set Mismatch](https://leetcode.com/problems/set-mismatch) | [Java](0645-set-mismatch) | Easy |
+| 653 | [Two Sum IV Input Is A Bst](https://leetcode.com/problems/two-sum-iv-input-is-a-bst) | [Java](0653-two-sum-iv-input-is-a-bst) | Easy |
 | 657 | [Robot Return To Origin](https://leetcode.com/problems/robot-return-to-origin) | [Java](0657-robot-return-to-origin) | Easy |
 | 680 | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii) | [Java](0680-valid-palindrome-ii) | Easy |
 | 682 | [Baseball Game](https://leetcode.com/problems/baseball-game) | [Java](0682-baseball-game) | Easy |
@@ -315,35 +316,3 @@
 | 3856 | [Trim Trailing Vowels](https://leetcode.com/problems/trim-trailing-vowels) | [Java](3856-trim-trailing-vowels) | Easy |
 | 3861 | [Minimum Capacity Box](https://leetcode.com/problems/minimum-capacity-box) | [Java](3861-minimum-capacity-box) | Easy |
 | 3921 | [Score Validator](https://leetcode.com/problems/score-validator) | [Java](3921-score-validator) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Hash Table
-|  |
-| ------- |
-| [0653-two-sum-iv-input-is-a-bst](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
-## Two Pointers
-|  |
-| ------- |
-| [0653-two-sum-iv-input-is-a-bst](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
-## Tree
-|  |
-| ------- |
-| [0653-two-sum-iv-input-is-a-bst](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
-## Depth-First Search
-|  |
-| ------- |
-| [0653-two-sum-iv-input-is-a-bst](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
-## Breadth-First Search
-|  |
-| ------- |
-| [0653-two-sum-iv-input-is-a-bst](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
-## Binary Search Tree
-|  |
-| ------- |
-| [0653-two-sum-iv-input-is-a-bst](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
-## Binary Tree
-|  |
-| ------- |
-| [0653-two-sum-iv-input-is-a-bst](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
-<!---LeetCode Topics End-->
