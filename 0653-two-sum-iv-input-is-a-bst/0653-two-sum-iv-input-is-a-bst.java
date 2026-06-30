@@ -15,18 +15,18 @@
  */
 class Solution {
     public boolean findTarget(TreeNode root, int k) {
-        List<Integer> values = new ArrayList<>();
+        int[] values = new int[dfsSize(root)];
 
-        getValuesInArrayDfs(root, values);
+        getValuesInArrayDfs(root, values, new int[]{0});
 
         int left = 0;
-        int right = values.size() - 1;
+        int right = values.length - 1;
         while (left < right) {
-            if (values.get(left) + values.get(right) == k) {
+            if (values[left] + values[right] == k) {
                 return true;
             }
 
-            if (values.get(left) + values.get(right) < k) {
+            if (values[left] + values[right] < k) {
                 left++;
             } else {
                 right--;
@@ -36,13 +36,21 @@ class Solution {
         return false;
     }
 
-    private void getValuesInArrayDfs(TreeNode root, List<Integer> values) {
+    private void getValuesInArrayDfs(TreeNode root, int[] values, int[] index) {
         if (root == null) {
             return;
         }
 
-        getValuesInArrayDfs(root.left, values);
-        values.add(root.val);
-        getValuesInArrayDfs(root.right, values);
+        getValuesInArrayDfs(root.left, values, index);
+        values[index[0]++] = root.val;
+        getValuesInArrayDfs(root.right, values, index);
+    }
+
+    private int dfsSize(TreeNode root) {
+        if (root == null) {
+            return 0;
+        }
+
+        return 1 + dfsSize(root.left) + dfsSize(root.right);
     }
 }
