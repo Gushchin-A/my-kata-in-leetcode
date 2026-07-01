@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 272 ✅  
+- Easy: 273 ✅  
 - Medium: 30 ⚡  
 - Hard: 0 🔥  
-- **Total: 302**
+- **Total: 303**
 
 ---
 
@@ -107,6 +107,7 @@
 | 645 | [Set Mismatch](https://leetcode.com/problems/set-mismatch) | [Java](0645-set-mismatch) | Easy |
 | 653 | [Two Sum IV Input Is A Bst](https://leetcode.com/problems/two-sum-iv-input-is-a-bst) | [Java](0653-two-sum-iv-input-is-a-bst) | Easy |
 | 657 | [Robot Return To Origin](https://leetcode.com/problems/robot-return-to-origin) | [Java](0657-robot-return-to-origin) | Easy |
+| 671 | [Second Minimum Node In A Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree) | [Java](0671-second-minimum-node-in-a-binary-tree) | Easy |
 | 680 | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii) | [Java](0680-valid-palindrome-ii) | Easy |
 | 682 | [Baseball Game](https://leetcode.com/problems/baseball-game) | [Java](0682-baseball-game) | Easy |
 | 696 | [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings) | [Java](0696-count-binary-substrings) | Easy |
@@ -316,19 +317,3 @@
 | 3856 | [Trim Trailing Vowels](https://leetcode.com/problems/trim-trailing-vowels) | [Java](3856-trim-trailing-vowels) | Easy |
 | 3861 | [Minimum Capacity Box](https://leetcode.com/problems/minimum-capacity-box) | [Java](3861-minimum-capacity-box) | Easy |
 | 3921 | [Score Validator](https://leetcode.com/problems/score-validator) | [Java](3921-score-validator) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Tree
-|  |
-| ------- |
-| [0671-second-minimum-node-in-a-binary-tree](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
-## Depth-First Search
-|  |
-| ------- |
-| [0671-second-minimum-node-in-a-binary-tree](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
-## Binary Tree
-|  |
-| ------- |
-| [0671-second-minimum-node-in-a-binary-tree](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
-<!---LeetCode Topics End-->
