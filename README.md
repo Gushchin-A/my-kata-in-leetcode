@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 274 ✅  
+- Easy: 275 ✅  
 - Medium: 30 ⚡  
 - Hard: 0 🔥  
-- **Total: 304**
+- **Total: 305**
 
 ---
 
@@ -139,6 +139,7 @@
 | 961 | [N Repeated Element In Size 2n Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array) | [Java](0961-n-repeated-element-in-size-2n-array) | Easy |
 | 965 | [Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree) | [Java](0965-univalued-binary-tree) | Easy |
 | 979 | [Di String Match](https://leetcode.com/problems/di-string-match) | [Java](0979-di-string-match) | Easy |
+| 993 | [Cousins In Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree) | [Java](0993-cousins-in-binary-tree) | Easy |
 | 1002 | [Find Common Characters](https://leetcode.com/problems/find-common-characters) | [Java](1002-find-common-characters) | Easy |
 | 1019 | [Squares Of A Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array) | [Java](1019-squares-of-a-sorted-array) | Easy |
 | 1021 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses) | [Java](1021-remove-outermost-parentheses) | Easy |
@@ -318,23 +319,3 @@
 | 3856 | [Trim Trailing Vowels](https://leetcode.com/problems/trim-trailing-vowels) | [Java](3856-trim-trailing-vowels) | Easy |
 | 3861 | [Minimum Capacity Box](https://leetcode.com/problems/minimum-capacity-box) | [Java](3861-minimum-capacity-box) | Easy |
 | 3921 | [Score Validator](https://leetcode.com/problems/score-validator) | [Java](3921-score-validator) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Tree
-|  |
-| ------- |
-| [0993-cousins-in-binary-tree](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0993-cousins-in-binary-tree) |
-## Depth-First Search
-|  |
-| ------- |
-| [0993-cousins-in-binary-tree](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0993-cousins-in-binary-tree) |
-## Breadth-First Search
-|  |
-| ------- |
-| [0993-cousins-in-binary-tree](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0993-cousins-in-binary-tree) |
-## Binary Tree
-|  |
-| ------- |
-| [0993-cousins-in-binary-tree](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0993-cousins-in-binary-tree) |
-<!---LeetCode Topics End-->
