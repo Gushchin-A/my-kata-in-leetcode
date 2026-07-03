@@ -15,19 +15,18 @@
  */
 class Solution {
     public boolean isCousins(TreeNode root, int x, int y) {
-        Map<String, Integer> cousinX = new HashMap<>();
-        Map<String, Integer> cousinY = new HashMap<>();
+        Map<String, Integer> cousinsValues = new HashMap<>();
 
-        cousinX.put("parent", root.val);
-        cousinY.put("parent", root.val);
+        cousinsValues.put("parentX", root.val);
+        cousinsValues.put("parentY", root.val);
 
-        dfs(root, 0, cousinX, x);
-        dfs(root, 0, cousinY, y);
+        dfs(root, 0, cousinsValues, x, y);
+        dfs(root, 0, cousinsValues, x, y);
 
-        return cousinX.get("depth") == cousinY.get("depth") && cousinX.get("parent") != cousinY.get("parent");
+        return cousinsValues.get("depthX") == cousinsValues.get("depthY") && cousinsValues.get("parentX") != cousinsValues.get("parentY");
     }
 
-    private void dfs(TreeNode root, int depth, Map<String, Integer> cousinValues, int target) {
+    private void dfs(TreeNode root, int depth, Map<String, Integer> cousinsValues, int x, int y) {
         if (root == null) {
             return;
         }
@@ -35,22 +34,32 @@ class Solution {
         depth++;
         
         if (root.left != null) {
-            if (root.left.val == target) {
-                cousinValues.put("depth", depth + 1);
-                cousinValues.put("parent", root.val);
+            if (root.left.val == x) {
+                cousinsValues.put("depthX", depth + 1);
+                cousinsValues.put("parentX", root.val);
+                return;
+            }
+            if (root.left.val == y) {
+                cousinsValues.put("depthY", depth + 1);
+                cousinsValues.put("parentY", root.val);
                 return;
             }
         }
 
         if (root.right != null) {
-            if (root.right.val == target) {
-                cousinValues.put("depth", depth + 1);
-                cousinValues.put("parent", root.val);
+            if (root.right.val == x) {
+                cousinsValues.put("depthX", depth + 1);
+                cousinsValues.put("parentX", root.val);
+                return;
+            }
+            if (root.right.val == y) {
+                cousinsValues.put("depthY", depth + 1);
+                cousinsValues.put("parentY", root.val);
                 return;
             }
         }
 
-        dfs(root.left, depth, cousinValues, target);
-        dfs(root.right, depth, cousinValues, target);
+        dfs(root.left, depth, cousinsValues, x, y);
+        dfs(root.right, depth, cousinsValues, x, y);
     }
 }
