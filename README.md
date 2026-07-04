@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 275 ✅  
+- Easy: 276 ✅  
 - Medium: 30 ⚡  
 - Hard: 0 🔥  
-- **Total: 305**
+- **Total: 306**
 
 ---
 
@@ -295,6 +295,7 @@
 | 3280 | [Convert Date To Binary](https://leetcode.com/problems/convert-date-to-binary) | [Java](3280-convert-date-to-binary) | Easy |
 | 3285 | [Find Indices Of Stable Mountains](https://leetcode.com/problems/find-indices-of-stable-mountains) | [Java](3285-find-indices-of-stable-mountains) | Easy |
 | 3289 | [The Two Sneaky Numbers Of Digitville](https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville) | [Java](3289-the-two-sneaky-numbers-of-digitville) | Easy |
+| 3300 | [Minimum Element After Replacement With Digit Sum](https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum) | [Java](3300-minimum-element-after-replacement-with-digit-sum) | Easy |
 | 3304 | [Find The K Th Character In String Game I](https://leetcode.com/problems/find-the-k-th-character-in-string-game-i) | [Java](3304-find-the-k-th-character-in-string-game-i) | Easy |
 | 3309 | [Count Prefix And Suffix Pairs I](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i) | [Java](3309-count-prefix-and-suffix-pairs-i) | Easy |
 | 3340 | [Check Balanced String](https://leetcode.com/problems/check-balanced-string) | [Java](3340-check-balanced-string) | Easy |
@@ -319,15 +320,3 @@
 | 3856 | [Trim Trailing Vowels](https://leetcode.com/problems/trim-trailing-vowels) | [Java](3856-trim-trailing-vowels) | Easy |
 | 3861 | [Minimum Capacity Box](https://leetcode.com/problems/minimum-capacity-box) | [Java](3861-minimum-capacity-box) | Easy |
 | 3921 | [Score Validator](https://leetcode.com/problems/score-validator) | [Java](3921-score-validator) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
-## Math
-|  |
-| ------- |
-| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
-<!---LeetCode Topics End-->
