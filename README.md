@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 276 ✅  
+- Easy: 277 ✅  
 - Medium: 30 ⚡  
 - Hard: 0 🔥  
-- **Total: 306**
+- **Total: 307**
 
 ---
 
@@ -40,6 +40,7 @@
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | [Java](0088-merge-sorted-array) | Easy |
 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) | [Java](0094-binary-tree-inorder-traversal) | Easy |
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree) | [Java](0100-same-tree) | Easy |
+| 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree) | [Java](0101-symmetric-tree) | Easy |
 | 104 | [Maximum Depth Of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | [Java](0104-maximum-depth-of-binary-tree) | Easy |
 | 113 | [Path Sum II](https://leetcode.com/problems/path-sum-ii) | [Java](0113-path-sum-ii) | Medium |
 | 118 | [Pascals Triangle](https://leetcode.com/problems/pascals-triangle) | [Java](0118-pascals-triangle) | Easy |
@@ -320,23 +321,3 @@
 | 3856 | [Trim Trailing Vowels](https://leetcode.com/problems/trim-trailing-vowels) | [Java](3856-trim-trailing-vowels) | Easy |
 | 3861 | [Minimum Capacity Box](https://leetcode.com/problems/minimum-capacity-box) | [Java](3861-minimum-capacity-box) | Easy |
 | 3921 | [Score Validator](https://leetcode.com/problems/score-validator) | [Java](3921-score-validator) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Tree
-|  |
-| ------- |
-| [0101-symmetric-tree](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0101-symmetric-tree) |
-## Depth-First Search
-|  |
-| ------- |
-| [0101-symmetric-tree](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0101-symmetric-tree) |
-## Breadth-First Search
-|  |
-| ------- |
-| [0101-symmetric-tree](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0101-symmetric-tree) |
-## Binary Tree
-|  |
-| ------- |
-| [0101-symmetric-tree](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0101-symmetric-tree) |
-<!---LeetCode Topics End-->
