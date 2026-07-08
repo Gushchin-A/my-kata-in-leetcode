@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 279 ✅  
+- Easy: 280 ✅  
 - Medium: 30 ⚡  
 - Hard: 0 🔥  
-- **Total: 309**
+- **Total: 310**
 
 ---
 
@@ -120,6 +120,7 @@
 | 733 | [Flood Fill](https://leetcode.com/problems/flood-fill) | [Java](0733-flood-fill) | Easy |
 | 747 | [Largest Number At Least Twice Of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others) | [Java](0747-largest-number-at-least-twice-of-others) | Easy |
 | 771 | [Jewels And Stones](https://leetcode.com/problems/jewels-and-stones) | [Java](0771-jewels-and-stones) | Easy |
+| 783 | [Minimum Distance Between Bst Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes) | [Java](0783-minimum-distance-between-bst-nodes) | Easy |
 | 796 | [Rotate String](https://leetcode.com/problems/rotate-string) | [Java](0796-rotate-string) | Easy |
 | 806 | [Number Of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string) | [Java](0806-number-of-lines-to-write-string) | Easy |
 | 819 | [Most Common Word](https://leetcode.com/problems/most-common-word) | [Java](0819-most-common-word) | Easy |
@@ -323,27 +324,3 @@
 | 3856 | [Trim Trailing Vowels](https://leetcode.com/problems/trim-trailing-vowels) | [Java](3856-trim-trailing-vowels) | Easy |
 | 3861 | [Minimum Capacity Box](https://leetcode.com/problems/minimum-capacity-box) | [Java](3861-minimum-capacity-box) | Easy |
 | 3921 | [Score Validator](https://leetcode.com/problems/score-validator) | [Java](3921-score-validator) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Tree
-|  |
-| ------- |
-| [0783-minimum-distance-between-bst-nodes](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
-## Depth-First Search
-|  |
-| ------- |
-| [0783-minimum-distance-between-bst-nodes](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
-## Breadth-First Search
-|  |
-| ------- |
-| [0783-minimum-distance-between-bst-nodes](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
-## Binary Search Tree
-|  |
-| ------- |
-| [0783-minimum-distance-between-bst-nodes](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
-## Binary Tree
-|  |
-| ------- |
-| [0783-minimum-distance-between-bst-nodes](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
-<!---LeetCode Topics End-->
