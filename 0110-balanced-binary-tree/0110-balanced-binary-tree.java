@@ -15,25 +15,19 @@
  */
 class Solution {
     public boolean isBalanced(TreeNode root) {
-        List<Boolean> list = new ArrayList<>();
-
-        dfs(root, list);
-
-        return !list.contains(false);
+        return dfs(root) != -1;
     }
 
-    private int dfs(TreeNode root, List<Boolean> list) {
+    private int dfs(TreeNode root) {
         if (root == null) {
             return 0;
         }
 
-        int left = dfs(root.left, list);
-        int right = dfs(root.right, list);
+        int left = dfs(root.left);
+        int right = dfs(root.right);
 
-        if (Math.abs(left - right) > 1) {
-            list.add(false);
-        } else {
-            list.add(true);
+        if (left == -1 || right == -1 || Math.abs(left - right) > 1) {
+            return -1;
         }
 
         return 1 + Math.max(left, right);
