@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 282 ✅  
+- Easy: 283 ✅  
 - Medium: 30 ⚡  
 - Hard: 0 🔥  
-- **Total: 312**
+- **Total: 313**
 
 ---
 
@@ -102,6 +102,7 @@
 | 530 | [Minimum Absolute Difference In Bst](https://leetcode.com/problems/minimum-absolute-difference-in-bst) | [Java](0530-minimum-absolute-difference-in-bst) | Easy |
 | 535 | [Encode And Decode Tinyurl](https://leetcode.com/problems/encode-and-decode-tinyurl) | [Java](0535-encode-and-decode-tinyurl) | Medium |
 | 541 | [Reverse String II](https://leetcode.com/problems/reverse-string-ii) | [Java](0541-reverse-string-ii) | Easy |
+| 543 | [Diameter Of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree) | [Java](0543-diameter-of-binary-tree) | Easy |
 | 557 | [Reverse Words In A String III](https://leetcode.com/problems/reverse-words-in-a-string-iii) | [Java](0557-reverse-words-in-a-string-iii) | Easy |
 | 561 | [Array Partition](https://leetcode.com/problems/array-partition) | [Java](0561-array-partition) | Easy |
 | 563 | [Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt) | [Java](0563-binary-tree-tilt) | Easy |
@@ -326,19 +327,3 @@
 | 3856 | [Trim Trailing Vowels](https://leetcode.com/problems/trim-trailing-vowels) | [Java](3856-trim-trailing-vowels) | Easy |
 | 3861 | [Minimum Capacity Box](https://leetcode.com/problems/minimum-capacity-box) | [Java](3861-minimum-capacity-box) | Easy |
 | 3921 | [Score Validator](https://leetcode.com/problems/score-validator) | [Java](3921-score-validator) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Tree
-|  |
-| ------- |
-| [0543-diameter-of-binary-tree](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0543-diameter-of-binary-tree) |
-## Depth-First Search
-|  |
-| ------- |
-| [0543-diameter-of-binary-tree](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0543-diameter-of-binary-tree) |
-## Binary Tree
-|  |
-| ------- |
-| [0543-diameter-of-binary-tree](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0543-diameter-of-binary-tree) |
-<!---LeetCode Topics End-->
