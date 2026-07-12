@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 283 ✅  
+- Easy: 284 ✅  
 - Medium: 30 ⚡  
 - Hard: 0 🔥  
-- **Total: 313**
+- **Total: 314**
 
 ---
 
@@ -98,6 +98,7 @@
 | 495 | [Teemo Attacking](https://leetcode.com/problems/teemo-attacking) | [Java](0495-teemo-attacking) | Easy |
 | 496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i) | [Java](0496-next-greater-element-i) | Easy |
 | 500 | [Keyboard Row](https://leetcode.com/problems/keyboard-row) | [Java](0500-keyboard-row) | Easy |
+| 501 | [Find Mode In Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree) | [Java](0501-find-mode-in-binary-search-tree) | Easy |
 | 506 | [Relative Ranks](https://leetcode.com/problems/relative-ranks) | [Java](0506-relative-ranks) | Easy |
 | 530 | [Minimum Absolute Difference In Bst](https://leetcode.com/problems/minimum-absolute-difference-in-bst) | [Java](0530-minimum-absolute-difference-in-bst) | Easy |
 | 535 | [Encode And Decode Tinyurl](https://leetcode.com/problems/encode-and-decode-tinyurl) | [Java](0535-encode-and-decode-tinyurl) | Medium |
@@ -327,23 +328,3 @@
 | 3856 | [Trim Trailing Vowels](https://leetcode.com/problems/trim-trailing-vowels) | [Java](3856-trim-trailing-vowels) | Easy |
 | 3861 | [Minimum Capacity Box](https://leetcode.com/problems/minimum-capacity-box) | [Java](3861-minimum-capacity-box) | Easy |
 | 3921 | [Score Validator](https://leetcode.com/problems/score-validator) | [Java](3921-score-validator) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Tree
-|  |
-| ------- |
-| [0501-find-mode-in-binary-search-tree](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
-## Depth-First Search
-|  |
-| ------- |
-| [0501-find-mode-in-binary-search-tree](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
-## Binary Search Tree
-|  |
-| ------- |
-| [0501-find-mode-in-binary-search-tree](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
-## Binary Tree
-|  |
-| ------- |
-| [0501-find-mode-in-binary-search-tree](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
-<!---LeetCode Topics End-->
