@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 284 ✅  
+- Easy: 285 ✅  
 - Medium: 30 ⚡  
 - Hard: 0 🔥  
-- **Total: 314**
+- **Total: 315**
 
 ---
 
@@ -110,6 +110,7 @@
 | 566 | [Reshape The Matrix](https://leetcode.com/problems/reshape-the-matrix) | [Java](0566-reshape-the-matrix) | Easy |
 | 572 | [Subtree Of Another Tree](https://leetcode.com/problems/subtree-of-another-tree) | [Java](0572-subtree-of-another-tree) | Easy |
 | 575 | [Distribute Candies](https://leetcode.com/problems/distribute-candies) | [Java](0575-distribute-candies) | Easy |
+| 589 | [N Ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal) | [Java](0589-n-ary-tree-preorder-traversal) | Easy |
 | 617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees) | [Java](0617-merge-two-binary-trees) | Easy |
 | 637 | [Average Of Levels In Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree) | [Java](0637-average-of-levels-in-binary-tree) | Easy |
 | 645 | [Set Mismatch](https://leetcode.com/problems/set-mismatch) | [Java](0645-set-mismatch) | Easy |
@@ -328,19 +329,3 @@
 | 3856 | [Trim Trailing Vowels](https://leetcode.com/problems/trim-trailing-vowels) | [Java](3856-trim-trailing-vowels) | Easy |
 | 3861 | [Minimum Capacity Box](https://leetcode.com/problems/minimum-capacity-box) | [Java](3861-minimum-capacity-box) | Easy |
 | 3921 | [Score Validator](https://leetcode.com/problems/score-validator) | [Java](3921-score-validator) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Stack
-|  |
-| ------- |
-| [0589-n-ary-tree-preorder-traversal](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
-## Tree
-|  |
-| ------- |
-| [0589-n-ary-tree-preorder-traversal](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
-## Depth-First Search
-|  |
-| ------- |
-| [0589-n-ary-tree-preorder-traversal](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
-<!---LeetCode Topics End-->
