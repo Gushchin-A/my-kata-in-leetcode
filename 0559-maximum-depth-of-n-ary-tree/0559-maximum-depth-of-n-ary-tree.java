@@ -23,12 +23,12 @@ class Solution {
             return 0;
         }
 
-        int maximumDeph = 0;
+        int maximumDepth = 0;
         for (Node child : root.children) {
             int candidate = maxDepth(child);
-            maximumDeph = Math.max(maximumDeph, candidate);
+            maximumDepth = Math.max(maximumDepth, candidate);
         }
 
-        return 1 + maximumDeph;
+        return 1 + maximumDepth;
     }
 }
