@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 285 ✅  
+- Easy: 286 ✅  
 - Medium: 30 ⚡  
 - Hard: 0 🔥  
-- **Total: 315**
+- **Total: 316**
 
 ---
 
@@ -105,6 +105,7 @@
 | 541 | [Reverse String II](https://leetcode.com/problems/reverse-string-ii) | [Java](0541-reverse-string-ii) | Easy |
 | 543 | [Diameter Of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree) | [Java](0543-diameter-of-binary-tree) | Easy |
 | 557 | [Reverse Words In A String III](https://leetcode.com/problems/reverse-words-in-a-string-iii) | [Java](0557-reverse-words-in-a-string-iii) | Easy |
+| 559 | [Maximum Depth Of N Ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree) | [Java](0559-maximum-depth-of-n-ary-tree) | Easy |
 | 561 | [Array Partition](https://leetcode.com/problems/array-partition) | [Java](0561-array-partition) | Easy |
 | 563 | [Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt) | [Java](0563-binary-tree-tilt) | Easy |
 | 566 | [Reshape The Matrix](https://leetcode.com/problems/reshape-the-matrix) | [Java](0566-reshape-the-matrix) | Easy |
@@ -329,19 +330,3 @@
 | 3856 | [Trim Trailing Vowels](https://leetcode.com/problems/trim-trailing-vowels) | [Java](3856-trim-trailing-vowels) | Easy |
 | 3861 | [Minimum Capacity Box](https://leetcode.com/problems/minimum-capacity-box) | [Java](3861-minimum-capacity-box) | Easy |
 | 3921 | [Score Validator](https://leetcode.com/problems/score-validator) | [Java](3921-score-validator) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Tree
-|  |
-| ------- |
-| [0559-maximum-depth-of-n-ary-tree](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0559-maximum-depth-of-n-ary-tree) |
-## Depth-First Search
-|  |
-| ------- |
-| [0559-maximum-depth-of-n-ary-tree](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0559-maximum-depth-of-n-ary-tree) |
-## Breadth-First Search
-|  |
-| ------- |
-| [0559-maximum-depth-of-n-ary-tree](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0559-maximum-depth-of-n-ary-tree) |
-<!---LeetCode Topics End-->
