@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 287 ✅  
+- Easy: 288 ✅  
 - Medium: 30 ⚡  
 - Hard: 0 🔥  
-- **Total: 317**
+- **Total: 318**
 
 ---
 
@@ -331,15 +331,4 @@
 | 3856 | [Trim Trailing Vowels](https://leetcode.com/problems/trim-trailing-vowels) | [Java](3856-trim-trailing-vowels) | Easy |
 | 3861 | [Minimum Capacity Box](https://leetcode.com/problems/minimum-capacity-box) | [Java](3861-minimum-capacity-box) | Easy |
 | 3921 | [Score Validator](https://leetcode.com/problems/score-validator) | [Java](3921-score-validator) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [3925-concatenate-array-with-reverse](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/3925-concatenate-array-with-reverse) |
-## Simulation
-|  |
-| ------- |
-| [3925-concatenate-array-with-reverse](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/3925-concatenate-array-with-reverse) |
-<!---LeetCode Topics End-->
+| 3925 | [Concatenate Array With Reverse](https://leetcode.com/problems/concatenate-array-with-reverse) | [Java](3925-concatenate-array-with-reverse) | Easy |
