@@ -339,6 +339,7 @@
 |  |
 | ------- |
 | [1748-sum-of-unique-elements](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1748-sum-of-unique-elements) |
+| [3925-concatenate-array-with-reverse](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
 | ------- |
@@ -347,4 +348,8 @@
 |  |
 | ------- |
 | [1748-sum-of-unique-elements](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1748-sum-of-unique-elements) |
+## Simulation
+|  |
+| ------- |
+| [3925-concatenate-array-with-reverse](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/3925-concatenate-array-with-reverse) |
 <!---LeetCode Topics End-->
