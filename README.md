@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 288 ✅  
+- Easy: 289 ✅  
 - Medium: 30 ⚡  
 - Hard: 0 🔥  
-- **Total: 318**
+- **Total: 319**
 
 ---
 
@@ -210,6 +210,7 @@
 | 1678 | [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation) | [Java](1678-goal-parser-interpretation) | Easy |
 | 1684 | [Count The Number Of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings) | [Java](1684-count-the-number-of-consistent-strings) | Easy |
 | 1716 | [Calculate Money In Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank) | [Java](1716-calculate-money-in-leetcode-bank) | Easy |
+| 1748 | [Sum Of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements) | [Java](1748-sum-of-unique-elements) | Easy |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [Java](1768-merge-strings-alternately) | Easy |
 | 1773 | [Count Items Matching A Rule](https://leetcode.com/problems/count-items-matching-a-rule) | [Java](1773-count-items-matching-a-rule) | Easy |
 | 1816 | [Truncate Sentence](https://leetcode.com/problems/truncate-sentence) | [Java](1816-truncate-sentence) | Easy |
@@ -332,24 +333,3 @@
 | 3861 | [Minimum Capacity Box](https://leetcode.com/problems/minimum-capacity-box) | [Java](3861-minimum-capacity-box) | Easy |
 | 3921 | [Score Validator](https://leetcode.com/problems/score-validator) | [Java](3921-score-validator) | Easy |
 | 3925 | [Concatenate Array With Reverse](https://leetcode.com/problems/concatenate-array-with-reverse) | [Java](3925-concatenate-array-with-reverse) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [1748-sum-of-unique-elements](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1748-sum-of-unique-elements) |
-| [3925-concatenate-array-with-reverse](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/3925-concatenate-array-with-reverse) |
-## Hash Table
-|  |
-| ------- |
-| [1748-sum-of-unique-elements](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1748-sum-of-unique-elements) |
-## Counting
-|  |
-| ------- |
-| [1748-sum-of-unique-elements](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1748-sum-of-unique-elements) |
-## Simulation
-|  |
-| ------- |
-| [3925-concatenate-array-with-reverse](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/3925-concatenate-array-with-reverse) |
-<!---LeetCode Topics End-->
