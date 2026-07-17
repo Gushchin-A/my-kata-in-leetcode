@@ -332,3 +332,19 @@
 | 3861 | [Minimum Capacity Box](https://leetcode.com/problems/minimum-capacity-box) | [Java](3861-minimum-capacity-box) | Easy |
 | 3921 | [Score Validator](https://leetcode.com/problems/score-validator) | [Java](3921-score-validator) | Easy |
 | 3925 | [Concatenate Array With Reverse](https://leetcode.com/problems/concatenate-array-with-reverse) | [Java](3925-concatenate-array-with-reverse) | Easy |
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1748-sum-of-unique-elements](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1748-sum-of-unique-elements) |
+## Hash Table
+|  |
+| ------- |
+| [1748-sum-of-unique-elements](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1748-sum-of-unique-elements) |
+## Counting
+|  |
+| ------- |
+| [1748-sum-of-unique-elements](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1748-sum-of-unique-elements) |
+<!---LeetCode Topics End-->
