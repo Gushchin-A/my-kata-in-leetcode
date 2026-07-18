@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 289 ✅  
+- Easy: 290 ✅  
 - Medium: 30 ⚡  
 - Hard: 0 🔥  
-- **Total: 319**
+- **Total: 320**
 
 ---
 
@@ -261,6 +261,7 @@
 | 2396 | [Strictly Palindromic Number](https://leetcode.com/problems/strictly-palindromic-number) | [Java](2396-strictly-palindromic-number) | Medium |
 | 2413 | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple) | [Java](2413-smallest-even-multiple) | Easy |
 | 2418 | [Sort The People](https://leetcode.com/problems/sort-the-people) | [Java](2418-sort-the-people) | Easy |
+| 2427 | [Number Of Common Factors](https://leetcode.com/problems/number-of-common-factors) | [Java](2427-number-of-common-factors) | Easy |
 | 2469 | [Convert The Temperature](https://leetcode.com/problems/convert-the-temperature) | [Java](2469-convert-the-temperature) | Easy |
 | 2496 | [Maximum Value Of A String In An Array](https://leetcode.com/problems/maximum-value-of-a-string-in-an-array) | [Java](2496-maximum-value-of-a-string-in-an-array) | Easy |
 | 2500 | [Delete Greatest Value In Each Row](https://leetcode.com/problems/delete-greatest-value-in-each-row) | [Java](2500-delete-greatest-value-in-each-row) | Easy |
@@ -333,19 +334,3 @@
 | 3861 | [Minimum Capacity Box](https://leetcode.com/problems/minimum-capacity-box) | [Java](3861-minimum-capacity-box) | Easy |
 | 3921 | [Score Validator](https://leetcode.com/problems/score-validator) | [Java](3921-score-validator) | Easy |
 | 3925 | [Concatenate Array With Reverse](https://leetcode.com/problems/concatenate-array-with-reverse) | [Java](3925-concatenate-array-with-reverse) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-|  |
-| ------- |
-| [2427-number-of-common-factors](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2427-number-of-common-factors) |
-## Enumeration
-|  |
-| ------- |
-| [2427-number-of-common-factors](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2427-number-of-common-factors) |
-## Number Theory
-|  |
-| ------- |
-| [2427-number-of-common-factors](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2427-number-of-common-factors) |
-<!---LeetCode Topics End-->
