@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 290 ✅  
+- Easy: 291 ✅  
 - Medium: 30 ⚡  
 - Hard: 0 🔥  
-- **Total: 320**
+- **Total: 321**
 
 ---
 
@@ -334,3 +334,4 @@
 | 3861 | [Minimum Capacity Box](https://leetcode.com/problems/minimum-capacity-box) | [Java](3861-minimum-capacity-box) | Easy |
 | 3921 | [Score Validator](https://leetcode.com/problems/score-validator) | [Java](3921-score-validator) | Easy |
 | 3925 | [Concatenate Array With Reverse](https://leetcode.com/problems/concatenate-array-with-reverse) | [Java](3925-concatenate-array-with-reverse) | Easy |
+| 3959 | [Check Good Integer](https://leetcode.com/problems/check-good-integer) | [Java](3959-check-good-integer) | Easy |
