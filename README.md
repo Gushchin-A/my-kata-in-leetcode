@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 293 ✅  
+- Easy: 294 ✅  
 - Medium: 30 ⚡  
 - Hard: 0 🔥  
-- **Total: 323**
+- **Total: 324**
 
 ---
 
@@ -60,6 +60,7 @@
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element) | [Java](0169-majority-element) | Easy |
 | 171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number) | [Java](0171-excel-sheet-column-number) | Easy |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array) | [Java](0189-rotate-array) | Medium |
+| 190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits) | [Java](0190-reverse-bits) | Easy |
 | 202 | [Happy Number](https://leetcode.com/problems/happy-number) | [Java](0202-happy-number) | Easy |
 | 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements) | [Java](0203-remove-linked-list-elements) | Easy |
 | 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings) | [Java](0205-isomorphic-strings) | Easy |
@@ -337,15 +338,3 @@
 | 3921 | [Score Validator](https://leetcode.com/problems/score-validator) | [Java](3921-score-validator) | Easy |
 | 3925 | [Concatenate Array With Reverse](https://leetcode.com/problems/concatenate-array-with-reverse) | [Java](3925-concatenate-array-with-reverse) | Easy |
 | 3959 | [Check Good Integer](https://leetcode.com/problems/check-good-integer) | [Java](3959-check-good-integer) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Divide and Conquer
-|  |
-| ------- |
-| [0190-reverse-bits](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0190-reverse-bits) |
-## Bit Manipulation
-|  |
-| ------- |
-| [0190-reverse-bits](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0190-reverse-bits) |
-<!---LeetCode Topics End-->
