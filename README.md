@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 294 ✅  
+- Easy: 295 ✅  
 - Medium: 30 ⚡  
 - Hard: 0 🔥  
-- **Total: 324**
+- **Total: 325**
 
 ---
 
@@ -217,6 +217,7 @@
 | 1773 | [Count Items Matching A Rule](https://leetcode.com/problems/count-items-matching-a-rule) | [Java](1773-count-items-matching-a-rule) | Easy |
 | 1816 | [Truncate Sentence](https://leetcode.com/problems/truncate-sentence) | [Java](1816-truncate-sentence) | Easy |
 | 1827 | [Minimum Operations To Make The Array Increasing](https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing) | [Java](1827-minimum-operations-to-make-the-array-increasing) | Easy |
+| 1832 | [Check If The Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram) | [Java](1832-check-if-the-sentence-is-pangram) | Easy |
 | 1837 | [Sum Of Digits In Base K](https://leetcode.com/problems/sum-of-digits-in-base-k) | [Java](1837-sum-of-digits-in-base-k) | Easy |
 | 1844 | [Replace All Digits With Characters](https://leetcode.com/problems/replace-all-digits-with-characters) | [Java](1844-replace-all-digits-with-characters) | Easy |
 | 1859 | [Sorting The Sentence](https://leetcode.com/problems/sorting-the-sentence) | [Java](1859-sorting-the-sentence) | Easy |
@@ -338,15 +339,3 @@
 | 3921 | [Score Validator](https://leetcode.com/problems/score-validator) | [Java](3921-score-validator) | Easy |
 | 3925 | [Concatenate Array With Reverse](https://leetcode.com/problems/concatenate-array-with-reverse) | [Java](3925-concatenate-array-with-reverse) | Easy |
 | 3959 | [Check Good Integer](https://leetcode.com/problems/check-good-integer) | [Java](3959-check-good-integer) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Hash Table
-|  |
-| ------- |
-| [1832-check-if-the-sentence-is-pangram](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
-## String
-|  |
-| ------- |
-| [1832-check-if-the-sentence-is-pangram](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
-<!---LeetCode Topics End-->
