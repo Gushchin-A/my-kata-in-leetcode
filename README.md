@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 295 ✅  
+- Easy: 296 ✅  
 - Medium: 30 ⚡  
 - Hard: 0 🔥  
-- **Total: 325**
+- **Total: 326**
 
 ---
 
@@ -174,6 +174,7 @@
 | 1295 | [Find Numbers With Even Number Of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits) | [Java](1295-find-numbers-with-even-number-of-digits) | Easy |
 | 1304 | [Find N Unique Integers Sum Up To Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero) | [Java](1304-find-n-unique-integers-sum-up-to-zero) | Easy |
 | 1309 | [Decrypt String From Alphabet To Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping) | [Java](1309-decrypt-string-from-alphabet-to-integer-mapping) | Easy |
+| 1323 | [Maximum 69 Number](https://leetcode.com/problems/maximum-69-number) | [Java](1323-maximum-69-number) | Easy |
 | 1331 | [Rank Transform Of An Array](https://leetcode.com/problems/rank-transform-of-an-array) | [Java](1331-rank-transform-of-an-array) | Easy |
 | 1347 | [Minimum Number Of Steps To Make Two Strings Anagram](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram) | [Java](1347-minimum-number-of-steps-to-make-two-strings-anagram) | Medium |
 | 1365 | [How Many Numbers Are Smaller Than The Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number) | [Java](1365-how-many-numbers-are-smaller-than-the-current-number) | Easy |
@@ -339,15 +340,3 @@
 | 3921 | [Score Validator](https://leetcode.com/problems/score-validator) | [Java](3921-score-validator) | Easy |
 | 3925 | [Concatenate Array With Reverse](https://leetcode.com/problems/concatenate-array-with-reverse) | [Java](3925-concatenate-array-with-reverse) | Easy |
 | 3959 | [Check Good Integer](https://leetcode.com/problems/check-good-integer) | [Java](3959-check-good-integer) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-|  |
-| ------- |
-| [1323-maximum-69-number](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1323-maximum-69-number) |
-## Greedy
-|  |
-| ------- |
-| [1323-maximum-69-number](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1323-maximum-69-number) |
-<!---LeetCode Topics End-->
