@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 297 ✅  
+- Easy: 298 ✅  
 - Medium: 30 ⚡  
 - Hard: 0 🔥  
-- **Total: 327**
+- **Total: 328**
 
 ---
 
@@ -321,6 +321,7 @@
 | 3432 | [Count Partitions With Even Sum Difference](https://leetcode.com/problems/count-partitions-with-even-sum-difference) | [Java](3432-count-partitions-with-even-sum-difference) | Easy |
 | 3467 | [Transform Array By Parity](https://leetcode.com/problems/transform-array-by-parity) | [Java](3467-transform-array-by-parity) | Easy |
 | 3498 | [Reverse Degree Of A String](https://leetcode.com/problems/reverse-degree-of-a-string) | [Java](3498-reverse-degree-of-a-string) | Easy |
+| 3502 | [Minimum Cost To Reach Every Position](https://leetcode.com/problems/minimum-cost-to-reach-every-position) | [Java](3502-minimum-cost-to-reach-every-position) | Easy |
 | 3512 | [Minimum Operations To Make Array Sum Divisible By K](https://leetcode.com/problems/minimum-operations-to-make-array-sum-divisible-by-k) | [Java](3512-minimum-operations-to-make-array-sum-divisible-by-k) | Easy |
 | 3516 | [Find Closest Person](https://leetcode.com/problems/find-closest-person) | [Java](3516-find-closest-person) | Easy |
 | 3541 | [Find Most Frequent Vowel And Consonant](https://leetcode.com/problems/find-most-frequent-vowel-and-consonant) | [Java](3541-find-most-frequent-vowel-and-consonant) | Easy |
@@ -341,11 +342,3 @@
 | 3921 | [Score Validator](https://leetcode.com/problems/score-validator) | [Java](3921-score-validator) | Easy |
 | 3925 | [Concatenate Array With Reverse](https://leetcode.com/problems/concatenate-array-with-reverse) | [Java](3925-concatenate-array-with-reverse) | Easy |
 | 3959 | [Check Good Integer](https://leetcode.com/problems/check-good-integer) | [Java](3959-check-good-integer) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [3502-minimum-cost-to-reach-every-position](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/3502-minimum-cost-to-reach-every-position) |
-<!---LeetCode Topics End-->
