@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 298 ✅  
+- Easy: 299 ✅  
 - Medium: 30 ⚡  
 - Hard: 0 🔥  
-- **Total: 328**
+- **Total: 329**
 
 ---
 
@@ -231,6 +231,7 @@
 | 1957 | [Delete Characters To Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string) | [Java](1957-delete-characters-to-make-fancy-string) | Easy |
 | 1980 | [Find Unique Binary String](https://leetcode.com/problems/find-unique-binary-string) | [Java](1980-find-unique-binary-string) | Medium |
 | 2011 | [Final Value Of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations) | [Java](2011-final-value-of-variable-after-performing-operations) | Easy |
+| 2016 | [Maximum Difference Between Increasing Elements](https://leetcode.com/problems/maximum-difference-between-increasing-elements) | [Java](2016-maximum-difference-between-increasing-elements) | Easy |
 | 2022 | [Convert 1d Array Into 2d Array](https://leetcode.com/problems/convert-1d-array-into-2d-array) | [Java](2022-convert-1d-array-into-2d-array) | Easy |
 | 2037 | [Minimum Number Of Moves To Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone) | [Java](2037-minimum-number-of-moves-to-seat-everyone) | Easy |
 | 2053 | [Kth Distinct String In An Array](https://leetcode.com/problems/kth-distinct-string-in-an-array) | [Java](2053-kth-distinct-string-in-an-array) | Easy |
@@ -342,11 +343,3 @@
 | 3921 | [Score Validator](https://leetcode.com/problems/score-validator) | [Java](3921-score-validator) | Easy |
 | 3925 | [Concatenate Array With Reverse](https://leetcode.com/problems/concatenate-array-with-reverse) | [Java](3925-concatenate-array-with-reverse) | Easy |
 | 3959 | [Check Good Integer](https://leetcode.com/problems/check-good-integer) | [Java](3959-check-good-integer) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [2016-maximum-difference-between-increasing-elements](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2016-maximum-difference-between-increasing-elements) |
-<!---LeetCode Topics End-->
