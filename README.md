@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 299 ✅  
+- Easy: 300 ✅  
 - Medium: 30 ⚡  
 - Hard: 0 🔥  
-- **Total: 329**
+- **Total: 330**
 
 ---
 
@@ -116,6 +116,7 @@
 | 589 | [N Ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal) | [Java](0589-n-ary-tree-preorder-traversal) | Easy |
 | 590 | [N Ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal) | [Java](0590-n-ary-tree-postorder-traversal) | Easy |
 | 617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees) | [Java](0617-merge-two-binary-trees) | Easy |
+| 628 | [Maximum Product Of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers) | [Java](0628-maximum-product-of-three-numbers) | Easy |
 | 637 | [Average Of Levels In Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree) | [Java](0637-average-of-levels-in-binary-tree) | Easy |
 | 645 | [Set Mismatch](https://leetcode.com/problems/set-mismatch) | [Java](0645-set-mismatch) | Easy |
 | 653 | [Two Sum IV Input Is A Bst](https://leetcode.com/problems/two-sum-iv-input-is-a-bst) | [Java](0653-two-sum-iv-input-is-a-bst) | Easy |
@@ -343,19 +344,3 @@
 | 3921 | [Score Validator](https://leetcode.com/problems/score-validator) | [Java](3921-score-validator) | Easy |
 | 3925 | [Concatenate Array With Reverse](https://leetcode.com/problems/concatenate-array-with-reverse) | [Java](3925-concatenate-array-with-reverse) | Easy |
 | 3959 | [Check Good Integer](https://leetcode.com/problems/check-good-integer) | [Java](3959-check-good-integer) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0628-maximum-product-of-three-numbers](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0628-maximum-product-of-three-numbers) |
-## Math
-|  |
-| ------- |
-| [0628-maximum-product-of-three-numbers](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0628-maximum-product-of-three-numbers) |
-## Sorting
-|  |
-| ------- |
-| [0628-maximum-product-of-three-numbers](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0628-maximum-product-of-three-numbers) |
-<!---LeetCode Topics End-->
