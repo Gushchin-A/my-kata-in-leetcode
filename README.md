@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 300 ✅  
+- Easy: 301 ✅  
 - Medium: 30 ⚡  
 - Hard: 0 🔥  
-- **Total: 330**
+- **Total: 331**
 
 ---
 
@@ -118,6 +118,7 @@
 | 617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees) | [Java](0617-merge-two-binary-trees) | Easy |
 | 628 | [Maximum Product Of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers) | [Java](0628-maximum-product-of-three-numbers) | Easy |
 | 637 | [Average Of Levels In Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree) | [Java](0637-average-of-levels-in-binary-tree) | Easy |
+| 643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i) | [Java](0643-maximum-average-subarray-i) | Easy |
 | 645 | [Set Mismatch](https://leetcode.com/problems/set-mismatch) | [Java](0645-set-mismatch) | Easy |
 | 653 | [Two Sum IV Input Is A Bst](https://leetcode.com/problems/two-sum-iv-input-is-a-bst) | [Java](0653-two-sum-iv-input-is-a-bst) | Easy |
 | 657 | [Robot Return To Origin](https://leetcode.com/problems/robot-return-to-origin) | [Java](0657-robot-return-to-origin) | Easy |
@@ -344,15 +345,3 @@
 | 3921 | [Score Validator](https://leetcode.com/problems/score-validator) | [Java](3921-score-validator) | Easy |
 | 3925 | [Concatenate Array With Reverse](https://leetcode.com/problems/concatenate-array-with-reverse) | [Java](3925-concatenate-array-with-reverse) | Easy |
 | 3959 | [Check Good Integer](https://leetcode.com/problems/check-good-integer) | [Java](3959-check-good-integer) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0643-maximum-average-subarray-i](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0643-maximum-average-subarray-i) |
-## Sliding Window
-|  |
-| ------- |
-| [0643-maximum-average-subarray-i](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0643-maximum-average-subarray-i) |
-<!---LeetCode Topics End-->
