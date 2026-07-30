@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 301 ✅  
+- Easy: 302 ✅  
 - Medium: 30 ⚡  
 - Hard: 0 🔥  
-- **Total: 331**
+- **Total: 332**
 
 ---
 
@@ -102,6 +102,7 @@
 | 500 | [Keyboard Row](https://leetcode.com/problems/keyboard-row) | [Java](0500-keyboard-row) | Easy |
 | 501 | [Find Mode In Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree) | [Java](0501-find-mode-in-binary-search-tree) | Easy |
 | 506 | [Relative Ranks](https://leetcode.com/problems/relative-ranks) | [Java](0506-relative-ranks) | Easy |
+| 507 | [Perfect Number](https://leetcode.com/problems/perfect-number) | [Java](0507-perfect-number) | Easy |
 | 530 | [Minimum Absolute Difference In Bst](https://leetcode.com/problems/minimum-absolute-difference-in-bst) | [Java](0530-minimum-absolute-difference-in-bst) | Easy |
 | 535 | [Encode And Decode Tinyurl](https://leetcode.com/problems/encode-and-decode-tinyurl) | [Java](0535-encode-and-decode-tinyurl) | Medium |
 | 541 | [Reverse String II](https://leetcode.com/problems/reverse-string-ii) | [Java](0541-reverse-string-ii) | Easy |
@@ -345,11 +346,3 @@
 | 3921 | [Score Validator](https://leetcode.com/problems/score-validator) | [Java](3921-score-validator) | Easy |
 | 3925 | [Concatenate Array With Reverse](https://leetcode.com/problems/concatenate-array-with-reverse) | [Java](3925-concatenate-array-with-reverse) | Easy |
 | 3959 | [Check Good Integer](https://leetcode.com/problems/check-good-integer) | [Java](3959-check-good-integer) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-|  |
-| ------- |
-| [0507-perfect-number](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0507-perfect-number) |
-<!---LeetCode Topics End-->
