@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 302 ✅  
+- Easy: 303 ✅  
 - Medium: 30 ⚡  
 - Hard: 0 🔥  
-- **Total: 332**
+- **Total: 333**
 
 ---
 
@@ -254,6 +254,7 @@
 | 2231 | [Largest Number After Digit Swaps By Parity](https://leetcode.com/problems/largest-number-after-digit-swaps-by-parity) | [Java](2231-largest-number-after-digit-swaps-by-parity) | Easy |
 | 2236 | [Root Equals Sum Of Children](https://leetcode.com/problems/root-equals-sum-of-children) | [Java](2236-root-equals-sum-of-children) | Easy |
 | 2248 | [Intersection Of Multiple Arrays](https://leetcode.com/problems/intersection-of-multiple-arrays) | [Java](2248-intersection-of-multiple-arrays) | Easy |
+| 2259 | [Remove Digit From Number To Maximize Result](https://leetcode.com/problems/remove-digit-from-number-to-maximize-result) | [Java](2259-remove-digit-from-number-to-maximize-result) | Easy |
 | 2260 | [Divide A String Into Groups Of Size K](https://leetcode.com/problems/divide-a-string-into-groups-of-size-k) | [Java](2260-divide-a-string-into-groups-of-size-k) | Easy |
 | 2264 | [Largest 3 Same Digit Number In String](https://leetcode.com/problems/largest-3-same-digit-number-in-string) | [Java](2264-largest-3-same-digit-number-in-string) | Easy |
 | 2274 | [Keep Multiplying Found Values By Two](https://leetcode.com/problems/keep-multiplying-found-values-by-two) | [Java](2274-keep-multiplying-found-values-by-two) | Easy |
@@ -346,19 +347,3 @@
 | 3921 | [Score Validator](https://leetcode.com/problems/score-validator) | [Java](3921-score-validator) | Easy |
 | 3925 | [Concatenate Array With Reverse](https://leetcode.com/problems/concatenate-array-with-reverse) | [Java](3925-concatenate-array-with-reverse) | Easy |
 | 3959 | [Check Good Integer](https://leetcode.com/problems/check-good-integer) | [Java](3959-check-good-integer) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## String
-|  |
-| ------- |
-| [2259-remove-digit-from-number-to-maximize-result](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
-## Greedy
-|  |
-| ------- |
-| [2259-remove-digit-from-number-to-maximize-result](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
-## Enumeration
-|  |
-| ------- |
-| [2259-remove-digit-from-number-to-maximize-result](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
-<!---LeetCode Topics End-->
