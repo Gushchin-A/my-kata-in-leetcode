@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 304 ✅  
+- Easy: 305 ✅  
 - Medium: 30 ⚡  
 - Hard: 0 🔥  
-- **Total: 334**
+- **Total: 335**
 
 ---
 
@@ -268,6 +268,7 @@
 | 2367 | [Number Of Arithmetic Triplets](https://leetcode.com/problems/number-of-arithmetic-triplets) | [Java](2367-number-of-arithmetic-triplets) | Easy |
 | 2390 | [Removing Stars From A String](https://leetcode.com/problems/removing-stars-from-a-string) | [Java](2390-removing-stars-from-a-string) | Medium |
 | 2396 | [Strictly Palindromic Number](https://leetcode.com/problems/strictly-palindromic-number) | [Java](2396-strictly-palindromic-number) | Medium |
+| 2409 | [Count Days Spent Together](https://leetcode.com/problems/count-days-spent-together) | [Java](2409-count-days-spent-together) | Easy |
 | 2413 | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple) | [Java](2413-smallest-even-multiple) | Easy |
 | 2418 | [Sort The People](https://leetcode.com/problems/sort-the-people) | [Java](2418-sort-the-people) | Easy |
 | 2427 | [Number Of Common Factors](https://leetcode.com/problems/number-of-common-factors) | [Java](2427-number-of-common-factors) | Easy |
@@ -348,15 +349,3 @@
 | 3921 | [Score Validator](https://leetcode.com/problems/score-validator) | [Java](3921-score-validator) | Easy |
 | 3925 | [Concatenate Array With Reverse](https://leetcode.com/problems/concatenate-array-with-reverse) | [Java](3925-concatenate-array-with-reverse) | Easy |
 | 3959 | [Check Good Integer](https://leetcode.com/problems/check-good-integer) | [Java](3959-check-good-integer) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-|  |
-| ------- |
-| [2409-count-days-spent-together](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2409-count-days-spent-together) |
-## String
-|  |
-| ------- |
-| [2409-count-days-spent-together](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2409-count-days-spent-together) |
-<!---LeetCode Topics End-->
