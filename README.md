@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 305 ✅  
+- Easy: 306 ✅  
 - Medium: 30 ⚡  
 - Hard: 0 🔥  
-- **Total: 335**
+- **Total: 336**
 
 ---
 
@@ -94,6 +94,7 @@
 | 414 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number) | [Java](0414-third-maximum-number) | Easy |
 | 415 | [Add Strings](https://leetcode.com/problems/add-strings) | [Java](0415-add-strings) | Easy |
 | 434 | [Number Of Segments In A String](https://leetcode.com/problems/number-of-segments-in-a-string) | [Java](0434-number-of-segments-in-a-string) | Easy |
+| 441 | [Arranging Coins](https://leetcode.com/problems/arranging-coins) | [Java](0441-arranging-coins) | Easy |
 | 448 | [Find All Numbers Disappeared In An Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array) | [Java](0448-find-all-numbers-disappeared-in-an-array) | Easy |
 | 459 | [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern) | [Java](0459-repeated-substring-pattern) | Easy |
 | 463 | [Island Perimeter](https://leetcode.com/problems/island-perimeter) | [Java](0463-island-perimeter) | Easy |
@@ -349,15 +350,3 @@
 | 3921 | [Score Validator](https://leetcode.com/problems/score-validator) | [Java](3921-score-validator) | Easy |
 | 3925 | [Concatenate Array With Reverse](https://leetcode.com/problems/concatenate-array-with-reverse) | [Java](3925-concatenate-array-with-reverse) | Easy |
 | 3959 | [Check Good Integer](https://leetcode.com/problems/check-good-integer) | [Java](3959-check-good-integer) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-|  |
-| ------- |
-| [0441-arranging-coins](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0441-arranging-coins) |
-## Binary Search
-|  |
-| ------- |
-| [0441-arranging-coins](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0441-arranging-coins) |
-<!---LeetCode Topics End-->
