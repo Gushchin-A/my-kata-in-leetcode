@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 306 ✅  
+- Easy: 307 ✅  
 - Medium: 30 ⚡  
 - Hard: 0 🔥  
-- **Total: 336**
+- **Total: 337**
 
 ---
 
@@ -80,6 +80,7 @@
 | 290 | [Word Pattern](https://leetcode.com/problems/word-pattern) | [Java](0290-word-pattern) | Easy |
 | 292 | [Nim Game](https://leetcode.com/problems/nim-game) | [Java](0292-nim-game) | Easy |
 | 303 | [Range Sum Query Immutable](https://leetcode.com/problems/range-sum-query-immutable) | [Java](0303-range-sum-query-immutable) | Easy |
+| 326 | [Power Of Three](https://leetcode.com/problems/power-of-three) | [Java](0326-power-of-three) | Easy |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string) | [Java](0344-reverse-string) | Easy |
 | 345 | [Reverse Vowels Of A String](https://leetcode.com/problems/reverse-vowels-of-a-string) | [Java](0345-reverse-vowels-of-a-string) | Easy |
 | 349 | [Intersection Of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays) | [Java](0349-intersection-of-two-arrays) | Easy |
@@ -350,15 +351,3 @@
 | 3921 | [Score Validator](https://leetcode.com/problems/score-validator) | [Java](3921-score-validator) | Easy |
 | 3925 | [Concatenate Array With Reverse](https://leetcode.com/problems/concatenate-array-with-reverse) | [Java](3925-concatenate-array-with-reverse) | Easy |
 | 3959 | [Check Good Integer](https://leetcode.com/problems/check-good-integer) | [Java](3959-check-good-integer) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-|  |
-| ------- |
-| [0326-power-of-three](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0326-power-of-three) |
-## Recursion
-|  |
-| ------- |
-| [0326-power-of-three](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0326-power-of-three) |
-<!---LeetCode Topics End-->
