@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 307 ✅  
+- Easy: 308 ✅  
 - Medium: 30 ⚡  
 - Hard: 0 🔥  
-- **Total: 337**
+- **Total: 338**
 
 ---
 
@@ -150,6 +150,7 @@
 | 897 | [Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree) | [Java](0897-increasing-order-search-tree) | Easy |
 | 905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity) | [Java](0905-sort-array-by-parity) | Easy |
 | 908 | [Middle Of The Linked List](https://leetcode.com/problems/middle-of-the-linked-list) | [Java](0908-middle-of-the-linked-list) | Easy |
+| 908 | [Smallest Range I](https://leetcode.com/problems/smallest-range-i) | [Java](0908-smallest-range-i) | Easy |
 | 922 | [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii) | [Java](0922-sort-array-by-parity-ii) | Easy |
 | 929 | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses) | [Java](0929-unique-email-addresses) | Easy |
 | 938 | [Range Sum Of Bst](https://leetcode.com/problems/range-sum-of-bst) | [Java](0938-range-sum-of-bst) | Easy |
@@ -351,15 +352,3 @@
 | 3921 | [Score Validator](https://leetcode.com/problems/score-validator) | [Java](3921-score-validator) | Easy |
 | 3925 | [Concatenate Array With Reverse](https://leetcode.com/problems/concatenate-array-with-reverse) | [Java](3925-concatenate-array-with-reverse) | Easy |
 | 3959 | [Check Good Integer](https://leetcode.com/problems/check-good-integer) | [Java](3959-check-good-integer) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0908-smallest-range-i](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0908-smallest-range-i) |
-## Math
-|  |
-| ------- |
-| [0908-smallest-range-i](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0908-smallest-range-i) |
-<!---LeetCode Topics End-->
