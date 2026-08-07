@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 308 ✅  
+- Easy: 309 ✅  
 - Medium: 30 ⚡  
 - Hard: 0 🔥  
-- **Total: 338**
+- **Total: 339**
 
 ---
 
@@ -327,6 +327,7 @@
 | 3309 | [Count Prefix And Suffix Pairs I](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i) | [Java](3309-count-prefix-and-suffix-pairs-i) | Easy |
 | 3340 | [Check Balanced String](https://leetcode.com/problems/check-balanced-string) | [Java](3340-check-balanced-string) | Easy |
 | 3364 | [Minimum Positive Sum Subarray](https://leetcode.com/problems/minimum-positive-sum-subarray) | [Java](3364-minimum-positive-sum-subarray) | Easy |
+| 3411 | [Maximum Subarray With Equal Products](https://leetcode.com/problems/maximum-subarray-with-equal-products) | [Java](3411-maximum-subarray-with-equal-products) | Easy |
 | 3427 | [Sum Of Variable Length Subarrays](https://leetcode.com/problems/sum-of-variable-length-subarrays) | [Java](3427-sum-of-variable-length-subarrays) | Easy |
 | 3432 | [Count Partitions With Even Sum Difference](https://leetcode.com/problems/count-partitions-with-even-sum-difference) | [Java](3432-count-partitions-with-even-sum-difference) | Easy |
 | 3467 | [Transform Array By Parity](https://leetcode.com/problems/transform-array-by-parity) | [Java](3467-transform-array-by-parity) | Easy |
@@ -352,27 +353,3 @@
 | 3921 | [Score Validator](https://leetcode.com/problems/score-validator) | [Java](3921-score-validator) | Easy |
 | 3925 | [Concatenate Array With Reverse](https://leetcode.com/problems/concatenate-array-with-reverse) | [Java](3925-concatenate-array-with-reverse) | Easy |
 | 3959 | [Check Good Integer](https://leetcode.com/problems/check-good-integer) | [Java](3959-check-good-integer) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [3411-maximum-subarray-with-equal-products](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
-## Math
-|  |
-| ------- |
-| [3411-maximum-subarray-with-equal-products](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
-## Sliding Window
-|  |
-| ------- |
-| [3411-maximum-subarray-with-equal-products](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
-## Enumeration
-|  |
-| ------- |
-| [3411-maximum-subarray-with-equal-products](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
-## Number Theory
-|  |
-| ------- |
-| [3411-maximum-subarray-with-equal-products](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
-<!---LeetCode Topics End-->
