@@ -14,13 +14,7 @@ class Solution {
             return;
         }
 
-        if (!current.isEmpty()) {
-            if (current.charAt(current.length() - 1) != '0') {
-                current.append('0');
-                backtrack(n, current, result);
-                current.setLength(current.length() - 1);
-            }
-        } else {
+        if (current.isEmpty() || current.charAt(current.length() - 1) != '0') {
             current.append('0');
             backtrack(n, current, result);
             current.setLength(current.length() - 1);
