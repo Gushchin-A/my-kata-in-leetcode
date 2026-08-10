@@ -4,9 +4,9 @@
 #### 📊 Progress
 
 - Easy: 311 ✅  
-- Medium: 31 ⚡  
+- Medium: 32 ⚡  
 - Hard: 0 🔥  
-- **Total: 342**
+- **Total: 343**
 
 ---
 
@@ -35,6 +35,7 @@
 | 58 | [Length Of Last Word](https://leetcode.com/problems/length-of-last-word) | [Java](0058-length-of-last-word) | Easy |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one) | [Java](0066-plus-one) | Easy |
 | 67 | [Add Binary](https://leetcode.com/problems/add-binary) | [Java](0067-add-binary) | Easy |
+| 77 | [Combinations](https://leetcode.com/problems/combinations) | [Java](0077-combinations) | Medium |
 | 78 | [Subsets](https://leetcode.com/problems/subsets) | [Java](0078-subsets) | Medium |
 | 83 | [Remove Duplicates From Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list) | [Java](0083-remove-duplicates-from-sorted-list) | Easy |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | [Java](0088-merge-sorted-array) | Easy |
@@ -356,11 +357,3 @@
 | 3921 | [Score Validator](https://leetcode.com/problems/score-validator) | [Java](3921-score-validator) | Easy |
 | 3925 | [Concatenate Array With Reverse](https://leetcode.com/problems/concatenate-array-with-reverse) | [Java](3925-concatenate-array-with-reverse) | Easy |
 | 3959 | [Check Good Integer](https://leetcode.com/problems/check-good-integer) | [Java](3959-check-good-integer) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Backtracking
-|  |
-| ------- |
-| [0077-combinations](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0077-combinations) |
-<!---LeetCode Topics End-->
