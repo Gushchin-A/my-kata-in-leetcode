@@ -4,9 +4,9 @@
 #### 📊 Progress
 
 - Easy: 311 ✅  
-- Medium: 32 ⚡  
+- Medium: 33 ⚡  
 - Hard: 0 🔥  
-- **Total: 343**
+- **Total: 344**
 
 ---
 
@@ -272,6 +272,7 @@
 | 2341 | [Count Prefixes Of A Given String](https://leetcode.com/problems/count-prefixes-of-a-given-string) | [Java](2341-count-prefixes-of-a-given-string) | Easy |
 | 2367 | [Number Of Arithmetic Triplets](https://leetcode.com/problems/number-of-arithmetic-triplets) | [Java](2367-number-of-arithmetic-triplets) | Easy |
 | 2390 | [Removing Stars From A String](https://leetcode.com/problems/removing-stars-from-a-string) | [Java](2390-removing-stars-from-a-string) | Medium |
+| 2391 | [Minimum Amount Of Time To Collect Garbage](https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage) | [Java](2391-minimum-amount-of-time-to-collect-garbage) | Medium |
 | 2396 | [Strictly Palindromic Number](https://leetcode.com/problems/strictly-palindromic-number) | [Java](2396-strictly-palindromic-number) | Medium |
 | 2409 | [Count Days Spent Together](https://leetcode.com/problems/count-days-spent-together) | [Java](2409-count-days-spent-together) | Easy |
 | 2413 | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple) | [Java](2413-smallest-even-multiple) | Easy |
@@ -357,19 +358,3 @@
 | 3921 | [Score Validator](https://leetcode.com/problems/score-validator) | [Java](3921-score-validator) | Easy |
 | 3925 | [Concatenate Array With Reverse](https://leetcode.com/problems/concatenate-array-with-reverse) | [Java](3925-concatenate-array-with-reverse) | Easy |
 | 3959 | [Check Good Integer](https://leetcode.com/problems/check-good-integer) | [Java](3959-check-good-integer) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
-## String
-|  |
-| ------- |
-| [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
-## Prefix Sum
-|  |
-| ------- |
-| [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
-<!---LeetCode Topics End-->
