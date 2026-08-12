@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 311 ✅  
+- Easy: 312 ✅  
 - Medium: 33 ⚡  
 - Hard: 0 🔥  
-- **Total: 344**
+- **Total: 345**
 
 ---
 
@@ -70,6 +70,7 @@
 | 219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii) | [Java](0219-contains-duplicate-ii) | Easy |
 | 222 | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes) | [Java](0222-count-complete-tree-nodes) | Easy |
 | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree) | [Java](0226-invert-binary-tree) | Easy |
+| 231 | [Power Of Two](https://leetcode.com/problems/power-of-two) | [Java](0231-power-of-two) | Easy |
 | 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list) | [Java](0234-palindrome-linked-list) | Easy |
 | 237 | [Delete Node In A Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list) | [Java](0237-delete-node-in-a-linked-list) | Medium |
 | 238 | [Product Of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) | [Java](0238-product-of-array-except-self) | Medium |
@@ -358,19 +359,3 @@
 | 3921 | [Score Validator](https://leetcode.com/problems/score-validator) | [Java](3921-score-validator) | Easy |
 | 3925 | [Concatenate Array With Reverse](https://leetcode.com/problems/concatenate-array-with-reverse) | [Java](3925-concatenate-array-with-reverse) | Easy |
 | 3959 | [Check Good Integer](https://leetcode.com/problems/check-good-integer) | [Java](3959-check-good-integer) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-|  |
-| ------- |
-| [0231-power-of-two](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0231-power-of-two) |
-## Bit Manipulation
-|  |
-| ------- |
-| [0231-power-of-two](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0231-power-of-two) |
-## Recursion
-|  |
-| ------- |
-| [0231-power-of-two](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0231-power-of-two) |
-<!---LeetCode Topics End-->
