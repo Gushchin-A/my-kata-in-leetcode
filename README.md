@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 312 ✅  
+- Easy: 313 ✅  
 - Medium: 33 ⚡  
 - Hard: 0 🔥  
-- **Total: 345**
+- **Total: 346**
 
 ---
 
@@ -358,16 +358,5 @@
 | 3894 | [Traffic Signal Color](https://leetcode.com/problems/traffic-signal-color) | [Java](3894-traffic-signal-color) | Easy |
 | 3921 | [Score Validator](https://leetcode.com/problems/score-validator) | [Java](3921-score-validator) | Easy |
 | 3925 | [Concatenate Array With Reverse](https://leetcode.com/problems/concatenate-array-with-reverse) | [Java](3925-concatenate-array-with-reverse) | Easy |
+| 3945 | [Digit Frequency Score](https://leetcode.com/problems/digit-frequency-score) | [Java](3945-digit-frequency-score) | Easy |
 | 3959 | [Check Good Integer](https://leetcode.com/problems/check-good-integer) | [Java](3959-check-good-integer) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Hash Table
-|  |
-| ------- |
-| [3945-digit-frequency-score](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/3945-digit-frequency-score) |
-## Math
-|  |
-| ------- |
-| [3945-digit-frequency-score](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/3945-digit-frequency-score) |
-<!---LeetCode Topics End-->
