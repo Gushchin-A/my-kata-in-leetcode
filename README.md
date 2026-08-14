@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 313 ✅  
+- Easy: 314 ✅  
 - Medium: 33 ⚡  
 - Hard: 0 🔥  
-- **Total: 346**
+- **Total: 347**
 
 ---
 
@@ -258,6 +258,7 @@
 | 2215 | [Find The Difference Of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays) | [Java](2215-find-the-difference-of-two-arrays) | Easy |
 | 2231 | [Find First Palindromic String In The Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array) | [Java](2231-find-first-palindromic-string-in-the-array) | Easy |
 | 2231 | [Largest Number After Digit Swaps By Parity](https://leetcode.com/problems/largest-number-after-digit-swaps-by-parity) | [Java](2231-largest-number-after-digit-swaps-by-parity) | Easy |
+| 2235 | [Add Two Integers](https://leetcode.com/problems/add-two-integers) | [Java](2235-add-two-integers) | Easy |
 | 2236 | [Root Equals Sum Of Children](https://leetcode.com/problems/root-equals-sum-of-children) | [Java](2236-root-equals-sum-of-children) | Easy |
 | 2248 | [Intersection Of Multiple Arrays](https://leetcode.com/problems/intersection-of-multiple-arrays) | [Java](2248-intersection-of-multiple-arrays) | Easy |
 | 2259 | [Remove Digit From Number To Maximize Result](https://leetcode.com/problems/remove-digit-from-number-to-maximize-result) | [Java](2259-remove-digit-from-number-to-maximize-result) | Easy |
@@ -360,11 +361,3 @@
 | 3925 | [Concatenate Array With Reverse](https://leetcode.com/problems/concatenate-array-with-reverse) | [Java](3925-concatenate-array-with-reverse) | Easy |
 | 3945 | [Digit Frequency Score](https://leetcode.com/problems/digit-frequency-score) | [Java](3945-digit-frequency-score) | Easy |
 | 3959 | [Check Good Integer](https://leetcode.com/problems/check-good-integer) | [Java](3959-check-good-integer) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-|  |
-| ------- |
-| [2235-add-two-integers](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2235-add-two-integers) |
-<!---LeetCode Topics End-->
