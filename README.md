@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 314 ✅  
+- Easy: 315 ✅  
 - Medium: 33 ⚡  
 - Hard: 0 🔥  
-- **Total: 347**
+- **Total: 348**
 
 ---
 
@@ -198,6 +198,7 @@
 | 1417 | [Reformat The String](https://leetcode.com/problems/reformat-the-string) | [Java](1417-reformat-the-string) | Easy |
 | 1418 | [Display Table Of Food Orders In A Restaurant](https://leetcode.com/problems/display-table-of-food-orders-in-a-restaurant) | [Java](1418-display-table-of-food-orders-in-a-restaurant) | Medium |
 | 1422 | [Maximum Score After Splitting A String](https://leetcode.com/problems/maximum-score-after-splitting-a-string) | [Java](1422-maximum-score-after-splitting-a-string) | Easy |
+| 1431 | [Kids With The Greatest Number Of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies) | [Java](1431-kids-with-the-greatest-number-of-candies) | Easy |
 | 1436 | [Destination City](https://leetcode.com/problems/destination-city) | [Java](1436-destination-city) | Easy |
 | 1444 | [Number Of Steps To Reduce A Number To Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero) | [Java](1444-number-of-steps-to-reduce-a-number-to-zero) | Easy |
 | 1454 | [Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences) | [Java](1454-remove-palindromic-subsequences) | Easy |
@@ -361,11 +362,3 @@
 | 3925 | [Concatenate Array With Reverse](https://leetcode.com/problems/concatenate-array-with-reverse) | [Java](3925-concatenate-array-with-reverse) | Easy |
 | 3945 | [Digit Frequency Score](https://leetcode.com/problems/digit-frequency-score) | [Java](3945-digit-frequency-score) | Easy |
 | 3959 | [Check Good Integer](https://leetcode.com/problems/check-good-integer) | [Java](3959-check-good-integer) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
-<!---LeetCode Topics End-->
