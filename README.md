@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 316 ✅  
+- Easy: 317 ✅  
 - Medium: 33 ⚡  
 - Hard: 0 🔥  
-- **Total: 349**
+- **Total: 350**
 
 ---
 
@@ -179,6 +179,7 @@
 | 1241 | [Decompress Run Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list) | [Java](1241-decompress-run-length-encoded-list) | Easy |
 | 1252 | [Cells With Odd Values In A Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix) | [Java](1252-cells-with-odd-values-in-a-matrix) | Easy |
 | 1260 | [Shift 2d Grid](https://leetcode.com/problems/shift-2d-grid) | [Java](1260-shift-2d-grid) | Easy |
+| 1281 | [Subtract The Product And Sum Of Digits Of An Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer) | [Java](1281-subtract-the-product-and-sum-of-digits-of-an-integer) | Easy |
 | 1282 | [Group The People Given The Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to) | [Java](1282-group-the-people-given-the-group-size-they-belong-to) | Medium |
 | 1295 | [Find Numbers With Even Number Of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits) | [Java](1295-find-numbers-with-even-number-of-digits) | Easy |
 | 1304 | [Find N Unique Integers Sum Up To Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero) | [Java](1304-find-n-unique-integers-sum-up-to-zero) | Easy |
@@ -363,11 +364,3 @@
 | 3925 | [Concatenate Array With Reverse](https://leetcode.com/problems/concatenate-array-with-reverse) | [Java](3925-concatenate-array-with-reverse) | Easy |
 | 3945 | [Digit Frequency Score](https://leetcode.com/problems/digit-frequency-score) | [Java](3945-digit-frequency-score) | Easy |
 | 3959 | [Check Good Integer](https://leetcode.com/problems/check-good-integer) | [Java](3959-check-good-integer) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-|  |
-| ------- |
-| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
-<!---LeetCode Topics End-->
