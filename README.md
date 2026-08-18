@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 318 ✅  
+- Easy: 319 ✅  
 - Medium: 33 ⚡  
 - Hard: 0 🔥  
-- **Total: 351**
+- **Total: 352**
 
 ---
 
@@ -318,6 +318,7 @@
 | 3019 | [Number Of Changing Keys](https://leetcode.com/problems/number-of-changing-keys) | [Java](3019-number-of-changing-keys) | Easy |
 | 3065 | [Minimum Operations To Exceed Threshold Value I](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-i) | [Java](3065-minimum-operations-to-exceed-threshold-value-i) | Easy |
 | 3074 | [Apple Redistribution Into Boxes](https://leetcode.com/problems/apple-redistribution-into-boxes) | [Java](3074-apple-redistribution-into-boxes) | Easy |
+| 3099 | [Harshad Number](https://leetcode.com/problems/harshad-number) | [Java](3099-harshad-number) | Easy |
 | 3110 | [Score Of A String](https://leetcode.com/problems/score-of-a-string) | [Java](3110-score-of-a-string) | Easy |
 | 3146 | [Permutation Difference Between Two Strings](https://leetcode.com/problems/permutation-difference-between-two-strings) | [Java](3146-permutation-difference-between-two-strings) | Easy |
 | 3151 | [Special Array I](https://leetcode.com/problems/special-array-i) | [Java](3151-special-array-i) | Easy |
@@ -365,11 +366,3 @@
 | 3925 | [Concatenate Array With Reverse](https://leetcode.com/problems/concatenate-array-with-reverse) | [Java](3925-concatenate-array-with-reverse) | Easy |
 | 3945 | [Digit Frequency Score](https://leetcode.com/problems/digit-frequency-score) | [Java](3945-digit-frequency-score) | Easy |
 | 3959 | [Check Good Integer](https://leetcode.com/problems/check-good-integer) | [Java](3959-check-good-integer) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-|  |
-| ------- |
-| [3099-harshad-number](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/3099-harshad-number) |
-<!---LeetCode Topics End-->
