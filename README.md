@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 317 ✅  
+- Easy: 318 ✅  
 - Medium: 33 ⚡  
 - Hard: 0 🔥  
-- **Total: 350**
+- **Total: 351**
 
 ---
 
@@ -324,6 +324,7 @@
 | 3162 | [Find The Number Of Good Pairs I](https://leetcode.com/problems/find-the-number-of-good-pairs-i) | [Java](3162-find-the-number-of-good-pairs-i) | Easy |
 | 3174 | [Clear Digits](https://leetcode.com/problems/clear-digits) | [Java](3174-clear-digits) | Easy |
 | 3190 | [Find Minimum Operations To Make All Elements Divisible By Three](https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three) | [Java](3190-find-minimum-operations-to-make-all-elements-divisible-by-three) | Easy |
+| 3194 | [Minimum Average Of Smallest And Largest Elements](https://leetcode.com/problems/minimum-average-of-smallest-and-largest-elements) | [Java](3194-minimum-average-of-smallest-and-largest-elements) | Easy |
 | 3211 | [Generate Binary Strings Without Adjacent Zeros](https://leetcode.com/problems/generate-binary-strings-without-adjacent-zeros) | [Java](3211-generate-binary-strings-without-adjacent-zeros) | Medium |
 | 3258 | [Count Substrings That Satisfy K Constraint I](https://leetcode.com/problems/count-substrings-that-satisfy-k-constraint-i) | [Java](3258-count-substrings-that-satisfy-k-constraint-i) | Easy |
 | 3270 | [Find The Key Of The Numbers](https://leetcode.com/problems/find-the-key-of-the-numbers) | [Java](3270-find-the-key-of-the-numbers) | Easy |
@@ -364,19 +365,3 @@
 | 3925 | [Concatenate Array With Reverse](https://leetcode.com/problems/concatenate-array-with-reverse) | [Java](3925-concatenate-array-with-reverse) | Easy |
 | 3945 | [Digit Frequency Score](https://leetcode.com/problems/digit-frequency-score) | [Java](3945-digit-frequency-score) | Easy |
 | 3959 | [Check Good Integer](https://leetcode.com/problems/check-good-integer) | [Java](3959-check-good-integer) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
-## Two Pointers
-|  |
-| ------- |
-| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
-## Sorting
-|  |
-| ------- |
-| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
-<!---LeetCode Topics End-->
