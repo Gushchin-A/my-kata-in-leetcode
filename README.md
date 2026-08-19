@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 319 ✅  
+- Easy: 320 ✅  
 - Medium: 33 ⚡  
 - Hard: 0 🔥  
-- **Total: 352**
+- **Total: 353**
 
 ---
 
@@ -301,6 +301,7 @@
 | 2697 | [Lexicographically Smallest Palindrome](https://leetcode.com/problems/lexicographically-smallest-palindrome) | [Java](2697-lexicographically-smallest-palindrome) | Easy |
 | 2698 | [Find The Array Concatenation Value](https://leetcode.com/problems/find-the-array-concatenation-value) | [Java](2698-find-the-array-concatenation-value) | Easy |
 | 2714 | [Left And Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences) | [Java](2714-left-and-right-sum-differences) | Easy |
+| 2744 | [Find Maximum Number Of String Pairs](https://leetcode.com/problems/find-maximum-number-of-string-pairs) | [Java](2744-find-maximum-number-of-string-pairs) | Easy |
 | 2752 | [Sum Multiples](https://leetcode.com/problems/sum-multiples) | [Java](2752-sum-multiples) | Easy |
 | 2769 | [Find The Maximum Achievable Number](https://leetcode.com/problems/find-the-maximum-achievable-number) | [Java](2769-find-the-maximum-achievable-number) | Easy |
 | 2777 | [Find The Distinct Difference Array](https://leetcode.com/problems/find-the-distinct-difference-array) | [Java](2777-find-the-distinct-difference-array) | Easy |
@@ -366,23 +367,3 @@
 | 3925 | [Concatenate Array With Reverse](https://leetcode.com/problems/concatenate-array-with-reverse) | [Java](3925-concatenate-array-with-reverse) | Easy |
 | 3945 | [Digit Frequency Score](https://leetcode.com/problems/digit-frequency-score) | [Java](3945-digit-frequency-score) | Easy |
 | 3959 | [Check Good Integer](https://leetcode.com/problems/check-good-integer) | [Java](3959-check-good-integer) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [2744-find-maximum-number-of-string-pairs](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
-## Hash Table
-|  |
-| ------- |
-| [2744-find-maximum-number-of-string-pairs](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
-## String
-|  |
-| ------- |
-| [2744-find-maximum-number-of-string-pairs](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
-## Simulation
-|  |
-| ------- |
-| [2744-find-maximum-number-of-string-pairs](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
-<!---LeetCode Topics End-->
