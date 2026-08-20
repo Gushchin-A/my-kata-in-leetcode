@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 320 ✅  
+- Easy: 321 ✅  
 - Medium: 33 ⚡  
 - Hard: 0 🔥  
-- **Total: 353**
+- **Total: 354**
 
 ---
 
@@ -305,6 +305,7 @@
 | 2752 | [Sum Multiples](https://leetcode.com/problems/sum-multiples) | [Java](2752-sum-multiples) | Easy |
 | 2769 | [Find The Maximum Achievable Number](https://leetcode.com/problems/find-the-maximum-achievable-number) | [Java](2769-find-the-maximum-achievable-number) | Easy |
 | 2777 | [Find The Distinct Difference Array](https://leetcode.com/problems/find-the-distinct-difference-array) | [Java](2777-find-the-distinct-difference-array) | Easy |
+| 2778 | [Sum Of Squares Of Special Elements](https://leetcode.com/problems/sum-of-squares-of-special-elements) | [Java](2778-sum-of-squares-of-special-elements) | Easy |
 | 2788 | [Split Strings By Separator](https://leetcode.com/problems/split-strings-by-separator) | [Java](2788-split-strings-by-separator) | Easy |
 | 2807 | [Insert Greatest Common Divisors In Linked List](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list) | [Java](2807-insert-greatest-common-divisors-in-linked-list) | Medium |
 | 2824 | [Count Pairs Whose Sum Is Less Than Target](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target) | [Java](2824-count-pairs-whose-sum-is-less-than-target) | Easy |
@@ -367,15 +368,3 @@
 | 3925 | [Concatenate Array With Reverse](https://leetcode.com/problems/concatenate-array-with-reverse) | [Java](3925-concatenate-array-with-reverse) | Easy |
 | 3945 | [Digit Frequency Score](https://leetcode.com/problems/digit-frequency-score) | [Java](3945-digit-frequency-score) | Easy |
 | 3959 | [Check Good Integer](https://leetcode.com/problems/check-good-integer) | [Java](3959-check-good-integer) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [2778-sum-of-squares-of-special-elements](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
-## Enumeration
-|  |
-| ------- |
-| [2778-sum-of-squares-of-special-elements](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
-<!---LeetCode Topics End-->
