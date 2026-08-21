@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 321 ✅  
+- Easy: 322 ✅  
 - Medium: 33 ⚡  
 - Hard: 0 🔥  
-- **Total: 354**
+- **Total: 355**
 
 ---
 
@@ -355,6 +355,7 @@
 | 3712 | [Sum Of Elements With Frequency Divisible By K](https://leetcode.com/problems/sum-of-elements-with-frequency-divisible-by-k) | [Java](3712-sum-of-elements-with-frequency-divisible-by-k) | Easy |
 | 3726 | [Remove Zeros In Decimal Representation](https://leetcode.com/problems/remove-zeros-in-decimal-representation) | [Java](3726-remove-zeros-in-decimal-representation) | Easy |
 | 3731 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements) | [Java](3731-find-missing-elements) | Easy |
+| 3736 | [Minimum Moves To Equal Array Elements III](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii) | [Java](3736-minimum-moves-to-equal-array-elements-iii) | Easy |
 | 3750 | [Minimum Number Of Flips To Reverse Binary String](https://leetcode.com/problems/minimum-number-of-flips-to-reverse-binary-string) | [Java](3750-minimum-number-of-flips-to-reverse-binary-string) | Easy |
 | 3760 | [Maximum Substrings With Distinct Start](https://leetcode.com/problems/maximum-substrings-with-distinct-start) | [Java](3760-maximum-substrings-with-distinct-start) | Medium |
 | 3783 | [Mirror Distance Of An Integer](https://leetcode.com/problems/mirror-distance-of-an-integer) | [Java](3783-mirror-distance-of-an-integer) | Easy |
@@ -368,15 +369,3 @@
 | 3925 | [Concatenate Array With Reverse](https://leetcode.com/problems/concatenate-array-with-reverse) | [Java](3925-concatenate-array-with-reverse) | Easy |
 | 3945 | [Digit Frequency Score](https://leetcode.com/problems/digit-frequency-score) | [Java](3945-digit-frequency-score) | Easy |
 | 3959 | [Check Good Integer](https://leetcode.com/problems/check-good-integer) | [Java](3959-check-good-integer) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
-## Math
-|  |
-| ------- |
-| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
-<!---LeetCode Topics End-->
