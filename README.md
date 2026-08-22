@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 322 ✅  
+- Easy: 323 ✅  
 - Medium: 33 ⚡  
 - Hard: 0 🔥  
-- **Total: 355**
+- **Total: 356**
 
 ---
 
@@ -169,6 +169,7 @@
 | 1031 | [Add To Array Form Of Integer](https://leetcode.com/problems/add-to-array-form-of-integer) | [Java](1031-add-to-array-form-of-integer) | Easy |
 | 1041 | [Available Captures For Rook](https://leetcode.com/problems/available-captures-for-rook) | [Java](1041-available-captures-for-rook) | Easy |
 | 1047 | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string) | [Java](1047-remove-all-adjacent-duplicates-in-string) | Easy |
+| 1051 | [Height Checker](https://leetcode.com/problems/height-checker) | [Java](1051-height-checker) | Easy |
 | 1062 | [Partition Array Into Three Parts With Equal Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum) | [Java](1062-partition-array-into-three-parts-with-equal-sum) | Easy |
 | 1079 | [Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities) | [Java](1079-letter-tile-possibilities) | Medium |
 | 1108 | [Defanging An Ip Address](https://leetcode.com/problems/defanging-an-ip-address) | [Java](1108-defanging-an-ip-address) | Easy |
@@ -369,23 +370,3 @@
 | 3925 | [Concatenate Array With Reverse](https://leetcode.com/problems/concatenate-array-with-reverse) | [Java](3925-concatenate-array-with-reverse) | Easy |
 | 3945 | [Digit Frequency Score](https://leetcode.com/problems/digit-frequency-score) | [Java](3945-digit-frequency-score) | Easy |
 | 3959 | [Check Good Integer](https://leetcode.com/problems/check-good-integer) | [Java](3959-check-good-integer) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [1051-height-checker](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1051-height-checker) |
-## Sorting
-|  |
-| ------- |
-| [1051-height-checker](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1051-height-checker) |
-## Counting Sort
-|  |
-| ------- |
-| [1051-height-checker](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1051-height-checker) |
-## Bubble Sort
-|  |
-| ------- |
-| [1051-height-checker](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1051-height-checker) |
-<!---LeetCode Topics End-->
