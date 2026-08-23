@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 323 ✅  
+- Easy: 324 ✅  
 - Medium: 33 ⚡  
 - Hard: 0 🔥  
-- **Total: 356**
+- **Total: 357**
 
 ---
 
@@ -298,6 +298,7 @@
 | 2651 | [Calculate Delayed Arrival Time](https://leetcode.com/problems/calculate-delayed-arrival-time) | [Java](2651-calculate-delayed-arrival-time) | Easy |
 | 2656 | [Maximum Sum With Exactly K Elements](https://leetcode.com/problems/maximum-sum-with-exactly-k-elements) | [Java](2656-maximum-sum-with-exactly-k-elements) | Easy |
 | 2657 | [Find The Prefix Common Array Of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays) | [Java](2657-find-the-prefix-common-array-of-two-arrays) | Medium |
+| 2678 | [Number Of Senior Citizens](https://leetcode.com/problems/number-of-senior-citizens) | [Java](2678-number-of-senior-citizens) | Easy |
 | 2696 | [Minimum String Length After Removing Substrings](https://leetcode.com/problems/minimum-string-length-after-removing-substrings) | [Java](2696-minimum-string-length-after-removing-substrings) | Easy |
 | 2697 | [Lexicographically Smallest Palindrome](https://leetcode.com/problems/lexicographically-smallest-palindrome) | [Java](2697-lexicographically-smallest-palindrome) | Easy |
 | 2698 | [Find The Array Concatenation Value](https://leetcode.com/problems/find-the-array-concatenation-value) | [Java](2698-find-the-array-concatenation-value) | Easy |
@@ -370,15 +371,3 @@
 | 3925 | [Concatenate Array With Reverse](https://leetcode.com/problems/concatenate-array-with-reverse) | [Java](3925-concatenate-array-with-reverse) | Easy |
 | 3945 | [Digit Frequency Score](https://leetcode.com/problems/digit-frequency-score) | [Java](3945-digit-frequency-score) | Easy |
 | 3959 | [Check Good Integer](https://leetcode.com/problems/check-good-integer) | [Java](3959-check-good-integer) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [2678-number-of-senior-citizens](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2678-number-of-senior-citizens) |
-## String
-|  |
-| ------- |
-| [2678-number-of-senior-citizens](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2678-number-of-senior-citizens) |
-<!---LeetCode Topics End-->
