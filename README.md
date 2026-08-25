@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 325 ✅  
+- Easy: 326 ✅  
 - Medium: 33 ⚡  
 - Hard: 0 🔥  
-- **Total: 358**
+- **Total: 359**
 
 ---
 
@@ -134,6 +134,7 @@
 | 696 | [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings) | [Java](0696-count-binary-substrings) | Easy |
 | 709 | [To Lower Case](https://leetcode.com/problems/to-lower-case) | [Java](0709-to-lower-case) | Easy |
 | 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index) | [Java](0724-find-pivot-index) | Easy |
+| 728 | [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers) | [Java](0728-self-dividing-numbers) | Easy |
 | 733 | [Flood Fill](https://leetcode.com/problems/flood-fill) | [Java](0733-flood-fill) | Easy |
 | 747 | [Largest Number At Least Twice Of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others) | [Java](0747-largest-number-at-least-twice-of-others) | Easy |
 | 771 | [Jewels And Stones](https://leetcode.com/problems/jewels-and-stones) | [Java](0771-jewels-and-stones) | Easy |
@@ -372,11 +373,3 @@
 | 3925 | [Concatenate Array With Reverse](https://leetcode.com/problems/concatenate-array-with-reverse) | [Java](3925-concatenate-array-with-reverse) | Easy |
 | 3945 | [Digit Frequency Score](https://leetcode.com/problems/digit-frequency-score) | [Java](3945-digit-frequency-score) | Easy |
 | 3959 | [Check Good Integer](https://leetcode.com/problems/check-good-integer) | [Java](3959-check-good-integer) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-|  |
-| ------- |
-| [0728-self-dividing-numbers](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0728-self-dividing-numbers) |
-<!---LeetCode Topics End-->
