@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 326 ✅  
+- Easy: 327 ✅  
 - Medium: 33 ⚡  
 - Hard: 0 🔥  
-- **Total: 359**
+- **Total: 360**
 
 ---
 
@@ -353,6 +353,7 @@
 | 3512 | [Minimum Operations To Make Array Sum Divisible By K](https://leetcode.com/problems/minimum-operations-to-make-array-sum-divisible-by-k) | [Java](3512-minimum-operations-to-make-array-sum-divisible-by-k) | Easy |
 | 3516 | [Find Closest Person](https://leetcode.com/problems/find-closest-person) | [Java](3516-find-closest-person) | Easy |
 | 3541 | [Find Most Frequent Vowel And Consonant](https://leetcode.com/problems/find-most-frequent-vowel-and-consonant) | [Java](3541-find-most-frequent-vowel-and-consonant) | Easy |
+| 3550 | [Smallest Index With Digit Sum Equal To Index](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index) | [Java](3550-smallest-index-with-digit-sum-equal-to-index) | Easy |
 | 3668 | [Restore Finishing Order](https://leetcode.com/problems/restore-finishing-order) | [Java](3668-restore-finishing-order) | Easy |
 | 3683 | [Earliest Time To Finish One Task](https://leetcode.com/problems/earliest-time-to-finish-one-task) | [Java](3683-earliest-time-to-finish-one-task) | Easy |
 | 3701 | [Compute Alternating Sum](https://leetcode.com/problems/compute-alternating-sum) | [Java](3701-compute-alternating-sum) | Easy |
@@ -373,15 +374,3 @@
 | 3925 | [Concatenate Array With Reverse](https://leetcode.com/problems/concatenate-array-with-reverse) | [Java](3925-concatenate-array-with-reverse) | Easy |
 | 3945 | [Digit Frequency Score](https://leetcode.com/problems/digit-frequency-score) | [Java](3945-digit-frequency-score) | Easy |
 | 3959 | [Check Good Integer](https://leetcode.com/problems/check-good-integer) | [Java](3959-check-good-integer) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
-## Math
-|  |
-| ------- |
-| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
-<!---LeetCode Topics End-->
