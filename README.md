@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 327 ✅  
+- Easy: 328 ✅  
 - Medium: 33 ⚡  
 - Hard: 0 🔥  
-- **Total: 360**
+- **Total: 361**
 
 ---
 
@@ -88,6 +88,7 @@
 | 345 | [Reverse Vowels Of A String](https://leetcode.com/problems/reverse-vowels-of-a-string) | [Java](0345-reverse-vowels-of-a-string) | Easy |
 | 349 | [Intersection Of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays) | [Java](0349-intersection-of-two-arrays) | Easy |
 | 350 | [Intersection Of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii) | [Java](0350-intersection-of-two-arrays-ii) | Easy |
+| 367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square) | [Java](0367-valid-perfect-square) | Easy |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note) | [Java](0383-ransom-note) | Easy |
 | 387 | [First Unique Character In A String](https://leetcode.com/problems/first-unique-character-in-a-string) | [Java](0387-first-unique-character-in-a-string) | Easy |
 | 389 | [Find The Difference](https://leetcode.com/problems/find-the-difference) | [Java](0389-find-the-difference) | Easy |
@@ -374,15 +375,3 @@
 | 3925 | [Concatenate Array With Reverse](https://leetcode.com/problems/concatenate-array-with-reverse) | [Java](3925-concatenate-array-with-reverse) | Easy |
 | 3945 | [Digit Frequency Score](https://leetcode.com/problems/digit-frequency-score) | [Java](3945-digit-frequency-score) | Easy |
 | 3959 | [Check Good Integer](https://leetcode.com/problems/check-good-integer) | [Java](3959-check-good-integer) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-|  |
-| ------- |
-| [0367-valid-perfect-square](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0367-valid-perfect-square) |
-## Binary Search
-|  |
-| ------- |
-| [0367-valid-perfect-square](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0367-valid-perfect-square) |
-<!---LeetCode Topics End-->
