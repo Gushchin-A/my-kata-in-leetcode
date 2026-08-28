@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 328 ✅  
+- Easy: 329 ✅  
 - Medium: 33 ⚡  
 - Hard: 0 🔥  
-- **Total: 361**
+- **Total: 362**
 
 ---
 
@@ -230,6 +230,7 @@
 | 1748 | [Sum Of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements) | [Java](1748-sum-of-unique-elements) | Easy |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [Java](1768-merge-strings-alternately) | Easy |
 | 1773 | [Count Items Matching A Rule](https://leetcode.com/problems/count-items-matching-a-rule) | [Java](1773-count-items-matching-a-rule) | Easy |
+| 1812 | [Determine Color Of A Chessboard Square](https://leetcode.com/problems/determine-color-of-a-chessboard-square) | [Java](1812-determine-color-of-a-chessboard-square) | Easy |
 | 1816 | [Truncate Sentence](https://leetcode.com/problems/truncate-sentence) | [Java](1816-truncate-sentence) | Easy |
 | 1827 | [Minimum Operations To Make The Array Increasing](https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing) | [Java](1827-minimum-operations-to-make-the-array-increasing) | Easy |
 | 1832 | [Check If The Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram) | [Java](1832-check-if-the-sentence-is-pangram) | Easy |
@@ -375,15 +376,3 @@
 | 3925 | [Concatenate Array With Reverse](https://leetcode.com/problems/concatenate-array-with-reverse) | [Java](3925-concatenate-array-with-reverse) | Easy |
 | 3945 | [Digit Frequency Score](https://leetcode.com/problems/digit-frequency-score) | [Java](3945-digit-frequency-score) | Easy |
 | 3959 | [Check Good Integer](https://leetcode.com/problems/check-good-integer) | [Java](3959-check-good-integer) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-|  |
-| ------- |
-| [1812-determine-color-of-a-chessboard-square](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
-## String
-|  |
-| ------- |
-| [1812-determine-color-of-a-chessboard-square](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
-<!---LeetCode Topics End-->
