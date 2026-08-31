@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 331 ✅  
+- Easy: 332 ✅  
 - Medium: 33 ⚡  
 - Hard: 0 🔥  
-- **Total: 364**
+- **Total: 365**
 
 ---
 
@@ -261,6 +261,7 @@
 | 2114 | [Maximum Number Of Words Found In Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences) | [Java](2114-maximum-number-of-words-found-in-sentences) | Easy |
 | 2128 | [Reverse Prefix Of Word](https://leetcode.com/problems/reverse-prefix-of-word) | [Java](2128-reverse-prefix-of-word) | Easy |
 | 2160 | [Minimum Sum Of Four Digit Number After Splitting Digits](https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits) | [Java](2160-minimum-sum-of-four-digit-number-after-splitting-digits) | Easy |
+| 2176 | [Count Equal And Divisible Pairs In An Array](https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array) | [Java](2176-count-equal-and-divisible-pairs-in-an-array) | Easy |
 | 2181 | [Merge Nodes In Between Zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros) | [Java](2181-merge-nodes-in-between-zeros) | Medium |
 | 2215 | [Find The Difference Of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays) | [Java](2215-find-the-difference-of-two-arrays) | Easy |
 | 2231 | [Find First Palindromic String In The Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array) | [Java](2231-find-first-palindromic-string-in-the-array) | Easy |
@@ -378,11 +379,3 @@
 | 3925 | [Concatenate Array With Reverse](https://leetcode.com/problems/concatenate-array-with-reverse) | [Java](3925-concatenate-array-with-reverse) | Easy |
 | 3945 | [Digit Frequency Score](https://leetcode.com/problems/digit-frequency-score) | [Java](3945-digit-frequency-score) | Easy |
 | 3959 | [Check Good Integer](https://leetcode.com/problems/check-good-integer) | [Java](3959-check-good-integer) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
-<!---LeetCode Topics End-->
