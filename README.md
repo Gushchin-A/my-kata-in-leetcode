@@ -378,3 +378,11 @@
 | 3925 | [Concatenate Array With Reverse](https://leetcode.com/problems/concatenate-array-with-reverse) | [Java](3925-concatenate-array-with-reverse) | Easy |
 | 3945 | [Digit Frequency Score](https://leetcode.com/problems/digit-frequency-score) | [Java](3945-digit-frequency-score) | Easy |
 | 3959 | [Check Good Integer](https://leetcode.com/problems/check-good-integer) | [Java](3959-check-good-integer) | Easy |
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
+<!---LeetCode Topics End-->
