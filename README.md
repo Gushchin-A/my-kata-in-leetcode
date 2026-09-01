@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 332 ✅  
+- Easy: 333 ✅  
 - Medium: 33 ⚡  
 - Hard: 0 🔥  
-- **Total: 365**
+- **Total: 366**
 
 ---
 
@@ -317,6 +317,7 @@
 | 2788 | [Split Strings By Separator](https://leetcode.com/problems/split-strings-by-separator) | [Java](2788-split-strings-by-separator) | Easy |
 | 2807 | [Insert Greatest Common Divisors In Linked List](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list) | [Java](2807-insert-greatest-common-divisors-in-linked-list) | Medium |
 | 2824 | [Count Pairs Whose Sum Is Less Than Target](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target) | [Java](2824-count-pairs-whose-sum-is-less-than-target) | Easy |
+| 2828 | [Check If A String Is An Acronym Of Words](https://leetcode.com/problems/check-if-a-string-is-an-acronym-of-words) | [Java](2828-check-if-a-string-is-an-acronym-of-words) | Easy |
 | 2843 | [Count Symmetric Integers](https://leetcode.com/problems/count-symmetric-integers) | [Java](2843-count-symmetric-integers) | Easy |
 | 2894 | [Divisible And Non Divisible Sums Difference](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference) | [Java](2894-divisible-and-non-divisible-sums-difference) | Easy |
 | 2942 | [Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character) | [Java](2942-find-words-containing-character) | Easy |
@@ -379,15 +380,3 @@
 | 3925 | [Concatenate Array With Reverse](https://leetcode.com/problems/concatenate-array-with-reverse) | [Java](3925-concatenate-array-with-reverse) | Easy |
 | 3945 | [Digit Frequency Score](https://leetcode.com/problems/digit-frequency-score) | [Java](3945-digit-frequency-score) | Easy |
 | 3959 | [Check Good Integer](https://leetcode.com/problems/check-good-integer) | [Java](3959-check-good-integer) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
-## String
-|  |
-| ------- |
-| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
-<!---LeetCode Topics End-->
