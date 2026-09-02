@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 333 ✅  
+- Easy: 334 ✅  
 - Medium: 33 ⚡  
 - Hard: 0 🔥  
-- **Total: 366**
+- **Total: 367**
 
 ---
 
@@ -376,15 +376,8 @@
 | 3861 | [Minimum Capacity Box](https://leetcode.com/problems/minimum-capacity-box) | [Java](3861-minimum-capacity-box) | Easy |
 | 3870 | [Count Commas In Range](https://leetcode.com/problems/count-commas-in-range) | [Java](3870-count-commas-in-range) | Easy |
 | 3894 | [Traffic Signal Color](https://leetcode.com/problems/traffic-signal-color) | [Java](3894-traffic-signal-color) | Easy |
+| 3917 | [Count Indices With Opposite Parity](https://leetcode.com/problems/count-indices-with-opposite-parity) | [Java](3917-count-indices-with-opposite-parity) | Easy |
 | 3921 | [Score Validator](https://leetcode.com/problems/score-validator) | [Java](3921-score-validator) | Easy |
 | 3925 | [Concatenate Array With Reverse](https://leetcode.com/problems/concatenate-array-with-reverse) | [Java](3925-concatenate-array-with-reverse) | Easy |
 | 3945 | [Digit Frequency Score](https://leetcode.com/problems/digit-frequency-score) | [Java](3945-digit-frequency-score) | Easy |
 | 3959 | [Check Good Integer](https://leetcode.com/problems/check-good-integer) | [Java](3959-check-good-integer) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [3917-count-indices-with-opposite-parity](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/3917-count-indices-with-opposite-parity) |
-<!---LeetCode Topics End-->
