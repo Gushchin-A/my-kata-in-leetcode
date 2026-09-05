@@ -1,37 +1,14 @@
 class Solution {
     public String finalString(String s) {
-        int size = 0;
+        StringBuilder str = new StringBuilder();
         for (int i = 0; i < s.length(); i++) {
             if (s.charAt(i) != 'i') {
-                size++;
-            }
-        }
-
-        char[] letters = new char[size];
-
-        int indexRes = 0;
-        for (int i = 0; i < s.length(); i++) {
-            if (s.charAt(i) == 'i') {
-                reverseCharArray(letters, indexRes - 1);
+                str.append(s.charAt(i));
             } else {
-                letters[indexRes++] = s.charAt(i);
+                str.reverse();
             }
         }
 
-        return new String(letters);
-    }
-
-    private void reverseCharArray(char[] array, int end) {
-        int left = 0;
-        int right = end;
-
-        while (left < right) {
-            char temp = array[left];
-            array[left] = array[right];
-            array[right] = temp;
-
-            left++;
-            right--;
-        }
+        return str.toString();
     }
 }
