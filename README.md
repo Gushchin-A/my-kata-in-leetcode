@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 337 ✅  
+- Easy: 338 ✅  
 - Medium: 33 ⚡  
 - Hard: 0 🔥  
-- **Total: 370**
+- **Total: 371**
 
 ---
 
@@ -191,6 +191,7 @@
 | 1323 | [Maximum 69 Number](https://leetcode.com/problems/maximum-69-number) | [Java](1323-maximum-69-number) | Easy |
 | 1331 | [Rank Transform Of An Array](https://leetcode.com/problems/rank-transform-of-an-array) | [Java](1331-rank-transform-of-an-array) | Easy |
 | 1347 | [Minimum Number Of Steps To Make Two Strings Anagram](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram) | [Java](1347-minimum-number-of-steps-to-make-two-strings-anagram) | Medium |
+| 1351 | [Count Negative Numbers In A Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix) | [Java](1351-count-negative-numbers-in-a-sorted-matrix) | Easy |
 | 1365 | [How Many Numbers Are Smaller Than The Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number) | [Java](1365-how-many-numbers-are-smaller-than-the-current-number) | Easy |
 | 1374 | [Generate A String With Characters That Have Odd Counts](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts) | [Java](1374-generate-a-string-with-characters-that-have-odd-counts) | Easy |
 | 1379 | [Find A Corresponding Node Of A Binary Tree In A Clone Of That Tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) | [Java](1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) | Easy |
@@ -384,19 +385,3 @@
 | 3925 | [Concatenate Array With Reverse](https://leetcode.com/problems/concatenate-array-with-reverse) | [Java](3925-concatenate-array-with-reverse) | Easy |
 | 3945 | [Digit Frequency Score](https://leetcode.com/problems/digit-frequency-score) | [Java](3945-digit-frequency-score) | Easy |
 | 3959 | [Check Good Integer](https://leetcode.com/problems/check-good-integer) | [Java](3959-check-good-integer) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
-## Binary Search
-|  |
-| ------- |
-| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
-## Matrix
-|  |
-| ------- |
-| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
-<!---LeetCode Topics End-->
