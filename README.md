@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 338 ✅  
+- Easy: 339 ✅  
 - Medium: 33 ⚡  
 - Hard: 0 🔥  
-- **Total: 371**
+- **Total: 372**
 
 ---
 
@@ -323,6 +323,7 @@
 | 2828 | [Check If A String Is An Acronym Of Words](https://leetcode.com/problems/check-if-a-string-is-an-acronym-of-words) | [Java](2828-check-if-a-string-is-an-acronym-of-words) | Easy |
 | 2843 | [Count Symmetric Integers](https://leetcode.com/problems/count-symmetric-integers) | [Java](2843-count-symmetric-integers) | Easy |
 | 2894 | [Divisible And Non Divisible Sums Difference](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference) | [Java](2894-divisible-and-non-divisible-sums-difference) | Easy |
+| 2913 | [Subarrays Distinct Element Sum Of Squares I](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i) | [Java](2913-subarrays-distinct-element-sum-of-squares-i) | Easy |
 | 2942 | [Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character) | [Java](2942-find-words-containing-character) | Easy |
 | 2951 | [Find The Peaks](https://leetcode.com/problems/find-the-peaks) | [Java](2951-find-the-peaks) | Easy |
 | 2956 | [Find Common Elements Between Two Arrays](https://leetcode.com/problems/find-common-elements-between-two-arrays) | [Java](2956-find-common-elements-between-two-arrays) | Easy |
@@ -385,19 +386,3 @@
 | 3925 | [Concatenate Array With Reverse](https://leetcode.com/problems/concatenate-array-with-reverse) | [Java](3925-concatenate-array-with-reverse) | Easy |
 | 3945 | [Digit Frequency Score](https://leetcode.com/problems/digit-frequency-score) | [Java](3945-digit-frequency-score) | Easy |
 | 3959 | [Check Good Integer](https://leetcode.com/problems/check-good-integer) | [Java](3959-check-good-integer) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
-## Hash Table
-|  |
-| ------- |
-| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
-## Segment Tree
-|  |
-| ------- |
-| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
-<!---LeetCode Topics End-->
