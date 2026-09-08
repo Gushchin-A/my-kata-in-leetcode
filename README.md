@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 339 ✅  
+- Easy: 340 ✅  
 - Medium: 33 ⚡  
 - Hard: 0 🔥  
-- **Total: 372**
+- **Total: 373**
 
 ---
 
@@ -264,6 +264,7 @@
 | 2160 | [Minimum Sum Of Four Digit Number After Splitting Digits](https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits) | [Java](2160-minimum-sum-of-four-digit-number-after-splitting-digits) | Easy |
 | 2176 | [Count Equal And Divisible Pairs In An Array](https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array) | [Java](2176-count-equal-and-divisible-pairs-in-an-array) | Easy |
 | 2181 | [Merge Nodes In Between Zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros) | [Java](2181-merge-nodes-in-between-zeros) | Medium |
+| 2206 | [Divide Array Into Equal Pairs](https://leetcode.com/problems/divide-array-into-equal-pairs) | [Java](2206-divide-array-into-equal-pairs) | Easy |
 | 2215 | [Find The Difference Of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays) | [Java](2215-find-the-difference-of-two-arrays) | Easy |
 | 2231 | [Find First Palindromic String In The Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array) | [Java](2231-find-first-palindromic-string-in-the-array) | Easy |
 | 2231 | [Largest Number After Digit Swaps By Parity](https://leetcode.com/problems/largest-number-after-digit-swaps-by-parity) | [Java](2231-largest-number-after-digit-swaps-by-parity) | Easy |
@@ -386,23 +387,3 @@
 | 3925 | [Concatenate Array With Reverse](https://leetcode.com/problems/concatenate-array-with-reverse) | [Java](3925-concatenate-array-with-reverse) | Easy |
 | 3945 | [Digit Frequency Score](https://leetcode.com/problems/digit-frequency-score) | [Java](3945-digit-frequency-score) | Easy |
 | 3959 | [Check Good Integer](https://leetcode.com/problems/check-good-integer) | [Java](3959-check-good-integer) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [2206-divide-array-into-equal-pairs](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2206-divide-array-into-equal-pairs) |
-## Hash Table
-|  |
-| ------- |
-| [2206-divide-array-into-equal-pairs](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2206-divide-array-into-equal-pairs) |
-## Bit Manipulation
-|  |
-| ------- |
-| [2206-divide-array-into-equal-pairs](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2206-divide-array-into-equal-pairs) |
-## Counting
-|  |
-| ------- |
-| [2206-divide-array-into-equal-pairs](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2206-divide-array-into-equal-pairs) |
-<!---LeetCode Topics End-->
