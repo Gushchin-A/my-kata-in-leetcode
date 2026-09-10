@@ -4,8 +4,20 @@ class Solution {
             return -1;
         }
 
-        Arrays.sort(nums);
+        int min = Integer.MAX_VALUE;
+        int max = Integer.MIN_VALUE;
+        for (int num : nums) {
+            min = Math.min(min, num);
+            max = Math.max(max, num);
+        }
+
+        int result = -1;
+        for (int num : nums) {
+            if (num < max && num > min) {
+                result = num;
+            }
+        }
         
-        return nums[1];
+        return result;
     }
 }
