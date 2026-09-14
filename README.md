@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 342 ✅  
+- Easy: 343 ✅  
 - Medium: 33 ⚡  
 - Hard: 0 🔥  
-- **Total: 375**
+- **Total: 376**
 
 ---
 
@@ -157,6 +157,7 @@
 | 905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity) | [Java](0905-sort-array-by-parity) | Easy |
 | 908 | [Middle Of The Linked List](https://leetcode.com/problems/middle-of-the-linked-list) | [Java](0908-middle-of-the-linked-list) | Easy |
 | 908 | [Smallest Range I](https://leetcode.com/problems/smallest-range-i) | [Java](0908-smallest-range-i) | Easy |
+| 917 | [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters) | [Java](0917-reverse-only-letters) | Easy |
 | 922 | [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii) | [Java](0922-sort-array-by-parity-ii) | Easy |
 | 929 | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses) | [Java](0929-unique-email-addresses) | Easy |
 | 938 | [Range Sum Of Bst](https://leetcode.com/problems/range-sum-of-bst) | [Java](0938-range-sum-of-bst) | Easy |
@@ -389,15 +390,3 @@
 | 3925 | [Concatenate Array With Reverse](https://leetcode.com/problems/concatenate-array-with-reverse) | [Java](3925-concatenate-array-with-reverse) | Easy |
 | 3945 | [Digit Frequency Score](https://leetcode.com/problems/digit-frequency-score) | [Java](3945-digit-frequency-score) | Easy |
 | 3959 | [Check Good Integer](https://leetcode.com/problems/check-good-integer) | [Java](3959-check-good-integer) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Two Pointers
-|  |
-| ------- |
-| [0917-reverse-only-letters](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0917-reverse-only-letters) |
-## String
-|  |
-| ------- |
-| [0917-reverse-only-letters](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0917-reverse-only-letters) |
-<!---LeetCode Topics End-->
