@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 343 ✅  
+- Easy: 344 ✅  
 - Medium: 33 ⚡  
 - Hard: 0 🔥  
-- **Total: 376**
+- **Total: 377**
 
 ---
 
@@ -217,6 +217,7 @@
 | 1505 | [Create Target Array In The Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order) | [Java](1505-create-target-array-in-the-given-order) | Easy |
 | 1512 | [Number Of Good Pairs](https://leetcode.com/problems/number-of-good-pairs) | [Java](1512-number-of-good-pairs) | Easy |
 | 1528 | [Shuffle String](https://leetcode.com/problems/shuffle-string) | [Java](1528-shuffle-string) | Easy |
+| 1534 | [Count Good Triplets](https://leetcode.com/problems/count-good-triplets) | [Java](1534-count-good-triplets) | Easy |
 | 1566 | [Check If A Word Occurs As A Prefix Of Any Word In A Sentence](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) | [Java](1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) | Easy |
 | 1572 | [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum) | [Java](1572-matrix-diagonal-sum) | Easy |
 | 1582 | [Special Positions In A Binary Matrix](https://leetcode.com/problems/special-positions-in-a-binary-matrix) | [Java](1582-special-positions-in-a-binary-matrix) | Easy |
@@ -390,15 +391,3 @@
 | 3925 | [Concatenate Array With Reverse](https://leetcode.com/problems/concatenate-array-with-reverse) | [Java](3925-concatenate-array-with-reverse) | Easy |
 | 3945 | [Digit Frequency Score](https://leetcode.com/problems/digit-frequency-score) | [Java](3945-digit-frequency-score) | Easy |
 | 3959 | [Check Good Integer](https://leetcode.com/problems/check-good-integer) | [Java](3959-check-good-integer) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [1534-count-good-triplets](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1534-count-good-triplets) |
-## Enumeration
-|  |
-| ------- |
-| [1534-count-good-triplets](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1534-count-good-triplets) |
-<!---LeetCode Topics End-->
