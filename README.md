@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 344 ✅  
+- Easy: 345 ✅  
 - Medium: 33 ⚡  
 - Hard: 0 🔥  
-- **Total: 377**
+- **Total: 378**
 
 ---
 
@@ -244,6 +244,7 @@
 | 1859 | [Sorting The Sentence](https://leetcode.com/problems/sorting-the-sentence) | [Java](1859-sorting-the-sentence) | Easy |
 | 1913 | [Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs) | [Java](1913-maximum-product-difference-between-two-pairs) | Easy |
 | 1920 | [Build Array From Permutation](https://leetcode.com/problems/build-array-from-permutation) | [Java](1920-build-array-from-permutation) | Easy |
+| 1925 | [Count Square Sum Triples](https://leetcode.com/problems/count-square-sum-triples) | [Java](1925-count-square-sum-triples) | Easy |
 | 1929 | [Concatenation Of Array](https://leetcode.com/problems/concatenation-of-array) | [Java](1929-concatenation-of-array) | Easy |
 | 1935 | [Maximum Number Of Words You Can Type](https://leetcode.com/problems/maximum-number-of-words-you-can-type) | [Java](1935-maximum-number-of-words-you-can-type) | Easy |
 | 1941 | [Check If All Characters Have Equal Number Of Occurrences](https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences) | [Java](1941-check-if-all-characters-have-equal-number-of-occurrences) | Easy |
@@ -391,15 +392,3 @@
 | 3925 | [Concatenate Array With Reverse](https://leetcode.com/problems/concatenate-array-with-reverse) | [Java](3925-concatenate-array-with-reverse) | Easy |
 | 3945 | [Digit Frequency Score](https://leetcode.com/problems/digit-frequency-score) | [Java](3945-digit-frequency-score) | Easy |
 | 3959 | [Check Good Integer](https://leetcode.com/problems/check-good-integer) | [Java](3959-check-good-integer) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-|  |
-| ------- |
-| [1925-count-square-sum-triples](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1925-count-square-sum-triples) |
-## Enumeration
-|  |
-| ------- |
-| [1925-count-square-sum-triples](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1925-count-square-sum-triples) |
-<!---LeetCode Topics End-->
