@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 345 ✅  
+- Easy: 346 ✅  
 - Medium: 33 ⚡  
 - Hard: 0 🔥  
-- **Total: 378**
+- **Total: 379**
 
 ---
 
@@ -251,6 +251,7 @@
 | 1945 | [Sum Of Digits Of String After Convert](https://leetcode.com/problems/sum-of-digits-of-string-after-convert) | [Java](1945-sum-of-digits-of-string-after-convert) | Easy |
 | 1957 | [Delete Characters To Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string) | [Java](1957-delete-characters-to-make-fancy-string) | Easy |
 | 1980 | [Find Unique Binary String](https://leetcode.com/problems/find-unique-binary-string) | [Java](1980-find-unique-binary-string) | Medium |
+| 2006 | [Count Number Of Pairs With Absolute Difference K](https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k) | [Java](2006-count-number-of-pairs-with-absolute-difference-k) | Easy |
 | 2011 | [Final Value Of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations) | [Java](2011-final-value-of-variable-after-performing-operations) | Easy |
 | 2016 | [Maximum Difference Between Increasing Elements](https://leetcode.com/problems/maximum-difference-between-increasing-elements) | [Java](2016-maximum-difference-between-increasing-elements) | Easy |
 | 2022 | [Convert 1d Array Into 2d Array](https://leetcode.com/problems/convert-1d-array-into-2d-array) | [Java](2022-convert-1d-array-into-2d-array) | Easy |
@@ -392,19 +393,3 @@
 | 3925 | [Concatenate Array With Reverse](https://leetcode.com/problems/concatenate-array-with-reverse) | [Java](3925-concatenate-array-with-reverse) | Easy |
 | 3945 | [Digit Frequency Score](https://leetcode.com/problems/digit-frequency-score) | [Java](3945-digit-frequency-score) | Easy |
 | 3959 | [Check Good Integer](https://leetcode.com/problems/check-good-integer) | [Java](3959-check-good-integer) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
-## Hash Table
-|  |
-| ------- |
-| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
-## Counting
-|  |
-| ------- |
-| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
-<!---LeetCode Topics End-->
