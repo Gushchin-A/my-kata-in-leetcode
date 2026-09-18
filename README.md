@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 346 ✅  
+- Easy: 347 ✅  
 - Medium: 33 ⚡  
 - Hard: 0 🔥  
-- **Total: 379**
+- **Total: 380**
 
 ---
 
@@ -280,6 +280,7 @@
 | 2260 | [Divide A String Into Groups Of Size K](https://leetcode.com/problems/divide-a-string-into-groups-of-size-k) | [Java](2260-divide-a-string-into-groups-of-size-k) | Easy |
 | 2264 | [Largest 3 Same Digit Number In String](https://leetcode.com/problems/largest-3-same-digit-number-in-string) | [Java](2264-largest-3-same-digit-number-in-string) | Easy |
 | 2274 | [Keep Multiplying Found Values By Two](https://leetcode.com/problems/keep-multiplying-found-values-by-two) | [Java](2274-keep-multiplying-found-values-by-two) | Easy |
+| 2278 | [Percentage Of Letter In String](https://leetcode.com/problems/percentage-of-letter-in-string) | [Java](2278-percentage-of-letter-in-string) | Easy |
 | 2287 | [Rearrange Characters To Make Target String](https://leetcode.com/problems/rearrange-characters-to-make-target-string) | [Java](2287-rearrange-characters-to-make-target-string) | Easy |
 | 2288 | [Count Operations To Obtain Zero](https://leetcode.com/problems/count-operations-to-obtain-zero) | [Java](2288-count-operations-to-obtain-zero) | Easy |
 | 2292 | [Counting Words With A Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix) | [Java](2292-counting-words-with-a-given-prefix) | Easy |
@@ -393,11 +394,3 @@
 | 3925 | [Concatenate Array With Reverse](https://leetcode.com/problems/concatenate-array-with-reverse) | [Java](3925-concatenate-array-with-reverse) | Easy |
 | 3945 | [Digit Frequency Score](https://leetcode.com/problems/digit-frequency-score) | [Java](3945-digit-frequency-score) | Easy |
 | 3959 | [Check Good Integer](https://leetcode.com/problems/check-good-integer) | [Java](3959-check-good-integer) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## String
-|  |
-| ------- |
-| [2278-percentage-of-letter-in-string](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2278-percentage-of-letter-in-string) |
-<!---LeetCode Topics End-->
