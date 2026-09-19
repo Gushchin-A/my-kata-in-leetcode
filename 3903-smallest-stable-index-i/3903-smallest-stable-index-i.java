@@ -16,13 +16,12 @@ class Solution {
             smallest[i] = min;
         }
 
-        int stableIndex = Integer.MAX_VALUE;
         for (int i = 0; i < n; i++) {
             if (largest[i] - smallest[i] <= k) {
-                stableIndex = Math.min(stableIndex, i);
+                return i;
             }
         }
 
-        return stableIndex != Integer.MAX_VALUE ? stableIndex : -1;
+        return -1;
     }
 }
