@@ -3,16 +3,13 @@ class Solution {
         Arrays.sort(boxTypes, (a, b) -> b[1] - a[1]);
 
         int result = 0;
-        int boxNumber = 0;
-        while (truckSize != 0 && boxNumber < boxTypes.length) {
-            if (boxTypes[boxNumber][0] == 0) {
-                boxNumber++;
+        for (int[] box : boxTypes) {
+            if (truckSize == 0) {
+                break;
             }
-            if (boxNumber < boxTypes.length) {
-                result += boxTypes[boxNumber][1];
-                truckSize--;
-                boxTypes[boxNumber][0]--;
-            }
+            int canTake = Math.min(box[0], truckSize);
+            result += canTake * box[1];
+            truckSize -= canTake;
         }
 
         return result;
