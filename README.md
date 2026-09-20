@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 348 ✅  
+- Easy: 349 ✅  
 - Medium: 33 ⚡  
 - Hard: 0 🔥  
-- **Total: 381**
+- **Total: 382**
 
 ---
 
@@ -231,6 +231,7 @@
 | 1672 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth) | [Java](1672-richest-customer-wealth) | Easy |
 | 1678 | [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation) | [Java](1678-goal-parser-interpretation) | Easy |
 | 1684 | [Count The Number Of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings) | [Java](1684-count-the-number-of-consistent-strings) | Easy |
+| 1710 | [Maximum Units On A Truck](https://leetcode.com/problems/maximum-units-on-a-truck) | [Java](1710-maximum-units-on-a-truck) | Easy |
 | 1716 | [Calculate Money In Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank) | [Java](1716-calculate-money-in-leetcode-bank) | Easy |
 | 1748 | [Sum Of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements) | [Java](1748-sum-of-unique-elements) | Easy |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [Java](1768-merge-strings-alternately) | Easy |
@@ -395,19 +396,3 @@
 | 3925 | [Concatenate Array With Reverse](https://leetcode.com/problems/concatenate-array-with-reverse) | [Java](3925-concatenate-array-with-reverse) | Easy |
 | 3945 | [Digit Frequency Score](https://leetcode.com/problems/digit-frequency-score) | [Java](3945-digit-frequency-score) | Easy |
 | 3959 | [Check Good Integer](https://leetcode.com/problems/check-good-integer) | [Java](3959-check-good-integer) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [1710-maximum-units-on-a-truck](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1710-maximum-units-on-a-truck) |
-## Greedy
-|  |
-| ------- |
-| [1710-maximum-units-on-a-truck](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1710-maximum-units-on-a-truck) |
-## Sorting
-|  |
-| ------- |
-| [1710-maximum-units-on-a-truck](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1710-maximum-units-on-a-truck) |
-<!---LeetCode Topics End-->
