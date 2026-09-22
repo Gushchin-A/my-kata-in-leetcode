@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 350 ✅  
+- Easy: 351 ✅  
 - Medium: 33 ⚡  
 - Hard: 0 🔥  
-- **Total: 383**
+- **Total: 384**
 
 ---
 
@@ -251,6 +251,7 @@
 | 1941 | [Check If All Characters Have Equal Number Of Occurrences](https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences) | [Java](1941-check-if-all-characters-have-equal-number-of-occurrences) | Easy |
 | 1945 | [Sum Of Digits Of String After Convert](https://leetcode.com/problems/sum-of-digits-of-string-after-convert) | [Java](1945-sum-of-digits-of-string-after-convert) | Easy |
 | 1957 | [Delete Characters To Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string) | [Java](1957-delete-characters-to-make-fancy-string) | Easy |
+| 1967 | [Number Of Strings That Appear As Substrings In Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word) | [Java](1967-number-of-strings-that-appear-as-substrings-in-word) | Easy |
 | 1980 | [Find Unique Binary String](https://leetcode.com/problems/find-unique-binary-string) | [Java](1980-find-unique-binary-string) | Medium |
 | 2006 | [Count Number Of Pairs With Absolute Difference K](https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k) | [Java](2006-count-number-of-pairs-with-absolute-difference-k) | Easy |
 | 2011 | [Final Value Of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations) | [Java](2011-final-value-of-variable-after-performing-operations) | Easy |
@@ -397,15 +398,3 @@
 | 3925 | [Concatenate Array With Reverse](https://leetcode.com/problems/concatenate-array-with-reverse) | [Java](3925-concatenate-array-with-reverse) | Easy |
 | 3945 | [Digit Frequency Score](https://leetcode.com/problems/digit-frequency-score) | [Java](3945-digit-frequency-score) | Easy |
 | 3959 | [Check Good Integer](https://leetcode.com/problems/check-good-integer) | [Java](3959-check-good-integer) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
-## String
-|  |
-| ------- |
-| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
-<!---LeetCode Topics End-->
