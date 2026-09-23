@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 351 ✅  
+- Easy: 352 ✅  
 - Medium: 33 ⚡  
 - Hard: 0 🔥  
-- **Total: 384**
+- **Total: 385**
 
 ---
 
@@ -231,6 +231,7 @@
 | 1672 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth) | [Java](1672-richest-customer-wealth) | Easy |
 | 1678 | [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation) | [Java](1678-goal-parser-interpretation) | Easy |
 | 1684 | [Count The Number Of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings) | [Java](1684-count-the-number-of-consistent-strings) | Easy |
+| 1688 | [Count Of Matches In Tournament](https://leetcode.com/problems/count-of-matches-in-tournament) | [Java](1688-count-of-matches-in-tournament) | Easy |
 | 1710 | [Maximum Units On A Truck](https://leetcode.com/problems/maximum-units-on-a-truck) | [Java](1710-maximum-units-on-a-truck) | Easy |
 | 1716 | [Calculate Money In Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank) | [Java](1716-calculate-money-in-leetcode-bank) | Easy |
 | 1748 | [Sum Of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements) | [Java](1748-sum-of-unique-elements) | Easy |
@@ -398,15 +399,3 @@
 | 3925 | [Concatenate Array With Reverse](https://leetcode.com/problems/concatenate-array-with-reverse) | [Java](3925-concatenate-array-with-reverse) | Easy |
 | 3945 | [Digit Frequency Score](https://leetcode.com/problems/digit-frequency-score) | [Java](3945-digit-frequency-score) | Easy |
 | 3959 | [Check Good Integer](https://leetcode.com/problems/check-good-integer) | [Java](3959-check-good-integer) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-|  |
-| ------- |
-| [1688-count-of-matches-in-tournament](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1688-count-of-matches-in-tournament) |
-## Simulation
-|  |
-| ------- |
-| [1688-count-of-matches-in-tournament](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1688-count-of-matches-in-tournament) |
-<!---LeetCode Topics End-->
