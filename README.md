@@ -398,3 +398,15 @@
 | 3925 | [Concatenate Array With Reverse](https://leetcode.com/problems/concatenate-array-with-reverse) | [Java](3925-concatenate-array-with-reverse) | Easy |
 | 3945 | [Digit Frequency Score](https://leetcode.com/problems/digit-frequency-score) | [Java](3945-digit-frequency-score) | Easy |
 | 3959 | [Check Good Integer](https://leetcode.com/problems/check-good-integer) | [Java](3959-check-good-integer) | Easy |
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [1688-count-of-matches-in-tournament](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1688-count-of-matches-in-tournament) |
+## Simulation
+|  |
+| ------- |
+| [1688-count-of-matches-in-tournament](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1688-count-of-matches-in-tournament) |
+<!---LeetCode Topics End-->
