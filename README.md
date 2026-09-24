@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 352 ✅  
+- Easy: 353 ✅  
 - Medium: 33 ⚡  
 - Hard: 0 🔥  
-- **Total: 385**
+- **Total: 386**
 
 ---
 
@@ -399,15 +399,4 @@
 | 3925 | [Concatenate Array With Reverse](https://leetcode.com/problems/concatenate-array-with-reverse) | [Java](3925-concatenate-array-with-reverse) | Easy |
 | 3945 | [Digit Frequency Score](https://leetcode.com/problems/digit-frequency-score) | [Java](3945-digit-frequency-score) | Easy |
 | 3959 | [Check Good Integer](https://leetcode.com/problems/check-good-integer) | [Java](3959-check-good-integer) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [4020-elevator-requests-i](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/4020-elevator-requests-i) |
-## Simulation
-|  |
-| ------- |
-| [4020-elevator-requests-i](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/4020-elevator-requests-i) |
-<!---LeetCode Topics End-->
+| 4020 | [Elevator Requests I](https://leetcode.com/problems/elevator-requests-i) | [Java](4020-elevator-requests-i) | Easy |
