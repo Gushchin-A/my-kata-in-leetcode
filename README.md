@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 353 ✅  
+- Easy: 354 ✅  
 - Medium: 33 ⚡  
 - Hard: 0 🔥  
-- **Total: 386**
+- **Total: 387**
 
 ---
 
@@ -345,6 +345,7 @@
 | 3010 | [Divide An Array Into Subarrays With Minimum Cost I](https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i) | [Java](3010-divide-an-array-into-subarrays-with-minimum-cost-i) | Easy |
 | 3019 | [Number Of Changing Keys](https://leetcode.com/problems/number-of-changing-keys) | [Java](3019-number-of-changing-keys) | Easy |
 | 3065 | [Minimum Operations To Exceed Threshold Value I](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-i) | [Java](3065-minimum-operations-to-exceed-threshold-value-i) | Easy |
+| 3069 | [Distribute Elements Into Two Arrays I](https://leetcode.com/problems/distribute-elements-into-two-arrays-i) | [Java](3069-distribute-elements-into-two-arrays-i) | Easy |
 | 3074 | [Apple Redistribution Into Boxes](https://leetcode.com/problems/apple-redistribution-into-boxes) | [Java](3074-apple-redistribution-into-boxes) | Easy |
 | 3099 | [Harshad Number](https://leetcode.com/problems/harshad-number) | [Java](3099-harshad-number) | Easy |
 | 3110 | [Score Of A String](https://leetcode.com/problems/score-of-a-string) | [Java](3110-score-of-a-string) | Easy |
@@ -400,19 +401,3 @@
 | 3945 | [Digit Frequency Score](https://leetcode.com/problems/digit-frequency-score) | [Java](3945-digit-frequency-score) | Easy |
 | 3959 | [Check Good Integer](https://leetcode.com/problems/check-good-integer) | [Java](3959-check-good-integer) | Easy |
 | 4020 | [Elevator Requests I](https://leetcode.com/problems/elevator-requests-i) | [Java](4020-elevator-requests-i) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [3069-distribute-elements-into-two-arrays-i](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
-## Two Pointers
-|  |
-| ------- |
-| [3069-distribute-elements-into-two-arrays-i](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
-## Simulation
-|  |
-| ------- |
-| [3069-distribute-elements-into-two-arrays-i](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
-<!---LeetCode Topics End-->
