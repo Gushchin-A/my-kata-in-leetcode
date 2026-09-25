@@ -400,3 +400,19 @@
 | 3945 | [Digit Frequency Score](https://leetcode.com/problems/digit-frequency-score) | [Java](3945-digit-frequency-score) | Easy |
 | 3959 | [Check Good Integer](https://leetcode.com/problems/check-good-integer) | [Java](3959-check-good-integer) | Easy |
 | 4020 | [Elevator Requests I](https://leetcode.com/problems/elevator-requests-i) | [Java](4020-elevator-requests-i) | Easy |
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Two Pointers
+|  |
+| ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Simulation
+|  |
+| ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+<!---LeetCode Topics End-->
