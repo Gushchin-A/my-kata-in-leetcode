@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 354 ✅  
+- Easy: 355 ✅  
 - Medium: 33 ⚡  
 - Hard: 0 🔥  
-- **Total: 387**
+- **Total: 388**
 
 ---
 
@@ -291,6 +291,7 @@
 | 2325 | [Decode The Message](https://leetcode.com/problems/decode-the-message) | [Java](2325-decode-the-message) | Easy |
 | 2331 | [Evaluate Boolean Binary Tree](https://leetcode.com/problems/evaluate-boolean-binary-tree) | [Java](2331-evaluate-boolean-binary-tree) | Easy |
 | 2341 | [Count Prefixes Of A Given String](https://leetcode.com/problems/count-prefixes-of-a-given-string) | [Java](2341-count-prefixes-of-a-given-string) | Easy |
+| 2351 | [First Letter To Appear Twice](https://leetcode.com/problems/first-letter-to-appear-twice) | [Java](2351-first-letter-to-appear-twice) | Easy |
 | 2367 | [Number Of Arithmetic Triplets](https://leetcode.com/problems/number-of-arithmetic-triplets) | [Java](2367-number-of-arithmetic-triplets) | Easy |
 | 2390 | [Removing Stars From A String](https://leetcode.com/problems/removing-stars-from-a-string) | [Java](2390-removing-stars-from-a-string) | Medium |
 | 2391 | [Minimum Amount Of Time To Collect Garbage](https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage) | [Java](2391-minimum-amount-of-time-to-collect-garbage) | Medium |
@@ -401,23 +402,3 @@
 | 3945 | [Digit Frequency Score](https://leetcode.com/problems/digit-frequency-score) | [Java](3945-digit-frequency-score) | Easy |
 | 3959 | [Check Good Integer](https://leetcode.com/problems/check-good-integer) | [Java](3959-check-good-integer) | Easy |
 | 4020 | [Elevator Requests I](https://leetcode.com/problems/elevator-requests-i) | [Java](4020-elevator-requests-i) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Hash Table
-|  |
-| ------- |
-| [2351-first-letter-to-appear-twice](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2351-first-letter-to-appear-twice) |
-## String
-|  |
-| ------- |
-| [2351-first-letter-to-appear-twice](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2351-first-letter-to-appear-twice) |
-## Bit Manipulation
-|  |
-| ------- |
-| [2351-first-letter-to-appear-twice](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2351-first-letter-to-appear-twice) |
-## Counting
-|  |
-| ------- |
-| [2351-first-letter-to-appear-twice](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2351-first-letter-to-appear-twice) |
-<!---LeetCode Topics End-->
