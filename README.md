@@ -401,3 +401,23 @@
 | 3945 | [Digit Frequency Score](https://leetcode.com/problems/digit-frequency-score) | [Java](3945-digit-frequency-score) | Easy |
 | 3959 | [Check Good Integer](https://leetcode.com/problems/check-good-integer) | [Java](3959-check-good-integer) | Easy |
 | 4020 | [Elevator Requests I](https://leetcode.com/problems/elevator-requests-i) | [Java](4020-elevator-requests-i) | Easy |
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Hash Table
+|  |
+| ------- |
+| [2351-first-letter-to-appear-twice](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2351-first-letter-to-appear-twice) |
+## String
+|  |
+| ------- |
+| [2351-first-letter-to-appear-twice](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2351-first-letter-to-appear-twice) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2351-first-letter-to-appear-twice](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2351-first-letter-to-appear-twice) |
+## Counting
+|  |
+| ------- |
+| [2351-first-letter-to-appear-twice](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2351-first-letter-to-appear-twice) |
+<!---LeetCode Topics End-->
