@@ -402,3 +402,31 @@
 | 3945 | [Digit Frequency Score](https://leetcode.com/problems/digit-frequency-score) | [Java](3945-digit-frequency-score) | Easy |
 | 3959 | [Check Good Integer](https://leetcode.com/problems/check-good-integer) | [Java](3959-check-good-integer) | Easy |
 | 4020 | [Elevator Requests I](https://leetcode.com/problems/elevator-requests-i) | [Java](4020-elevator-requests-i) | Easy |
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1122-relative-sort-array) |
+## Hash Table
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1122-relative-sort-array) |
+## Sorting
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1122-relative-sort-array) |
+## Counting Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1122-relative-sort-array) |
+## Quicksort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1122-relative-sort-array) |
+## Bubble Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1122-relative-sort-array) |
+<!---LeetCode Topics End-->
