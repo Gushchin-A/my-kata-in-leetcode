@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 355 ✅  
+- Easy: 356 ✅  
 - Medium: 33 ⚡  
 - Hard: 0 🔥  
-- **Total: 388**
+- **Total: 389**
 
 ---
 
@@ -177,6 +177,7 @@
 | 1062 | [Partition Array Into Three Parts With Equal Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum) | [Java](1062-partition-array-into-three-parts-with-equal-sum) | Easy |
 | 1079 | [Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities) | [Java](1079-letter-tile-possibilities) | Medium |
 | 1108 | [Defanging An Ip Address](https://leetcode.com/problems/defanging-an-ip-address) | [Java](1108-defanging-an-ip-address) | Easy |
+| 1122 | [Relative Sort Array](https://leetcode.com/problems/relative-sort-array) | [Java](1122-relative-sort-array) | Easy |
 | 1160 | [Find Words That Can Be Formed By Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters) | [Java](1160-find-words-that-can-be-formed-by-characters) | Easy |
 | 1189 | [Maximum Number Of Balloons](https://leetcode.com/problems/maximum-number-of-balloons) | [Java](1189-maximum-number-of-balloons) | Easy |
 | 1207 | [Unique Number Of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences) | [Java](1207-unique-number-of-occurrences) | Easy |
@@ -402,31 +403,3 @@
 | 3945 | [Digit Frequency Score](https://leetcode.com/problems/digit-frequency-score) | [Java](3945-digit-frequency-score) | Easy |
 | 3959 | [Check Good Integer](https://leetcode.com/problems/check-good-integer) | [Java](3959-check-good-integer) | Easy |
 | 4020 | [Elevator Requests I](https://leetcode.com/problems/elevator-requests-i) | [Java](4020-elevator-requests-i) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [1122-relative-sort-array](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1122-relative-sort-array) |
-## Hash Table
-|  |
-| ------- |
-| [1122-relative-sort-array](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1122-relative-sort-array) |
-## Sorting
-|  |
-| ------- |
-| [1122-relative-sort-array](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1122-relative-sort-array) |
-## Counting Sort
-|  |
-| ------- |
-| [1122-relative-sort-array](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1122-relative-sort-array) |
-## Quicksort
-|  |
-| ------- |
-| [1122-relative-sort-array](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1122-relative-sort-array) |
-## Bubble Sort
-|  |
-| ------- |
-| [1122-relative-sort-array](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1122-relative-sort-array) |
-<!---LeetCode Topics End-->
