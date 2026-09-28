@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 356 ✅  
+- Easy: 357 ✅  
 - Medium: 33 ⚡  
 - Hard: 0 🔥  
-- **Total: 389**
+- **Total: 390**
 
 ---
 
@@ -312,6 +312,7 @@
 | 2553 | [Separate The Digits In An Array](https://leetcode.com/problems/separate-the-digits-in-an-array) | [Java](2553-separate-the-digits-in-an-array) | Easy |
 | 2566 | [Maximum Difference By Remapping A Digit](https://leetcode.com/problems/maximum-difference-by-remapping-a-digit) | [Java](2566-maximum-difference-by-remapping-a-digit) | Easy |
 | 2570 | [Merge Two 2d Arrays By Summing Values](https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values) | [Java](2570-merge-two-2d-arrays-by-summing-values) | Easy |
+| 2578 | [Split With Minimum Sum](https://leetcode.com/problems/split-with-minimum-sum) | [Java](2578-split-with-minimum-sum) | Easy |
 | 2610 | [Convert An Array Into A 2d Array With Conditions](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions) | [Java](2610-convert-an-array-into-a-2d-array-with-conditions) | Medium |
 | 2651 | [Calculate Delayed Arrival Time](https://leetcode.com/problems/calculate-delayed-arrival-time) | [Java](2651-calculate-delayed-arrival-time) | Easy |
 | 2656 | [Maximum Sum With Exactly K Elements](https://leetcode.com/problems/maximum-sum-with-exactly-k-elements) | [Java](2656-maximum-sum-with-exactly-k-elements) | Easy |
@@ -403,19 +404,3 @@
 | 3945 | [Digit Frequency Score](https://leetcode.com/problems/digit-frequency-score) | [Java](3945-digit-frequency-score) | Easy |
 | 3959 | [Check Good Integer](https://leetcode.com/problems/check-good-integer) | [Java](3959-check-good-integer) | Easy |
 | 4020 | [Elevator Requests I](https://leetcode.com/problems/elevator-requests-i) | [Java](4020-elevator-requests-i) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-|  |
-| ------- |
-| [2578-split-with-minimum-sum](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2578-split-with-minimum-sum) |
-## Greedy
-|  |
-| ------- |
-| [2578-split-with-minimum-sum](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2578-split-with-minimum-sum) |
-## Sorting
-|  |
-| ------- |
-| [2578-split-with-minimum-sum](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2578-split-with-minimum-sum) |
-<!---LeetCode Topics End-->
