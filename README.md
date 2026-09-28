@@ -403,3 +403,19 @@
 | 3945 | [Digit Frequency Score](https://leetcode.com/problems/digit-frequency-score) | [Java](3945-digit-frequency-score) | Easy |
 | 3959 | [Check Good Integer](https://leetcode.com/problems/check-good-integer) | [Java](3959-check-good-integer) | Easy |
 | 4020 | [Elevator Requests I](https://leetcode.com/problems/elevator-requests-i) | [Java](4020-elevator-requests-i) | Easy |
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [2578-split-with-minimum-sum](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2578-split-with-minimum-sum) |
+## Greedy
+|  |
+| ------- |
+| [2578-split-with-minimum-sum](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2578-split-with-minimum-sum) |
+## Sorting
+|  |
+| ------- |
+| [2578-split-with-minimum-sum](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2578-split-with-minimum-sum) |
+<!---LeetCode Topics End-->
