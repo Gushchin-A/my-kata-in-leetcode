@@ -404,3 +404,15 @@
 | 3945 | [Digit Frequency Score](https://leetcode.com/problems/digit-frequency-score) | [Java](3945-digit-frequency-score) | Easy |
 | 3959 | [Check Good Integer](https://leetcode.com/problems/check-good-integer) | [Java](3959-check-good-integer) | Easy |
 | 4020 | [Elevator Requests I](https://leetcode.com/problems/elevator-requests-i) | [Java](4020-elevator-requests-i) | Easy |
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [3982-sum-of-integers-with-maximum-digit-range](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
+## Math
+|  |
+| ------- |
+| [3982-sum-of-integers-with-maximum-digit-range](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
+<!---LeetCode Topics End-->
