@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 358 ✅  
+- Easy: 359 ✅  
 - Medium: 33 ⚡  
 - Hard: 0 🔥  
-- **Total: 391**
+- **Total: 392**
 
 ---
 
@@ -370,6 +370,7 @@
 | 3304 | [Find The K Th Character In String Game I](https://leetcode.com/problems/find-the-k-th-character-in-string-game-i) | [Java](3304-find-the-k-th-character-in-string-game-i) | Easy |
 | 3309 | [Count Prefix And Suffix Pairs I](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i) | [Java](3309-count-prefix-and-suffix-pairs-i) | Easy |
 | 3340 | [Check Balanced String](https://leetcode.com/problems/check-balanced-string) | [Java](3340-check-balanced-string) | Easy |
+| 3345 | [Smallest Divisible Digit Product I](https://leetcode.com/problems/smallest-divisible-digit-product-i) | [Java](3345-smallest-divisible-digit-product-i) | Easy |
 | 3364 | [Minimum Positive Sum Subarray](https://leetcode.com/problems/minimum-positive-sum-subarray) | [Java](3364-minimum-positive-sum-subarray) | Easy |
 | 3411 | [Maximum Subarray With Equal Products](https://leetcode.com/problems/maximum-subarray-with-equal-products) | [Java](3411-maximum-subarray-with-equal-products) | Easy |
 | 3427 | [Sum Of Variable Length Subarrays](https://leetcode.com/problems/sum-of-variable-length-subarrays) | [Java](3427-sum-of-variable-length-subarrays) | Easy |
@@ -405,15 +406,3 @@
 | 3959 | [Check Good Integer](https://leetcode.com/problems/check-good-integer) | [Java](3959-check-good-integer) | Easy |
 | 3982 | [Sum Of Integers With Maximum Digit Range](https://leetcode.com/problems/sum-of-integers-with-maximum-digit-range) | [Java](3982-sum-of-integers-with-maximum-digit-range) | Easy |
 | 4020 | [Elevator Requests I](https://leetcode.com/problems/elevator-requests-i) | [Java](4020-elevator-requests-i) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-|  |
-| ------- |
-| [3345-smallest-divisible-digit-product-i](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
-## Enumeration
-|  |
-| ------- |
-| [3345-smallest-divisible-digit-product-i](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
-<!---LeetCode Topics End-->
