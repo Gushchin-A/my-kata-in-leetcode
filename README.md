@@ -406,3 +406,15 @@
 | 3959 | [Check Good Integer](https://leetcode.com/problems/check-good-integer) | [Java](3959-check-good-integer) | Easy |
 | 3982 | [Sum Of Integers With Maximum Digit Range](https://leetcode.com/problems/sum-of-integers-with-maximum-digit-range) | [Java](3982-sum-of-integers-with-maximum-digit-range) | Easy |
 | 4020 | [Elevator Requests I](https://leetcode.com/problems/elevator-requests-i) | [Java](4020-elevator-requests-i) | Easy |
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [3978-unique-middle-element](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/3978-unique-middle-element) |
+## Counting
+|  |
+| ------- |
+| [3978-unique-middle-element](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/3978-unique-middle-element) |
+<!---LeetCode Topics End-->
