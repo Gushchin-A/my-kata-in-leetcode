@@ -407,3 +407,19 @@
 | 3978 | [Unique Middle Element](https://leetcode.com/problems/unique-middle-element) | [Java](3978-unique-middle-element) | Easy |
 | 3982 | [Sum Of Integers With Maximum Digit Range](https://leetcode.com/problems/sum-of-integers-with-maximum-digit-range) | [Java](3982-sum-of-integers-with-maximum-digit-range) | Easy |
 | 4020 | [Elevator Requests I](https://leetcode.com/problems/elevator-requests-i) | [Java](4020-elevator-requests-i) | Easy |
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [3838-weighted-word-mapping](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/3838-weighted-word-mapping) |
+## String
+|  |
+| ------- |
+| [3838-weighted-word-mapping](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/3838-weighted-word-mapping) |
+## Simulation
+|  |
+| ------- |
+| [3838-weighted-word-mapping](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/3838-weighted-word-mapping) |
+<!---LeetCode Topics End-->
