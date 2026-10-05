@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 360 ✅  
+- Easy: 361 ✅  
 - Medium: 33 ⚡  
 - Hard: 0 🔥  
-- **Total: 393**
+- **Total: 394**
 
 ---
 
@@ -394,6 +394,7 @@
 | 3783 | [Mirror Distance Of An Integer](https://leetcode.com/problems/mirror-distance-of-an-integer) | [Java](3783-mirror-distance-of-an-integer) | Easy |
 | 3794 | [Reverse String Prefix](https://leetcode.com/problems/reverse-string-prefix) | [Java](3794-reverse-string-prefix) | Easy |
 | 3823 | [Reverse Letters Then Special Characters In A String](https://leetcode.com/problems/reverse-letters-then-special-characters-in-a-string) | [Java](3823-reverse-letters-then-special-characters-in-a-string) | Easy |
+| 3838 | [Weighted Word Mapping](https://leetcode.com/problems/weighted-word-mapping) | [Java](3838-weighted-word-mapping) | Easy |
 | 3856 | [Trim Trailing Vowels](https://leetcode.com/problems/trim-trailing-vowels) | [Java](3856-trim-trailing-vowels) | Easy |
 | 3861 | [Minimum Capacity Box](https://leetcode.com/problems/minimum-capacity-box) | [Java](3861-minimum-capacity-box) | Easy |
 | 3870 | [Count Commas In Range](https://leetcode.com/problems/count-commas-in-range) | [Java](3870-count-commas-in-range) | Easy |
@@ -407,19 +408,3 @@
 | 3978 | [Unique Middle Element](https://leetcode.com/problems/unique-middle-element) | [Java](3978-unique-middle-element) | Easy |
 | 3982 | [Sum Of Integers With Maximum Digit Range](https://leetcode.com/problems/sum-of-integers-with-maximum-digit-range) | [Java](3982-sum-of-integers-with-maximum-digit-range) | Easy |
 | 4020 | [Elevator Requests I](https://leetcode.com/problems/elevator-requests-i) | [Java](4020-elevator-requests-i) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [3838-weighted-word-mapping](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/3838-weighted-word-mapping) |
-## String
-|  |
-| ------- |
-| [3838-weighted-word-mapping](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/3838-weighted-word-mapping) |
-## Simulation
-|  |
-| ------- |
-| [3838-weighted-word-mapping](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/3838-weighted-word-mapping) |
-<!---LeetCode Topics End-->
