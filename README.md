@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 361 ✅  
+- Easy: 362 ✅  
 - Medium: 33 ⚡  
 - Hard: 0 🔥  
-- **Total: 394**
+- **Total: 395**
 
 ---
 
@@ -321,6 +321,7 @@
 | 2696 | [Minimum String Length After Removing Substrings](https://leetcode.com/problems/minimum-string-length-after-removing-substrings) | [Java](2696-minimum-string-length-after-removing-substrings) | Easy |
 | 2697 | [Lexicographically Smallest Palindrome](https://leetcode.com/problems/lexicographically-smallest-palindrome) | [Java](2697-lexicographically-smallest-palindrome) | Easy |
 | 2698 | [Find The Array Concatenation Value](https://leetcode.com/problems/find-the-array-concatenation-value) | [Java](2698-find-the-array-concatenation-value) | Easy |
+| 2706 | [Buy Two Chocolates](https://leetcode.com/problems/buy-two-chocolates) | [Java](2706-buy-two-chocolates) | Easy |
 | 2710 | [Remove Trailing Zeros From A String](https://leetcode.com/problems/remove-trailing-zeros-from-a-string) | [Java](2710-remove-trailing-zeros-from-a-string) | Easy |
 | 2714 | [Left And Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences) | [Java](2714-left-and-right-sum-differences) | Easy |
 | 2716 | [Minimize String Length](https://leetcode.com/problems/minimize-string-length) | [Java](2716-minimize-string-length) | Easy |
@@ -408,19 +409,3 @@
 | 3978 | [Unique Middle Element](https://leetcode.com/problems/unique-middle-element) | [Java](3978-unique-middle-element) | Easy |
 | 3982 | [Sum Of Integers With Maximum Digit Range](https://leetcode.com/problems/sum-of-integers-with-maximum-digit-range) | [Java](3982-sum-of-integers-with-maximum-digit-range) | Easy |
 | 4020 | [Elevator Requests I](https://leetcode.com/problems/elevator-requests-i) | [Java](4020-elevator-requests-i) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [2706-buy-two-chocolates](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2706-buy-two-chocolates) |
-## Greedy
-|  |
-| ------- |
-| [2706-buy-two-chocolates](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2706-buy-two-chocolates) |
-## Sorting
-|  |
-| ------- |
-| [2706-buy-two-chocolates](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2706-buy-two-chocolates) |
-<!---LeetCode Topics End-->
