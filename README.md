@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 362 ✅  
+- Easy: 363 ✅  
 - Medium: 33 ⚡  
 - Hard: 0 🔥  
-- **Total: 395**
+- **Total: 396**
 
 ---
 
@@ -172,6 +172,7 @@
 | 1022 | [Sum Of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers) | [Java](1022-sum-of-root-to-leaf-binary-numbers) | Easy |
 | 1031 | [Add To Array Form Of Integer](https://leetcode.com/problems/add-to-array-form-of-integer) | [Java](1031-add-to-array-form-of-integer) | Easy |
 | 1041 | [Available Captures For Rook](https://leetcode.com/problems/available-captures-for-rook) | [Java](1041-available-captures-for-rook) | Easy |
+| 1046 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight) | [Java](1046-last-stone-weight) | Easy |
 | 1047 | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string) | [Java](1047-remove-all-adjacent-duplicates-in-string) | Easy |
 | 1051 | [Height Checker](https://leetcode.com/problems/height-checker) | [Java](1051-height-checker) | Easy |
 | 1062 | [Partition Array Into Three Parts With Equal Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum) | [Java](1062-partition-array-into-three-parts-with-equal-sum) | Easy |
@@ -409,15 +410,3 @@
 | 3978 | [Unique Middle Element](https://leetcode.com/problems/unique-middle-element) | [Java](3978-unique-middle-element) | Easy |
 | 3982 | [Sum Of Integers With Maximum Digit Range](https://leetcode.com/problems/sum-of-integers-with-maximum-digit-range) | [Java](3982-sum-of-integers-with-maximum-digit-range) | Easy |
 | 4020 | [Elevator Requests I](https://leetcode.com/problems/elevator-requests-i) | [Java](4020-elevator-requests-i) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [1046-last-stone-weight](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1046-last-stone-weight) |
-## Heap (Priority Queue)
-|  |
-| ------- |
-| [1046-last-stone-weight](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1046-last-stone-weight) |
-<!---LeetCode Topics End-->
