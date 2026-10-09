@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 364 ✅  
+- Easy: 365 ✅  
 - Medium: 33 ⚡  
 - Hard: 0 🔥  
-- **Total: 397**
+- **Total: 398**
 
 ---
 
@@ -256,6 +256,7 @@
 | 1945 | [Sum Of Digits Of String After Convert](https://leetcode.com/problems/sum-of-digits-of-string-after-convert) | [Java](1945-sum-of-digits-of-string-after-convert) | Easy |
 | 1957 | [Delete Characters To Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string) | [Java](1957-delete-characters-to-make-fancy-string) | Easy |
 | 1967 | [Number Of Strings That Appear As Substrings In Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word) | [Java](1967-number-of-strings-that-appear-as-substrings-in-word) | Easy |
+| 1979 | [Find Greatest Common Divisor Of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array) | [Java](1979-find-greatest-common-divisor-of-array) | Easy |
 | 1980 | [Find Unique Binary String](https://leetcode.com/problems/find-unique-binary-string) | [Java](1980-find-unique-binary-string) | Medium |
 | 2006 | [Count Number Of Pairs With Absolute Difference K](https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k) | [Java](2006-count-number-of-pairs-with-absolute-difference-k) | Easy |
 | 2011 | [Final Value Of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations) | [Java](2011-final-value-of-variable-after-performing-operations) | Easy |
@@ -411,27 +412,3 @@
 | 3978 | [Unique Middle Element](https://leetcode.com/problems/unique-middle-element) | [Java](3978-unique-middle-element) | Easy |
 | 3982 | [Sum Of Integers With Maximum Digit Range](https://leetcode.com/problems/sum-of-integers-with-maximum-digit-range) | [Java](3982-sum-of-integers-with-maximum-digit-range) | Easy |
 | 4020 | [Elevator Requests I](https://leetcode.com/problems/elevator-requests-i) | [Java](4020-elevator-requests-i) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [1979-find-greatest-common-divisor-of-array](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
-## Math
-|  |
-| ------- |
-| [1979-find-greatest-common-divisor-of-array](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
-## Number Theory
-|  |
-| ------- |
-| [1979-find-greatest-common-divisor-of-array](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
-## Euclidean Algorithm
-|  |
-| ------- |
-| [1979-find-greatest-common-divisor-of-array](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
-## Greatest Common Divisor
-|  |
-| ------- |
-| [1979-find-greatest-common-divisor-of-array](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
-<!---LeetCode Topics End-->
