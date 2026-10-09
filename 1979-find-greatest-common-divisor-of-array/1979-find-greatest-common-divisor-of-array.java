@@ -9,7 +9,7 @@ class Solution {
         }
 
         int result = 0;
-        for (int i = 1; i <= nums[0]; i++) {
+        for (int i = 1; i <= min; i++) {
             if (min % i == 0 && max % i == 0) {
                 result = i;
             }
