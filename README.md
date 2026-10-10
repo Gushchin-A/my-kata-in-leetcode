@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 365 ✅  
+- Easy: 366 ✅  
 - Medium: 33 ⚡  
 - Hard: 0 🔥  
-- **Total: 398**
+- **Total: 399**
 
 ---
 
@@ -351,6 +351,7 @@
 | 3005 | [Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency) | [Java](3005-count-elements-with-maximum-frequency) | Easy |
 | 3010 | [Divide An Array Into Subarrays With Minimum Cost I](https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i) | [Java](3010-divide-an-array-into-subarrays-with-minimum-cost-i) | Easy |
 | 3019 | [Number Of Changing Keys](https://leetcode.com/problems/number-of-changing-keys) | [Java](3019-number-of-changing-keys) | Easy |
+| 3046 | [Split The Array](https://leetcode.com/problems/split-the-array) | [Java](3046-split-the-array) | Easy |
 | 3065 | [Minimum Operations To Exceed Threshold Value I](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-i) | [Java](3065-minimum-operations-to-exceed-threshold-value-i) | Easy |
 | 3069 | [Distribute Elements Into Two Arrays I](https://leetcode.com/problems/distribute-elements-into-two-arrays-i) | [Java](3069-distribute-elements-into-two-arrays-i) | Easy |
 | 3074 | [Apple Redistribution Into Boxes](https://leetcode.com/problems/apple-redistribution-into-boxes) | [Java](3074-apple-redistribution-into-boxes) | Easy |
@@ -412,19 +413,3 @@
 | 3978 | [Unique Middle Element](https://leetcode.com/problems/unique-middle-element) | [Java](3978-unique-middle-element) | Easy |
 | 3982 | [Sum Of Integers With Maximum Digit Range](https://leetcode.com/problems/sum-of-integers-with-maximum-digit-range) | [Java](3982-sum-of-integers-with-maximum-digit-range) | Easy |
 | 4020 | [Elevator Requests I](https://leetcode.com/problems/elevator-requests-i) | [Java](4020-elevator-requests-i) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [3046-split-the-array](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/3046-split-the-array) |
-## Hash Table
-|  |
-| ------- |
-| [3046-split-the-array](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/3046-split-the-array) |
-## Counting
-|  |
-| ------- |
-| [3046-split-the-array](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/3046-split-the-array) |
-<!---LeetCode Topics End-->
