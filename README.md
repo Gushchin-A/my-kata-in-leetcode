@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 366 ✅  
+- Easy: 367 ✅  
 - Medium: 33 ⚡  
 - Hard: 0 🔥  
-- **Total: 399**
+- **Total: 400**
 
 ---
 
@@ -122,6 +122,7 @@
 | 575 | [Distribute Candies](https://leetcode.com/problems/distribute-candies) | [Java](0575-distribute-candies) | Easy |
 | 589 | [N Ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal) | [Java](0589-n-ary-tree-preorder-traversal) | Easy |
 | 590 | [N Ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal) | [Java](0590-n-ary-tree-postorder-traversal) | Easy |
+| 599 | [Minimum Index Sum Of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists) | [Java](0599-minimum-index-sum-of-two-lists) | Easy |
 | 617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees) | [Java](0617-merge-two-binary-trees) | Easy |
 | 628 | [Maximum Product Of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers) | [Java](0628-maximum-product-of-three-numbers) | Easy |
 | 637 | [Average Of Levels In Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree) | [Java](0637-average-of-levels-in-binary-tree) | Easy |
@@ -413,19 +414,3 @@
 | 3978 | [Unique Middle Element](https://leetcode.com/problems/unique-middle-element) | [Java](3978-unique-middle-element) | Easy |
 | 3982 | [Sum Of Integers With Maximum Digit Range](https://leetcode.com/problems/sum-of-integers-with-maximum-digit-range) | [Java](3982-sum-of-integers-with-maximum-digit-range) | Easy |
 | 4020 | [Elevator Requests I](https://leetcode.com/problems/elevator-requests-i) | [Java](4020-elevator-requests-i) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0599-minimum-index-sum-of-two-lists](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
-## Hash Table
-|  |
-| ------- |
-| [0599-minimum-index-sum-of-two-lists](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
-## String
-|  |
-| ------- |
-| [0599-minimum-index-sum-of-two-lists](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
-<!---LeetCode Topics End-->
