@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 369 ✅  
+- Easy: 370 ✅  
 - Medium: 33 ⚡  
 - Hard: 0 🔥  
-- **Total: 402**
+- **Total: 403**
 
 ---
 
@@ -179,6 +179,7 @@
 | 1051 | [Height Checker](https://leetcode.com/problems/height-checker) | [Java](1051-height-checker) | Easy |
 | 1062 | [Partition Array Into Three Parts With Equal Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum) | [Java](1062-partition-array-into-three-parts-with-equal-sum) | Easy |
 | 1079 | [Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities) | [Java](1079-letter-tile-possibilities) | Medium |
+| 1089 | [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros) | [Java](1089-duplicate-zeros) | Easy |
 | 1108 | [Defanging An Ip Address](https://leetcode.com/problems/defanging-an-ip-address) | [Java](1108-defanging-an-ip-address) | Easy |
 | 1122 | [Relative Sort Array](https://leetcode.com/problems/relative-sort-array) | [Java](1122-relative-sort-array) | Easy |
 | 1160 | [Find Words That Can Be Formed By Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters) | [Java](1160-find-words-that-can-be-formed-by-characters) | Easy |
@@ -416,15 +417,3 @@
 | 3978 | [Unique Middle Element](https://leetcode.com/problems/unique-middle-element) | [Java](3978-unique-middle-element) | Easy |
 | 3982 | [Sum Of Integers With Maximum Digit Range](https://leetcode.com/problems/sum-of-integers-with-maximum-digit-range) | [Java](3982-sum-of-integers-with-maximum-digit-range) | Easy |
 | 4020 | [Elevator Requests I](https://leetcode.com/problems/elevator-requests-i) | [Java](4020-elevator-requests-i) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [1089-duplicate-zeros](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1089-duplicate-zeros) |
-## Two Pointers
-|  |
-| ------- |
-| [1089-duplicate-zeros](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1089-duplicate-zeros) |
-<!---LeetCode Topics End-->
