@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 370 ✅  
+- Easy: 371 ✅  
 - Medium: 33 ⚡  
 - Hard: 0 🔥  
-- **Total: 403**
+- **Total: 404**
 
 ---
 
@@ -385,6 +385,7 @@
 | 3427 | [Sum Of Variable Length Subarrays](https://leetcode.com/problems/sum-of-variable-length-subarrays) | [Java](3427-sum-of-variable-length-subarrays) | Easy |
 | 3432 | [Count Partitions With Even Sum Difference](https://leetcode.com/problems/count-partitions-with-even-sum-difference) | [Java](3432-count-partitions-with-even-sum-difference) | Easy |
 | 3467 | [Transform Array By Parity](https://leetcode.com/problems/transform-array-by-parity) | [Java](3467-transform-array-by-parity) | Easy |
+| 3492 | [Maximum Containers On A Ship](https://leetcode.com/problems/maximum-containers-on-a-ship) | [Java](3492-maximum-containers-on-a-ship) | Easy |
 | 3498 | [Reverse Degree Of A String](https://leetcode.com/problems/reverse-degree-of-a-string) | [Java](3498-reverse-degree-of-a-string) | Easy |
 | 3502 | [Minimum Cost To Reach Every Position](https://leetcode.com/problems/minimum-cost-to-reach-every-position) | [Java](3502-minimum-cost-to-reach-every-position) | Easy |
 | 3512 | [Minimum Operations To Make Array Sum Divisible By K](https://leetcode.com/problems/minimum-operations-to-make-array-sum-divisible-by-k) | [Java](3512-minimum-operations-to-make-array-sum-divisible-by-k) | Easy |
@@ -417,11 +418,3 @@
 | 3978 | [Unique Middle Element](https://leetcode.com/problems/unique-middle-element) | [Java](3978-unique-middle-element) | Easy |
 | 3982 | [Sum Of Integers With Maximum Digit Range](https://leetcode.com/problems/sum-of-integers-with-maximum-digit-range) | [Java](3982-sum-of-integers-with-maximum-digit-range) | Easy |
 | 4020 | [Elevator Requests I](https://leetcode.com/problems/elevator-requests-i) | [Java](4020-elevator-requests-i) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-|  |
-| ------- |
-| [3492-maximum-containers-on-a-ship](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/3492-maximum-containers-on-a-ship) |
-<!---LeetCode Topics End-->
