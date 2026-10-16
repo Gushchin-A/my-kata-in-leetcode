@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 371 ✅  
+- Easy: 372 ✅  
 - Medium: 33 ⚡  
 - Hard: 0 🔥  
-- **Total: 404**
+- **Total: 405**
 
 ---
 
@@ -390,6 +390,7 @@
 | 3502 | [Minimum Cost To Reach Every Position](https://leetcode.com/problems/minimum-cost-to-reach-every-position) | [Java](3502-minimum-cost-to-reach-every-position) | Easy |
 | 3512 | [Minimum Operations To Make Array Sum Divisible By K](https://leetcode.com/problems/minimum-operations-to-make-array-sum-divisible-by-k) | [Java](3512-minimum-operations-to-make-array-sum-divisible-by-k) | Easy |
 | 3516 | [Find Closest Person](https://leetcode.com/problems/find-closest-person) | [Java](3516-find-closest-person) | Easy |
+| 3536 | [Maximum Product Of Two Digits](https://leetcode.com/problems/maximum-product-of-two-digits) | [Java](3536-maximum-product-of-two-digits) | Easy |
 | 3541 | [Find Most Frequent Vowel And Consonant](https://leetcode.com/problems/find-most-frequent-vowel-and-consonant) | [Java](3541-find-most-frequent-vowel-and-consonant) | Easy |
 | 3550 | [Smallest Index With Digit Sum Equal To Index](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index) | [Java](3550-smallest-index-with-digit-sum-equal-to-index) | Easy |
 | 3668 | [Restore Finishing Order](https://leetcode.com/problems/restore-finishing-order) | [Java](3668-restore-finishing-order) | Easy |
@@ -418,15 +419,3 @@
 | 3978 | [Unique Middle Element](https://leetcode.com/problems/unique-middle-element) | [Java](3978-unique-middle-element) | Easy |
 | 3982 | [Sum Of Integers With Maximum Digit Range](https://leetcode.com/problems/sum-of-integers-with-maximum-digit-range) | [Java](3982-sum-of-integers-with-maximum-digit-range) | Easy |
 | 4020 | [Elevator Requests I](https://leetcode.com/problems/elevator-requests-i) | [Java](4020-elevator-requests-i) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-|  |
-| ------- |
-| [3536-maximum-product-of-two-digits](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/3536-maximum-product-of-two-digits) |
-## Sorting
-|  |
-| ------- |
-| [3536-maximum-product-of-two-digits](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/3536-maximum-product-of-two-digits) |
-<!---LeetCode Topics End-->
