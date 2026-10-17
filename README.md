@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 372 ✅  
+- Easy: 373 ✅  
 - Medium: 33 ⚡  
 - Hard: 0 🔥  
-- **Total: 405**
+- **Total: 406**
 
 ---
 
@@ -266,6 +266,7 @@
 | 2016 | [Maximum Difference Between Increasing Elements](https://leetcode.com/problems/maximum-difference-between-increasing-elements) | [Java](2016-maximum-difference-between-increasing-elements) | Easy |
 | 2022 | [Convert 1d Array Into 2d Array](https://leetcode.com/problems/convert-1d-array-into-2d-array) | [Java](2022-convert-1d-array-into-2d-array) | Easy |
 | 2027 | [Minimum Moves To Convert String](https://leetcode.com/problems/minimum-moves-to-convert-string) | [Java](2027-minimum-moves-to-convert-string) | Easy |
+| 2032 | [Two Out Of Three](https://leetcode.com/problems/two-out-of-three) | [Java](2032-two-out-of-three) | Easy |
 | 2037 | [Minimum Number Of Moves To Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone) | [Java](2037-minimum-number-of-moves-to-seat-everyone) | Easy |
 | 2053 | [Kth Distinct String In An Array](https://leetcode.com/problems/kth-distinct-string-in-an-array) | [Java](2053-kth-distinct-string-in-an-array) | Easy |
 | 2062 | [Count Vowel Substrings Of A String](https://leetcode.com/problems/count-vowel-substrings-of-a-string) | [Java](2062-count-vowel-substrings-of-a-string) | Easy |
@@ -419,19 +420,3 @@
 | 3978 | [Unique Middle Element](https://leetcode.com/problems/unique-middle-element) | [Java](3978-unique-middle-element) | Easy |
 | 3982 | [Sum Of Integers With Maximum Digit Range](https://leetcode.com/problems/sum-of-integers-with-maximum-digit-range) | [Java](3982-sum-of-integers-with-maximum-digit-range) | Easy |
 | 4020 | [Elevator Requests I](https://leetcode.com/problems/elevator-requests-i) | [Java](4020-elevator-requests-i) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [2032-two-out-of-three](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2032-two-out-of-three) |
-## Hash Table
-|  |
-| ------- |
-| [2032-two-out-of-three](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2032-two-out-of-three) |
-## Bit Manipulation
-|  |
-| ------- |
-| [2032-two-out-of-three](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2032-two-out-of-three) |
-<!---LeetCode Topics End-->
