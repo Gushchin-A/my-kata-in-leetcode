@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 373 ✅  
+- Easy: 374 ✅  
 - Medium: 33 ⚡  
 - Hard: 0 🔥  
-- **Total: 406**
+- **Total: 407**
 
 ---
 
@@ -339,6 +339,7 @@
 | 2769 | [Find The Maximum Achievable Number](https://leetcode.com/problems/find-the-maximum-achievable-number) | [Java](2769-find-the-maximum-achievable-number) | Easy |
 | 2777 | [Find The Distinct Difference Array](https://leetcode.com/problems/find-the-distinct-difference-array) | [Java](2777-find-the-distinct-difference-array) | Easy |
 | 2778 | [Sum Of Squares Of Special Elements](https://leetcode.com/problems/sum-of-squares-of-special-elements) | [Java](2778-sum-of-squares-of-special-elements) | Easy |
+| 2784 | [Check If Array Is Good](https://leetcode.com/problems/check-if-array-is-good) | [Java](2784-check-if-array-is-good) | Easy |
 | 2788 | [Split Strings By Separator](https://leetcode.com/problems/split-strings-by-separator) | [Java](2788-split-strings-by-separator) | Easy |
 | 2798 | [Number Of Employees Who Met The Target](https://leetcode.com/problems/number-of-employees-who-met-the-target) | [Java](2798-number-of-employees-who-met-the-target) | Easy |
 | 2807 | [Insert Greatest Common Divisors In Linked List](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list) | [Java](2807-insert-greatest-common-divisors-in-linked-list) | Medium |
@@ -420,19 +421,3 @@
 | 3978 | [Unique Middle Element](https://leetcode.com/problems/unique-middle-element) | [Java](3978-unique-middle-element) | Easy |
 | 3982 | [Sum Of Integers With Maximum Digit Range](https://leetcode.com/problems/sum-of-integers-with-maximum-digit-range) | [Java](3982-sum-of-integers-with-maximum-digit-range) | Easy |
 | 4020 | [Elevator Requests I](https://leetcode.com/problems/elevator-requests-i) | [Java](4020-elevator-requests-i) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [2784-check-if-array-is-good](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2784-check-if-array-is-good) |
-## Hash Table
-|  |
-| ------- |
-| [2784-check-if-array-is-good](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2784-check-if-array-is-good) |
-## Sorting
-|  |
-| ------- |
-| [2784-check-if-array-is-good](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2784-check-if-array-is-good) |
-<!---LeetCode Topics End-->
