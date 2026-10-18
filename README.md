@@ -420,3 +420,19 @@
 | 3978 | [Unique Middle Element](https://leetcode.com/problems/unique-middle-element) | [Java](3978-unique-middle-element) | Easy |
 | 3982 | [Sum Of Integers With Maximum Digit Range](https://leetcode.com/problems/sum-of-integers-with-maximum-digit-range) | [Java](3982-sum-of-integers-with-maximum-digit-range) | Easy |
 | 4020 | [Elevator Requests I](https://leetcode.com/problems/elevator-requests-i) | [Java](4020-elevator-requests-i) | Easy |
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [2784-check-if-array-is-good](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2784-check-if-array-is-good) |
+## Hash Table
+|  |
+| ------- |
+| [2784-check-if-array-is-good](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2784-check-if-array-is-good) |
+## Sorting
+|  |
+| ------- |
+| [2784-check-if-array-is-good](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2784-check-if-array-is-good) |
+<!---LeetCode Topics End-->
