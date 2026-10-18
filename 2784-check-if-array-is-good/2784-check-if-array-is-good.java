@@ -1,8 +1,11 @@
 class Solution {
     public boolean isGood(int[] nums) {
-        Arrays.sort(nums);
-        int baseNum = nums[nums.length - 1];
+        int max = 0;
+        for (int num : nums) {
+            max = Math.max(max, num);
+        }
 
+        int baseNum = max;
         if (baseNum >= nums.length) {
             return false;
         }
