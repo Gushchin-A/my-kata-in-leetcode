@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 374 ✅  
+- Easy: 375 ✅  
 - Medium: 33 ⚡  
 - Hard: 0 🔥  
-- **Total: 407**
+- **Total: 408**
 
 ---
 
@@ -349,6 +349,7 @@
 | 2843 | [Count Symmetric Integers](https://leetcode.com/problems/count-symmetric-integers) | [Java](2843-count-symmetric-integers) | Easy |
 | 2894 | [Divisible And Non Divisible Sums Difference](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference) | [Java](2894-divisible-and-non-divisible-sums-difference) | Easy |
 | 2913 | [Subarrays Distinct Element Sum Of Squares I](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i) | [Java](2913-subarrays-distinct-element-sum-of-squares-i) | Easy |
+| 2923 | [Find Champion I](https://leetcode.com/problems/find-champion-i) | [Java](2923-find-champion-i) | Easy |
 | 2942 | [Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character) | [Java](2942-find-words-containing-character) | Easy |
 | 2951 | [Find The Peaks](https://leetcode.com/problems/find-the-peaks) | [Java](2951-find-the-peaks) | Easy |
 | 2956 | [Find Common Elements Between Two Arrays](https://leetcode.com/problems/find-common-elements-between-two-arrays) | [Java](2956-find-common-elements-between-two-arrays) | Easy |
@@ -421,15 +422,3 @@
 | 3978 | [Unique Middle Element](https://leetcode.com/problems/unique-middle-element) | [Java](3978-unique-middle-element) | Easy |
 | 3982 | [Sum Of Integers With Maximum Digit Range](https://leetcode.com/problems/sum-of-integers-with-maximum-digit-range) | [Java](3982-sum-of-integers-with-maximum-digit-range) | Easy |
 | 4020 | [Elevator Requests I](https://leetcode.com/problems/elevator-requests-i) | [Java](4020-elevator-requests-i) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [2923-find-champion-i](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2923-find-champion-i) |
-## Matrix
-|  |
-| ------- |
-| [2923-find-champion-i](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2923-find-champion-i) |
-<!---LeetCode Topics End-->
