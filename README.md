@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 375 ✅  
+- Easy: 376 ✅  
 - Medium: 33 ⚡  
 - Hard: 0 🔥  
-- **Total: 408**
+- **Total: 409**
 
 ---
 
@@ -305,6 +305,7 @@
 | 2390 | [Removing Stars From A String](https://leetcode.com/problems/removing-stars-from-a-string) | [Java](2390-removing-stars-from-a-string) | Medium |
 | 2391 | [Minimum Amount Of Time To Collect Garbage](https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage) | [Java](2391-minimum-amount-of-time-to-collect-garbage) | Medium |
 | 2396 | [Strictly Palindromic Number](https://leetcode.com/problems/strictly-palindromic-number) | [Java](2396-strictly-palindromic-number) | Medium |
+| 2399 | [Check Distances Between Same Letters](https://leetcode.com/problems/check-distances-between-same-letters) | [Java](2399-check-distances-between-same-letters) | Easy |
 | 2409 | [Count Days Spent Together](https://leetcode.com/problems/count-days-spent-together) | [Java](2409-count-days-spent-together) | Easy |
 | 2413 | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple) | [Java](2413-smallest-even-multiple) | Easy |
 | 2418 | [Sort The People](https://leetcode.com/problems/sort-the-people) | [Java](2418-sort-the-people) | Easy |
@@ -422,19 +423,3 @@
 | 3978 | [Unique Middle Element](https://leetcode.com/problems/unique-middle-element) | [Java](3978-unique-middle-element) | Easy |
 | 3982 | [Sum Of Integers With Maximum Digit Range](https://leetcode.com/problems/sum-of-integers-with-maximum-digit-range) | [Java](3982-sum-of-integers-with-maximum-digit-range) | Easy |
 | 4020 | [Elevator Requests I](https://leetcode.com/problems/elevator-requests-i) | [Java](4020-elevator-requests-i) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [2399-check-distances-between-same-letters](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2399-check-distances-between-same-letters) |
-## Hash Table
-|  |
-| ------- |
-| [2399-check-distances-between-same-letters](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2399-check-distances-between-same-letters) |
-## String
-|  |
-| ------- |
-| [2399-check-distances-between-same-letters](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2399-check-distances-between-same-letters) |
-<!---LeetCode Topics End-->
