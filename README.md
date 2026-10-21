@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 376 ✅  
+- Easy: 377 ✅  
 - Medium: 33 ⚡  
 - Hard: 0 🔥  
-- **Total: 409**
+- **Total: 410**
 
 ---
 
@@ -280,6 +280,7 @@
 | 2128 | [Reverse Prefix Of Word](https://leetcode.com/problems/reverse-prefix-of-word) | [Java](2128-reverse-prefix-of-word) | Easy |
 | 2160 | [Minimum Sum Of Four Digit Number After Splitting Digits](https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits) | [Java](2160-minimum-sum-of-four-digit-number-after-splitting-digits) | Easy |
 | 2176 | [Count Equal And Divisible Pairs In An Array](https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array) | [Java](2176-count-equal-and-divisible-pairs-in-an-array) | Easy |
+| 2180 | [Count Integers With Even Digit Sum](https://leetcode.com/problems/count-integers-with-even-digit-sum) | [Java](2180-count-integers-with-even-digit-sum) | Easy |
 | 2181 | [Merge Nodes In Between Zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros) | [Java](2181-merge-nodes-in-between-zeros) | Medium |
 | 2206 | [Divide Array Into Equal Pairs](https://leetcode.com/problems/divide-array-into-equal-pairs) | [Java](2206-divide-array-into-equal-pairs) | Easy |
 | 2215 | [Find The Difference Of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays) | [Java](2215-find-the-difference-of-two-arrays) | Easy |
@@ -423,15 +424,3 @@
 | 3978 | [Unique Middle Element](https://leetcode.com/problems/unique-middle-element) | [Java](3978-unique-middle-element) | Easy |
 | 3982 | [Sum Of Integers With Maximum Digit Range](https://leetcode.com/problems/sum-of-integers-with-maximum-digit-range) | [Java](3982-sum-of-integers-with-maximum-digit-range) | Easy |
 | 4020 | [Elevator Requests I](https://leetcode.com/problems/elevator-requests-i) | [Java](4020-elevator-requests-i) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-|  |
-| ------- |
-| [2180-count-integers-with-even-digit-sum](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
-## Simulation
-|  |
-| ------- |
-| [2180-count-integers-with-even-digit-sum](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
-<!---LeetCode Topics End-->
