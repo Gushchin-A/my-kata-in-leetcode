@@ -5,13 +5,7 @@ class Solution {
 
         for (int i = 0; i < n; i++) {
             int position = ((i + nums[i]) % n + n) % n;
-            if (nums[i] > 0) {
-                result[i] = nums[position];
-            } else if (nums[i] < 0) {
-                result[i] = nums[position];
-            } else {
-                result[i] = nums[i];
-            }
+            result[i] = nums[position];
         }
 
         return result;
