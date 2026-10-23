@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 378 ✅  
+- Easy: 379 ✅  
 - Medium: 33 ⚡  
 - Hard: 0 🔥  
-- **Total: 411**
+- **Total: 412**
 
 ---
 
@@ -223,6 +223,7 @@
 | 1512 | [Number Of Good Pairs](https://leetcode.com/problems/number-of-good-pairs) | [Java](1512-number-of-good-pairs) | Easy |
 | 1528 | [Shuffle String](https://leetcode.com/problems/shuffle-string) | [Java](1528-shuffle-string) | Easy |
 | 1534 | [Count Good Triplets](https://leetcode.com/problems/count-good-triplets) | [Java](1534-count-good-triplets) | Easy |
+| 1544 | [Make The String Great](https://leetcode.com/problems/make-the-string-great) | [Java](1544-make-the-string-great) | Easy |
 | 1566 | [Check If A Word Occurs As A Prefix Of Any Word In A Sentence](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) | [Java](1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) | Easy |
 | 1572 | [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum) | [Java](1572-matrix-diagonal-sum) | Easy |
 | 1582 | [Special Positions In A Binary Matrix](https://leetcode.com/problems/special-positions-in-a-binary-matrix) | [Java](1582-special-positions-in-a-binary-matrix) | Easy |
@@ -425,15 +426,3 @@
 | 3978 | [Unique Middle Element](https://leetcode.com/problems/unique-middle-element) | [Java](3978-unique-middle-element) | Easy |
 | 3982 | [Sum Of Integers With Maximum Digit Range](https://leetcode.com/problems/sum-of-integers-with-maximum-digit-range) | [Java](3982-sum-of-integers-with-maximum-digit-range) | Easy |
 | 4020 | [Elevator Requests I](https://leetcode.com/problems/elevator-requests-i) | [Java](4020-elevator-requests-i) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## String
-|  |
-| ------- |
-| [1544-make-the-string-great](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1544-make-the-string-great) |
-## Stack
-|  |
-| ------- |
-| [1544-make-the-string-great](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1544-make-the-string-great) |
-<!---LeetCode Topics End-->
