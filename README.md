@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 379 ✅  
+- Easy: 380 ✅  
 - Medium: 33 ⚡  
 - Hard: 0 🔥  
-- **Total: 412**
+- **Total: 413**
 
 ---
 
@@ -279,6 +279,7 @@
 | 2103 | [Rings And Rods](https://leetcode.com/problems/rings-and-rods) | [Java](2103-rings-and-rods) | Easy |
 | 2114 | [Maximum Number Of Words Found In Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences) | [Java](2114-maximum-number-of-words-found-in-sentences) | Easy |
 | 2128 | [Reverse Prefix Of Word](https://leetcode.com/problems/reverse-prefix-of-word) | [Java](2128-reverse-prefix-of-word) | Easy |
+| 2129 | [Capitalize The Title](https://leetcode.com/problems/capitalize-the-title) | [Java](2129-capitalize-the-title) | Easy |
 | 2160 | [Minimum Sum Of Four Digit Number After Splitting Digits](https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits) | [Java](2160-minimum-sum-of-four-digit-number-after-splitting-digits) | Easy |
 | 2176 | [Count Equal And Divisible Pairs In An Array](https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array) | [Java](2176-count-equal-and-divisible-pairs-in-an-array) | Easy |
 | 2180 | [Count Integers With Even Digit Sum](https://leetcode.com/problems/count-integers-with-even-digit-sum) | [Java](2180-count-integers-with-even-digit-sum) | Easy |
@@ -426,11 +427,3 @@
 | 3978 | [Unique Middle Element](https://leetcode.com/problems/unique-middle-element) | [Java](3978-unique-middle-element) | Easy |
 | 3982 | [Sum Of Integers With Maximum Digit Range](https://leetcode.com/problems/sum-of-integers-with-maximum-digit-range) | [Java](3982-sum-of-integers-with-maximum-digit-range) | Easy |
 | 4020 | [Elevator Requests I](https://leetcode.com/problems/elevator-requests-i) | [Java](4020-elevator-requests-i) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## String
-|  |
-| ------- |
-| [2129-capitalize-the-title](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2129-capitalize-the-title) |
-<!---LeetCode Topics End-->
