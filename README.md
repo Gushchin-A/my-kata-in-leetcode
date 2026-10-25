@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 380 ✅  
+- Easy: 381 ✅  
 - Medium: 33 ⚡  
 - Hard: 0 🔥  
-- **Total: 413**
+- **Total: 414**
 
 ---
 
@@ -412,6 +412,7 @@
 | 3760 | [Maximum Substrings With Distinct Start](https://leetcode.com/problems/maximum-substrings-with-distinct-start) | [Java](3760-maximum-substrings-with-distinct-start) | Medium |
 | 3783 | [Mirror Distance Of An Integer](https://leetcode.com/problems/mirror-distance-of-an-integer) | [Java](3783-mirror-distance-of-an-integer) | Easy |
 | 3794 | [Reverse String Prefix](https://leetcode.com/problems/reverse-string-prefix) | [Java](3794-reverse-string-prefix) | Easy |
+| 3798 | [Largest Even Number](https://leetcode.com/problems/largest-even-number) | [Java](3798-largest-even-number) | Easy |
 | 3823 | [Reverse Letters Then Special Characters In A String](https://leetcode.com/problems/reverse-letters-then-special-characters-in-a-string) | [Java](3823-reverse-letters-then-special-characters-in-a-string) | Easy |
 | 3838 | [Weighted Word Mapping](https://leetcode.com/problems/weighted-word-mapping) | [Java](3838-weighted-word-mapping) | Easy |
 | 3856 | [Trim Trailing Vowels](https://leetcode.com/problems/trim-trailing-vowels) | [Java](3856-trim-trailing-vowels) | Easy |
@@ -427,11 +428,3 @@
 | 3978 | [Unique Middle Element](https://leetcode.com/problems/unique-middle-element) | [Java](3978-unique-middle-element) | Easy |
 | 3982 | [Sum Of Integers With Maximum Digit Range](https://leetcode.com/problems/sum-of-integers-with-maximum-digit-range) | [Java](3982-sum-of-integers-with-maximum-digit-range) | Easy |
 | 4020 | [Elevator Requests I](https://leetcode.com/problems/elevator-requests-i) | [Java](4020-elevator-requests-i) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## String
-|  |
-| ------- |
-| [3798-largest-even-number](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/3798-largest-even-number) |
-<!---LeetCode Topics End-->
