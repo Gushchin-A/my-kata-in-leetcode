@@ -1,13 +1,11 @@
 class Solution {
     public String largestEven(String s) {
-        StringBuilder result = new StringBuilder(s);
-        int n = result.length();
+        int end = s.length();
 
-        while (n != 0 && Character.getNumericValue(result.charAt(n - 1)) % 2 != 0) {
-            result.setLength(n - 1);
-            n = result.length();
+        while (end != 0 && s.charAt(end - 1) != '2') {
+            end--;
         }
 
-        return result.toString();
+        return s.substring(0, end);
     }
 }
