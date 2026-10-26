@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 381 ✅  
+- Easy: 382 ✅  
 - Medium: 33 ⚡  
 - Hard: 0 🔥  
-- **Total: 414**
+- **Total: 415**
 
 ---
 
@@ -290,6 +290,7 @@
 | 2231 | [Largest Number After Digit Swaps By Parity](https://leetcode.com/problems/largest-number-after-digit-swaps-by-parity) | [Java](2231-largest-number-after-digit-swaps-by-parity) | Easy |
 | 2235 | [Add Two Integers](https://leetcode.com/problems/add-two-integers) | [Java](2235-add-two-integers) | Easy |
 | 2236 | [Root Equals Sum Of Children](https://leetcode.com/problems/root-equals-sum-of-children) | [Java](2236-root-equals-sum-of-children) | Easy |
+| 2243 | [Calculate Digit Sum Of A String](https://leetcode.com/problems/calculate-digit-sum-of-a-string) | [Java](2243-calculate-digit-sum-of-a-string) | Easy |
 | 2248 | [Intersection Of Multiple Arrays](https://leetcode.com/problems/intersection-of-multiple-arrays) | [Java](2248-intersection-of-multiple-arrays) | Easy |
 | 2259 | [Remove Digit From Number To Maximize Result](https://leetcode.com/problems/remove-digit-from-number-to-maximize-result) | [Java](2259-remove-digit-from-number-to-maximize-result) | Easy |
 | 2260 | [Divide A String Into Groups Of Size K](https://leetcode.com/problems/divide-a-string-into-groups-of-size-k) | [Java](2260-divide-a-string-into-groups-of-size-k) | Easy |
@@ -428,15 +429,3 @@
 | 3978 | [Unique Middle Element](https://leetcode.com/problems/unique-middle-element) | [Java](3978-unique-middle-element) | Easy |
 | 3982 | [Sum Of Integers With Maximum Digit Range](https://leetcode.com/problems/sum-of-integers-with-maximum-digit-range) | [Java](3982-sum-of-integers-with-maximum-digit-range) | Easy |
 | 4020 | [Elevator Requests I](https://leetcode.com/problems/elevator-requests-i) | [Java](4020-elevator-requests-i) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## String
-|  |
-| ------- |
-| [2243-calculate-digit-sum-of-a-string](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
-## Simulation
-|  |
-| ------- |
-| [2243-calculate-digit-sum-of-a-string](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
-<!---LeetCode Topics End-->
