@@ -430,3 +430,19 @@
 | 3982 | [Sum Of Integers With Maximum Digit Range](https://leetcode.com/problems/sum-of-integers-with-maximum-digit-range) | [Java](3982-sum-of-integers-with-maximum-digit-range) | Easy |
 | 4000 | [Largest Integer With Given Digit Sum](https://leetcode.com/problems/largest-integer-with-given-digit-sum) | [Java](4000-largest-integer-with-given-digit-sum) | Easy |
 | 4020 | [Elevator Requests I](https://leetcode.com/problems/elevator-requests-i) | [Java](4020-elevator-requests-i) | Easy |
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Hash Table
+|  |
+| ------- |
+| [1370-increasing-decreasing-string](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1370-increasing-decreasing-string) |
+## String
+|  |
+| ------- |
+| [1370-increasing-decreasing-string](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1370-increasing-decreasing-string) |
+## Counting
+|  |
+| ------- |
+| [1370-increasing-decreasing-string](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1370-increasing-decreasing-string) |
+<!---LeetCode Topics End-->
