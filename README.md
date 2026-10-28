@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 383 ✅  
+- Easy: 384 ✅  
 - Medium: 33 ⚡  
 - Hard: 0 🔥  
-- **Total: 416**
+- **Total: 417**
 
 ---
 
@@ -199,6 +199,7 @@
 | 1347 | [Minimum Number Of Steps To Make Two Strings Anagram](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram) | [Java](1347-minimum-number-of-steps-to-make-two-strings-anagram) | Medium |
 | 1351 | [Count Negative Numbers In A Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix) | [Java](1351-count-negative-numbers-in-a-sorted-matrix) | Easy |
 | 1365 | [How Many Numbers Are Smaller Than The Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number) | [Java](1365-how-many-numbers-are-smaller-than-the-current-number) | Easy |
+| 1370 | [Increasing Decreasing String](https://leetcode.com/problems/increasing-decreasing-string) | [Java](1370-increasing-decreasing-string) | Easy |
 | 1374 | [Generate A String With Characters That Have Odd Counts](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts) | [Java](1374-generate-a-string-with-characters-that-have-odd-counts) | Easy |
 | 1379 | [Find A Corresponding Node Of A Binary Tree In A Clone Of That Tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) | [Java](1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) | Easy |
 | 1380 | [Lucky Numbers In A Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix) | [Java](1380-lucky-numbers-in-a-matrix) | Easy |
@@ -430,19 +431,3 @@
 | 3982 | [Sum Of Integers With Maximum Digit Range](https://leetcode.com/problems/sum-of-integers-with-maximum-digit-range) | [Java](3982-sum-of-integers-with-maximum-digit-range) | Easy |
 | 4000 | [Largest Integer With Given Digit Sum](https://leetcode.com/problems/largest-integer-with-given-digit-sum) | [Java](4000-largest-integer-with-given-digit-sum) | Easy |
 | 4020 | [Elevator Requests I](https://leetcode.com/problems/elevator-requests-i) | [Java](4020-elevator-requests-i) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Hash Table
-|  |
-| ------- |
-| [1370-increasing-decreasing-string](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1370-increasing-decreasing-string) |
-## String
-|  |
-| ------- |
-| [1370-increasing-decreasing-string](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1370-increasing-decreasing-string) |
-## Counting
-|  |
-| ------- |
-| [1370-increasing-decreasing-string](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1370-increasing-decreasing-string) |
-<!---LeetCode Topics End-->
