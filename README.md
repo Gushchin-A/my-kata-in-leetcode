@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 384 ✅  
+- Easy: 385 ✅  
 - Medium: 33 ⚡  
 - Hard: 0 🔥  
-- **Total: 417**
+- **Total: 418**
 
 ---
 
@@ -379,6 +379,7 @@
 | 3211 | [Generate Binary Strings Without Adjacent Zeros](https://leetcode.com/problems/generate-binary-strings-without-adjacent-zeros) | [Java](3211-generate-binary-strings-without-adjacent-zeros) | Medium |
 | 3232 | [Find If Digit Game Can Be Won](https://leetcode.com/problems/find-if-digit-game-can-be-won) | [Java](3232-find-if-digit-game-can-be-won) | Easy |
 | 3258 | [Count Substrings That Satisfy K Constraint I](https://leetcode.com/problems/count-substrings-that-satisfy-k-constraint-i) | [Java](3258-count-substrings-that-satisfy-k-constraint-i) | Easy |
+| 3264 | [Final Array State After K Multiplication Operations I](https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i) | [Java](3264-final-array-state-after-k-multiplication-operations-i) | Easy |
 | 3270 | [Find The Key Of The Numbers](https://leetcode.com/problems/find-the-key-of-the-numbers) | [Java](3270-find-the-key-of-the-numbers) | Easy |
 | 3274 | [Check If Two Chessboard Squares Have The Same Color](https://leetcode.com/problems/check-if-two-chessboard-squares-have-the-same-color) | [Java](3274-check-if-two-chessboard-squares-have-the-same-color) | Easy |
 | 3280 | [Convert Date To Binary](https://leetcode.com/problems/convert-date-to-binary) | [Java](3280-convert-date-to-binary) | Easy |
@@ -431,23 +432,3 @@
 | 3982 | [Sum Of Integers With Maximum Digit Range](https://leetcode.com/problems/sum-of-integers-with-maximum-digit-range) | [Java](3982-sum-of-integers-with-maximum-digit-range) | Easy |
 | 4000 | [Largest Integer With Given Digit Sum](https://leetcode.com/problems/largest-integer-with-given-digit-sum) | [Java](4000-largest-integer-with-given-digit-sum) | Easy |
 | 4020 | [Elevator Requests I](https://leetcode.com/problems/elevator-requests-i) | [Java](4020-elevator-requests-i) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
-## Math
-|  |
-| ------- |
-| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
-## Heap (Priority Queue)
-|  |
-| ------- |
-| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
-## Simulation
-|  |
-| ------- |
-| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
-<!---LeetCode Topics End-->
