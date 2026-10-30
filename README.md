@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 385 ✅  
+- Easy: 386 ✅  
 - Medium: 33 ⚡  
 - Hard: 0 🔥  
-- **Total: 418**
+- **Total: 419**
 
 ---
 
@@ -421,6 +421,7 @@
 | 3856 | [Trim Trailing Vowels](https://leetcode.com/problems/trim-trailing-vowels) | [Java](3856-trim-trailing-vowels) | Easy |
 | 3861 | [Minimum Capacity Box](https://leetcode.com/problems/minimum-capacity-box) | [Java](3861-minimum-capacity-box) | Easy |
 | 3870 | [Count Commas In Range](https://leetcode.com/problems/count-commas-in-range) | [Java](3870-count-commas-in-range) | Easy |
+| 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i) | [Java](3875-construct-uniform-parity-array-i) | Easy |
 | 3894 | [Traffic Signal Color](https://leetcode.com/problems/traffic-signal-color) | [Java](3894-traffic-signal-color) | Easy |
 | 3903 | [Smallest Stable Index I](https://leetcode.com/problems/smallest-stable-index-i) | [Java](3903-smallest-stable-index-i) | Easy |
 | 3917 | [Count Indices With Opposite Parity](https://leetcode.com/problems/count-indices-with-opposite-parity) | [Java](3917-count-indices-with-opposite-parity) | Easy |
@@ -432,15 +433,3 @@
 | 3982 | [Sum Of Integers With Maximum Digit Range](https://leetcode.com/problems/sum-of-integers-with-maximum-digit-range) | [Java](3982-sum-of-integers-with-maximum-digit-range) | Easy |
 | 4000 | [Largest Integer With Given Digit Sum](https://leetcode.com/problems/largest-integer-with-given-digit-sum) | [Java](4000-largest-integer-with-given-digit-sum) | Easy |
 | 4020 | [Elevator Requests I](https://leetcode.com/problems/elevator-requests-i) | [Java](4020-elevator-requests-i) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [3875-construct-uniform-parity-array-i](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/3875-construct-uniform-parity-array-i) |
-## Math
-|  |
-| ------- |
-| [3875-construct-uniform-parity-array-i](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/3875-construct-uniform-parity-array-i) |
-<!---LeetCode Topics End-->
