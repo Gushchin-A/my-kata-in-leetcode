@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 388 ✅  
+- Easy: 389 ✅  
 - Medium: 33 ⚡  
 - Hard: 0 🔥  
-- **Total: 421**
+- **Total: 422**
 
 ---
 
@@ -360,6 +360,7 @@
 | 2942 | [Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character) | [Java](2942-find-words-containing-character) | Easy |
 | 2951 | [Find The Peaks](https://leetcode.com/problems/find-the-peaks) | [Java](2951-find-the-peaks) | Easy |
 | 2956 | [Find Common Elements Between Two Arrays](https://leetcode.com/problems/find-common-elements-between-two-arrays) | [Java](2956-find-common-elements-between-two-arrays) | Easy |
+| 2960 | [Count Tested Devices After Test Operations](https://leetcode.com/problems/count-tested-devices-after-test-operations) | [Java](2960-count-tested-devices-after-test-operations) | Easy |
 | 2965 | [Find Missing And Repeated Values](https://leetcode.com/problems/find-missing-and-repeated-values) | [Java](2965-find-missing-and-repeated-values) | Easy |
 | 2974 | [Minimum Number Game](https://leetcode.com/problems/minimum-number-game) | [Java](2974-minimum-number-game) | Easy |
 | 3005 | [Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency) | [Java](3005-count-elements-with-maximum-frequency) | Easy |
@@ -435,19 +436,3 @@
 | 3982 | [Sum Of Integers With Maximum Digit Range](https://leetcode.com/problems/sum-of-integers-with-maximum-digit-range) | [Java](3982-sum-of-integers-with-maximum-digit-range) | Easy |
 | 4000 | [Largest Integer With Given Digit Sum](https://leetcode.com/problems/largest-integer-with-given-digit-sum) | [Java](4000-largest-integer-with-given-digit-sum) | Easy |
 | 4020 | [Elevator Requests I](https://leetcode.com/problems/elevator-requests-i) | [Java](4020-elevator-requests-i) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [2960-count-tested-devices-after-test-operations](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2960-count-tested-devices-after-test-operations) |
-## Simulation
-|  |
-| ------- |
-| [2960-count-tested-devices-after-test-operations](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2960-count-tested-devices-after-test-operations) |
-## Counting
-|  |
-| ------- |
-| [2960-count-tested-devices-after-test-operations](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2960-count-tested-devices-after-test-operations) |
-<!---LeetCode Topics End-->
