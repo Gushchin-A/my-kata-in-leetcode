@@ -4,9 +4,9 @@
 #### 📊 Progress
 
 - Easy: 390 ✅  
-- Medium: 33 ⚡  
+- Medium: 34 ⚡  
 - Hard: 0 🔥  
-- **Total: 423**
+- **Total: 424**
 
 ---
 
@@ -244,6 +244,7 @@
 | 1716 | [Calculate Money In Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank) | [Java](1716-calculate-money-in-leetcode-bank) | Easy |
 | 1748 | [Sum Of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements) | [Java](1748-sum-of-unique-elements) | Easy |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [Java](1768-merge-strings-alternately) | Easy |
+| 1769 | [Minimum Number Of Operations To Move All Balls To Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box) | [Java](1769-minimum-number-of-operations-to-move-all-balls-to-each-box) | Medium |
 | 1773 | [Count Items Matching A Rule](https://leetcode.com/problems/count-items-matching-a-rule) | [Java](1773-count-items-matching-a-rule) | Easy |
 | 1812 | [Determine Color Of A Chessboard Square](https://leetcode.com/problems/determine-color-of-a-chessboard-square) | [Java](1812-determine-color-of-a-chessboard-square) | Easy |
 | 1816 | [Truncate Sentence](https://leetcode.com/problems/truncate-sentence) | [Java](1816-truncate-sentence) | Easy |
@@ -437,19 +438,3 @@
 | 3982 | [Sum Of Integers With Maximum Digit Range](https://leetcode.com/problems/sum-of-integers-with-maximum-digit-range) | [Java](3982-sum-of-integers-with-maximum-digit-range) | Easy |
 | 4000 | [Largest Integer With Given Digit Sum](https://leetcode.com/problems/largest-integer-with-given-digit-sum) | [Java](4000-largest-integer-with-given-digit-sum) | Easy |
 | 4020 | [Elevator Requests I](https://leetcode.com/problems/elevator-requests-i) | [Java](4020-elevator-requests-i) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
-## String
-|  |
-| ------- |
-| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
-## Prefix Sum
-|  |
-| ------- |
-| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
-<!---LeetCode Topics End-->
