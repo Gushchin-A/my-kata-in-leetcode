@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 392 ✅  
+- Easy: 393 ✅  
 - Medium: 34 ⚡  
 - Hard: 0 🔥  
-- **Total: 426**
+- **Total: 427**
 
 ---
 
@@ -317,6 +317,7 @@
 | 2413 | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple) | [Java](2413-smallest-even-multiple) | Easy |
 | 2418 | [Sort The People](https://leetcode.com/problems/sort-the-people) | [Java](2418-sort-the-people) | Easy |
 | 2427 | [Number Of Common Factors](https://leetcode.com/problems/number-of-common-factors) | [Java](2427-number-of-common-factors) | Easy |
+| 2432 | [The Employee That Worked On The Longest Task](https://leetcode.com/problems/the-employee-that-worked-on-the-longest-task) | [Java](2432-the-employee-that-worked-on-the-longest-task) | Easy |
 | 2469 | [Convert The Temperature](https://leetcode.com/problems/convert-the-temperature) | [Java](2469-convert-the-temperature) | Easy |
 | 2496 | [Maximum Value Of A String In An Array](https://leetcode.com/problems/maximum-value-of-a-string-in-an-array) | [Java](2496-maximum-value-of-a-string-in-an-array) | Easy |
 | 2500 | [Delete Greatest Value In Each Row](https://leetcode.com/problems/delete-greatest-value-in-each-row) | [Java](2500-delete-greatest-value-in-each-row) | Easy |
@@ -440,11 +441,3 @@
 | 3982 | [Sum Of Integers With Maximum Digit Range](https://leetcode.com/problems/sum-of-integers-with-maximum-digit-range) | [Java](3982-sum-of-integers-with-maximum-digit-range) | Easy |
 | 4000 | [Largest Integer With Given Digit Sum](https://leetcode.com/problems/largest-integer-with-given-digit-sum) | [Java](4000-largest-integer-with-given-digit-sum) | Easy |
 | 4020 | [Elevator Requests I](https://leetcode.com/problems/elevator-requests-i) | [Java](4020-elevator-requests-i) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [2432-the-employee-that-worked-on-the-longest-task](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2432-the-employee-that-worked-on-the-longest-task) |
-<!---LeetCode Topics End-->
