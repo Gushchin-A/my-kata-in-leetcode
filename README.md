@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 393 ✅  
+- Easy: 394 ✅  
 - Medium: 34 ⚡  
 - Hard: 0 🔥  
-- **Total: 427**
+- **Total: 428**
 
 ---
 
@@ -368,6 +368,7 @@
 | 3005 | [Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency) | [Java](3005-count-elements-with-maximum-frequency) | Easy |
 | 3010 | [Divide An Array Into Subarrays With Minimum Cost I](https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i) | [Java](3010-divide-an-array-into-subarrays-with-minimum-cost-i) | Easy |
 | 3019 | [Number Of Changing Keys](https://leetcode.com/problems/number-of-changing-keys) | [Java](3019-number-of-changing-keys) | Easy |
+| 3038 | [Maximum Number Of Operations With The Same Score I](https://leetcode.com/problems/maximum-number-of-operations-with-the-same-score-i) | [Java](3038-maximum-number-of-operations-with-the-same-score-i) | Easy |
 | 3046 | [Split The Array](https://leetcode.com/problems/split-the-array) | [Java](3046-split-the-array) | Easy |
 | 3065 | [Minimum Operations To Exceed Threshold Value I](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-i) | [Java](3065-minimum-operations-to-exceed-threshold-value-i) | Easy |
 | 3069 | [Distribute Elements Into Two Arrays I](https://leetcode.com/problems/distribute-elements-into-two-arrays-i) | [Java](3069-distribute-elements-into-two-arrays-i) | Easy |
@@ -441,15 +442,3 @@
 | 3982 | [Sum Of Integers With Maximum Digit Range](https://leetcode.com/problems/sum-of-integers-with-maximum-digit-range) | [Java](3982-sum-of-integers-with-maximum-digit-range) | Easy |
 | 4000 | [Largest Integer With Given Digit Sum](https://leetcode.com/problems/largest-integer-with-given-digit-sum) | [Java](4000-largest-integer-with-given-digit-sum) | Easy |
 | 4020 | [Elevator Requests I](https://leetcode.com/problems/elevator-requests-i) | [Java](4020-elevator-requests-i) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
-## Simulation
-|  |
-| ------- |
-| [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
-<!---LeetCode Topics End-->
