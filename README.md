@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 394 ✅  
+- Easy: 395 ✅  
 - Medium: 34 ⚡  
 - Hard: 0 🔥  
-- **Total: 428**
+- **Total: 429**
 
 ---
 
@@ -240,6 +240,7 @@
 | 1684 | [Count The Number Of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings) | [Java](1684-count-the-number-of-consistent-strings) | Easy |
 | 1688 | [Count Of Matches In Tournament](https://leetcode.com/problems/count-of-matches-in-tournament) | [Java](1688-count-of-matches-in-tournament) | Easy |
 | 1694 | [Reformat Phone Number](https://leetcode.com/problems/reformat-phone-number) | [Java](1694-reformat-phone-number) | Easy |
+| 1700 | [Number Of Students Unable To Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch) | [Java](1700-number-of-students-unable-to-eat-lunch) | Easy |
 | 1710 | [Maximum Units On A Truck](https://leetcode.com/problems/maximum-units-on-a-truck) | [Java](1710-maximum-units-on-a-truck) | Easy |
 | 1716 | [Calculate Money In Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank) | [Java](1716-calculate-money-in-leetcode-bank) | Easy |
 | 1748 | [Sum Of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements) | [Java](1748-sum-of-unique-elements) | Easy |
@@ -442,23 +443,3 @@
 | 3982 | [Sum Of Integers With Maximum Digit Range](https://leetcode.com/problems/sum-of-integers-with-maximum-digit-range) | [Java](3982-sum-of-integers-with-maximum-digit-range) | Easy |
 | 4000 | [Largest Integer With Given Digit Sum](https://leetcode.com/problems/largest-integer-with-given-digit-sum) | [Java](4000-largest-integer-with-given-digit-sum) | Easy |
 | 4020 | [Elevator Requests I](https://leetcode.com/problems/elevator-requests-i) | [Java](4020-elevator-requests-i) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
-## Stack
-|  |
-| ------- |
-| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
-## Queue
-|  |
-| ------- |
-| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
-## Simulation
-|  |
-| ------- |
-| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
-<!---LeetCode Topics End-->
