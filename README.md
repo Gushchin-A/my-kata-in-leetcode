@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 395 ✅  
+- Easy: 396 ✅  
 - Medium: 34 ⚡  
 - Hard: 0 🔥  
-- **Total: 429**
+- **Total: 430**
 
 ---
 
@@ -381,6 +381,7 @@
 | 3146 | [Permutation Difference Between Two Strings](https://leetcode.com/problems/permutation-difference-between-two-strings) | [Java](3146-permutation-difference-between-two-strings) | Easy |
 | 3151 | [Special Array I](https://leetcode.com/problems/special-array-i) | [Java](3151-special-array-i) | Easy |
 | 3162 | [Find The Number Of Good Pairs I](https://leetcode.com/problems/find-the-number-of-good-pairs-i) | [Java](3162-find-the-number-of-good-pairs-i) | Easy |
+| 3168 | [Minimum Number Of Chairs In A Waiting Room](https://leetcode.com/problems/minimum-number-of-chairs-in-a-waiting-room) | [Java](3168-minimum-number-of-chairs-in-a-waiting-room) | Easy |
 | 3174 | [Clear Digits](https://leetcode.com/problems/clear-digits) | [Java](3174-clear-digits) | Easy |
 | 3190 | [Find Minimum Operations To Make All Elements Divisible By Three](https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three) | [Java](3190-find-minimum-operations-to-make-all-elements-divisible-by-three) | Easy |
 | 3194 | [Minimum Average Of Smallest And Largest Elements](https://leetcode.com/problems/minimum-average-of-smallest-and-largest-elements) | [Java](3194-minimum-average-of-smallest-and-largest-elements) | Easy |
@@ -443,15 +444,3 @@
 | 3982 | [Sum Of Integers With Maximum Digit Range](https://leetcode.com/problems/sum-of-integers-with-maximum-digit-range) | [Java](3982-sum-of-integers-with-maximum-digit-range) | Easy |
 | 4000 | [Largest Integer With Given Digit Sum](https://leetcode.com/problems/largest-integer-with-given-digit-sum) | [Java](4000-largest-integer-with-given-digit-sum) | Easy |
 | 4020 | [Elevator Requests I](https://leetcode.com/problems/elevator-requests-i) | [Java](4020-elevator-requests-i) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## String
-|  |
-| ------- |
-| [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
-## Simulation
-|  |
-| ------- |
-| [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
-<!---LeetCode Topics End-->
