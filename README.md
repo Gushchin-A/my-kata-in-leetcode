@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 396 ✅  
+- Easy: 397 ✅  
 - Medium: 34 ⚡  
 - Hard: 0 🔥  
-- **Total: 430**
+- **Total: 431**
 
 ---
 
@@ -204,6 +204,7 @@
 | 1379 | [Find A Corresponding Node Of A Binary Tree In A Clone Of That Tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) | [Java](1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) | Easy |
 | 1380 | [Lucky Numbers In A Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix) | [Java](1380-lucky-numbers-in-a-matrix) | Easy |
 | 1382 | [Balance A Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree) | [Java](1382-balance-a-binary-search-tree) | Medium |
+| 1385 | [Find The Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays) | [Java](1385-find-the-distance-value-between-two-arrays) | Easy |
 | 1394 | [Find Lucky Integer In An Array](https://leetcode.com/problems/find-lucky-integer-in-an-array) | [Java](1394-find-lucky-integer-in-an-array) | Easy |
 | 1399 | [Count Largest Group](https://leetcode.com/problems/count-largest-group) | [Java](1399-count-largest-group) | Easy |
 | 1408 | [String Matching In An Array](https://leetcode.com/problems/string-matching-in-an-array) | [Java](1408-string-matching-in-an-array) | Easy |
@@ -444,23 +445,3 @@
 | 3982 | [Sum Of Integers With Maximum Digit Range](https://leetcode.com/problems/sum-of-integers-with-maximum-digit-range) | [Java](3982-sum-of-integers-with-maximum-digit-range) | Easy |
 | 4000 | [Largest Integer With Given Digit Sum](https://leetcode.com/problems/largest-integer-with-given-digit-sum) | [Java](4000-largest-integer-with-given-digit-sum) | Easy |
 | 4020 | [Elevator Requests I](https://leetcode.com/problems/elevator-requests-i) | [Java](4020-elevator-requests-i) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [1385-find-the-distance-value-between-two-arrays](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
-## Two Pointers
-|  |
-| ------- |
-| [1385-find-the-distance-value-between-two-arrays](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
-## Binary Search
-|  |
-| ------- |
-| [1385-find-the-distance-value-between-two-arrays](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
-## Sorting
-|  |
-| ------- |
-| [1385-find-the-distance-value-between-two-arrays](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
-<!---LeetCode Topics End-->
