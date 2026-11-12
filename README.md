@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 397 ✅  
+- Easy: 398 ✅  
 - Medium: 34 ⚡  
 - Hard: 0 🔥  
-- **Total: 431**
+- **Total: 432**
 
 ---
 
@@ -445,3 +445,4 @@
 | 3982 | [Sum Of Integers With Maximum Digit Range](https://leetcode.com/problems/sum-of-integers-with-maximum-digit-range) | [Java](3982-sum-of-integers-with-maximum-digit-range) | Easy |
 | 4000 | [Largest Integer With Given Digit Sum](https://leetcode.com/problems/largest-integer-with-given-digit-sum) | [Java](4000-largest-integer-with-given-digit-sum) | Easy |
 | 4020 | [Elevator Requests I](https://leetcode.com/problems/elevator-requests-i) | [Java](4020-elevator-requests-i) | Easy |
+| 4092 | [Binary Digit Score](https://leetcode.com/problems/binary-digit-score) | [Java](4092-binary-digit-score) | Easy |
