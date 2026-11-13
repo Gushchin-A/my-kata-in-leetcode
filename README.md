@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 398 ✅  
+- Easy: 399 ✅  
 - Medium: 34 ⚡  
 - Hard: 0 🔥  
-- **Total: 432**
+- **Total: 433**
 
 ---
 
@@ -377,6 +377,7 @@
 | 3074 | [Apple Redistribution Into Boxes](https://leetcode.com/problems/apple-redistribution-into-boxes) | [Java](3074-apple-redistribution-into-boxes) | Easy |
 | 3099 | [Harshad Number](https://leetcode.com/problems/harshad-number) | [Java](3099-harshad-number) | Easy |
 | 3110 | [Score Of A String](https://leetcode.com/problems/score-of-a-string) | [Java](3110-score-of-a-string) | Easy |
+| 3120 | [Count The Number Of Special Characters I](https://leetcode.com/problems/count-the-number-of-special-characters-i) | [Java](3120-count-the-number-of-special-characters-i) | Easy |
 | 3131 | [Find The Integer Added To Array I](https://leetcode.com/problems/find-the-integer-added-to-array-i) | [Java](3131-find-the-integer-added-to-array-i) | Easy |
 | 3136 | [Valid Word](https://leetcode.com/problems/valid-word) | [Java](3136-valid-word) | Easy |
 | 3146 | [Permutation Difference Between Two Strings](https://leetcode.com/problems/permutation-difference-between-two-strings) | [Java](3146-permutation-difference-between-two-strings) | Easy |
@@ -446,15 +447,3 @@
 | 4000 | [Largest Integer With Given Digit Sum](https://leetcode.com/problems/largest-integer-with-given-digit-sum) | [Java](4000-largest-integer-with-given-digit-sum) | Easy |
 | 4020 | [Elevator Requests I](https://leetcode.com/problems/elevator-requests-i) | [Java](4020-elevator-requests-i) | Easy |
 | 4092 | [Binary Digit Score](https://leetcode.com/problems/binary-digit-score) | [Java](4092-binary-digit-score) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Hash Table
-|  |
-| ------- |
-| [3120-count-the-number-of-special-characters-i](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
-## String
-|  |
-| ------- |
-| [3120-count-the-number-of-special-characters-i](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
-<!---LeetCode Topics End-->
