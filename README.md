@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 399 ✅  
+- Easy: 400 ✅  
 - Medium: 34 ⚡  
 - Hard: 0 🔥  
-- **Total: 433**
+- **Total: 434**
 
 ---
 
@@ -418,6 +418,7 @@
 | 3550 | [Smallest Index With Digit Sum Equal To Index](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index) | [Java](3550-smallest-index-with-digit-sum-equal-to-index) | Easy |
 | 3668 | [Restore Finishing Order](https://leetcode.com/problems/restore-finishing-order) | [Java](3668-restore-finishing-order) | Easy |
 | 3683 | [Earliest Time To Finish One Task](https://leetcode.com/problems/earliest-time-to-finish-one-task) | [Java](3683-earliest-time-to-finish-one-task) | Easy |
+| 3684 | [Maximize Sum Of At Most K Distinct Elements](https://leetcode.com/problems/maximize-sum-of-at-most-k-distinct-elements) | [Java](3684-maximize-sum-of-at-most-k-distinct-elements) | Easy |
 | 3701 | [Compute Alternating Sum](https://leetcode.com/problems/compute-alternating-sum) | [Java](3701-compute-alternating-sum) | Easy |
 | 3712 | [Sum Of Elements With Frequency Divisible By K](https://leetcode.com/problems/sum-of-elements-with-frequency-divisible-by-k) | [Java](3712-sum-of-elements-with-frequency-divisible-by-k) | Easy |
 | 3726 | [Remove Zeros In Decimal Representation](https://leetcode.com/problems/remove-zeros-in-decimal-representation) | [Java](3726-remove-zeros-in-decimal-representation) | Easy |
@@ -447,23 +448,3 @@
 | 4000 | [Largest Integer With Given Digit Sum](https://leetcode.com/problems/largest-integer-with-given-digit-sum) | [Java](4000-largest-integer-with-given-digit-sum) | Easy |
 | 4020 | [Elevator Requests I](https://leetcode.com/problems/elevator-requests-i) | [Java](4020-elevator-requests-i) | Easy |
 | 4092 | [Binary Digit Score](https://leetcode.com/problems/binary-digit-score) | [Java](4092-binary-digit-score) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
-## Hash Table
-|  |
-| ------- |
-| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
-## Greedy
-|  |
-| ------- |
-| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
-## Sorting
-|  |
-| ------- |
-| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
-<!---LeetCode Topics End-->
