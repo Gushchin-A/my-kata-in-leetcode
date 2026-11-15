@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 400 ✅  
+- Easy: 401 ✅  
 - Medium: 34 ⚡  
 - Hard: 0 🔥  
-- **Total: 434**
+- **Total: 435**
 
 ---
 
@@ -77,6 +77,7 @@
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | [Java](0242-valid-anagram) | Easy |
 | 257 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths) | [Java](0257-binary-tree-paths) | Easy |
 | 258 | [Add Digits](https://leetcode.com/problems/add-digits) | [Java](0258-add-digits) | Easy |
+| 263 | [Ugly Number](https://leetcode.com/problems/ugly-number) | [Java](0263-ugly-number) | Easy |
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number) | [Java](0268-missing-number) | Easy |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes) | [Java](0283-move-zeroes) | Easy |
 | 290 | [Word Pattern](https://leetcode.com/problems/word-pattern) | [Java](0290-word-pattern) | Easy |
@@ -448,11 +449,3 @@
 | 4000 | [Largest Integer With Given Digit Sum](https://leetcode.com/problems/largest-integer-with-given-digit-sum) | [Java](4000-largest-integer-with-given-digit-sum) | Easy |
 | 4020 | [Elevator Requests I](https://leetcode.com/problems/elevator-requests-i) | [Java](4020-elevator-requests-i) | Easy |
 | 4092 | [Binary Digit Score](https://leetcode.com/problems/binary-digit-score) | [Java](4092-binary-digit-score) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-|  |
-| ------- |
-| [0263-ugly-number](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0263-ugly-number) |
-<!---LeetCode Topics End-->
