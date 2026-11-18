@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 403 ✅  
+- Easy: 404 ✅  
 - Medium: 34 ⚡  
 - Hard: 0 🔥  
-- **Total: 437**
+- **Total: 438**
 
 ---
 
@@ -62,6 +62,7 @@
 | 171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number) | [Java](0171-excel-sheet-column-number) | Easy |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array) | [Java](0189-rotate-array) | Medium |
 | 190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits) | [Java](0190-reverse-bits) | Easy |
+| 191 | [Number Of 1 Bits](https://leetcode.com/problems/number-of-1-bits) | [Java](0191-number-of-1-bits) | Easy |
 | 202 | [Happy Number](https://leetcode.com/problems/happy-number) | [Java](0202-happy-number) | Easy |
 | 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements) | [Java](0203-remove-linked-list-elements) | Easy |
 | 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings) | [Java](0205-isomorphic-strings) | Easy |
@@ -451,15 +452,3 @@
 | 4000 | [Largest Integer With Given Digit Sum](https://leetcode.com/problems/largest-integer-with-given-digit-sum) | [Java](4000-largest-integer-with-given-digit-sum) | Easy |
 | 4020 | [Elevator Requests I](https://leetcode.com/problems/elevator-requests-i) | [Java](4020-elevator-requests-i) | Easy |
 | 4092 | [Binary Digit Score](https://leetcode.com/problems/binary-digit-score) | [Java](4092-binary-digit-score) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Divide and Conquer
-|  |
-| ------- |
-| [0191-number-of-1-bits](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0191-number-of-1-bits) |
-## Bit Manipulation
-|  |
-| ------- |
-| [0191-number-of-1-bits](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0191-number-of-1-bits) |
-<!---LeetCode Topics End-->
