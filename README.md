@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 404 ✅  
+- Easy: 405 ✅  
 - Medium: 34 ⚡  
 - Hard: 0 🔥  
-- **Total: 438**
+- **Total: 439**
 
 ---
 
@@ -172,6 +172,7 @@
 | 979 | [Di String Match](https://leetcode.com/problems/di-string-match) | [Java](0979-di-string-match) | Easy |
 | 993 | [Cousins In Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree) | [Java](0993-cousins-in-binary-tree) | Easy |
 | 1002 | [Find Common Characters](https://leetcode.com/problems/find-common-characters) | [Java](1002-find-common-characters) | Easy |
+| 1009 | [Complement Of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer) | [Java](1009-complement-of-base-10-integer) | Easy |
 | 1019 | [Squares Of A Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array) | [Java](1019-squares-of-a-sorted-array) | Easy |
 | 1021 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses) | [Java](1021-remove-outermost-parentheses) | Easy |
 | 1022 | [Sum Of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers) | [Java](1022-sum-of-root-to-leaf-binary-numbers) | Easy |
@@ -452,11 +453,3 @@
 | 4000 | [Largest Integer With Given Digit Sum](https://leetcode.com/problems/largest-integer-with-given-digit-sum) | [Java](4000-largest-integer-with-given-digit-sum) | Easy |
 | 4020 | [Elevator Requests I](https://leetcode.com/problems/elevator-requests-i) | [Java](4020-elevator-requests-i) | Easy |
 | 4092 | [Binary Digit Score](https://leetcode.com/problems/binary-digit-score) | [Java](4092-binary-digit-score) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Bit Manipulation
-|  |
-| ------- |
-| [1009-complement-of-base-10-integer](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1009-complement-of-base-10-integer) |
-<!---LeetCode Topics End-->
