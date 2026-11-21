@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 406 ✅  
+- Easy: 407 ✅  
 - Medium: 34 ⚡  
 - Hard: 0 🔥  
-- **Total: 440**
+- **Total: 441**
 
 ---
 
@@ -103,6 +103,7 @@
 | 434 | [Number Of Segments In A String](https://leetcode.com/problems/number-of-segments-in-a-string) | [Java](0434-number-of-segments-in-a-string) | Easy |
 | 441 | [Arranging Coins](https://leetcode.com/problems/arranging-coins) | [Java](0441-arranging-coins) | Easy |
 | 448 | [Find All Numbers Disappeared In An Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array) | [Java](0448-find-all-numbers-disappeared-in-an-array) | Easy |
+| 455 | [Assign Cookies](https://leetcode.com/problems/assign-cookies) | [Java](0455-assign-cookies) | Easy |
 | 459 | [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern) | [Java](0459-repeated-substring-pattern) | Easy |
 | 463 | [Island Perimeter](https://leetcode.com/problems/island-perimeter) | [Java](0463-island-perimeter) | Easy |
 | 476 | [Number Complement](https://leetcode.com/problems/number-complement) | [Java](0476-number-complement) | Easy |
@@ -454,27 +455,3 @@
 | 4000 | [Largest Integer With Given Digit Sum](https://leetcode.com/problems/largest-integer-with-given-digit-sum) | [Java](4000-largest-integer-with-given-digit-sum) | Easy |
 | 4020 | [Elevator Requests I](https://leetcode.com/problems/elevator-requests-i) | [Java](4020-elevator-requests-i) | Easy |
 | 4092 | [Binary Digit Score](https://leetcode.com/problems/binary-digit-score) | [Java](4092-binary-digit-score) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0455-assign-cookies](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0455-assign-cookies) |
-## Two Pointers
-|  |
-| ------- |
-| [0455-assign-cookies](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0455-assign-cookies) |
-## Greedy
-|  |
-| ------- |
-| [0455-assign-cookies](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0455-assign-cookies) |
-## Sorting
-|  |
-| ------- |
-| [0455-assign-cookies](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0455-assign-cookies) |
-## Quicksort
-|  |
-| ------- |
-| [0455-assign-cookies](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0455-assign-cookies) |
-<!---LeetCode Topics End-->
