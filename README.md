@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 407 ✅  
+- Easy: 408 ✅  
 - Medium: 34 ⚡  
 - Hard: 0 🔥  
-- **Total: 441**
+- **Total: 442**
 
 ---
 
@@ -145,6 +145,7 @@
 | 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index) | [Java](0724-find-pivot-index) | Easy |
 | 728 | [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers) | [Java](0728-self-dividing-numbers) | Easy |
 | 733 | [Flood Fill](https://leetcode.com/problems/flood-fill) | [Java](0733-flood-fill) | Easy |
+| 744 | [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target) | [Java](0744-find-smallest-letter-greater-than-target) | Easy |
 | 747 | [Largest Number At Least Twice Of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others) | [Java](0747-largest-number-at-least-twice-of-others) | Easy |
 | 771 | [Jewels And Stones](https://leetcode.com/problems/jewels-and-stones) | [Java](0771-jewels-and-stones) | Easy |
 | 783 | [Minimum Distance Between Bst Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes) | [Java](0783-minimum-distance-between-bst-nodes) | Easy |
@@ -455,15 +456,3 @@
 | 4000 | [Largest Integer With Given Digit Sum](https://leetcode.com/problems/largest-integer-with-given-digit-sum) | [Java](4000-largest-integer-with-given-digit-sum) | Easy |
 | 4020 | [Elevator Requests I](https://leetcode.com/problems/elevator-requests-i) | [Java](4020-elevator-requests-i) | Easy |
 | 4092 | [Binary Digit Score](https://leetcode.com/problems/binary-digit-score) | [Java](4092-binary-digit-score) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0744-find-smallest-letter-greater-than-target](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
-## Binary Search
-|  |
-| ------- |
-| [0744-find-smallest-letter-greater-than-target](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
-<!---LeetCode Topics End-->
