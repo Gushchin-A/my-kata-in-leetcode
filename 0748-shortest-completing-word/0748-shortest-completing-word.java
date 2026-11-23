@@ -7,8 +7,7 @@ class Solution {
                 freqNeed[Character.toLowerCase(ch) - 'a']++;
             }
         }
-
-        String result = "";
+        
         int[] indicesAndLengths = new int[words.length];
 
         for (int i = 0; i < words.length; i++) {
