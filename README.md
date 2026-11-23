@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 408 ✅  
+- Easy: 409 ✅  
 - Medium: 34 ⚡  
 - Hard: 0 🔥  
-- **Total: 442**
+- **Total: 443**
 
 ---
 
@@ -147,6 +147,7 @@
 | 733 | [Flood Fill](https://leetcode.com/problems/flood-fill) | [Java](0733-flood-fill) | Easy |
 | 744 | [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target) | [Java](0744-find-smallest-letter-greater-than-target) | Easy |
 | 747 | [Largest Number At Least Twice Of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others) | [Java](0747-largest-number-at-least-twice-of-others) | Easy |
+| 748 | [Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word) | [Java](0748-shortest-completing-word) | Easy |
 | 771 | [Jewels And Stones](https://leetcode.com/problems/jewels-and-stones) | [Java](0771-jewels-and-stones) | Easy |
 | 783 | [Minimum Distance Between Bst Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes) | [Java](0783-minimum-distance-between-bst-nodes) | Easy |
 | 796 | [Rotate String](https://leetcode.com/problems/rotate-string) | [Java](0796-rotate-string) | Easy |
@@ -456,19 +457,3 @@
 | 4000 | [Largest Integer With Given Digit Sum](https://leetcode.com/problems/largest-integer-with-given-digit-sum) | [Java](4000-largest-integer-with-given-digit-sum) | Easy |
 | 4020 | [Elevator Requests I](https://leetcode.com/problems/elevator-requests-i) | [Java](4020-elevator-requests-i) | Easy |
 | 4092 | [Binary Digit Score](https://leetcode.com/problems/binary-digit-score) | [Java](4092-binary-digit-score) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0748-shortest-completing-word](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0748-shortest-completing-word) |
-## Hash Table
-|  |
-| ------- |
-| [0748-shortest-completing-word](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0748-shortest-completing-word) |
-## String
-|  |
-| ------- |
-| [0748-shortest-completing-word](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0748-shortest-completing-word) |
-<!---LeetCode Topics End-->
