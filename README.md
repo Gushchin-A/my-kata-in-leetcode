@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 409 ✅  
+- Easy: 410 ✅  
 - Medium: 34 ⚡  
 - Hard: 0 🔥  
-- **Total: 443**
+- **Total: 444**
 
 ---
 
@@ -168,6 +168,7 @@
 | 908 | [Smallest Range I](https://leetcode.com/problems/smallest-range-i) | [Java](0908-smallest-range-i) | Easy |
 | 917 | [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters) | [Java](0917-reverse-only-letters) | Easy |
 | 922 | [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii) | [Java](0922-sort-array-by-parity-ii) | Easy |
+| 925 | [Long Pressed Name](https://leetcode.com/problems/long-pressed-name) | [Java](0925-long-pressed-name) | Easy |
 | 929 | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses) | [Java](0929-unique-email-addresses) | Easy |
 | 938 | [Range Sum Of Bst](https://leetcode.com/problems/range-sum-of-bst) | [Java](0938-range-sum-of-bst) | Easy |
 | 944 | [Delete Columns To Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted) | [Java](0944-delete-columns-to-make-sorted) | Easy |
@@ -457,15 +458,3 @@
 | 4000 | [Largest Integer With Given Digit Sum](https://leetcode.com/problems/largest-integer-with-given-digit-sum) | [Java](4000-largest-integer-with-given-digit-sum) | Easy |
 | 4020 | [Elevator Requests I](https://leetcode.com/problems/elevator-requests-i) | [Java](4020-elevator-requests-i) | Easy |
 | 4092 | [Binary Digit Score](https://leetcode.com/problems/binary-digit-score) | [Java](4092-binary-digit-score) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Two Pointers
-|  |
-| ------- |
-| [0925-long-pressed-name](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0925-long-pressed-name) |
-## String
-|  |
-| ------- |
-| [0925-long-pressed-name](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0925-long-pressed-name) |
-<!---LeetCode Topics End-->
