@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 410 ✅  
+- Easy: 411 ✅  
 - Medium: 34 ⚡  
 - Hard: 0 🔥  
-- **Total: 444**
+- **Total: 445**
 
 ---
 
@@ -194,6 +194,7 @@
 | 1160 | [Find Words That Can Be Formed By Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters) | [Java](1160-find-words-that-can-be-formed-by-characters) | Easy |
 | 1185 | [Day Of The Week](https://leetcode.com/problems/day-of-the-week) | [Java](1185-day-of-the-week) | Easy |
 | 1189 | [Maximum Number Of Balloons](https://leetcode.com/problems/maximum-number-of-balloons) | [Java](1189-maximum-number-of-balloons) | Easy |
+| 1200 | [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference) | [Java](1200-minimum-absolute-difference) | Easy |
 | 1207 | [Unique Number Of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences) | [Java](1207-unique-number-of-occurrences) | Easy |
 | 1221 | [Split A String In Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings) | [Java](1221-split-a-string-in-balanced-strings) | Easy |
 | 1241 | [Decompress Run Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list) | [Java](1241-decompress-run-length-encoded-list) | Easy |
@@ -458,15 +459,3 @@
 | 4000 | [Largest Integer With Given Digit Sum](https://leetcode.com/problems/largest-integer-with-given-digit-sum) | [Java](4000-largest-integer-with-given-digit-sum) | Easy |
 | 4020 | [Elevator Requests I](https://leetcode.com/problems/elevator-requests-i) | [Java](4020-elevator-requests-i) | Easy |
 | 4092 | [Binary Digit Score](https://leetcode.com/problems/binary-digit-score) | [Java](4092-binary-digit-score) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [1200-minimum-absolute-difference](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1200-minimum-absolute-difference) |
-## Sorting
-|  |
-| ------- |
-| [1200-minimum-absolute-difference](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/1200-minimum-absolute-difference) |
-<!---LeetCode Topics End-->
