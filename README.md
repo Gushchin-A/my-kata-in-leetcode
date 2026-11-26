@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 411 ✅  
+- Easy: 412 ✅  
 - Medium: 34 ⚡  
 - Hard: 0 🔥  
-- **Total: 445**
+- **Total: 446**
 
 ---
 
@@ -159,6 +159,7 @@
 | 841 | [Shortest Distance To A Character](https://leetcode.com/problems/shortest-distance-to-a-character) | [Java](0841-shortest-distance-to-a-character) | Easy |
 | 860 | [Lemonade Change](https://leetcode.com/problems/lemonade-change) | [Java](0860-lemonade-change) | Easy |
 | 867 | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix) | [Java](0867-transpose-matrix) | Easy |
+| 868 | [Binary Gap](https://leetcode.com/problems/binary-gap) | [Java](0868-binary-gap) | Easy |
 | 872 | [Leaf Similar Trees](https://leetcode.com/problems/leaf-similar-trees) | [Java](0872-leaf-similar-trees) | Easy |
 | 874 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare) | [Java](0874-backspace-string-compare) | Easy |
 | 884 | [Uncommon Words From Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences) | [Java](0884-uncommon-words-from-two-sentences) | Easy |
@@ -459,11 +460,3 @@
 | 4000 | [Largest Integer With Given Digit Sum](https://leetcode.com/problems/largest-integer-with-given-digit-sum) | [Java](4000-largest-integer-with-given-digit-sum) | Easy |
 | 4020 | [Elevator Requests I](https://leetcode.com/problems/elevator-requests-i) | [Java](4020-elevator-requests-i) | Easy |
 | 4092 | [Binary Digit Score](https://leetcode.com/problems/binary-digit-score) | [Java](4092-binary-digit-score) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Bit Manipulation
-|  |
-| ------- |
-| [0868-binary-gap](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0868-binary-gap) |
-<!---LeetCode Topics End-->
