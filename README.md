@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 412 ✅  
+- Easy: 413 ✅  
 - Medium: 34 ⚡  
 - Hard: 0 🔥  
-- **Total: 446**
+- **Total: 447**
 
 ---
 
@@ -105,6 +105,7 @@
 | 448 | [Find All Numbers Disappeared In An Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array) | [Java](0448-find-all-numbers-disappeared-in-an-array) | Easy |
 | 455 | [Assign Cookies](https://leetcode.com/problems/assign-cookies) | [Java](0455-assign-cookies) | Easy |
 | 459 | [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern) | [Java](0459-repeated-substring-pattern) | Easy |
+| 461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance) | [Java](0461-hamming-distance) | Easy |
 | 463 | [Island Perimeter](https://leetcode.com/problems/island-perimeter) | [Java](0463-island-perimeter) | Easy |
 | 476 | [Number Complement](https://leetcode.com/problems/number-complement) | [Java](0476-number-complement) | Easy |
 | 495 | [Teemo Attacking](https://leetcode.com/problems/teemo-attacking) | [Java](0495-teemo-attacking) | Easy |
@@ -460,11 +461,3 @@
 | 4000 | [Largest Integer With Given Digit Sum](https://leetcode.com/problems/largest-integer-with-given-digit-sum) | [Java](4000-largest-integer-with-given-digit-sum) | Easy |
 | 4020 | [Elevator Requests I](https://leetcode.com/problems/elevator-requests-i) | [Java](4020-elevator-requests-i) | Easy |
 | 4092 | [Binary Digit Score](https://leetcode.com/problems/binary-digit-score) | [Java](4092-binary-digit-score) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Bit Manipulation
-|  |
-| ------- |
-| [0461-hamming-distance](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/0461-hamming-distance) |
-<!---LeetCode Topics End-->
