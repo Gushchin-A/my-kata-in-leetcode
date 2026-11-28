@@ -3,10 +3,10 @@
 
 #### 📊 Progress
 
-- Easy: 413 ✅  
+- Easy: 414 ✅  
 - Medium: 34 ⚡  
 - Hard: 0 🔥  
-- **Total: 447**
+- **Total: 448**
 
 ---
 
@@ -304,6 +304,7 @@
 | 2181 | [Merge Nodes In Between Zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros) | [Java](2181-merge-nodes-in-between-zeros) | Medium |
 | 2206 | [Divide Array Into Equal Pairs](https://leetcode.com/problems/divide-array-into-equal-pairs) | [Java](2206-divide-array-into-equal-pairs) | Easy |
 | 2215 | [Find The Difference Of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays) | [Java](2215-find-the-difference-of-two-arrays) | Easy |
+| 2220 | [Minimum Bit Flips To Convert Number](https://leetcode.com/problems/minimum-bit-flips-to-convert-number) | [Java](2220-minimum-bit-flips-to-convert-number) | Easy |
 | 2231 | [Find First Palindromic String In The Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array) | [Java](2231-find-first-palindromic-string-in-the-array) | Easy |
 | 2231 | [Largest Number After Digit Swaps By Parity](https://leetcode.com/problems/largest-number-after-digit-swaps-by-parity) | [Java](2231-largest-number-after-digit-swaps-by-parity) | Easy |
 | 2235 | [Add Two Integers](https://leetcode.com/problems/add-two-integers) | [Java](2235-add-two-integers) | Easy |
@@ -461,11 +462,3 @@
 | 4000 | [Largest Integer With Given Digit Sum](https://leetcode.com/problems/largest-integer-with-given-digit-sum) | [Java](4000-largest-integer-with-given-digit-sum) | Easy |
 | 4020 | [Elevator Requests I](https://leetcode.com/problems/elevator-requests-i) | [Java](4020-elevator-requests-i) | Easy |
 | 4092 | [Binary Digit Score](https://leetcode.com/problems/binary-digit-score) | [Java](4092-binary-digit-score) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Bit Manipulation
-|  |
-| ------- |
-| [2220-minimum-bit-flips-to-convert-number](https://github.com/Gushchin-A/my-kata-in-leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
-<!---LeetCode Topics End-->
